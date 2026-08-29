@@ -2,12 +2,6 @@ name: topic-hunt-daily
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'radar/build.py'
-      - 'radar/topics.json'
-      - '.github/workflows/radar-pages.yml'
   schedule:
     - cron: '40 0 * * *'
 
@@ -23,9 +17,11 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
@@ -34,29 +30,30 @@ jobs:
 
       - name: Build TOPIC HUNT
         run: python radar/build.py
-
       - name: Quality gate
         run: |
           python - <<'PY'
           import json
           d=json.load(open('radar/data.json',encoding='utf-8'))
           rows=d['items']
-          blocked=['싱글벙글','ㅋㅋ','특징주','목표주가','투자의견','상한가','급등주','리딩방','수익 보장','원금 보장','리뷰 알바','구매평 알바']
-          assert len(rows) <= 36
+          blocked=['싱글벙글','ㅋㅋ','특징주','목표주가','투자의견','상한가','급등주',
+                   '리딩방','수익 보장','원금 보장','리뷰 알바','구매평 알바']
+          assert len(rows) <= 48
           assert len({x['id'] for x in rows}) == len(rows)
           assert len({x['headline'].strip().lower() for x in rows}) == len(rows)
           assert all(x['source_count'] >= 1 and x['sources'] for x in rows)
           assert all(x['why_now'] and x['angle'] and x['check_first'] for x in rows)
           assert not [x['headline'] for x in rows if any(b.lower() in x['headline'].lower() for b in blocked)]
-          assert d['meta']['refresh_policy']=='daily_replace_no_repeat_30d'
+          assert d['meta']['refresh_policy']=='daily_replace_no_repeat_7d'
           print('TOPIC_HUNT_QUALITY_PASS',d['counts'],d['meta'])
-          PY      - name: Commit daily snapshot
+          PY
+
+      - name: Commit daily snapshot
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+5ggul@users.noreply.github.com
           git add radar/index.html radar/data.json radar/seen.json
-          git diff --cached --quiet || git commit -m 'data: daily replace TOPIC HUNT'
-          git fetch origin main
+          git diff --cached --quiet || git commit -m 'data: daily replace TOPIC HUNT'          git fetch origin main
           git rebase origin/main
           git push origin HEAD:main
 

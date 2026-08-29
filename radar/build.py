@@ -12,14 +12,14 @@ WINDOW_DAYS=14
 CUTOFF=NOW-dt.timedelta(days=WINDOW_DAYS)
 TOPICS=json.loads((ROOT/'topics.json').read_text(encoding='utf-8'))
 LANES=('부업','재테크','혜택','SNS분석','리뷰어','AI','꿀팁','플랫폼')
-LANE_LIMIT={k:5 for k in LANES}
+LANE_LIMIT={k:7 for k in LANES}
 MIN_SCORE=67
 SOURCE_SCORES={
  '연합뉴스':22,'뉴스1':20,'뉴시스':20,'한국경제':18,'매일경제':18,'머니투데이':18,'이데일리':18,
  '서울경제':18,'아시아경제':17,'전자신문':18,'zdnet':18,'블로터':16,'비즈워치':16,'헤럴드경제':16,
  'kbs':18,'mbc':17,'sbs':17,'jtbc':16,'금융위원회':25,'금융감독원':25,'한국은행':25,'국세청':25,
  '기획재정부':25,'고용노동부':25,'중소벤처기업부':25,'정부24':25,'복지로':25,'youtube':25,'google':25,
- 'openai':25,'anthropic':25,'microsoft':23,'meta':23,'네이버':23,'카카오':22,'삼성전자':22,'lg전자':22,'틱톡':21,'쿠팡':21,'reuters':22,'techcrunch':20,'the verge':20,'venturebeat':18,'engadget':18,'디지털데일리':17,'it조선':17,'테크m':16,'플래텀':16}
+ 'openai':25,'anthropic':25,'microsoft':23,'meta':23,'네이버':23,'카카오':22,'삼성전자':22,'lg전자':22,'틱톡':21,'쿠팡':21,'reuters':22,'techcrunch':20,'the verge':20,'venturebeat':18,'engadget':18,'디지털데일리':17,'it조선':17,'테크m':16,'플래텀':16,'아이뉴스24':17,'뉴스핌':16,'아주경제':16,'데일리팝':14,'디지털투데이':16,'지디넷코리아':18,'cnet':16,'브랜드브리프':15,'매드타임스':14,'더피알':14,'뉴스와이어':12,'정책브리핑':23,'대한민국 정책브리핑':23,'고용24':24,'한국주택금융공사':24,'국민연금공단':24,'소상공인시장진흥공단':24,'chosunbiz':18,'중앙일보':17,'동아일보':17,'한국일보':17,'국민일보':16,'문화일보':16,'서울신문':16,'경향신문':17,'세계일보':15,'조선일보':16,'브릿지경제':14,'한국금융신문':16,'서울파이낸스':15,'데일리한국':14,'이코노미스트':16,'시사저널e':15,'samsung global newsroom':24,'youtube official blog':25,'google blog':25,'apple':24}
 BLOCK=('싱글벙글','ㅋㅋ','남친','여친','연애','번호따','퇴사썰','알바썰','특징주','목표주가','투자의견','상한가','급등주','주식 추천','리딩방','수익 보장','원금 보장','무료 강의','사주','운세','로또','코인 추천','리뷰 알바','구매평 알바','리뷰 대행')
 MONEY_RE=re.compile(r'(?<!\d)\d[\d,]*(?:\.\d+)?\s*(?:천|만|억)?\s*원|\d+(?:\.\d+)?\s*[%％]')
 def fetch(url,timeout=12):
@@ -63,9 +63,9 @@ def allowed(topic,title,summary):
  if not any(x.lower() in text for x in topic['must']):return False
  if not any(x.lower() in text for x in topic['signals']):return False
  if lane=='혜택' and not any(x in text for x in ('신청','접수','모집','지급','대상','마감','한도','캐시백')):return False
- if lane=='리뷰어' and (not any(x in text for x in ('모집','신청','선정','캠페인','제공')) or not any(x in text for x in ('리뷰','후기','제품','사용기','제공'))):return False
+ if lane=='리뷰어' and (not any(x in text for x in ('모집','신청','선정','캠페인','제공')) or not any(x in text for x in ('리뷰','후기','제품','사용기','제공','콘텐츠','sns','서포터즈','앰배서더','크리에이터'))):return False
  if lane=='AI' and any(x in text for x in ('주가','특징주','투자의견','실적 전망','증권가')):return False
- if lane=='SNS분석' and not any(x in text for x in ('분석','인사이트','지표','조회수','팔로워','도달','알고리즘','추천')):return False
+ if lane=='SNS분석' and not any(x in text for x in ('분석','인사이트','지표','도달','알고리즘','추천','집계','기준','방식','개편','변경')):return False
  if lane=='꿀팁' and not any(x in text for x in ('기능','설정','무료','방법','신청','이용','제공','업데이트')):return False
  if lane=='부업' and any(x in text for x in ('기업 실적','매출 전망','주가','증시','직원 부업 허용')):return False
  return True
@@ -76,6 +76,11 @@ def score(topic,title,summary,source,published):
  text=(title+' '+summary).lower(); sc=25+fresh+source_score(source)
  sc+=min(12,3*sum(x in text for x in ('신청','모집','출시','오픈','무료','정산','수수료','한도','마감','업데이트')))
  if MONEY_RE.search(text):sc+=8
+ if topic['lane']=='SNS분석' and any(x in text for x in ('알고리즘','인사이트','도달','추천','집계','기준','방식','개편','변경')):sc+=10
+ if topic['lane']=='부업' and any(x in text for x in ('수익화','수익 배분','제휴','수수료','정산','쇼핑','파트너 프로그램')):sc+=8
+ if topic['lane']=='리뷰어' and any(x in text for x in ('모집','신청','선정')):sc+=12
+ if topic['lane']=='꿀팁' and any(x in text for x in ('기능','설정','무료','업데이트','방법')):sc+=8
+ if topic['lane']=='플랫폼' and any(x in text for x in ('정책','기능','수익화','변경','크리에이터')):sc+=8
  return min(99,sc)
 def collect_page(topic):
  try:raw=fetch(topic["direct_page"]).decode("utf-8","ignore")
@@ -147,7 +152,16 @@ def similarity(a,b):
 def dedupe(rows):
  kept=[]
  for x in sorted(rows,key=lambda z:(z['score'],z['published_at']),reverse=True):
-  dup=next((y for y in kept if similarity(x,y)>=.46 or (x['topic_id']==y['topic_id'] and similarity(x,y)>=.32)),None)
+  dup=None
+  for y in kept:
+   sim=similarity(x,y)
+   same_topic=x['topic_id']==y['topic_id']
+   nums_x=set(re.findall(r'\d+(?:\.\d+)?',x['title'])); nums_y=set(re.findall(r'\d+(?:\.\d+)?',y['title']))
+   finance_dup=same_topic and x['topic_id'] in {'loan','deposit','tax','mortgage_policy','bank_product'} and bool(nums_x & nums_y) and len(set(x['tokens']) & set(y['tokens']))>=1
+   tx=(x['title']+' '+x.get('summary','')).lower(); ty=(y['title']+' '+y.get('summary','')).lower()
+   sns_youtube_dup=(x['lane']=='SNS분석' and y['lane']=='SNS분석' and '유튜브' in tx and '유튜브' in ty and any(k in tx for k in ('조회수','집계','기준')) and any(k in ty for k in ('조회수','집계','기준')))
+   if sim>=.46 or (same_topic and sim>=.32) or finance_dup or sns_youtube_dup:
+    dup=y; break
   if dup:
    dup.setdefault('related',[]).append({'name':x['source'],'title':x['title'],'url':x['url']})
    continue
@@ -168,10 +182,10 @@ def seen_before(row,seen):
  return False
 
 def final_items(rows):
- rows=dedupe(rows); topic_seen=set(); lane_count=Counter(); out=[]
+ rows=dedupe(rows); topic_count=Counter(); lane_count=Counter(); out=[]
  for x in sorted(rows,key=lambda z:(z['score'],z['published_at']),reverse=True):
-  if x['topic_id'] in topic_seen or lane_count[x['lane']]>=LANE_LIMIT[x['lane']]:continue
-  topic_seen.add(x['topic_id']);lane_count[x['lane']]+=1
+  if topic_count[x['topic_id']]>=3 or lane_count[x['lane']]>=LANE_LIMIT[x['lane']]:continue
+  topic_count[x['topic_id']]+=1;lane_count[x['lane']]+=1
   related=x.pop('related',[]); srcs=[{'name':x['source'],'title':x['title'],'url':x['url']}]
   seen={x['source']}
   for r in related:
@@ -203,7 +217,7 @@ def render(data):
  filters=''.join(f'<button class="filter" data-lane="{l}">{l}<b>{counts.get(l,0)}</b></button>' for l in LANES)
  kpis=''.join(f'<div class="kpi"><span>{l}</span><b>{counts.get(l,0)}</b></div>' for l in ('부업','SNS분석','리뷰어','AI','꿀팁'))
  return f'''<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>TOPIC HUNT</title><style>
-:root{{--bg:#07090d;--panel:#10151d;--line:#222c3a;--txt:#f4f7fb;--muted:#8390a2}}*{{box-sizing:border-box}}body{{margin:0;background:radial-gradient(circle at 20% -10%,#1b2940 0,transparent 32%),var(--bg);color:var(--txt);font-family:system-ui,-apple-system,"Pretendard","Malgun Gothic",sans-serif}}.wrap{{max-width:1500px;margin:auto;padding:32px 20px 70px}}.eyebrow{{font-size:11px;letter-spacing:.18em;color:#74849a;font-weight:800}}h1{{font-size:42px;margin:8px 0 8px;letter-spacing:-.04em}}.sub{{color:#9aa6b7;font-size:14px}}.hero{{display:flex;justify-content:space-between;align-items:end;gap:20px}}.updated{{font-size:12px;color:#69768a;white-space:nowrap}}.kpis{{display:grid;grid-template-columns:repeat(5,1fr);gap:9px;margin:22px 0 14px}}.kpi{{background:#0d1219;border:1px solid var(--line);border-radius:13px;padding:13px}}.kpi span{{display:block;color:#7c899c;font-size:11px}}.kpi b{{font-size:24px}}.bar{{display:flex;gap:7px;flex-wrap:wrap;margin:14px 0 18px}}button,#search{{border:1px solid var(--line);background:#0d1219;color:#aeb8c7;border-radius:10px;padding:9px 10px}}button{{cursor:pointer}}button.on{{background:#203049;color:#fff}}button b{{margin-left:6px;color:#65748a}}#search{{margin-left:auto;min-width:260px;outline:none}}.grid{{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}}.card{{background:linear-gradient(180deg,#111720,#0d1219);border:1px solid var(--line);border-radius:15px;padding:16px}}.top{{display:flex;justify-content:space-between;align-items:center;gap:10px}}.top span{{font-size:10px;border:1px solid #2e3949;border-radius:999px;padding:4px 7px;margin-right:4px;color:#9eabbd}}.top b{{color:#75849a;font-size:17px}}.status.now{{color:#ffc477;border-color:#6d4d29}}.status.pick{{color:#a8caff;border-color:#355073}}h2{{font-size:17px;line-height:1.48;margin:12px 0 9px}}.money{{display:inline-block;font-size:11px;color:#93d7b5;background:#0d1c18;border:1px solid #19362e;padding:5px 7px;border-radius:8px}}dl{{margin:12px 0 0;border-top:1px solid #1d2632;padding-top:10px}}dt{{font-size:10px;color:#68778b;font-weight:800;margin-top:8px}}dd{{margin:3px 0 0;color:#bdc6d2;font-size:12.5px;line-height:1.5}}.foot{{display:flex;justify-content:space-between;gap:8px;border-top:1px solid #1d2632;margin-top:12px;padding-top:10px}}small{{color:#68778b}}.foot a{{font-size:10px;color:#8fb8ef;text-decoration:none;border:1px solid #2b4059;border-radius:7px;padding:4px 6px;margin-left:4px}}.rules{{margin-top:20px;color:#617084;font-size:11px}}.empty{{display:none;text-align:center;color:#68778b;padding:60px}}@media(max-width:1050px){{.grid{{grid-template-columns:repeat(2,1fr)}}.kpis{{grid-template-columns:repeat(3,1fr)}}}}@media(max-width:720px){{.wrap{{padding:22px 12px 50px}}.hero{{display:block}}h1{{font-size:34px}}.updated{{margin-top:8px}}.grid{{grid-template-columns:1fr}}.kpis{{grid-template-columns:repeat(2,1fr)}}#search{{width:100%;margin-left:0}}}}</style></head><body><main class="wrap"><section class="hero"><div><div class="eyebrow">DAILY EDITORIAL RADAR</div><h1>TOPIC HUNT</h1><div class="sub">매일 새로 수집. 돈정보·SNS계정분석·리뷰어·AI·꿀팁까지 오늘 쓸 소재만.</div></div><div class="updated">최근 14일 새 후보 · {data['generated_at']}</div></section><section class="kpis">{kpis}</section><div class="bar"><button class="filter on" data-lane="all">전체<b>{len(items)}</b></button><button class="filter" data-lane="NOW">NOW<b>{now}</b></button>{filters}<input id="search" placeholder="SNS·AI·리뷰어·부업·혜택 검색"></div><section class="grid" id="grid">{''.join(cards)}</section><div id="empty" class="empty">오늘 품질 기준을 통과한 소재가 없다.</div><div class="rules">매일 09:40 KST 전날 화면 전부 폐기 → 최근 14일 소스를 다시 훑고 지난 30일에 보여준 사건은 제외 → 같은 사건 1개로 병합. 잡담·주가 찌라시·리뷰알바·수익보장·오래된 기사 누적 금지.</div></main><script>let lane='all',q=document.getElementById('search');function apply(){{let s=q.value.trim().toLowerCase(),n=0;document.querySelectorAll('.card').forEach(c=>{{let ok=(lane==='all'||c.dataset.lane===lane||(lane==='NOW'&&c.dataset.status==='NOW'))&&(!s||c.dataset.q.includes(s));c.style.display=ok?'':'none';if(ok)n++}});document.getElementById('empty').style.display=n?'none':'block'}}document.querySelectorAll('.filter').forEach(b=>b.onclick=()=>{{document.querySelectorAll('.filter').forEach(x=>x.classList.remove('on'));b.classList.add('on');lane=b.dataset.lane;apply()}});q.oninput=apply;</script></body></html>'''
+:root{{--bg:#07090d;--panel:#10151d;--line:#222c3a;--txt:#f4f7fb;--muted:#8390a2}}*{{box-sizing:border-box}}body{{margin:0;background:radial-gradient(circle at 20% -10%,#1b2940 0,transparent 32%),var(--bg);color:var(--txt);font-family:system-ui,-apple-system,"Pretendard","Malgun Gothic",sans-serif}}.wrap{{max-width:1500px;margin:auto;padding:32px 20px 70px}}.eyebrow{{font-size:11px;letter-spacing:.18em;color:#74849a;font-weight:800}}h1{{font-size:42px;margin:8px 0 8px;letter-spacing:-.04em}}.sub{{color:#9aa6b7;font-size:14px}}.hero{{display:flex;justify-content:space-between;align-items:end;gap:20px}}.updated{{font-size:12px;color:#69768a;white-space:nowrap}}.kpis{{display:grid;grid-template-columns:repeat(5,1fr);gap:9px;margin:22px 0 14px}}.kpi{{background:#0d1219;border:1px solid var(--line);border-radius:13px;padding:13px}}.kpi span{{display:block;color:#7c899c;font-size:11px}}.kpi b{{font-size:24px}}.bar{{display:flex;gap:7px;flex-wrap:wrap;margin:14px 0 18px}}button,#search{{border:1px solid var(--line);background:#0d1219;color:#aeb8c7;border-radius:10px;padding:9px 10px}}button{{cursor:pointer}}button.on{{background:#203049;color:#fff}}button b{{margin-left:6px;color:#65748a}}#search{{margin-left:auto;min-width:260px;outline:none}}.grid{{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}}.card{{background:linear-gradient(180deg,#111720,#0d1219);border:1px solid var(--line);border-radius:15px;padding:16px}}.top{{display:flex;justify-content:space-between;align-items:center;gap:10px}}.top span{{font-size:10px;border:1px solid #2e3949;border-radius:999px;padding:4px 7px;margin-right:4px;color:#9eabbd}}.top b{{color:#75849a;font-size:17px}}.status.now{{color:#ffc477;border-color:#6d4d29}}.status.pick{{color:#a8caff;border-color:#355073}}h2{{font-size:17px;line-height:1.48;margin:12px 0 9px}}.money{{display:inline-block;font-size:11px;color:#93d7b5;background:#0d1c18;border:1px solid #19362e;padding:5px 7px;border-radius:8px}}dl{{margin:12px 0 0;border-top:1px solid #1d2632;padding-top:10px}}dt{{font-size:10px;color:#68778b;font-weight:800;margin-top:8px}}dd{{margin:3px 0 0;color:#bdc6d2;font-size:12.5px;line-height:1.5}}.foot{{display:flex;justify-content:space-between;gap:8px;border-top:1px solid #1d2632;margin-top:12px;padding-top:10px}}small{{color:#68778b}}.foot a{{font-size:10px;color:#8fb8ef;text-decoration:none;border:1px solid #2b4059;border-radius:7px;padding:4px 6px;margin-left:4px}}.rules{{margin-top:20px;color:#617084;font-size:11px}}.empty{{display:none;text-align:center;color:#68778b;padding:60px}}@media(max-width:1050px){{.grid{{grid-template-columns:repeat(2,1fr)}}.kpis{{grid-template-columns:repeat(3,1fr)}}}}@media(max-width:720px){{.wrap{{padding:22px 12px 50px}}.hero{{display:block}}h1{{font-size:34px}}.updated{{margin-top:8px}}.grid{{grid-template-columns:1fr}}.kpis{{grid-template-columns:repeat(2,1fr)}}#search{{width:100%;margin-left:0}}}}</style></head><body><main class="wrap"><section class="hero"><div><div class="eyebrow">DAILY EDITORIAL RADAR</div><h1>TOPIC HUNT</h1><div class="sub">매일 새로 수집. 돈정보·SNS계정분석·리뷰어·AI·꿀팁까지 오늘 쓸 소재만.</div></div><div class="updated">최근 14일 새 후보 · {data['generated_at']}</div></section><section class="kpis">{kpis}</section><div class="bar"><button class="filter on" data-lane="all">전체<b>{len(items)}</b></button><button class="filter" data-lane="NOW">NOW<b>{now}</b></button>{filters}<input id="search" placeholder="SNS·AI·리뷰어·부업·혜택 검색"></div><section class="grid" id="grid">{''.join(cards)}</section><div id="empty" class="empty">오늘 품질 기준을 통과한 소재가 없다.</div><div class="rules">매일 09:40 KST 전날 화면 전부 폐기 → 최근 14일 소스를 다시 훑고 지난 7일에 보여준 사건은 제외 → 같은 사건 1개로 병합. 잡담·주가 찌라시·리뷰알바·수익보장·오래된 기사 누적 금지.</div></main><script>let lane='all',q=document.getElementById('search');function apply(){{let s=q.value.trim().toLowerCase(),n=0;document.querySelectorAll('.card').forEach(c=>{{let ok=(lane==='all'||c.dataset.lane===lane||(lane==='NOW'&&c.dataset.status==='NOW'))&&(!s||c.dataset.q.includes(s));c.style.display=ok?'':'none';if(ok)n++}});document.getElementById('empty').style.display=n?'none':'block'}}document.querySelectorAll('.filter').forEach(b=>b.onclick=()=>{{document.querySelectorAll('.filter').forEach(x=>x.classList.remove('on'));b.classList.add('on');lane=b.dataset.lane;apply()}});q.oninput=apply;</script></body></html>'''
 def main():
  rows=[];errors=[];raw_counts={}
  with ThreadPoolExecutor(max_workers=10) as pool:
@@ -221,12 +235,12 @@ def main():
  items=final_items(rows)
  today=dt.datetime.now(KST).date()
  for x in items:seen.append({'topic_id':x['topic_id'],'title':x['headline'],'tokens':sorted(tokens(x['headline'])),'date':today.isoformat()})
- keep_after=(today-dt.timedelta(days=30)).isoformat()
+ keep_after=(today-dt.timedelta(days=7)).isoformat()
  seen=[x for x in seen if x.get('date','9999-99-99')>=keep_after]
  seen_path.write_text(json.dumps(seen,ensure_ascii=False,indent=2),encoding='utf-8')
  counts={l:sum(x['lane']==l for x in items) for l in LANES}
  data={'generated_at':dt.datetime.now(KST).strftime('%Y-%m-%d %H:%M KST'),'counts':counts,'items':items,
-       'meta':{'window_days':WINDOW_DAYS,'refresh_policy':'daily_replace_no_repeat_30d','raw_articles':len(rows),'shown':len(items),'topic_raw_counts':raw_counts,'errors':errors}}
+       'meta':{'window_days':WINDOW_DAYS,'refresh_policy':'daily_replace_no_repeat_7d','raw_articles':len(rows),'shown':len(items),'topic_raw_counts':raw_counts,'errors':errors}}
  (ROOT/'data.json').write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
  (ROOT/'index.html').write_text(render(data),encoding='utf-8')
  print('TOPIC_HUNT_OK',counts,data['meta'])
