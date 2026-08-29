@@ -1,139 +1,152 @@
 {
-  "generated_at": "2026-08-29 17:33 KST",
+  "generated_at": "2026-08-29 18:05 KST",
   "counts": {
-    "부업": 7,
+    "부업": 1,
     "재테크": 2,
     "혜택": 1,
+    "SNS분석": 1,
+    "리뷰어": 0,
+    "AI": 1,
+    "꿀팁": 1,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "official-youtube-shopping-20260826",
-      "topic_id": "youtube_shopping",
-      "lane": "부업",
-      "label": "유튜브 쇼핑",
+      "id": "youtube_analytics_official-youtubewillalignpublicviewcountingforallvi",
+      "topic_id": "youtube_analytics_official",
+      "lane": "SNS분석",
+      "label": "YouTube Analytics 공식",
       "status": "NOW",
-      "score": 93,
-      "headline": "유튜브 쇼핑 제휴에 롯데홈쇼핑·GS샵·현대홈쇼핑 추가",
-      "why_now": "크리에이터가 태그할 수 있는 상품 공급처가 늘어 제휴수익 소재와 판매 선택지가 바로 확대됨.",
-      "angle": "새 파트너 추가로 어떤 상품을 태그할 수 있고 기존 제휴수익 구조가 어떻게 넓어지는지",
-      "check_first": "YouTube 공식 블로그와 쇼핑 제휴 프로그램 참여 자격을 함께 확인",
-      "money_signal": [
-        "롯데홈쇼핑",
-        "GS샵",
-        "현대홈쇼핑"
-      ],
-      "published_at": "2026-08-26T00:00:00+09:00",
+      "score": 92,
+      "headline": "YouTube will align public view counting for all video formats: long-form videos, Live, and Shorts.",
+      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
+      "angle": "조회수·engaged views·Analytics 지표 변경이 채널 성과 해석에 미치는 영향",
+      "check_first": "YouTube Analytics 공식 변경이력과 Help 문서에서 YPP·수익 영향 확인",
+      "money_signal": [],
+      "published_at": "2026-08-27T00:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "YouTube Official Blog",
-          "title": "유튜브 쇼핑 제휴 프로그램 신규 파트너",
-          "url": "https://blog.youtube/intl/ko-kr/news-and-events/youtube-shopping-lotte-gs-hyundai/",
-          "published_at": "2026-08-26T00:00:00+09:00"
+          "name": "YouTube Analytics 공식",
+          "title": "YouTube will align public view counting for all video formats: long-form videos, Live, and Shorts.",
+          "url": "https://developers.google.com/youtube/analytics/revision_history"
         }
       ]
     },
     {
-      "id": "loan_refi-주담대빗장아직인데이자는8눈앞실수요자이중고기준금리3시대",
-      "topic_id": "loan_refi",
+      "id": "openai_official-introducingtheadminpluginforchatgptworkand",
+      "topic_id": "openai_official",
+      "lane": "AI",
+      "label": "OpenAI 공식",
+      "status": "PICK",
+      "score": 82,
+      "headline": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
+      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
+      "money_signal": [],
+      "published_at": "2026-08-25T00:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI 공식",
+          "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+          "url": "https://openai.com/index/introducing-admin-plugin"
+        }
+      ]
+    },
+    {
+      "id": "loan-주담대빗장아직인데이자는8눈앞실수요자이중고기준금리3시대",
+      "topic_id": "loan",
       "lane": "재테크",
       "label": "대출·금리",
-      "status": "NOW",
-      "score": 92,
+      "status": "WATCH",
+      "score": 77,
       "headline": "'주담대 빗장' 아직인데, 이자는 8% 눈앞…실수요자 이중고[기준금리 3% 시대①]",
-      "why_now": "금리·세제·상품 조건이 실제 이자·세금 차이로 바로 이어지는 소재.",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리를 함께 확인",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
       "money_signal": [
         "8%",
-        "3%",
-        "200만원"
+        "3%"
       ],
       "published_at": "2026-08-28T23:00:00+00:00",
-      "source_count": 4,
+      "source_count": 1,
       "sources": [
         {
           "name": "뉴시스",
           "title": "'주담대 빗장' 아직인데, 이자는 8% 눈앞…실수요자 이중고[기준금리 3% 시대①]",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjV21mdWo5U2pJNExCY3hHSjF4TUg4VHlNc1Zhakd6T29wQkZRblVTVHYzY3NSaWdqeHpjNzdlbkdyOGdzYm5sUjVZSUNtOWtpYzhtcjhvMHd3ZWRNVUZDeNIBeEFVX3lxTFBQWU1FMy1odmEwQzZmTEZmMGV3VXVGNDZPaUJ1SmNwdU9TTXRKX1pmbFBLRlg5blIwbTdVRTZqTHNiT1J4ZWRhTElnNjl6cXFSa3pNenpPSkJ4UGxMS2JkTm42SEVIM3RkVTIxMmFsM3JDUUtsMjFzTA?oc=5",
-          "published_at": "2026-08-28T23:00:00+00:00"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "주담대 8% 시대 예고…영끌·빚투족 '비명'",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DZHZrTW94bXBVWXlyVTVoSUVEYVVpVXBIT1hjXzlyV25ERGpQVWRhd1VsOGV3LWsxZm8zcXA0Um5QbFFFTVpfdmlqNlFDbzByaDdVWDQyajVqdGxQNkh1bNIBYEFVX3lxTE5DZHZrTW94bXBVWXlyVTVoSUVEYVVpVXBIT1hjXzlyV25ERGpQVWRhd1VsOGV3LWsxZm8zcXA0Um5QbFFFTVpfdmlqNlFDbzByaDdVWDQyajVqdGxQNkh1bA?oc=5",
-          "published_at": "2026-08-27T12:05:48+00:00"
-        },
-        {
-          "name": "MTN 머니투데이방송",
-          "title": "주담대 금리 8% 눈앞…수출 호조는 '추가 인상' 변수로",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wam40OElGUzRtX0ViZmgzTTQ3Szh1bFFoUi1YZU93elFTYUR4czFnZHpoZ0lvRDBnVTlqeVhvUzFvRkxkeTB0eklXeGN2bUpNd2NfaHk2akNYYVNwaDBxYnVHU2M?oc=5",
-          "published_at": "2026-08-27T08:38:38+00:00"
-        },
-        {
-          "name": "헤럴드경제",
-          "title": "주담대 금리 8% 시대 온다? 4.5억 빌리면 월 25만원 더 내야 [머니뭐니]",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nSWYwOHJXS0Z6SVBtaVhVSzdTMGJScERLaTNyTDNwbV9meVJRdVItbjEyRGJjaVA4TU94b0p4X3R3R1c1a1BpSzFqWHR3S2s5VmdHWmhKYw?oc=5",
-          "published_at": "2026-08-27T08:12:00+00:00"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjV21mdWo5U2pJNExCY3hHSjF4TUg4VHlNc1Zhakd6T29wQkZRblVTVHYzY3NSaWdqeHpjNzdlbkdyOGdzYm5sUjVZSUNtOWtpYzhtcjhvMHd3ZWRNVUZDeNIBeEFVX3lxTFBQWU1FMy1odmEwQzZmTEZmMGV3VXVGNDZPaUJ1SmNwdU9TTXRKX1pmbFBLRlg5blIwbTdVRTZqTHNiT1J4ZWRhTElnNjl6cXFSa3pNenpPSkJ4UGxMS2JkTm42SEVIM3RkVTIxMmFsM3JDUUtsMjFzTA?oc=5"
         }
       ]
     },
     {
-      "id": "official-adpost-202608",
-      "topic_id": "official_adpost",
-      "lane": "부업",
-      "label": "블로그 광고",
-      "status": "PICK",
-      "score": 88,
-      "headline": "네이버 애드포스트 8월 정기수입 지급·네이버페이 머니 변경 확인",
-      "why_now": "광고수익을 받는 운영자에게 지급 방식과 일정 변화는 바로 확인할 실무 정보.",
-      "angle": "애드포스트 수익 지급일·지급수단·놓치기 쉬운 변경사항만 정리",
-      "check_first": "애드포스트 공식 공지에서 본인 지급방식과 적용일 확인",
+      "id": "benefit-하동군1인당30만원민생안정지원금지급24일부터신청",
+      "topic_id": "benefit",
+      "lane": "혜택",
+      "label": "환급·캐시백",
+      "status": "WATCH",
+      "score": 77,
+      "headline": "하동군, 1인당 30만원 민생안정지원금 지급…24일부터 신청",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "누가 얼마를 언제까지 신청하면 받는지",
+      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
       "money_signal": [
-        "8월 정기지급",
-        "네이버페이 머니 변경"
+        "30만원"
       ],
-      "published_at": "2026-08-04T00:00:00+09:00",
+      "published_at": "2026-08-20T07:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "네이버 애드포스트 공식",
-          "title": "애드포스트 공지사항",
-          "url": "https://adpost.naver.com/notice?category=5&page=1",
-          "published_at": "2026-08-04T00:00:00+09:00"
+          "name": "연합뉴스",
+          "title": "하동군, 1인당 30만원 민생안정지원금 지급…24일부터 신청",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1SUZKSUlZc3FYVTZNZVZjc1UyTGFjaEJ1ZUtfdFdUcWc2cUtaOWdzOHVYSXBIazNnT05lWEJwTEcxOTN0T1VWYjZBQ2FJLTM4X0JYN01ENHktSFXSAWBBVV95cUxNMFRvWkI5QzdyQ19pMV81UnNhMThXNnQ3aGRmMkRjWmltOHNBTC1oNVdmTWZIMWhKR3dUenFfNGNxbUEtdVZlcFZVc1RtdzZvUEhoS2FyVXNRZS1ucXc1a2Y?oc=5"
         }
       ]
     },
     {
-      "id": "cashback-용인시추석맞아지역화폐결제시특별캐시백10지급",
-      "topic_id": "cashback",
-      "lane": "혜택",
-      "label": "환급·캐시백",
-      "status": "PICK",
-      "score": 86,
-      "headline": "용인시, 추석 맞아 지역화폐 결제 시 특별 캐시백 10% 지급",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보라서 선점 가치가 큼.",
-      "angle": "누가 얼마를 언제까지 신청하면 받는지 한 번에 정리",
-      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
+      "id": "deposit-4대저축은행금리한달새150개증발무슨일",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 69,
+      "headline": "4%대 저축은행 금리, 한 달 새 150개 ‘증발’ 무슨 일?",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
-        "10%",
-        "3만원"
+        "4%"
       ],
-      "published_at": "2026-08-28T00:08:16+00:00",
-      "source_count": 2,
+      "published_at": "2026-08-26T01:57:00+00:00",
+      "source_count": 1,
       "sources": [
         {
-          "name": "연합뉴스",
-          "title": "용인시, 추석 맞아 지역화폐 결제 시 특별 캐시백 10% 지급",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FdXRVYWh2VEFJWXh4UzNUVUZjaWc2U250aEswU0VnZG1GOGV6MTRxTjhWQ3ExZWNsOVhhLXFVNjljd3pKUFJHWlpiem5EdThFRnlNVTJSbXlQX2Vja1lBY9IBYEFVX3lxTE5FdXRVYWh2VEFJWXh4UzNUVUZjaWc2U250aEswU0VnZG1GOGV6MTRxTjhWQ3ExZWNsOVhhLXFVNjljd3pKUFJHWlpiem5EdThFRnlNVTJSbXlQX2Vja1lBYw?oc=5",
-          "published_at": "2026-08-28T00:08:16+00:00"
-        },
+          "name": "SBS Biz",
+          "title": "4%대 저축은행 금리, 한 달 새 150개 ‘증발’ 무슨 일?",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MRWtLVVQ5SGUyUy02MHlWcUVBaTVjQlVJQkd2WWptSmRzTWhNZUgwOUI4V2ZVTllJUFRjZGlDaDZ5eG1ZX2d3THRCXzJZWWdqem9ZdW5PcTZRMFpQUUw3QUVEZ01DYzZWV0xQQWhyZ0lnVHZEQUtDR2YtOTjSAVhBVV95cUxQWUdUbGRRUExYSndIalF5UUFJdFVDcVdfUWozTlNVTkFWakRnTnFFbWhoekV1ZktPTFZIWWpmRXFMS1BEb3I1YTQ1b0tQZ3ZEel9PMW9aVXc5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "useful_info-국가대표ai5개팀ai학습데이터방출15조토큰데이터무료개방",
+      "topic_id": "useful_info",
+      "lane": "꿀팁",
+      "label": "유용정보",
+      "status": "WATCH",
+      "score": 67,
+      "headline": "국가대표 AI 5개팀, AI 학습 데이터 방출…'1.5조 토큰' 데이터 무료 개방",
+      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
+      "angle": "돈 안 들이고 바로 써먹을 수 있는 공식 서비스와 사용법",
+      "check_first": "공식 운영기관·무료 범위·회원가입 필요 여부 확인",
+      "money_signal": [],
+      "published_at": "2026-08-27T05:00:00+00:00",
+      "source_count": 1,
+      "sources": [
         {
-          "name": "아시아경제",
-          "title": "용인시, 추석 맞아 ‘와이페이 10% 캐시백’…최대 3만원",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WbS0zSUoyVUlIc0gxbHNTY09FeE1sSVlWTGViOU9EaGdPWGxYQUlMQWJleDM3RWMwNDNEZTk4aXZUTHltbzV0aUk5ZXhLOWtFclpscEhUdTFsM2dMTkw5TA?oc=5",
-          "published_at": "2026-08-27T23:10:42+00:00"
+          "name": "뉴시스",
+          "title": "국가대표 AI 5개팀, AI 학습 데이터 방출…'1.5조 토큰' 데이터 무료 개방",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jTTAyVlQtT1dsMFQxOXZtd2JCLWFUR1ZMSDVuZ3hwS0ZTejZaR3BIR1NJQ3FZUHZMRXJwZGdGbTBrbEIza01UVkxSWWtaSG5hVEFVUHg4MnpvUnFBYmJKc25uNGxTdFZSdWpCMFdLbHhxTVU5Rnpxa9IBeEFVX3lxTE9jTTAyVlQtT1dsMFQxOXZtd2JCLWFUR1ZMSDVuZ3hwS0ZTejZaR3BIR1NJQ3FZUHZMRXJwZGdGbTBrbEIza01UVkxSWWtaSG5hVEFVUHg4MnpvUnFBYmJKc25uNGxTdFZSdWpCMFdLbHhxTVU5Rnpxaw?oc=5"
         }
       ]
     },
@@ -142,12 +155,12 @@
       "topic_id": "apptech",
       "lane": "부업",
       "label": "앱테크",
-      "status": "PICK",
-      "score": 81,
+      "status": "WATCH",
+      "score": 67,
       "headline": "이마트24, 앱테크 서비스 '24오락실' 시즌2 오픈",
-      "why_now": "수익 조건·정산·수수료처럼 실제 벌이에 연결되는 변화라서 확인 가치가 큼.",
-      "angle": "클릭 몇 번으로 받는 포인트가 실제 어디에 쓰이고 얼마 가치인지",
-      "check_first": "참여 대상·포인트 전환처·이벤트 종료일·개인정보 제공 범위 확인",
+      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
+      "angle": "포인트가 실제 어디에 쓰이고 얼마 가치인지",
+      "check_first": "참여 대상·포인트 전환처·이벤트 종료일 확인",
       "money_signal": [],
       "published_at": "2026-08-23T23:39:27+00:00",
       "source_count": 1,
@@ -155,157 +168,41 @@
         {
           "name": "뉴스1",
           "title": "이마트24, 앱테크 서비스 '24오락실' 시즌2 오픈",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VVDUzeVh4RV9sRDFZQzdkWWg0VjNyd1dSY29BblloM3gxdWZpT2k4SkxTQ084N00tYmZXOUlnQThQaG13b2VPaS10bU5iblZKWHZMeHY4ZW01U0tVZm1r0gFkQVVfeXFMT3JDd1BvZjhQRldNZTZCaU1QSjN4VEhxS1FzdWl1bGwwc1ZocHZRUDJjYUx6a1dsTXlTVkhoMlB4dGd1SHJreTZzNU13c0NVd3pDVVM2aXlIMVZzRzg1SmhmR3dMUg?oc=5",
-          "published_at": "2026-08-23T23:39:27+00:00"
-        }
-      ]
-    },
-    {
-      "id": "official-coupang-seller-fees",
-      "topic_id": "coupang_seller",
-      "lane": "부업",
-      "label": "온라인 판매",
-      "status": "PLAYBOOK",
-      "score": 84,
-      "headline": "쿠팡 판매수수료 4~10.9%, 월 매출 조건에 따라 서비스 이용료까지 계산",
-      "why_now": "온라인 판매는 매출보다 수수료·고정비를 빼고 남는 금액이 핵심이라 진입 전 계산 가치가 큼.",
-      "angle": "상품 1개 팔 때 판매수수료와 월 이용료까지 빼면 실제 마진이 얼마인지 계산",
-      "check_first": "쿠팡 공식 판매자 안내에서 현재 카테고리 수수료와 이용료 조건 재확인",
-      "money_signal": [
-        "4~10.9%",
-        "55,000원"
-      ],
-      "published_at": null,
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "쿠팡 Marketplace 공식",
-          "title": "쿠팡 판매수수료 안내",
-          "url": "https://marketplace.coupang.com/information-center/almyeon-alsurog-deo-joheun-kupang-susuryo-2",
-          "published_at": null
-        }
-      ]
-    },
-    {
-      "id": "official-kmong-seller",
-      "topic_id": "kmong_seller",
-      "lane": "부업",
-      "label": "프리랜서",
-      "status": "PLAYBOOK",
-      "score": 82,
-      "headline": "크몽 개인 전문가도 서비스 판매 시작 가능, 구매확정 후 정산 구조 확인",
-      "why_now": "재능을 바로 상품으로 만들어 파는 대표적인 무재고 부업 구조라 기본 수익모델로 가치가 큼.",
-      "angle": "수수료·작업시간을 빼고 시간당 실수익이 남는 서비스부터 역산",
-      "check_first": "크몽 전문가 등록·수수료·세금·정산 기준을 판매 전 확인",
-      "money_signal": [
-        "구매확정 후 2일 정산",
-        "출금 1~2영업일"
-      ],
-      "published_at": null,
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "크몽 공식",
-          "title": "전문가 판매 시작·정산 안내",
-          "url": "https://kmong.com/seller/become-a-seller",
-          "published_at": null
-        }
-      ]
-    },
-    {
-      "id": "official-adsense-threshold",
-      "topic_id": "adsense_payments",
-      "lane": "부업",
-      "label": "애드센스",
-      "status": "PLAYBOOK",
-      "score": 80,
-      "headline": "애드센스는 지급 기준액·본인확인·결제수단 조건을 따로 넘겨야 수익 지급",
-      "why_now": "사이트 수익화는 승인 뒤에도 지급 단계에서 막히는 경우가 있어 운영자가 기본으로 확인할 항목.",
-      "angle": "수익이 발생한 뒤 실제 입금까지 필요한 인증·결제수단·지급 기준을 순서대로 정리",
-      "check_first": "Google AdSense 공식 도움말에서 계정 통화별 지급 기준액 확인",
-      "money_signal": [
-        "USD 지급 기준 $100"
-      ],
-      "published_at": null,
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "Google AdSense 공식",
-          "title": "지급 기준액",
-          "url": "https://support.google.com/adsense/answer/1709871?hl=ko-KR",
-          "published_at": null
-        }
-      ]
-    },
-    {
-      "id": "youtube_ypp-유튜브파트너프로그램의새로운수익창출기회및변경사항",
-      "topic_id": "youtube_ypp",
-      "lane": "부업",
-      "label": "유튜브·쇼츠",
-      "status": "WATCH",
-      "score": 73,
-      "headline": "유튜브 파트너 프로그램의 새로운 수익 창출 기회 및 변경 사항",
-      "why_now": "수익 조건·정산·수수료처럼 실제 벌이에 연결되는 변화라서 확인 가치가 큼.",
-      "angle": "바뀐 수익화 조건이 기존 채널·신규 채널에 미치는 영향",
-      "check_first": "공식 YouTube 도움말·블로그에서 적용일과 한국 적용 여부 확인",
-      "money_signal": [],
-      "published_at": "2026-08-11T07:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "YouTube Official Blog",
-          "title": "유튜브 파트너 프로그램의 새로운 수익 창출 기회 및 변경 사항",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVlSM1NLQzZiaFV4amFla3NfM2QydDYzNFpTRFJnVnl1UlZXSmdGTmdrb3NTTU1PYU5iaERKSlZvVTNhZHZkZjdKWXYxSWZoYXV0V0Z4Yi02cU9IcmpvdFhyeVRSVjg0UkN6Y1JjODBycjFpOFIxNlRXZU5tYmUxZUJyN0hCNWhtc2ZzWXl4ekt6UTlYQThvV2dfTWthUk9VQnNiN3dsZm9IaWhC?oc=5",
-          "published_at": "2026-08-11T07:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "deposit_rates-금리더오른다짧게굴리자6개월미만예금3년반만에최대",
-      "topic_id": "deposit_rates",
-      "lane": "재테크",
-      "label": "예적금",
-      "status": "WATCH",
-      "score": 71,
-      "headline": "\"금리 더 오른다, 짧게 굴리자\"…6개월 미만 예금, 3년 반 만에 최대",
-      "why_now": "금리·세제·상품 조건이 실제 이자·세금 차이로 바로 이어지는 소재.",
-      "angle": "광고금리 말고 우대조건을 충족했을 때 실제 세후 이자",
-      "check_first": "금융회사 공식 상품설명서·금융상품한눈에에서 금리와 한도 확인",
-      "money_signal": [],
-      "published_at": "2026-08-28T01:52:39+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "\"금리 더 오른다, 짧게 굴리자\"…6개월 미만 예금, 3년 반 만에 최대",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mOTQtdWg0TVdrRXVwSUdWLUxkQm4zdUtCbDNMNUEzLXNxZ1FYdnVPTGkxS0lNejNSeF9TTllySDFRNFJBSGxkaWVRaHpZR3A0Znl4anFjdk1jT2loSG0yUtIBeEFVX3lxTFBlZ2Nxd1hmN1lmNWlIdUtHMzZkMzdGYnFjdnFBOW9EcGZ4RHZzeWE5czhBSS1kOGtmRkFCYWZ3Q3EyMkoxdjB4bHBteE9MRkNod1Nad2xLSTVlRkRXdVNzeVJFUjZfcGFGOTQ2VE0waExheEFXc0Npaw?oc=5",
-          "published_at": "2026-08-28T01:52:39+00:00"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VVDUzeVh4RV9sRDFZQzdkWWg0VjNyd1dSY29BblloM3gxdWZpT2k4SkxTQ084N00tYmZXOUlnQThQaG13b2VPaS10bU5iblZKWHZMeHY4ZW01U0tVZm1r0gFkQVVfeXFMT3JDd1BvZjhQRldNZTZCaU1QSjN4VEhxS1FzdWl1bGwwc1ZocHZRUDJjYUx6a1dsTXlTVkhoMlB4dGd1SHJreTZzNU13c0NVd3pDVVM2aXlIMVZzRzg1SmhmR3dMUg?oc=5"
         }
       ]
     }
   ],
   "meta": {
-    "raw_articles": 39,
-    "event_clusters": 23,
-    "shown": 10,
+    "window_days": 14,
+    "refresh_policy": "daily_replace_no_repeat_30d",
+    "raw_articles": 32,
+    "shown": 7,
     "topic_raw_counts": {
-      "freelance": 0,
-      "digital_goods": 0,
-      "affiliate": 0,
-      "marketplace": 1,
-      "youtube_ypp": 3,
+      "tax": 0,
+      "apptech": 1,
       "blog_ads": 0,
-      "ai_service": 0,
-      "apptech": 6,
-      "platform_creator": 0,
-      "tax_accounts": 1,
-      "deposit_rates": 4,
-      "family_support": 0,
-      "smallbiz_support": 0,
-      "loan_refi": 21,
-      "youth_support": 0,
-      "platform_seller": 0,
-      "cashback": 3
+      "youtube_ypp": 0,
+      "affiliate": 0,
+      "benefit": 9,
+      "deposit": 1,
+      "sns_growth": 0,
+      "loan": 16,
+      "reviewer": 0,
+      "openai_official": 3,
+      "policy": 0,
+      "creator_campaign": 0,
+      "platform": 0,
+      "youtube_metrics": 0,
+      "instagram_metrics": 0,
+      "chatgpt_update": 0,
+      "claude_update": 0,
+      "useful_info": 1,
+      "gemini_update": 0,
+      "chrome_tip": 0,
+      "ai_creator": 0,
+      "digital_tip": 0,
+      "youtube_analytics_official": 1
     },
     "errors": []
   }

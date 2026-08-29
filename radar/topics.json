@@ -1,0 +1,515 @@
+[
+  {
+    "id": "youtube_ypp",
+    "lane": "부업",
+    "label": "유튜브·쇼츠",
+    "query": "유튜브 수익화 OR 쇼츠 수익화 OR YPP OR 유튜브 파트너 프로그램",
+    "must": [
+      "유튜브",
+      "쇼츠",
+      "ypp"
+    ],
+    "signals": [
+      "수익",
+      "수익화",
+      "광고",
+      "파트너",
+      "조건",
+      "정산"
+    ],
+    "angle": "바뀐 수익화 조건이 기존 채널·신규 채널에 미치는 영향",
+    "check": "YouTube 공식 도움말·블로그에서 적용일과 한국 적용 여부 확인"
+  },
+  {
+    "id": "blog_ads",
+    "lane": "부업",
+    "label": "블로그 광고",
+    "query": "애드센스 OR 애드포스트 OR 블로그 수익화 OR 블로그 광고 수익",
+    "must": [
+      "애드센스",
+      "애드포스트",
+      "블로그"
+    ],
+    "signals": [
+      "수익",
+      "광고",
+      "정산",
+      "승인",
+      "단가",
+      "지급"
+    ],
+    "angle": "승인·정산·수익 조건 변화와 실제 운영자가 챙길 것",
+    "check": "Google AdSense 또는 네이버 애드포스트 공식 공지 우선 확인"
+  },
+  {
+    "id": "affiliate",
+    "lane": "부업",
+    "label": "제휴마케팅",
+    "query": "쿠팡파트너스 OR 제휴마케팅 OR 어필리에이트 수익",
+    "must": [
+      "쿠팡파트너스",
+      "제휴마케팅",
+      "어필리에이트"
+    ],
+    "signals": [
+      "수익",
+      "수수료",
+      "정산",
+      "정책",
+      "링크"
+    ],
+    "angle": "수수료·정산·표시의무 변화가 실제 수익에 미치는 영향",
+    "check": "플랫폼 약관·공정위 표시광고 기준과 실제 수수료 확인"
+  },
+  {
+    "id": "apptech",
+    "lane": "부업",
+    "label": "앱테크",
+    "query": "앱테크 OR 리워드 서비스 OR 포인트 적립 출시",
+    "must": [
+      "앱테크",
+      "리워드",
+      "포인트"
+    ],
+    "signals": [
+      "적립",
+      "전환",
+      "출시",
+      "오픈",
+      "혜택",
+      "현금",
+      "미션"
+    ],
+    "angle": "포인트가 실제 어디에 쓰이고 얼마 가치인지",
+    "check": "참여 대상·포인트 전환처·이벤트 종료일 확인"
+  },
+  {
+    "id": "deposit",
+    "lane": "재테크",
+    "label": "예적금",
+    "query": "예금금리 OR 적금금리 OR 특판예금 OR 저축은행 금리",
+    "must": [
+      "예금",
+      "적금",
+      "금리"
+    ],
+    "signals": [
+      "금리",
+      "우대",
+      "특판",
+      "한도",
+      "가입",
+      "%"
+    ],
+    "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+    "check": "금융회사 공식 상품설명서·금융상품한눈에 확인"
+  },
+  {
+    "id": "tax",
+    "lane": "재테크",
+    "label": "절세",
+    "query": "ISA OR IRP OR 연금저축 세액공제 비과세 개편",
+    "must": [
+      "isa",
+      "irp",
+      "연금저축"
+    ],
+    "signals": [
+      "세액공제",
+      "비과세",
+      "한도",
+      "개편",
+      "공제"
+    ],
+    "angle": "바뀐 한도·공제율을 실제 절세액으로 환산",
+    "check": "기획재정부·국세청 공식 안내에서 적용연도 확인"
+  },
+  {
+    "id": "loan",
+    "lane": "재테크",
+    "label": "대출·금리",
+    "query": "대환대출 OR 대출 갈아타기 OR 주담대 금리 OR 신용대출 금리",
+    "must": [
+      "대환",
+      "대출",
+      "주담대"
+    ],
+    "signals": [
+      "금리",
+      "이자",
+      "한도",
+      "갈아타기",
+      "%"
+    ],
+    "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+    "check": "중도상환수수료·우대조건·실제 적용금리 확인"
+  },
+  {
+    "id": "benefit",
+    "lane": "혜택",
+    "label": "환급·캐시백",
+    "query": "환급 OR 캐시백 OR 지원금 OR 바우처 신청 지급 대상",
+    "must": [
+      "환급",
+      "캐시백",
+      "지원금",
+      "바우처"
+    ],
+    "signals": [
+      "신청",
+      "지급",
+      "대상",
+      "조건",
+      "한도",
+      "마감"
+    ],
+    "angle": "누가 얼마를 언제까지 신청하면 받는지",
+    "check": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인"
+  },
+  {
+    "id": "policy",
+    "lane": "혜택",
+    "label": "정책·지원사업",
+    "query": "청년 지원사업 OR 소상공인 지원사업 OR 창업 지원사업 OR 취업지원금",
+    "must": [
+      "지원사업",
+      "지원금",
+      "청년",
+      "소상공인",
+      "창업"
+    ],
+    "signals": [
+      "신청",
+      "모집",
+      "접수",
+      "대상",
+      "지원",
+      "마감"
+    ],
+    "angle": "대상·금액·기한·신청처만 실전형으로 정리",
+    "check": "정부·지자체·공공기관 공식 공고 확인"
+  },
+  {
+    "id": "sns_growth",
+    "lane": "SNS분석",
+    "label": "성장·알고리즘",
+    "query": "(유튜브 OR 인스타그램 OR 틱톡 OR Threads) (추천 알고리즘 OR 도달 OR 조회수 OR 팔로워 OR 크리에이터 분석)",
+    "must": [
+      "인스타그램",
+      "유튜브",
+      "틱톡",
+      "threads",
+      "스레드"
+    ],
+    "signals": [
+      "알고리즘",
+      "팔로워",
+      "조회수",
+      "추천",
+      "도달",
+      "분석"
+    ],
+    "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
+    "check": "공식 크리에이터 문서와 실제 적용 화면 확인"
+  },
+  {
+    "id": "reviewer",
+    "lane": "리뷰어",
+    "label": "체험단·리뷰어",
+    "query": "리뷰어 모집 OR 제품 체험단 OR 신제품 체험단 OR 뷰티 체험단 OR 가전 체험단 후기 리뷰",
+    "must": [
+      "체험단",
+      "리뷰어",
+      "서포터즈"
+    ],
+    "signals": [
+      "리뷰",
+      "후기",
+      "제품",
+      "제공",
+      "모집",
+      "신청",
+      "선정"
+    ],
+    "angle": "누가 신청할 수 있고 무엇을 제공받으며 후기 의무가 무엇인지",
+    "check": "브랜드·운영사 공식 모집 페이지 확인"
+  },
+  {
+    "id": "creator_campaign",
+    "lane": "리뷰어",
+    "label": "크리에이터 모집",
+    "query": "크리에이터 모집 OR 리뷰 크리에이터 OR 인플루언서 체험단 캠페인",
+    "must": [
+      "크리에이터",
+      "인플루언서",
+      "리뷰"
+    ],
+    "signals": [
+      "모집",
+      "신청",
+      "캠페인",
+      "선정",
+      "체험",
+      "제공"
+    ],
+    "angle": "선정 기준·콘텐츠 의무·보상 구조를 정리",
+    "check": "공식 캠페인 약관에서 광고표시·사용권·보상조건 확인"
+  },
+  {
+    "id": "ai_creator",
+    "lane": "AI",
+    "label": "AI 제작도구",
+    "query": "(\"AI video\" OR \"AI image\" OR \"AI agent\" OR AI 영상 OR AI 이미지 OR AI 에이전트) (tool OR launch OR update OR 도구 OR 출시)",
+    "must": [
+      "ai 영상",
+      "ai 이미지",
+      "ai 음성",
+      "ai 에이전트",
+      "ai 자동화"
+    ],
+    "signals": [
+      "도구",
+      "무료",
+      "출시",
+      "기능",
+      "사용",
+      "자동화",
+      "생성"
+    ],
+    "angle": "기존 작업시간을 얼마나 줄이고 결과물 품질이 어느 수준인지",
+    "check": "요금·상업적 이용조건·워터마크·저작권 정책 확인"
+  },
+  {
+    "id": "digital_tip",
+    "lane": "꿀팁",
+    "label": "디지털 꿀팁",
+    "query": "(카카오톡 OR Google OR Windows OR iPhone OR 갤럭시 OR 네이버) (new feature OR 기능 OR 업데이트 OR 설정 OR 무료)",
+    "must": [
+      "카카오톡",
+      "네이버",
+      "구글",
+      "윈도우",
+      "아이폰",
+      "갤럭시"
+    ],
+    "signals": [
+      "기능",
+      "설정",
+      "무료",
+      "업데이트",
+      "방법",
+      "지원",
+      "사용"
+    ],
+    "angle": "지금 바로 켜거나 바꾸면 시간·돈을 아끼는 설정인지",
+    "check": "공식 도움말에서 지원 기기·버전·적용 조건 확인"
+  },
+  {
+    "id": "useful_info",
+    "lane": "꿀팁",
+    "label": "유용정보",
+    "query": "(\"무료 서비스\" OR \"공식 사이트\" OR 공공서비스 OR 무료 데이터 OR 생활정보) (이용 OR 신청 OR 공개 OR 제공)",
+    "must": [
+      "무료",
+      "공공",
+      "생활정보",
+      "서비스",
+      "데이터"
+    ],
+    "signals": [
+      "신청",
+      "이용",
+      "제공",
+      "방법",
+      "공개",
+      "무료",
+      "지원"
+    ],
+    "angle": "돈 안 들이고 바로 써먹을 수 있는 공식 서비스와 사용법",
+    "check": "공식 운영기관·무료 범위·회원가입 필요 여부 확인"
+  },
+  {
+    "id": "platform",
+    "lane": "플랫폼",
+    "label": "플랫폼 변화",
+    "query": "Threads OR 인스타그램 OR 유튜브 OR 네이버 OR 쿠팡 정책 변경 수익화 크리에이터 판매자",
+    "must": [
+      "threads",
+      "인스타그램",
+      "유튜브",
+      "네이버",
+      "쿠팡"
+    ],
+    "signals": [
+      "정책",
+      "변경",
+      "수익화",
+      "판매자",
+      "크리에이터",
+      "기능"
+    ],
+    "angle": "플랫폼 변화가 기존 운영 방식·수익에 미치는 영향",
+    "check": "플랫폼 공식 공지에서 적용일·대상 확인"
+  },
+  {
+    "id": "openai_official",
+    "lane": "AI",
+    "label": "OpenAI 공식",
+    "keywords": [
+      "chatgpt",
+      "gpt-",
+      "codex",
+      "sora",
+      "api"
+    ],
+    "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
+    "check": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
+    "direct_url": "https://openai.com/news/rss.xml",
+    "require_title_any": [
+      "chatgpt",
+      "gpt-",
+      "codex",
+      "sora",
+      "api"
+    ],
+    "title_block": [
+      "students",
+      "teachers",
+      "school",
+      "teens",
+      "how ",
+      "cuts ",
+      "cleared ",
+      "scales expertise"
+    ]
+  },
+  {
+    "id": "youtube_metrics",
+    "lane": "SNS분석",
+    "label": "YouTube 지표",
+    "query": "YouTube Analytics views OR 유튜브 조회수 집계 OR YouTube Studio Insights",
+    "must": [
+      "youtube",
+      "유튜브"
+    ],
+    "signals": [
+      "analytics",
+      "views",
+      "조회수",
+      "지표",
+      "insights",
+      "studio"
+    ],
+    "angle": "조회수·engaged views 변화가 채널 성과 해석에 미치는 영향",
+    "check": "YouTube 공식 도움말에서 수익·YPP 지표와 공개 조회수 차이 확인"
+  },
+  {
+    "id": "instagram_metrics",
+    "lane": "SNS분석",
+    "label": "Instagram 지표",
+    "query": "Instagram Insights OR 인스타그램 인사이트 OR 인스타그램 도달 조회수",
+    "must": [
+      "instagram",
+      "인스타그램"
+    ],
+    "signals": [
+      "insights",
+      "인사이트",
+      "도달",
+      "조회수",
+      "팔로워",
+      "분석"
+    ],
+    "angle": "도달·팔로워·조회 지표 변화로 어떤 콘텐츠를 늘릴지",
+    "check": "Meta 공식 도움말에서 계정 유형·지표 정의 확인"
+  },
+  {
+    "id": "chatgpt_update",
+    "lane": "AI",
+    "label": "ChatGPT",
+    "query": "ChatGPT update feature OR ChatGPT 새 기능 업데이트",
+    "must": [
+      "chatgpt"
+    ],
+    "signals": [
+      "update",
+      "feature",
+      "기능",
+      "업데이트",
+      "출시"
+    ],
+    "angle": "새 ChatGPT 기능을 실제 업무·콘텐츠 제작에 적용할 방법",
+    "check": "OpenAI 공식 릴리스 노트에서 요금제·지역·제한 확인"
+  },
+  {
+    "id": "gemini_update",
+    "lane": "AI",
+    "label": "Gemini",
+    "query": "Gemini update feature OR Gemini 새 기능 출시",
+    "must": [
+      "gemini"
+    ],
+    "signals": [
+      "update",
+      "feature",
+      "기능",
+      "업데이트",
+      "출시"
+    ],
+    "angle": "Gemini 새 기능이 기존 검색·업무 흐름을 어떻게 바꾸는지",
+    "check": "Google 공식 블로그·도움말에서 제공 대상 확인"
+  },
+  {
+    "id": "claude_update",
+    "lane": "AI",
+    "label": "Claude",
+    "query": "Claude update feature OR Claude 새 기능 Anthropic",
+    "must": [
+      "claude"
+    ],
+    "signals": [
+      "update",
+      "feature",
+      "기능",
+      "업데이트",
+      "출시",
+      "anthropic"
+    ],
+    "angle": "Claude 새 기능을 문서·코딩·자동화에 적용할 포인트",
+    "check": "Anthropic 공식 문서에서 플랜·사용 제한 확인"
+  },
+  {
+    "id": "chrome_tip",
+    "lane": "꿀팁",
+    "label": "Chrome·Google",
+    "query": "Chrome new feature OR 구글 크롬 새 기능 OR Google Maps 새 기능",
+    "must": [
+      "chrome",
+      "크롬",
+      "google",
+      "구글"
+    ],
+    "signals": [
+      "feature",
+      "기능",
+      "업데이트",
+      "무료",
+      "설정"
+    ],
+    "angle": "바로 켜거나 써볼 수 있는 새 기능과 시간절약 포인트",
+    "check": "Google 공식 도움말에서 지원 버전·국가 확인"
+  },
+  {
+    "id": "youtube_analytics_official",
+    "lane": "SNS분석",
+    "label": "YouTube Analytics 공식",
+    "direct_page": "https://developers.google.com/youtube/analytics/revision_history",
+    "keywords": [
+      "youtube",
+      "views",
+      "analytics"
+    ],
+    "angle": "조회수·engaged views·Analytics 지표 변경이 채널 성과 해석에 미치는 영향",
+    "check": "YouTube Analytics 공식 변경이력과 Help 문서에서 YPP·수익 영향 확인"
+  }
+]
