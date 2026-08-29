@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29 17:32 KST",
+  "generated_at": "2026-08-29 17:33 KST",
   "counts": {
     "부업": 7,
     "재테크": 2,
@@ -293,19 +293,19 @@
       "digital_goods": 0,
       "affiliate": 0,
       "marketplace": 1,
-      "apptech": 5,
-      "blog_ads": 0,
       "youtube_ypp": 3,
+      "blog_ads": 0,
       "ai_service": 0,
-      "deposit_rates": 4,
+      "apptech": 6,
       "platform_creator": 0,
-      "youth_support": 0,
       "tax_accounts": 1,
+      "deposit_rates": 4,
       "family_support": 0,
       "smallbiz_support": 0,
-      "cashback": 4,
+      "loan_refi": 21,
+      "youth_support": 0,
       "platform_seller": 0,
-      "loan_refi": 21
+      "cashback": 3
     },
     "errors": []
   }
