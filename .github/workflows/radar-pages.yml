@@ -1,14 +1,14 @@
-name: money-radar-pages
+name: money-hunt-pages
 
 on:
   workflow_dispatch:
   push:
     branches: [main]
     paths:
-      - 'radar/**'
+      - 'radar/build.py'
       - '.github/workflows/radar-pages.yml'
   schedule:
-    - cron: '12 * * * *'
+    - cron: '17 * * * *'
 
 permissions:
   contents: write
@@ -16,53 +16,67 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: money-hunt-pages
   cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 6
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Build clean money radar
-        run: python radar/build_pages.py
-      - name: Regression checks
+
+      - name: Build MONEY HUNT
+        run: python radar/build.py
+
+      - name: Quality gate
         run: |
           python - <<'PY'
           import json
+          from collections import Counter
           d=json.load(open('radar/data.json',encoding='utf-8'))
           rows=d['items']
-          bad=['싱글벙글','은퇴한 맥도날드 알바','알바 썰','알바썰','번호따','남친','여친','ㅋㅋ','특징주','목표주가','sap','ubs','日대기업','일본 대기업','회사 안에서 부업']
-          assert len(rows)>=20, len(rows)
-          side=[x for x in rows if x['category']=='부업·수익']
-          assert len(side)>=5, d['counts']
-          assert sum(x['category'] in ('혜택·정책','재테크·절세') for x in rows)>=10
-          assert not [x['title'] for x in rows if any(w.lower() in x['title'].lower() for w in bad)]
-          titles=[x['title'].strip().lower() for x in rows]
-          assert len(titles)==len(set(titles))
-          print('RADAR_QUALITY_PASS',len(rows),d['counts'],d.get('errors'))
-          print('SIDE_TITLES')
-          for x in side: print('-',x['title'])
+          blocked=['싱글벙글','ㅋㅋ','특징주','목표주가','투자의견','상한가','급등주',
+                   '리딩방','수익 보장','원금 보장','일본 대기업','日대기업','직원 부업 허용']
+          assert 5 <= len(rows) <= 27, len(rows)
+          assert len({x['id'] for x in rows}) == len(rows)
+          assert len({x['headline'].strip().lower() for x in rows}) == len(rows)
+          assert all(x['score'] >= 69 for x in rows)
+          assert all(x['source_count'] >= 1 and x['sources'] for x in rows)
+          assert all(x['why_now'] and x['angle'] and x['check_first'] for x in rows)
+          assert not [x['headline'] for x in rows if any(b.lower() in x['headline'].lower() for b in blocked)]
+          per_topic=Counter(x['topic_id'] for x in rows)
+          assert max(per_topic.values(), default=0) <= 2, per_topic
+          assert d['counts'].get('부업',0) >= 2, d['counts']
+          print('MONEY_HUNT_QUALITY_PASS', d['counts'], d['meta'])
+          for x in rows:
+              print(f"[{x['lane']}] {x['status']} {x['score']} {x['headline']} / {x['source_count']} sources")
           PY
-      - name: Commit latest data snapshot
+
+      - name: Commit generated snapshot
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+5ggul@users.noreply.github.com
           git add radar/index.html radar/data.json
-          git diff --cached --quiet || git commit -m 'data: refresh money radar'
+          git diff --cached --quiet || git commit -m 'data: refresh MONEY HUNT'
           git push || true
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
+
       - name: Deploy Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
