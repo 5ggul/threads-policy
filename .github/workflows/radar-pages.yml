@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - 'radar/build.py'
+      - 'radar/curated.json'
       - '.github/workflows/radar-pages.yml'
   schedule:
     - cron: '17 * * * *'

@@ -493,6 +493,27 @@ def curate(opportunities: list[dict]) -> list[dict]:
     return selected[:27]
 
 
+def add_curated(items: list[dict]) -> list[dict]:
+    path = ROOT / "curated.json"
+    if not path.exists():
+        return items
+    extras = json.loads(path.read_text(encoding="utf-8"))
+    today = dt.datetime.now(KST).date()
+    ids = {x["id"] for x in items}
+    for item in extras:
+        expires = item.get("expires_at")
+        if expires and today > dt.date.fromisoformat(expires):
+            continue
+        if item["id"] in ids:
+            continue
+        item.pop("expires_at", None)
+        items.append(item)
+        ids.add(item["id"])
+    rank = {"NOW": 4, "PICK": 3, "PLAYBOOK": 2, "WATCH": 1}
+    items.sort(key=lambda x: (rank.get(x.get("status"), 0), x.get("score", 0), x.get("source_count", 0)), reverse=True)
+    return items[:27]
+
+
 def render(data: dict) -> str:
     items = data["items"]
     counts = data["counts"]
@@ -619,7 +640,7 @@ def main() -> None:
     clusters = cluster_articles(all_articles)
     opportunities = [opportunity_from_cluster(c) for c in clusters]
     opportunities = [x for x in opportunities if x["score"] >= MIN_SCORE]
-    curated = curate(opportunities)
+    curated = add_curated(curate(opportunities))
 
     counts = {lane: sum(1 for x in curated if x["lane"] == lane) for lane in LANE_ORDER}
     data = {
