@@ -90,11 +90,11 @@ TOPICS = [
         "id": "apptech",
         "lane": "부업",
         "label": "앱테크",
-        "query": '(앱테크 OR 리워드앱 OR 포인트 적립) (수익 OR 현금 OR 포인트 OR 출금) when:60d',
+        "query": '(앱테크 OR 리워드 서비스 OR 포인트 적립) (출시 OR 적립 OR 혜택 OR 현금 OR 전환) when:90d',
         "must": ("앱테크", "리워드", "포인트"),
-        "signals": ("수익", "현금", "출금", "적립", "포인트"),
-        "angle": "시간 대비 실제 현금화 금액과 출금 조건 비교",
-        "check": "출금 최소금액·개인정보 제공 범위·이벤트 종료일 확인",
+        "signals": ("현금", "출금", "적립", "포인트", "혜택", "전환", "출시"),
+        "angle": "클릭 몇 번으로 받는 포인트가 실제 어디에 쓰이고 얼마 가치인지",
+        "check": "참여 대상·포인트 전환처·이벤트 종료일·개인정보 제공 범위 확인",
     },
     {
         "id": "deposit_rates",
@@ -304,7 +304,7 @@ def matches_topic(topic: dict, title: str, summary: str) -> bool:
     if lane == "혜택" and any(b.lower() in text for b in BENEFIT_BLOCK):
         return False
 
-    if lane == "혜택" and not MONEY_RE.search(text) and not any(x in text for x in ("신청", "접수", "지급", "대상", "마감")):
+    if lane == "혜택" and not any(x in text for x in ("신청", "접수", "지급", "대상", "마감", "기간", "한도", "캐시백")):
         return False
 
     if lane == "부업":
@@ -470,7 +470,7 @@ def curate(opportunities: list[dict]) -> list[dict]:
     per_topic = Counter()
     lane_buckets = defaultdict(list)
     for item in sorted(opportunities, key=lambda x: (x["score"], x["source_count"]), reverse=True):
-        if per_topic[item["topic_id"]] >= 2:
+        if per_topic[item["topic_id"]] >= 1:
             continue
         per_topic[item["topic_id"]] += 1
         lane_buckets[item["lane"]].append(item)
