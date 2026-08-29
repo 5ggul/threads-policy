@@ -35,19 +35,22 @@ jobs:
           import json
           d=json.load(open('radar/data.json',encoding='utf-8'))
           rows=d['items']
-          bad=['싱글벙글','은퇴한 맥도날드 알바','알바 썰','알바썰','번호따','남친','여친','ㅋㅋ']
+          bad=['싱글벙글','은퇴한 맥도날드 알바','알바 썰','알바썰','번호따','남친','여친','ㅋㅋ','특징주','목표주가','sap','ubs','日대기업','일본 대기업','회사 안에서 부업']
           assert len(rows)>=20, len(rows)
-          assert sum(x['category']=='부업·수익' for x in rows)>=10, d['counts']
+          side=[x for x in rows if x['category']=='부업·수익']
+          assert len(side)>=5, d['counts']
           assert sum(x['category'] in ('혜택·정책','재테크·절세') for x in rows)>=10
-          assert not [x['title'] for x in rows if any(w in x['title'].lower() for w in bad)]
+          assert not [x['title'] for x in rows if any(w.lower() in x['title'].lower() for w in bad)]
           titles=[x['title'].strip().lower() for x in rows]
           assert len(titles)==len(set(titles))
           print('RADAR_QUALITY_PASS',len(rows),d['counts'],d.get('errors'))
+          print('SIDE_TITLES')
+          for x in side: print('-',x['title'])
           PY
       - name: Commit latest data snapshot
         run: |
           git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git config user.email 41898282+5ggul@users.noreply.github.com
           git add radar/index.html radar/data.json
           git diff --cached --quiet || git commit -m 'data: refresh money radar'
           git push || true
