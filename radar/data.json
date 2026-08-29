@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29 17:27 KST",
+  "generated_at": "2026-08-29 17:30 KST",
   "counts": {
     "부업": 2,
     "재테크": 2,
@@ -57,8 +57,8 @@
       "topic_id": "cashback",
       "lane": "혜택",
       "label": "환급·캐시백",
-      "status": "NOW",
-      "score": 91,
+      "status": "PICK",
+      "score": 86,
       "headline": "용인시, 추석 맞아 지역화폐 결제 시 특별 캐시백 10% 지급",
       "why_now": "대상·금액·기한을 놓치면 못 받는 정보라서 선점 가치가 큼.",
       "angle": "누가 얼마를 언제까지 신청하면 받는지 한 번에 정리",
@@ -67,20 +67,14 @@
         "10%",
         "3만원"
       ],
-      "published_at": "2026-08-28T00:09:00+00:00",
-      "source_count": 3,
+      "published_at": "2026-08-28T00:08:16+00:00",
+      "source_count": 2,
       "sources": [
         {
           "name": "연합뉴스",
           "title": "용인시, 추석 맞아 지역화폐 결제 시 특별 캐시백 10% 지급",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FdXRVYWh2VEFJWXh4UzNUVUZjaWc2U250aEswU0VnZG1GOGV6MTRxTjhWQ3ExZWNsOVhhLXFVNjljd3pKUFJHWlpiem5EdThFRnlNVTJSbXlQX2Vja1lBY9IBYEFVX3lxTE5FdXRVYWh2VEFJWXh4UzNUVUZjaWc2U250aEswU0VnZG1GOGV6MTRxTjhWQ3ExZWNsOVhhLXFVNjljd3pKUFJHWlpiem5EdThFRnlNVTJSbXlQX2Vja1lBYw?oc=5",
           "published_at": "2026-08-28T00:08:16+00:00"
-        },
-        {
-          "name": "파이낸셜뉴스",
-          "title": "용인시, 추석 맞아 지역화폐 결제 시 특별 캐시백 10% 지급",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16NmcyTmctdWNVZnpaWXdYTkQzWnlnYWxRbmVHZGs3MGFTNklIRmJXcWo3cDk2WWhKLWZvUzBiZWRxdGxHdjdFcWxjdlZZSjh6Z1BobjJRb0trdw?oc=5",
-          "published_at": "2026-08-28T00:09:00+00:00"
         },
         {
           "name": "아시아경제",
@@ -161,26 +155,26 @@
     }
   ],
   "meta": {
-    "raw_articles": 40,
+    "raw_articles": 38,
     "event_clusters": 23,
     "shown": 5,
     "topic_raw_counts": {
-      "apptech": 6,
       "freelance": 0,
-      "ai_service": 0,
       "digital_goods": 0,
       "blog_ads": 0,
-      "youtube_ypp": 3,
-      "marketplace": 1,
+      "apptech": 6,
       "affiliate": 0,
-      "platform_creator": 0,
+      "marketplace": 1,
+      "youtube_ypp": 3,
+      "ai_service": 0,
       "deposit_rates": 4,
-      "loan_refi": 21,
-      "tax_accounts": 1,
-      "cashback": 4,
-      "youth_support": 0,
+      "platform_creator": 0,
       "smallbiz_support": 0,
       "family_support": 0,
+      "tax_accounts": 1,
+      "youth_support": 0,
+      "cashback": 3,
+      "loan_refi": 20,
       "platform_seller": 0
     },
     "errors": []
