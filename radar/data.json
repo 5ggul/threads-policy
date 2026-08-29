@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-29 16:42 KST",
+  "generated_at": "2026-08-29 16:48 KST",
   "counts": {
-    "혜택·정책": 40,
-    "재테크·절세": 40,
-    "부업·수익": 10
+    "혜택·정책": 43,
+    "재테크·절세": 42,
+    "부업·수익": 5
   },
   "items": [
     {
@@ -35,24 +35,18 @@
       "related": []
     },
     {
-      "title": "[美특징주]SAP, AI 수익화 지연 우려에 UBS ‘중립’ 하향…주가 3%↓ - edaily.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmU3NmhNYjBWRjZSOVVicmp6S01yWDVwRnRscU95a2MxTUZxNm52eDJzT0NsTEZTZWRkUzJWVDdnUnp5NjF5REp2c2tSbUp4TXdVZDlxTmRiNjF3by1VS2RCWUhubm5vRGJIQkNJUmhyc1lIeFdmeUhybi1hZm9QNg?oc=5",
+      "title": "\"영상 하나로 1000만 대박? 수익 0원\"...유튜브, 수익화 문턱 2배로 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kTy01TGFPbVVhUmxjTGRiSWVSbTJIWTVuNnQwZlFtY2YyNnlJeTVabE5jSy1hblFUV2kwVGhISGV6X19kTFhOZ3JtMU9TU2pWd0p1YUtaLXlpRU5ueTBUcXpHUmpic3fSAWxBVV95cUxQbjlsUlpKY0RZWnBLVk5BMmRQWlJsU0pDVUowMVlfQWhjTDZvTkwwQ0hSWFBFNHd0M1h5b2JzclphdElieWVGMXkxVHQ4RndvMFo0ZU9GRHJ5RFlrM194d01JdDdNVW9PNC1pSUY?oc=5",
       "source": "news:creator",
       "source_label": "Google News · creator",
       "scope": "creator",
       "category": "부업·수익",
       "score": 64,
       "official": false,
-      "published_at": "2026-08-26T19:17:41+00:00",
-      "amount": "3%",
-      "summary": "[美특징주]SAP, AI 수익화 지연 우려에 UBS ‘중립’ 하향…주가 3%↓ &nbsp;&nbsp; edaily.co.kr",
-      "related": [
-        {
-          "title": "유튜브 수익화 확 어려워진다…'4000→8000시간·쇼츠 1000만→2000만뷰' - hdnews.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RdUkxYmxuR2I0bmFhdEpzN2hnaVFsdVpZd183Y2RtdVkzRGx1NFdGMnBLX1lCZURTNmRWZkx3eVRaaEZaMUQ4dUFwc3BibmdJdmtXeGdtV2lmUS1zR1llaWNpZVBVR0N4QXJV?oc=5",
-          "source_label": "Google News · creator"
-        }
-      ]
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "amount": "0원",
+      "summary": "\"영상 하나로 1000만 대박? 수익 0원\"...유튜브, 수익화 문턱 2배로 - 머니투데이 &nbsp;&nbsp; 머니투데이",
+      "related": []
     },
     {
       "title": "\"10만~50만원\" 추석 전 명절지원금 지급 잇따라 - gukjenews.com",
@@ -89,17 +83,17 @@
       "related": []
     },
     {
-      "title": "[영상] 퇴근 후 옆 부서 알바하고 ‘월 88만원’ 번다…회사 안에서 부업하라는 日대기업 - 서울경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xY3RDdDlTOVliWTJleUlvWHNuQ085YUJtSHZnNDJ6VUtKSWpNMlV6b19ldEpEZlpnbEhiT21wTFdQTkh6OC1fM1BoSmRyZVZ4QlE?oc=5",
-      "source": "news:side",
-      "source_label": "Google News · side",
-      "scope": "side",
+      "title": "'평균 월 3만원, 최고 150만원 수익' 2030 매료시킨 신종 앱테크 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwYVJjRjVBRFNtV2lpelRMT1NHMlhvMUJiZ1A3TDM2dTJSNGlPYlBQMEpSRm1FZXpsdlJ6SXVFQVhTSGRyckE?oc=5",
+      "source": "news:apptech",
+      "source_label": "Google News · apptech",
+      "scope": "apptech",
       "category": "부업·수익",
       "score": 64,
       "official": false,
-      "published_at": "2026-08-25T05:41:42+00:00",
-      "amount": "88만원",
-      "summary": "[영상] 퇴근 후 옆 부서 알바하고 ‘월 88만원’ 번다…회사 안에서 부업하라는 日대기업 &nbsp;&nbsp; 서울경제",
+      "published_at": "2026-06-23T07:00:00+00:00",
+      "amount": "3만원",
+      "summary": "'평균 월 3만원, 최고 150만원 수익' 2030 매료시킨 신종 앱테크 &nbsp;&nbsp; v.daum.net",
       "related": []
     },
     {
@@ -177,18 +171,24 @@
       ]
     },
     {
-      "title": "퇴근 후 ＇사내 부업＇…＂최대 88만원 수입＂ 파격 실험 [글로벌 pick] - 한국경제TV",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BRzNhRHBobzdrcjlYSlZiV2wxZ2RIQjJuMjQ0RVhUdWJNNTNRTXV1WEpBcnlVTzFzY2RMSzBta2xmeHI0d2IxZFdzTXEwaFdjQUZlVWliZ1FHVnNETmJjRzFpRjduQTdZWDhEUG1YM0tib29sekpZ?oc=5",
-      "source": "news:side",
-      "source_label": "Google News · side",
-      "scope": "side",
+      "title": "유튜브 수익화 문턱 2배…내년 뭐가 달라지나 [영상PICK] - 메트로신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44X09udDNfcW9udnItZ3BJNjQ4cHFVMXRIYVlGQnJYOGZvUGxFWmE5bDhYd1NRaVBpdXI4cVlpV0cwQUNiSGhKaVNfcE44OGctN0N3ang0NUl2VV9oZmtEWQ?oc=5",
+      "source": "news:creator",
+      "source_label": "Google News · creator",
+      "scope": "creator",
       "category": "부업·수익",
-      "score": 64,
+      "score": 59,
       "official": false,
-      "published_at": "2026-08-24T08:08:00+00:00",
-      "amount": "88만원",
-      "summary": "퇴근 후 ＇사내 부업＇…＂최대 88만원 수입＂ 파격 실험 [글로벌 pick] &nbsp;&nbsp; 한국경제TV",
-      "related": []
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "amount": "",
+      "summary": "유튜브 수익화 문턱 2배…내년 뭐가 달라지나 [영상PICK] &nbsp;&nbsp; 메트로신문",
+      "related": [
+        {
+          "title": "유튜브 수익화 문턱 2배 높아진다 “쇼츠 1000만도 돈 못받아” - 게임톡",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DcFFDNENSYks5V2NuZmtNYW81ZEFrOEZnY1cxazNlZVNmZHA3d0Vnbm9HUnk2bmRLcWRqM0JmWUlyYm5wTnNiWEs4bVhpM2MyUURHbU9zRWpmU3puVjlNeER2OWcxamNZMUFLZg?oc=5",
+          "source_label": "Google News · creator"
+        }
+      ]
     },
     {
       "title": "아이 있으면 월 10만원씩 지급되던 '지원금', 내년부터 달라집니다 - 위키트리",
@@ -219,17 +219,17 @@
       "related": []
     },
     {
-      "title": "[건강포커스] \"무료게임 지출, 상위 10%가 61% 차지…수익화 구조 규제 필요\" - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wSkkxRy00dF9WQ1J4M3FyLWp1N01tekJHSGozRWJtMWhpM3ZmbnVYUnBhNmdEQ2tveTlGS3U0VW1oM21FTXNjMDJ3Yk1iYUEyNEl5M0xRMjhibUnSAWBBVV95cUxOOThRcDFNN3ZQWGp6dDhjMFBkQk0xNHd5VVotcnE4NmFlSGMzdFloQnVoLU1kbkdfWEhRQmF6X0d2a0tVYXY5WjBxeEtIQjEyOUJBS3I4eXlTeERnV1NCYmk?oc=5",
+      "title": "유튜브 수익화 확 어려워진다…'4000→8000시간·쇼츠 1000만→2000만뷰' - hdnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RdUkxYmxuR2I0bmFhdEpzN2hnaVFsdVpZd183Y2RtdVkzRGx1NFdGMnBLX1lCZURTNmRWZkx3eVRaaEZaMUQ4dUFwc3BibmdJdmtXeGdtV2lmUS1zR1llaWNpZVBVR0N4QXJV?oc=5",
       "source": "news:creator",
       "source_label": "Google News · creator",
       "scope": "creator",
       "category": "부업·수익",
-      "score": 64,
+      "score": 59,
       "official": false,
-      "published_at": "2026-08-21T21:00:01+00:00",
-      "amount": "10%",
-      "summary": "[건강포커스] \"무료게임 지출, 상위 10%가 61% 차지…수익화 구조 규제 필요\" &nbsp;&nbsp; 연합뉴스",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "amount": "",
+      "summary": "유튜브 수익화 확 어려워진다…'4000→8000시간·쇼츠 1000만→2000만뷰' &nbsp;&nbsp; hdnews.co.kr",
       "related": []
     },
     {
@@ -342,34 +342,18 @@
       ]
     },
     {
-      "title": "\"영상 하나로 1000만 대박? 수익 0원\"...유튜브, 수익화 문턱 2배로 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kTy01TGFPbVVhUmxjTGRiSWVSbTJIWTVuNnQwZlFtY2YyNnlJeTVabE5jSy1hblFUV2kwVGhISGV6X19kTFhOZ3JtMU9TU2pWd0p1YUtaLXlpRU5ueTBUcXpHUmpic3fSAWxBVV95cUxQbjlsUlpKY0RZWnBLVk5BMmRQWlJsU0pDVUowMVlfQWhjTDZvTkwwQ0hSWFBFNHd0M1h5b2JzclphdElieWVGMXkxVHQ4RndvMFo0ZU9GRHJ5RFlrM194d01JdDdNVW9PNC1pSUY?oc=5",
-      "source": "news:creator",
-      "source_label": "Google News · creator",
-      "scope": "creator",
+      "title": "앱테크(AppTech)로 돈 버는 추가 방법들! - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PZjlpR3Y4VmxHZXlHa25uODJZS3JXUnpESGZFeEM4LUFWX2pLbVpnSHA4eTZyNFNjcDg2cXBzQUZRYnVVbWtnU1ZQYnktR3ljZEE?oc=5",
+      "source": "news:affiliate",
+      "source_label": "Google News · affiliate",
+      "scope": "affiliate",
       "category": "부업·수익",
-      "score": 64,
+      "score": 57,
       "official": false,
-      "published_at": "2026-08-12T07:00:00+00:00",
-      "amount": "0원",
-      "summary": "\"영상 하나로 1000만 대박? 수익 0원\"...유튜브, 수익화 문턱 2배로 - 머니투데이 &nbsp;&nbsp; 머니투데이",
-      "related": [
-        {
-          "title": "유튜브 수익화 문턱 2배…내년 뭐가 달라지나 [영상PICK] - 메트로신문",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44X09udDNfcW9udnItZ3BJNjQ4cHFVMXRIYVlGQnJYOGZvUGxFWmE5bDhYd1NRaVBpdXI4cVlpV0cwQUNiSGhKaVNfcE44OGctN0N3ang0NUl2VV9oZmtEWQ?oc=5",
-          "source_label": "Google News · creator"
-        },
-        {
-          "title": "[미디어 트렌드] 유튜브, ‘1억 뷰’ 안 터지면 빈손…유튜브 수익화 문턱 2배 높아진다 - 리뷰타임스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXX1VEd0c3TldUazIwakQ2a1MybnFxLTVzZmktdG44emQ5eTlnVmJsdXdHUl9CZ1VTRFI4VDEwVTBVUnJoVDJVOHdubzdqVGxJRUlrdmFpTU15d1lpZGhrQi1LVEY0ZEdtejlsME9ybWo?oc=5",
-          "source_label": "Google News · creator"
-        },
-        {
-          "title": "유튜브 수익화 문턱 2배 높아진다 “쇼츠 1000만도 돈 못받아” - 게임톡",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DcFFDNENSYks5V2NuZmtNYW81ZEFrOEZnY1cxazNlZVNmZHA3d0Vnbm9HUnk2bmRLcWRqM0JmWUlyYm5wTnNiWEs4bVhpM2MyUURHbU9zRWpmU3puVjlNeER2OWcxamNZMUFLZg?oc=5",
-          "source_label": "Google News · creator"
-        }
-      ]
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "amount": "",
+      "summary": "앱테크(AppTech)로 돈 버는 추가 방법들! &nbsp;&nbsp; 브런치",
+      "related": []
     },
     {
       "title": "추석 전 35만 원 민생지원금, '가계 단비' vs '재정 부담'…국민 62% \"실질적 도움\" - 금융경제플러스",
@@ -411,20 +395,6 @@
       ]
     },
     {
-      "title": "'누워서 돈 번다' AI 부업 광고, 사실일까? I 스튜디오경향 - 경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PTHZRMDRQU1dxdkNBTEhabVFiekJxMkp3Q1QxTHl1LVpEU0I3MXRyUkZJMm9OMTd1SEVzSVg4MVQxM0JZVmoxRFZqdV9GaVR6QklLUGxtRU9IbEFMSEJ2V3JB?oc=5",
-      "source": "news:creator",
-      "source_label": "Google News · creator",
-      "scope": "creator",
-      "category": "부업·수익",
-      "score": 59,
-      "official": false,
-      "published_at": "2026-08-25T11:00:16+00:00",
-      "amount": "",
-      "summary": "'누워서 돈 번다' AI 부업 광고, 사실일까? I 스튜디오경향 &nbsp;&nbsp; 경향신문",
-      "related": []
-    },
-    {
       "title": "\"7월 출산으로 늦춰야 하나\"… 2000만원 지원금에 맘카페 들끓었다 - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQalFDTUpNcWpVTmZ0bUQ2WTkweHJNYUV0dDV6ZExoMlViVlN0TG5GeUw3WXZWZ09yZm9QSW1CZGZrQVNEaS1DWE5aV0YyQzRETzNBOE52OXBVbkdwT0xFZktSeDdrQkdXUmplOEprY1lBWS13Y0p0a0FJVThRNTlWdE1XWlZfNnVSWEp1U3JhOA?oc=5",
       "source": "news:benefit",
@@ -450,20 +420,6 @@
       "published_at": "2026-08-28T05:43:15+00:00",
       "amount": "3.0%",
       "summary": "수협, 신규·예금 연계 고객에 최대 연 3.0%p 우대금리 &nbsp;&nbsp; 리드경제",
-      "related": []
-    },
-    {
-      "title": "회사에서 부업하고 추가수익 올린다…日 대기업의 ‘사내 투잡’ 제도 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2LU5aaWZoOUpzWHVnMzMyTlR4V2FFd0tfM0ljRnEtQWZzODFOdmxxSmdsVG5IYmtwU2RZME93Vm5SQXR5QlE?oc=5",
-      "source": "news:side",
-      "source_label": "Google News · side",
-      "scope": "side",
-      "category": "부업·수익",
-      "score": 59,
-      "official": false,
-      "published_at": "2026-08-25T07:09:08+00:00",
-      "amount": "",
-      "summary": "회사에서 부업하고 추가수익 올린다…日 대기업의 ‘사내 투잡’ 제도 &nbsp;&nbsp; v.daum.net",
       "related": []
     },
     {
@@ -506,20 +462,6 @@
       "related": []
     },
     {
-      "title": "남양주시, 청년 창업 역량 강화를 위한 N잡 특강 ‘돈이 되는 스마트스토어’ 성황리에 성료 > 뉴스 - 더코리아",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlUEQ5OGRsQWhldVhucWxoZjl1T2JwMEpFRWdPNVgxUTJHVkt5YWRTV0ZCUG55ZXFwbEtFczdncDNMbjVlb2tMN0xDTEtpMWpuU19CY0NZOTRfQjFPbUZfam1oSEE2OXN5TjE4VTZWVVY?oc=5",
-      "source": "news:commerce",
-      "source_label": "Google News · commerce",
-      "scope": "commerce",
-      "category": "부업·수익",
-      "score": 59,
-      "official": false,
-      "published_at": "2026-08-07T13:56:00+00:00",
-      "amount": "",
-      "summary": "남양주시, 청년 창업 역량 강화를 위한 N잡 특강 ‘돈이 되는 스마트스토어’ 성황리에 성료 > 뉴스 &nbsp;&nbsp; 더코리아",
-      "related": []
-    },
-    {
       "title": "수도권 취업청년도 정부지원금 480만원 받는다 - 세계일보",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IY3ctQXYzSEFCMUdUcEhyTzFwMXA5M0JjSDdVR0ZLeEZ2eW50NWpsc0V2THo1RnVfd0t2V0lHMVNpZVFZa1d4Si1Pa1pwU25j?oc=5",
       "source": "news:benefit",
@@ -551,20 +493,6 @@
       "published_at": "2026-08-27T07:35:33+00:00",
       "amount": "8%",
       "summary": "8% 향하는 주담대, 6% 앞둔 신용대…\"대출금리 더 오른다\" - 머니투데이 &nbsp;&nbsp; 머니투데이",
-      "related": []
-    },
-    {
-      "title": "고흥군, 농업인 대상 스마트스토어 교육...농산물 온라인 판로 확대 - 디스커버리뉴스(DISCOVERYNEWS)",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tTF83UkxUVDdPZkNZTDhWUHlEODh4Und3eXZmNFhFZFJVTzQwUFhJdjBNZWlUSHFRanduZUxHaWtFRkM3VUR6SXNsXzd2UEpqNlNIVWI3LWNWVTlkcU9XUEFMazhMckFBVjlRZDhrZHBvUQ?oc=5",
-      "source": "news:commerce",
-      "source_label": "Google News · commerce",
-      "scope": "commerce",
-      "category": "부업·수익",
-      "score": 57,
-      "official": false,
-      "published_at": "2026-08-28T05:44:03+00:00",
-      "amount": "",
-      "summary": "고흥군, 농업인 대상 스마트스토어 교육...농산물 온라인 판로 확대 &nbsp;&nbsp; 디스커버리뉴스(DISCOVERYNEWS)",
       "related": []
     },
     {
@@ -604,20 +532,6 @@
       "published_at": "2026-08-27T07:11:22+00:00",
       "amount": "4%",
       "summary": "\"버티던 OK저축은행마저\"…예금금리 4%대 시대, 결국 막 내렸다 &nbsp;&nbsp; 녹색경제신문",
-      "related": []
-    },
-    {
-      "title": "쇼핑 이어 여행 분야까지…네이버, 창작자 수익화 지원 확대 - 서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSU04U1YycUdZYlZhQnRlbF9hVUR5WElLVXBIaVNOWkhEYXlGLUJ2SVFGRjNWdUdtVE56QUxub3FFdy01VmJoRFR4V3hNdmotVnVZaFpBQ0FScjB2c1ptdFBvWDA?oc=5",
-      "source": "news:creator",
-      "source_label": "Google News · creator",
-      "scope": "creator",
-      "category": "부업·수익",
-      "score": 57,
-      "official": false,
-      "published_at": "2026-08-24T01:29:27+00:00",
-      "amount": "",
-      "summary": "쇼핑 이어 여행 분야까지…네이버, 창작자 수익화 지원 확대 &nbsp;&nbsp; 서울경제TV",
       "related": []
     },
     {
@@ -916,8 +830,8 @@
       "summary": "[최봉혁의 ESG칼럼] 지자체별 추석 민생지원금 최대 50만원… 수도권 제외에 취약계층 복지 형평성 논란 &nbsp;&nbsp; 웰페어뉴스",
       "related": [
         {
-          "title": "추석 민생지원금, 수도권은 왜 빠지나 — 지역별 복지 격차가 드러낸 안전망의 빈틈 - 뉴스N연합",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sNF8zYm5SQVpRTXdub3lGeXNPQTFBQU14V3Z5TmdsQjJhaE05am9NR3JLMWtmQjBVTWVXbXY1Wnd0V1M3aWNndXln?oc=5",
+          "title": "추석 민생지원금, 수도권은 왜 빠지나 — 지역별 복지 격차가 드러낸 안전망의 빈틈 - 얼리어답터뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4ydEVzeXJpVjhsRWd5dGFGZmJMTGpyVFRmckNDZzRoUFRHcTk3UlJHU1MtcjNYZ3BDaDAtMWI3U21DZ2F0eXFNUw?oc=5",
           "source_label": "Google News · benefit"
         }
       ]
@@ -1012,11 +926,6 @@
           "title": "“한 달 대출 이자만 수백만 원”…정기 예금은 3%대 요지부동? [잇슈 머니] - KBS 뉴스",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tdEFLZllCbXk2eWYyLUtGWnlQYUYzY2laVjNSem1yRHlGbFEtNEZxREdkQVVlVHpoZ1NDOFFOZjBxLXI0eXd4MUpJOExYdjRobkMxS2tBRW0wM00?oc=5",
           "source_label": "Google News · investment"
-        },
-        {
-          "title": "\"스마트스토어 매출로 대출 받는다\"…네이버파이낸셜, 대안신용평가 '지정대리인' 선정 - v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5Ykk0aHBnazdMbmY5TEtvUTZEUW1LS05qSEk2Vi1lQ3E2Z3kwVW5BWVRxX0JPbkRWaWNBYkVmSjFuOWVlaWc?oc=5",
-          "source_label": "Google News · commerce"
         }
       ]
     },
@@ -1798,6 +1707,93 @@
       "amount": "",
       "summary": "하나금융지주, 금리 올라도 조달비용 그대로…'저원가성 예금' 8조 늘렸다 &nbsp;&nbsp; PRESS9",
       "related": []
+    },
+    {
+      "title": "태안 전통시장서 15만원 쓰면 5만원 환급…29일부터 릴레이 행사 - 충청뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4SkJ0dG1seWRURkpVZkRDSktUeTJjcGo3dXVxTEIzencwMkRNeVAwVUM0d3dqLVpzcFJEaWwyNl8ySkxaTWx5alpQS3poRTBTVXJjdldFdXRoa1ZnLXBTZ081UEdQSll4TXBV?oc=5",
+      "source": "news:tax",
+      "source_label": "Google News · tax",
+      "scope": "tax",
+      "category": "혜택·정책",
+      "score": 64,
+      "official": false,
+      "published_at": "2026-08-27T06:40:17+00:00",
+      "amount": "15만원",
+      "summary": "태안 전통시장서 15만원 쓰면 5만원 환급…29일부터 릴레이 행사 &nbsp;&nbsp; 충청뉴스",
+      "related": [
+        {
+          "title": "태안 전통시장서 장 보면 최대 5만원 온누리상품권 환급 - v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ya1Fhd3Q5SWhCZlplcUNwSDFQMmtmSW5hYkdOa0VGcTVETjVOX1UtN2U0NWRBd0p3RnhYMDNjS2VLT0pSMEE?oc=5",
+          "source_label": "Google News · tax"
+        }
+      ]
+    },
+    {
+      "title": "벌어지는 예금금리…한미 금리차 축소 '외인 자금 이탈 방어' - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaZDZxaHNIN3dEMm5BRm9NN2oxVXRoUzd0U0E2TWlsS0Z1TWJKd18zaW0zVEVtMllXV2N2bjI4NlNuaXU3TmJVbHVUWEU0NGRleFNUVzl4QTZYY3NpUC1iWlNERFI?oc=5",
+      "source": "news:investment",
+      "source_label": "Google News · investment",
+      "scope": "investment",
+      "category": "재테크·절세",
+      "score": 64,
+      "official": false,
+      "published_at": "2026-08-27T06:17:04+00:00",
+      "amount": "",
+      "summary": "벌어지는 예금금리…한미 금리차 축소 '외인 자금 이탈 방어' &nbsp;&nbsp; 매일일보",
+      "related": []
+    },
+    {
+      "title": "태안군, 전통시장 최대 5만 원 환급 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aSmVnSEZ5bzdIYUp6V0RDQmptY0ozOURsaDZJQ0FwYnJYVjdOb0MwZTEwWW16RWlGaTdyWHRkRGFIcTYzNXp4N1YxVjVHWS1iUFFiSVdiTWZseVZCTG0yYUxBV0hwZlpzZkVpZUdZY2M?oc=5",
+      "source": "news:tax",
+      "source_label": "Google News · tax",
+      "scope": "tax",
+      "category": "혜택·정책",
+      "score": 64,
+      "official": false,
+      "published_at": "2026-08-27T05:46:02+00:00",
+      "amount": "5만 원",
+      "summary": "태안군, 전통시장 최대 5만 원 환급 &nbsp;&nbsp; 신아일보",
+      "related": []
+    },
+    {
+      "title": "“은행 주담대 금리, 중기대출 추월…기업대출 금리도 오를 것” - 뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HV0NPOG1fMzhGYjN6bTZOZnRXdVliVUxfM0tsNzlfaGhfZnBKbEx1S1BUc2k5ODA3R1VVSllDXzRiem9KY3g3X1BTNlV0c0FQV0E1bWRCTVE2NUxza0E?oc=5",
+      "source": "news:investment",
+      "source_label": "Google News · investment",
+      "scope": "investment",
+      "category": "재테크·절세",
+      "score": 64,
+      "official": false,
+      "published_at": "2026-08-27T00:15:00+00:00",
+      "amount": "",
+      "summary": "“은행 주담대 금리, 중기대출 추월…기업대출 금리도 오를 것” &nbsp;&nbsp; 뉴스투데이",
+      "related": []
+    },
+    {
+      "title": "근로장려금 4명 중 1명은 '20대'…최대 330만원 받는다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rTTFzeUJUVmFNNHdqczNibjdCZUV6UHBzaVAzMFIzanZiUWtWZEdQYUtDeHQ1ajYxTzRnZEtyc3hlelJ4MFRxbjNiaw?oc=5",
+      "source": "news:benefit",
+      "source_label": "Google News · benefit",
+      "scope": "benefit",
+      "category": "혜택·정책",
+      "score": 64,
+      "official": false,
+      "published_at": "2026-08-27T03:01:00+00:00",
+      "amount": "330만원",
+      "summary": "근로장려금 4명 중 1명은 '20대'…최대 330만원 받는다 &nbsp;&nbsp; v.daum.net",
+      "related": [
+        {
+          "title": "안동·영천 가을여행 오면 비용 '반값'...최대 14만원 환급 - v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkRmF4c21yQzMyemdsRDFXWTRORmRZY21OZGZvRU5XUEdleVhoVktkUTNIQlh0R1A0WUJrZXlFY0FXYUdGQzVDSFROdUlTQ0U?oc=5",
+          "source_label": "Google News · tax"
+        },
+        {
+          "title": "근로장려금 지급일…신청 놓쳤다면 - v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xeUs4R1UycHlmeEc3cFJDOHZrY1p0aGRsTHh0TEhJNDNkcl9ZdnJTR0JseDV5cjQ4ZVVSS1gtWlNoUzl5X0xCWjNfb1M2ZkU?oc=5",
+          "source_label": "Google News · benefit"
+        }
+      ]
     }
   ],
   "errors": [
