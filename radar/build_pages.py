@@ -2,21 +2,27 @@ import re
 import build
 
 build.SEARCHES.extend([
- ('creator','유튜브 수익화 조건 OR 쇼츠 수익 조건 OR 유튜브 파트너 프로그램 when:60d'),
- ('creator','네이버 애드포스트 수익 OR 블로그 애드센스 수익 OR 블로그 수익화 방법 when:60d'),
- ('affiliate','쿠팡파트너스 수익 OR 제휴마케팅 수익 OR 어필리에이트 수익 when:60d'),
- ('commerce','전자책 판매 수익 OR 템플릿 판매 수익 OR 디지털 상품 판매 when:60d'),
- ('commerce','스마트스토어 부업 OR 온라인 판매 부업 OR 위탁판매 부업 when:60d'),
- ('side','크몽 부업 OR 재능판매 수익 OR 프리랜서 부업 when:60d'),
- ('creator','인스타 수익화 조건 OR Threads 수익화 OR X 수익화 조건 when:60d'),
- ('ai','AI 자동화 부업 OR ChatGPT 부업 방법 OR AI 부업 수익 when:60d'),
- ('side','재택 부업 방법 OR N잡 수익 방법 OR 투잡 수익 방법 when:60d'),
- ('apptech','앱테크 수익 OR 리워드 앱 수익 OR 포인트 앱테크 when:60d'),
+ ('creator','유튜브 수익화 조건 OR 쇼츠 수익 조건 OR 유튜브 파트너 프로그램 when:90d'),
+ ('creator','유튜브 쇼츠 월수익 OR 유튜브 수익 공개 when:90d'),
+ ('creator','네이버 애드포스트 수익 OR 블로그 애드센스 수익 OR 블로그 수익화 방법 when:90d'),
+ ('creator','애드센스 월수익 OR 애드포스트 월수익 when:90d'),
+ ('affiliate','쿠팡파트너스 수익 OR 제휴마케팅 수익 OR 어필리에이트 수익 when:90d'),
+ ('affiliate','쿠팡파트너스 월수익 OR 제휴마케팅 월수익 when:90d'),
+ ('commerce','전자책 판매 수익 OR 템플릿 판매 수익 OR 디지털 상품 판매 when:90d'),
+ ('commerce','전자책 월수익 OR 템플릿 월수익 OR 디지털상품 월수익 when:90d'),
+ ('commerce','스마트스토어 부업 OR 온라인 판매 부업 OR 위탁판매 부업 when:90d'),
+ ('commerce','스마트스토어 월매출 OR 위탁판매 월수익 when:90d'),
+ ('side','크몽 부업 OR 재능판매 수익 OR 프리랜서 부업 when:90d'),
+ ('side','크몽 월수익 OR 프리랜서 월수익 OR 재능판매 월수익 when:90d'),
+ ('creator','인스타 수익화 조건 OR Threads 수익화 OR X 수익화 조건 when:90d'),
+ ('ai','AI 자동화 부업 OR ChatGPT 부업 방법 OR AI 부업 수익 when:90d'),
+ ('ai','AI 자동화 월수익 OR ChatGPT 부업 수익 사례 when:90d'),
+ ('side','재택 부업 방법 OR N잡 수익 방법 OR 투잡 수익 방법 when:90d'),
+ ('apptech','앱테크 수익 OR 리워드 앱 수익 OR 포인트 앱테크 when:90d'),
 ])
 
-# Duplicate clustering must not merge unrelated stories merely because both say
-# "AI" or "monetization". These are discovery words, not event identifiers.
-build.STOP.update({'수익화','ai','영상','기사','뉴스','플랫폼','콘텐츠','온라인','판매','조건','변경','광고'})
+# Generic discovery words must not make unrelated stories look like one event.
+build.STOP.update({'수익화','ai','영상','기사','뉴스','플랫폼','콘텐츠','온라인','판매','조건','변경','광고','월수익','매출','사례'})
 build.BAD = build.BAD + ('특징주','목표주가','주가','증시','ubs','sap','대기업 부업','회사 안에서 부업','일본 대기업','日대기업')
 
 _SIDE_SCOPES={'creator','affiliate','commerce','ai','side','apptech'}
@@ -55,10 +61,11 @@ def actionable_side(text):
     ai_mechanism=(('ai 자동화' in t or 'chatgpt' in t or 'gpt' in t) and ('부업' in t or '수익' in t) and any(x in t for x in ('방법','자동화','판매','서비스','프리랜서','콘텐츠')))
     if not (mechanism or ai_mechanism):
         return False
-    # A reusable method/policy/change is preferred over a mere "someone earned X" anecdote.
     actionable=any(x.lower() in t for x in _SIDE_ACTION)
     concrete_money=bool(re.search(r'\d[\d,]*(?:\.\d+)?\s*(?:천|만|억)?\s*원',t))
-    return actionable or (concrete_money and any(x in t for x in ('방법','정산','수수료','단가','조건','판매')))
+    # Platform + concrete earnings is useful as a case study, provided it is not
+    # corporate/foreign workplace chatter (already rejected above).
+    return actionable or concrete_money
 
 _original_items=build.items_from_xml
 def strict_items(raw,source,label,scope,official=False):
