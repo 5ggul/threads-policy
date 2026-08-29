@@ -92,7 +92,7 @@ TOPICS = [
         "label": "앱테크",
         "query": '(앱테크 OR 리워드 서비스 OR 포인트 적립) (출시 OR 적립 OR 혜택 OR 현금 OR 전환) when:90d',
         "must": ("앱테크", "리워드", "포인트"),
-        "signals": ("현금", "출금", "적립", "포인트", "혜택", "전환", "출시"),
+        "signals": ('현금', '출금', '적립', '포인트', '혜택', '전환', '출시', '오픈', '미션', '만보기'),
         "angle": "클릭 몇 번으로 받는 포인트가 실제 어디에 쓰이고 얼마 가치인지",
         "check": "참여 대상·포인트 전환처·이벤트 종료일·개인정보 제공 범위 확인",
     },
@@ -219,7 +219,7 @@ GENERIC_TOKENS = {
     "이번", "오늘", "올해", "내년", "최대", "최고", "뉴스", "기자", "영상",
     "정책", "변경", "공개", "플랫폼", "부업", "재테크", "혜택", "광고",
 }
-ACTION_TERMS = ("신청", "접수", "마감", "대상", "자격", "조건", "정산", "수수료", "한도", "적용", "변경", "가입", "판매", "지급")
+ACTION_TERMS = ('신청', '접수', '마감', '대상', '자격', '조건', '정산', '수수료', '한도', '적용', '변경', '가입', '판매', '지급', '출시', '오픈', '적립', '전환')
 MONEY_RE = re.compile(r'(?<!\d)(?:\d[\d,]*(?:\.\d+)?)\s*(?:천|만|억)?\s*원|(?:\d+(?:\.\d+)?)\s*[%％]')
 DATE_RE = re.compile(r'(?:(?:\d{1,2})월\s*\d{1,2}일|(?:\d{4})[.\-/]\d{1,2}[.\-/]\d{1,2})')
 
@@ -307,13 +307,22 @@ def matches_topic(topic: dict, title: str, summary: str) -> bool:
     if lane == "혜택" and not any(x in text for x in ("신청", "접수", "지급", "대상", "마감", "기간", "한도", "캐시백")):
         return False
 
-    if lane == "부업":
-        mechanism = (
-            any(x in text for x in ("애드센스", "애드포스트", "쿠팡파트너스", "제휴마케팅",
-                                     "스마트스토어", "전자책", "템플릿", "크몽", "앱테크"))
-            or ("유튜브" in text and any(x in text for x in ("수익", "수익화", "광고", "파트너")))
-            or (("ai" in text or "chatgpt" in text) and any(x in text for x in ("판매", "서비스", "프리랜서", "자동화", "부업")))
-        )
+    if lane == '부업':
+        if topic["id"] == "apptech":
+            mechanism = (
+                any(x in text for x in ('앱테크', '리워드', '포인트'))
+                and any(x in text for x in ('적립', '전환', '출시', '오픈', '혜택', '현금', '출금', '미션', '만보기'))
+            )
+        elif topic["id"] == "ai_service":
+            mechanism = (
+                ("ai" in text or "chatgpt" in text)
+                and any(x in text for x in ('부업', '수익', '판매', '프리랜서', '대행', '고객'))
+            )
+        else:
+            mechanism = (
+                any(x in text for x in ('애드센스', '애드포스트', '쿠팡파트너스', '제휴마케팅', '스마트스토어', '전자책', '템플릿', '크몽'))
+                or ('유튜브' in text and any(x in text for x in ('수익', '수익화', '광고', '파트너')))
+            )
         if not mechanism:
             return False
     return True
@@ -344,6 +353,8 @@ def article_score(topic: dict, title: str, summary: str, source: str, published:
         score += 8
     if DATE_RE.search(text):
         score += 4
+    if topic["id"] == "apptech" and any(x in text for x in ('출시', '오픈', '적립', '전환', '미션', '만보기')):
+        score += 14
     score += min(8, 3 * sum(1 for x in topic["must"] if x.lower() in text))
     return min(99, score)
 
