@@ -50,7 +50,7 @@ jobs:
           assert all(x['why_now'] and x['angle'] and x['check_first'] for x in rows)
           assert not [x['headline'] for x in rows if any(b.lower() in x['headline'].lower() for b in blocked)]
           per_topic=Counter(x['topic_id'] for x in rows)
-          assert max(per_topic.values(), default=0) <= 2, per_topic
+          assert max(per_topic.values(), default=0) <= 1, per_topic
           assert d['counts'].get('부업',0) >= 2, d['counts']
           print('MONEY_HUNT_QUALITY_PASS', d['counts'], d['meta'])
           for x in rows:
@@ -61,9 +61,10 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+5ggul@users.noreply.github.com
+          git pull --rebase origin main
           git add radar/index.html radar/data.json
           git diff --cached --quiet || git commit -m 'data: refresh MONEY HUNT'
-          git push || true
+          git push
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
