@@ -61,10 +61,11 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+5ggul@users.noreply.github.com
-          git pull --rebase origin main
           git add radar/index.html radar/data.json
           git diff --cached --quiet || git commit -m 'data: refresh MONEY HUNT'
-          git push
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
