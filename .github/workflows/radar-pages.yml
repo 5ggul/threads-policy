@@ -2,6 +2,9 @@ name: topic-hunt-daily
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'radar/manual-trigger.txt'
   schedule:
     - cron: '40 0 * * *'
 
@@ -30,6 +33,7 @@ jobs:
 
       - name: Build TOPIC HUNT
         run: python radar/build.py
+
       - name: Quality gate
         run: |
           python - <<'PY'
@@ -57,6 +61,7 @@ jobs:
           git fetch origin main
           git rebase origin/main
           git push origin HEAD:main
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
