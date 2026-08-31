@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31 14:07 KST",
+  "generated_at": "2026-08-31 15:05 KST",
   "counts": {
     "부업": 3,
     "재테크": 7,
@@ -11,6 +11,45 @@
     "플랫폼": 0
   },
   "items": [
+    {
+      "id": "loan-다시뛰는대출금리주담대8전망",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "PICK",
+      "score": 81,
+      "headline": "다시 뛰는 대출금리…주담대 8% 전망",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [
+        "8%"
+      ],
+      "published_at": "2026-08-31T05:41:44+00:00",
+      "source_count": 9,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "다시 뛰는 대출금리…주담대 8% 전망",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01aWNtSDJmRW5DcmR5Q2t0aDljLU1xREpVSlNIbF9kTjBKVGczM1JpZ3ZnM21GUTJTU1Q4RzYxVEZtOFlFaU9vXzBhdUF4UVlCLUJ5SnFZWURNajI4bjdZOTh1dlA3Zw?oc=5"
+        },
+        {
+          "name": "머니투데이",
+          "title": "대출총량 풀리는데, 금리 날뛴다… 주담대 '8%' 찍나 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2Y1hULVFmZXFJbEk0QVh5Y0lQQlJqZFBhcHNuNi1pMzZIeXI5NWpRT09UTHc5RkE5T0dPWFBZRlFRclRJYzNWMnBjdTNFcTlYbXJlTG1OMHFVbUtLajM2ckNfSGcwTDJDTjFV0gFwQVVfeXFMTzVlc2tKVlQyRlZQYUNROEQwXzBGZzRhbUY0cnZFSk1OaFZTdEhNTWQ5U0Q5Mlk5NG1qbFBDVnV1djVPaGQ5cU5TeUFEUlZJWkFZelBvUHNIWkpESjdnOTZocllOQnpfbTEwQm11U3FPYQ?oc=5"
+        },
+        {
+          "name": "서울경제",
+          "title": "“3억 대출땐 한달 이자만 200만원”…주담대 금리 연내 8% 돌파 가능성",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14YzVQVjY2TUtTMU1lZUJJbEFtLUVyTjRhMUdBRUxHMW1uYWhMY1ozeE9uaml1eG1iLVBhTWRWcWo3RUpuRFBWcVNMaUU5REJrUXc?oc=5"
+        },
+        {
+          "name": "SBS Biz",
+          "title": "[집중진단] 주담대 금리 연 8% 뚫릴 수도…‘이자 폭탄’ 예고 변동형 주담대 어쩌나",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByUk16aTdhdlhydjF5U2hIZEZ5bVVNVUxKMVFNLTZCb0ZoQzFnRHlEVVFUd0pZRHhuVEJ3N3RJSVJGWlNwcXJoel9ITm9lcEo4X3dn0gFYQVVfeXFMTklBVjBrbDN5VlV6VjZQVjl3VlhmR21qME1qTXZZYXZMeFdZLWdFWXJMUkYwb1dLN2d3ci11LXk3Zmo3MUtoV2VSVGxESFh1c0FObkxZMEJ0ZQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "loan-뛰는대출금리배경에3기준금리보다더높은은행가산금리",
       "topic_id": "loan",
@@ -76,6 +115,33 @@
           "name": "뉴스1",
           "title": "키움증권, 출시 1년 8개월만에 '키움포인트' 가입자 100만 돌파",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tSEJYTjdDV1hlSldWcjFQcXB1LWpTdDVqbWJZSF9iRDJKbXFWY2NDOWFhRm5HUmNBaEhvMFdqQlJpRzdUWkFDdDNkUDdXQ0Q3ZWZXaUd1Q2FoZGN3NVl6eks1dlPSAWRBVV95cUxPLUhCWE43Q1dYZUpXVnIxUHFwdS1qU3Q1am1iWUhfYkQySm1xVmNjQzlhYUZuR1JjQWhIbzBXakJSaUc3VFpBQ3QzZFA3V0NEN2VmV2lHdUNhaGRjdzVZenpLNXZT?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_product_news-사진찍으면ai가알아서정리skt에이닷로그출시",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
+      "status": "WATCH",
+      "score": 76,
+      "headline": "사진 찍으면 AI가 알아서 정리…SKT, '에이닷 로그' 출시",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "money_signal": [],
+      "published_at": "2026-08-31T00:07:00+00:00",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "뉴스1",
+          "title": "사진 찍으면 AI가 알아서 정리…SKT, '에이닷 로그' 출시",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43eVBsQi1QNWlBNUVQSVl2OHR5WURtUm5aSmFieTVyODRJcFE3UlFyNFdwYXRDUVcyNHJSUklTd2Z6cnNCTzF2RTJ0YzdrZE5TdE1PZktSckhGWnNGLWFhU9IBZkFVX3lxTE1qZVhrMnpfQ2lIbWFSczNOMGxacGFYOUZ1eFFJR184a21sQS1GZjAtNnkyaFd5eGZQbG5qLW54OGI5TUx6SGdWb0g5TmFCUFBMclNBbUJkclpPVy1vcm9zckJ0amtrQQ?oc=5"
+        },
+        {
+          "name": "서울파이낸스",
+          "title": "'AI가 사진 자동 정리'···SKT,에이닷 로그 출시",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GMHpUS18zQllMVnprUURhclFHYVdwNVZrS0pvNXBFcTJHemk4UmUzYlE0bE1nY3FYLXYyTDJ4aEVYRlJEcWg4SGFDVm5QNE9LWnRKYW1ZY1dzY1g0VVJPaGZRNkdtNjFjY1E?oc=5"
         }
       ]
     },
@@ -185,28 +251,6 @@
       ]
     },
     {
-      "id": "ai_product_news-ai가사진자동정리skt에이닷로그출시",
-      "topic_id": "ai_product_news",
-      "lane": "AI",
-      "label": "AI 신제품",
-      "status": "WATCH",
-      "score": 71,
-      "headline": "'AI가 사진 자동 정리'···SKT,에이닷 로그 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
-      "money_signal": [],
-      "published_at": "2026-08-31T01:29:28+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "서울파이낸스",
-          "title": "'AI가 사진 자동 정리'···SKT,에이닷 로그 출시",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GMHpUS18zQllMVnprUURhclFHYVdwNVZrS0pvNXBFcTJHemk4UmUzYlE0bE1nY3FYLXYyTDJ4aEVYRlJEcWg4SGFDVm5QNE9LWnRKYW1ZY1dzY1g0VVJPaGZRNkdtNjFjY1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ai_product_news-바이낸스ai에이전트연결플랫폼에이전트os공개",
       "topic_id": "ai_product_news",
       "lane": "AI",
@@ -225,30 +269,6 @@
           "name": "전자신문",
           "title": "바이낸스, AI 에이전트 연결 플랫폼 '에이전트 OS' 공개",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NcDZQdFJHa294c0Z2QjRSczhxN2RSOVVoS085TGdNSE9YaHhlRTBHVEhGWU5XaVVuZndYcllXSkxRZnNHX2F6c2VOTUtDZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-5억주담대이자만연125만원더요즘대출고정변동복잡해진셈법",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "“5억 주담대 이자만 연125만원 더”…요즘 대출 고정? 변동? ‘복잡해진 셈법’",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "125만원"
-      ],
-      "published_at": "2026-08-30T01:14:57+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "매일경제",
-          "title": "“5억 주담대 이자만 연125만원 더”…요즘 대출 고정? 변동? ‘복잡해진 셈법’",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WaXNNRGFQb0FmUlB3b01HTVFxUXVsMEdjVXg3Z2ctZWJ3aXdjX0JpUXRtNVVzaldiZ1lVQTdzdGNteVV6d2owRVFvRG1SWDhsSzEtLQ?oc=5"
         }
       ]
     },
@@ -401,88 +421,88 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 37,
+    "raw_articles": 39,
     "shown": 16,
     "topic_raw_counts": {
-      "apptech": 1,
       "tax": 0,
-      "youtube_ypp": 3,
+      "apptech": 1,
       "affiliate": 1,
+      "youtube_ypp": 3,
       "blog_ads": 0,
       "benefit": 2,
-      "deposit": 16,
       "policy": 1,
-      "loan": 28,
+      "loan": 30,
       "sns_growth": 4,
+      "deposit": 16,
       "openai_official": 3,
       "reviewer": 2,
-      "youtube_metrics": 0,
-      "chatgpt_update": 0,
-      "instagram_metrics": 0,
       "creator_campaign": 3,
+      "youtube_metrics": 0,
+      "instagram_metrics": 0,
+      "digital_tip": 1,
+      "chatgpt_update": 0,
       "useful_info": 3,
       "ai_creator": 1,
-      "digital_tip": 1,
+      "claude_update": 0,
       "platform": 1,
       "gemini_update": 0,
-      "claude_update": 0,
       "chrome_tip": 0,
-      "naver_creator_money": 0,
-      "youtube_shopping": 1,
       "smartstore_seller": 0,
-      "creator_sponsorship": 0,
+      "youtube_shopping": 1,
       "freelance_market": 0,
-      "youtube_analytics_official": 1,
+      "naver_creator_money": 0,
       "digital_product": 0,
+      "creator_sponsorship": 0,
       "instagram_reels_metrics": 0,
+      "naver_blog_metrics": 0,
       "youtube_shorts_metrics": 0,
       "youtube_channel_metrics": 0,
-      "naver_blog_metrics": 0,
       "beauty_reviewer": 0,
-      "food_reviewer": 0,
       "threads_growth": 0,
-      "tech_reviewer": 0,
+      "food_reviewer": 0,
+      "youtube_analytics_official": 1,
       "tiktok_metrics": 0,
       "x_account_metrics": 0,
+      "tech_reviewer": 0,
       "travel_reviewer": 0,
-      "creator_ambassador": 2,
       "app_beta_reviewer": 0,
+      "creator_ambassador": 2,
+      "ai_search": 0,
       "ai_video_tools": 0,
-      "ai_coding": 0,
       "ai_image_tools": 0,
+      "ai_coding": 0,
       "ai_agents": 4,
-      "ai_search": 1,
       "korean_ai": 0,
       "productivity_tip": 0,
-      "pc_tip": 0,
       "public_data_tip": 0,
-      "energy_support": 0,
+      "mobile_tip": 1,
+      "pc_tip": 0,
       "travel_tip": 0,
-      "mobile_tip": 0,
+      "energy_support": 0,
       "privacy_tip": 0,
       "telecom_discount": 0,
-      "local_currency": 1,
       "education_support": 0,
-      "employment_support": 0,
+      "local_currency": 1,
       "family_benefit": 0,
+      "employment_support": 0,
       "card_benefit": 0,
-      "pension_tax": 0,
       "bank_product": 0,
-      "mortgage_policy": 0,
-      "isa_change": 0,
       "smallbiz_money": 0,
+      "pension_tax": 0,
+      "isa_change": 0,
+      "mortgage_policy": 0,
       "tax_refund": 1,
       "pension_public": 0,
-      "youtube_policy": 0,
       "instagram_platform": 0,
+      "youtube_policy": 0,
+      "x_platform": 0,
       "threads_platform": 0,
       "naver_platform": 0,
       "coupang_platform": 0,
-      "x_platform": 0,
       "youtube_money_change": 2,
       "youtube_shop_affiliate": 2,
       "creator_commerce": 1,
-      "ai_product_news": 13
+      "ai_product_news": 14
     },
     "errors": []
   }
