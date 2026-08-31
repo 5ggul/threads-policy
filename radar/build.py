@@ -51,6 +51,7 @@ def source_of(node):
  return clean(el.text if el is not None else '')
 def source_score(src):
  s=src.lower()
+ if any(x in s for x in ('프리미엄콘텐츠','개인블로그','브런치')): return 0
  return max((v for k,v in SOURCE_SCORES.items() if k.lower() in s),default=0)
 
 def tokens(s):
@@ -66,7 +67,7 @@ def allowed(topic,title,summary):
  if lane=='리뷰어' and (not any(x in text for x in ('모집','신청','선정','캠페인','제공')) or not any(x in text for x in ('리뷰','후기','제품','사용기','제공','콘텐츠','sns','서포터즈','앰배서더','크리에이터'))):return False
  if lane=='AI' and any(x in text for x in ('주가','특징주','투자의견','실적 전망','증권가')):return False
  if lane=='SNS분석' and not any(x in text for x in ('분석','인사이트','지표','도달','알고리즘','추천','집계','기준','방식','개편','변경')):return False
- if lane=='꿀팁' and not any(x in text for x in ('기능','설정','무료','방법','신청','이용','제공','업데이트')):return False
+ if lane=='꿀팁' and (not any(x in text for x in ('기능','설정','방법','신청','이용','업데이트','무료 공개','무료 개방')) or any(x in text for x in ('누가 돈 내나','가치관','시장 전망','우려','논란'))):return False
  if lane=='부업' and any(x in text for x in ('기업 실적','매출 전망','주가','증시','직원 부업 허용')):return False
  return True
 
@@ -168,17 +169,18 @@ def dedupe(rows):
   x['related']=[];kept.append(x)
  return kept
 def seen_before(row,seen):
+ today=dt.datetime.now(KST).date()
  for old in seen:
   if old.get("topic_id")!=row.get("topic_id"):continue
+  try:old_date=dt.date.fromisoformat(old.get("date","1900-01-01"))
+  except Exception:old_date=dt.date(1900,1,1)
+  if old_date==today:continue
   A=set(row.get("tokens") or tokens(row.get("title","")));B=set(old.get("tokens",[]))
   if not A or not B:continue
   hit=len(A&B); sim=hit/max(1,len(A|B))
-  try:old_date=dt.date.fromisoformat(old.get("date","1900-01-01"))
-  except Exception:old_date=dt.date(1900,1,1)
-  recent=(dt.datetime.now(KST).date()-old_date).days<=3
   nums_a=set(re.findall(r"\d+(?:\.\d+)?",row.get("title",""))); nums_b=set(re.findall(r"\d+(?:\.\d+)?",old.get("title","")))
-  finance_repeat=row.get("topic_id") in {"loan","deposit","tax"} and recent and bool(nums_a & nums_b) and hit>=1
-  if sim>=.32 or hit>=3 or (recent and hit>=2) or finance_repeat:return True
+  finance_repeat=row.get("topic_id") in {"loan","deposit","tax","mortgage_policy","bank_product"} and bool(nums_a & nums_b) and hit>=2
+  if sim>=.52 or hit>=4 or finance_repeat:return True
  return False
 
 def final_items(rows):
