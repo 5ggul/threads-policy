@@ -1,323 +1,372 @@
 {
-  "generated_at": "2026-09-01 14:37 KST",
+  "generated_at": "2026-09-02 14:02 KST",
   "counts": {
     "부업": 1,
-    "재테크": 3,
-    "혜택": 1,
+    "재테크": 4,
+    "혜택": 2,
     "SNS분석": 0,
     "리뷰어": 0,
-    "AI": 6,
+    "AI": 7,
     "꿀팁": 1,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "useful_info-skt에어회원20만돌파유튜브이용권무료제공행사",
-      "topic_id": "useful_info",
-      "lane": "꿀팁",
-      "label": "유용정보",
-      "status": "PICK",
-      "score": 82,
-      "headline": "SKT ‘에어’ 회원 20만 돌파…유튜브 이용권 무료 제공 행사",
-      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
-      "angle": "돈 안 들이고 바로 써먹을 수 있는 공식 서비스와 사용법",
-      "check_first": "공식 운영기관·무료 범위·회원가입 필요 여부 확인",
+      "id": "openai_official-healthcareorganizationscannowconnectehrand",
+      "topic_id": "openai_official",
+      "lane": "AI",
+      "label": "OpenAI 공식",
+      "status": "NOW",
+      "score": 94,
+      "headline": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
+      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
       "money_signal": [],
-      "published_at": "2026-09-01T00:29:39+00:00",
+      "published_at": "2026-09-01T12:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "서울경제TV",
-          "title": "SKT ‘에어’ 회원 20만 돌파…유튜브 이용권 무료 제공 행사",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11Mld5b3ZrUXVTMzNndDkyQmJVLTFzZ0FudkxlWTZfU2xHV2ZTNUQ3eGlsSFhrbHc2MlZzbnFqLWxldl94czhzeWVCaE56VUk3SWk4ZzdjeGNRUEFYbHhZSWFFNzQ?oc=5"
+          "name": "OpenAI 공식",
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
         }
       ]
     },
     {
-      "id": "loan-5년간빚갚았는데도월부담80만원뛴다주담대금리폭탄우려머니투데이",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 75,
-      "headline": "\"5년간 빚 갚았는데도\" 월 부담 80만원 뛴다?...주담대 '금리 폭탄' 우려 - 머니투데이",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "80만원"
-      ],
-      "published_at": "2026-08-31T19:02:00+00:00",
+      "id": "youtube_shop_affiliate-유튜브서아마존상품바로판다구글영상쇼핑키워",
+      "topic_id": "youtube_shop_affiliate",
+      "lane": "부업",
+      "label": "유튜브 쇼핑 제휴",
+      "status": "PICK",
+      "score": 79,
+      "headline": "유튜브서 아마존 상품 바로 판다…\"구글, ‘영상 쇼핑’ 키워\"",
+      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
+      "angle": "어떤 상품을 태그하고 판매 발생 시 어떻게 수익이 생기는지",
+      "check_first": "YouTube 공식 쇼핑 제휴 자격·수수료·국가 조건 확인",
+      "money_signal": [],
+      "published_at": "2026-09-02T00:21:02+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "머니투데이",
-          "title": "\"5년간 빚 갚았는데도\" 월 부담 80만원 뛴다?...주담대 '금리 폭탄' 우려 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QOWw5SzhIdTAzLW9zMmNZbDVZZ2VlbVZpMFhYck9jRE9WaWtZY25mSWtVU1Q5b3hZVkxzcWFpSm44R2tyMFcxZE1mSTliOF82MHhXTVdFQnlmcWdxTGR4TTlUQUxjQ3ZjaUlV0gFwQVVfeXFMTmhVZ0ZBSVF3UFd5UkJTV1BOendCVHdVbkhmSWtiSzNLcXhGRF9NNUlZbEhpRURSQU44ZjNqRlhQQUYwbU9VdTQ5Ui01Vnd1MVZRcHZEa0dFYTZXV2RHYnhtLW40aWU0dUxLcU12Ulk1Qg?oc=5"
+          "name": "지디넷코리아",
+          "title": "유튜브서 아마존 상품 바로 판다…\"구글, ‘영상 쇼핑’ 키워\"",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zNlRxRjNNd1ZuU3o1bXgwZGQzQk83STlaUlBHbWRfMHFyc25Db3ZLa2VFdXNDQlV3VExDempDd2Nvcmxabk9pZV9NaE8ycWU4dTF2bnpn?oc=5"
         }
       ]
     },
     {
-      "id": "ai_product_news-메리츠증권새투자플랫폼모음출시주식매매기능에ai커뮤니티결합조선비즈",
+      "id": "ai_product_news-빗썸ai활용가상자산종목시황분석빗썸ai출시",
       "topic_id": "ai_product_news",
       "lane": "AI",
       "label": "AI 신제품",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "메리츠증권, 새 투자 플랫폼 ‘모음’ 출시… “주식 매매 기능에 AI·커뮤니티 결합” - 조선비즈",
+      "status": "PICK",
+      "score": 78,
+      "headline": "빗썸, AI 활용 가상자산 종목·시황 분석…'빗썸 AI' 출시",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
       "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
       "money_signal": [],
-      "published_at": "2026-09-01T02:12:00+00:00",
+      "published_at": "2026-09-02T00:24:24+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "Chosunbiz",
-          "title": "메리츠증권, 새 투자 플랫폼 ‘모음’ 출시… “주식 매매 기능에 AI·커뮤니티 결합” - 조선비즈",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSE1lcWl3MzBaSzc1enVYUXNua3cyZTl5eEJCWXVzQUJNWmdXaDdaT0R6NEJrNVoyWFJvbTNETmFxdmxzaGdEb0hWcGIwdFZBV3QzMEtKT0kxeFl0VFZOcmJEbjhXQkh3NUlfVFJ3dWhCc2o5cDRFVHpxQVBQRFVCVEJFYjJZZlBR0gGcAUFVX3lxTE5KOW43V1VsU3RGa3IxNlRvSjhXUkxFaHQzYzg5UmMzaldMUHQ5WG5EWmdFRkpxSTlkOFB2QkVLNGt0eWVhaWlDV2VXdG9CTjNjbFFQdG16X0hHNGVWcTJwVmUzc0JrUUI4bG5VcVVHTFlWcDItTjBQeFNsRkpqVGtxR1JuVHhINE1CTzdVcjZPQl9ubUNnaEVnbHV3bQ?oc=5"
+          "name": "연합뉴스",
+          "title": "빗썸, AI 활용 가상자산 종목·시황 분석…'빗썸 AI' 출시",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CUmZXNjFNVjVnSlFsbzNkNnJuekV0VHB3OElRZ3EtMXJST3UzQVZBWUZ4SWJoR3NHVmw2U1hERE14RWY5Z2t0M25PZFRvaFpra3REaGNUZWRMTlVQQmt3atIBYEFVX3lxTE1CUmZXNjFNVjVnSlFsbzNkNnJuekV0VHB3OElRZ3EtMXJST3UzQVZBWUZ4SWJoR3NHVmw2U1hERE14RWY5Z2t0M25PZFRvaFpra3REaGNUZWRMTlVQQmt3ag?oc=5"
         }
       ]
     },
     {
-      "id": "apptech-dbincb2b리워드플랫폼리워드허브출시",
-      "topic_id": "apptech",
-      "lane": "부업",
-      "label": "앱테크",
+      "id": "ai_product_news-오픈ai차세대ai아스트라출시자율해킹기능은제한",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
       "status": "WATCH",
-      "score": 74,
-      "headline": "DB Inc., B2B 리워드 플랫폼 '리워드허브' 출시",
-      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
-      "angle": "포인트가 실제 어디에 쓰이고 얼마 가치인지",
-      "check_first": "참여 대상·포인트 전환처·이벤트 종료일 확인",
+      "score": 76,
+      "headline": "오픈AI, 차세대 AI 아스트라 출시…자율 해킹 기능은 제한",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
       "money_signal": [],
-      "published_at": "2026-09-01T01:00:00+00:00",
+      "published_at": "2026-09-02T03:02:57+00:00",
       "source_count": 2,
       "sources": [
         {
-          "name": "전자신문",
-          "title": "DB Inc., B2B 리워드 플랫폼 '리워드허브' 출시",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DcFlwMkptZFVnTGw0dHRLcGRLQmlzUUI1NS1jdjg3TWJmd1ZHT1F4aW9iMkNTQnA3SEd4YVBSdnkyVlQyY09fWHlLMzd5dw?oc=5"
+          "name": "동아일보",
+          "title": "오픈AI, 차세대 AI 아스트라 출시…자율 해킹 기능은 제한",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yd3JZVWlHb3VNaEJmOEVscDQ0OE9FVkZsTnI0b19ESVhOM01DRVJURnBfbVRnT1VzZ3lTZFJpNHdldTBia2NoRWFadHVRbFRYMk5wel9zRmNsZFZwY0lPLUFBTG94Z9IBZkFVX3lxTE4yd3JZVWlHb3VNaEJmOEVscDQ0OE9FVkZsTnI0b19ESVhOM01DRVJURnBfbVRnT1VzZ3lTZFJpNHdldTBia2NoRWFadHVRbFRYMk5wel9zRmNsZFZwY0lPLUFBTG94Zw?oc=5"
         },
         {
-          "name": "디지털데일리",
-          "title": "DB아이엔씨, B2B 리워드 플랫폼 `리워드허브` 출시",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TcjFVMlRKVWRpSUw0bnNBRE5FMU1mdjMtMnFMMEJGbkZ6bGQyd2g3YmM3OTBiS3BEMG8zTzBhdzEtNVFlanNZY1NLSkFBYi0xeVhrem5iTnF1U1AwZHdUUVRUWXo?oc=5"
+          "name": "전자신문",
+          "title": "오픈AI, 차세대 모델 '아스트라' 곧 출시…사이버 보안 기능 일부 제한 예정",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ma1M0MmQybTZXMWsyUnNjTllrTUFMQzI2Mmh4X0FfRG5CemExdFRna204eVlxWFI4WHlEQW94VU1DdC1hOVhqWW9iUlRMUQ?oc=5"
         }
       ]
     },
     {
-      "id": "ai_agents-아이티센그룹엔터프라이즈ai보안솔루션에이전트고가드출시",
+      "id": "ai_video_tools-ncai오디오생성편집ai설루션바르코사운드정식출시",
+      "topic_id": "ai_video_tools",
+      "lane": "AI",
+      "label": "AI 영상",
+      "status": "WATCH",
+      "score": 76,
+      "headline": "NC AI, 오디오 생성·편집 AI 설루션 '바르코 사운드' 정식 출시",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "영상 제작시간·비용을 얼마나 줄이는지 실제 사용 관점",
+      "check_first": "공식 제품 페이지의 요금·워터마크·상업이용 확인",
+      "money_signal": [],
+      "published_at": "2026-09-01T23:30:25+00:00",
+      "source_count": 6,
+      "sources": [
+        {
+          "name": "뉴스1",
+          "title": "NC AI, 오디오 생성·편집 AI 설루션 '바르코 사운드' 정식 출시",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOdkhFSGRrZkdnaVNtMkdTeHZhWklrNUJiaGgtdHF0ZTAyUXdQcURVNFFEa3llU1dmZU5Eb2hrcXpuaHhIanhHRnczZ3NMc3M0SkZxXzBDRmN6M2oyVTBuOWFIdmR2V1ppNllTblVn0gFuQVVfeXFMUE52SEVIZGtmR2dpU20yR1N4dmFaSWs1QmJoaC10cXRlMDJRd1BxRFU0UURreWVTV2ZlTkRvaGtxem5oeEhqeEdGdzNnc0xzczRKRnFfMENGY3ozajJVMG45YUh2ZHZXWmk2WVNuVWc?oc=5"
+        },
+        {
+          "name": "서울경제TV",
+          "title": "“전문 지식 없어도 말로 편집”…NC AI, ‘바르코 사운드’ 출시",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sYXpwYlBLdHpTZ0liRXBZT2ZKazFRS2FQcFVWSXkxbDBicm9lYzI5TmE0dnZ4NnplME92cFFpaC04TnljN1U0UWhOcy1FcWwzNDdGRlN6bXd1TWRFRm1YNnBMUEQ?oc=5"
+        },
+        {
+          "name": "Chosunbiz",
+          "title": "NC AI, 생성형 오디오 플랫폼 ‘바르코 사운드’ 정식 출시 - 조선비즈",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczJrX3RzbTFBX0pBMU5zSV9VX0tFR1pLZnl1UEl1cWdIYmFxaGxyVDRXZ1ZmaWs3WTVhRHJIUFZnczZ0WVpXRVFNT25WYml6eEs1UDZxLVhMZUQ4NkpGNk5LajFocXRqZU1sczZxX3JoRjVtUFE1QjhnTDZfNlo4d3BPYTN0eW5xaDBxS05pNldCNXlzR3fSAZYBQVVfeXFMT3Mya190c20xQV9KQTFOc0lfVV9LRUdaS2Z5dVBJdXFnSGJhcWhsclQ0V2dWZmlrN1k1YURySFBWZ3M2dFlaV0VRTU9uVmJpenhLNVA2cS1YTGVEODZKRjZOS2oxaHF0amVNbHM2cV9yaEY1bVBRNUI4Z0w2XzZaOHdwT2EzdHlucWgwcUtOaTZXQjV5c0d3?oc=5"
+        },
+        {
+          "name": "아이뉴스24",
+          "title": "NC AI, 오디오 생성 AI 서비스 '바르코 사운드' 정식 출시",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Zd3BoRFgwaDFHemR0c2xpT0c4V3JpejZCVzNQc0dqUDBaS1k2YkJHdTA4UnU3dlp1SnZoR2lnMmdMZmk0RHpRZkFodw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_agents-전문지식없어도말로편집ncai바르코사운드출시",
+      "topic_id": "ai_agents",
+      "lane": "AI",
+      "label": "AI 에이전트",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "“전문 지식 없어도 말로 편집”…NC AI, ‘바르코 사운드’ 출시",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
+      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
+      "money_signal": [],
+      "published_at": "2026-09-02T04:24:24+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "서울경제TV",
+          "title": "“전문 지식 없어도 말로 편집”…NC AI, ‘바르코 사운드’ 출시",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sYXpwYlBLdHpTZ0liRXBZT2ZKazFRS2FQcFVWSXkxbDBicm9lYzI5TmE0dnZ4NnplME92cFFpaC04TnljN1U0UWhOcy1FcWwzNDdGRlN6bXd1TWRFRm1YNnBMUEQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_agents-오픈ai차세대모델아스트라곧출시사이버보안기능일부제한예정",
       "topic_id": "ai_agents",
       "lane": "AI",
       "label": "AI 에이전트",
       "status": "WATCH",
       "score": 73,
-      "headline": "아이티센그룹, 엔터프라이즈 AI 보안 솔루션 `에이전트고 가드` 출시",
+      "headline": "오픈AI, 차세대 모델 '아스트라' 곧 출시…사이버 보안 기능 일부 제한 예정",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
       "check_first": "공식 문서의 권한·요금·지원 도구 확인",
       "money_signal": [],
-      "published_at": "2026-09-01T02:53:43+00:00",
-      "source_count": 4,
-      "sources": [
-        {
-          "name": "디지털데일리",
-          "title": "아이티센그룹, 엔터프라이즈 AI 보안 솔루션 `에이전트고 가드` 출시",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Oc3ZUdFlaUTVOVmI5ZmowdHZTMnNxVkdiTEpjVXEyV1FlMk4yY0piLVNmY1pJMV9MMzE3Z3lyNElPTlJfLVpfZU13aTlHRHZYdkhIbTA2dzBTZmZhQ2l4ekxUWHA?oc=5"
-        },
-        {
-          "name": "아이뉴스24",
-          "title": "아이티센그룹, 엔터프라이즈 AI 보안 솔루션 '에이전트고 가드' 출시",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wQXVXUS1PZW1WcU82RDFzZmZhbXJaU3JZMnU4dXJqSHowaUpEc2o3SEUyTUlwOFhuZk9oR09PS3NaaHV4aC1STw?oc=5"
-        },
-        {
-          "name": "아주경제",
-          "title": "아이티센, AI 보안 솔루션 에이전트고 가드 출시",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rV2x1eFRkSVg3blQwY19iLWpFU1o2bzI1eFU4V0xDdGZCeUl6VEx3ODJseDRUdkltWlhjTjFqZHdySXcwWlF3bzNFMUhDQ1BlS0x0RDNtczHSAVhBVV95cUxOa1dsdXhUZElYN25UMGNfYi1qRVNaNm8yNXhVOFdMQ3RmQnlJelRMdzgybHg0VHZJbVpYY04xamR3ckl3MFpRd28zRTFIQ0NQZUtMdEQzbXMx?oc=5"
-        },
-        {
-          "name": "디지털투데이",
-          "title": "아이티센그룹, AI 가드레일 통합 보안 솔루션 ‘에이전트고 가드' 출시",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14c2gta1hBUHF2c09BZkotTXpaYlltaThkRDR0MU44TlY5VmZiMEdQdS1pb3hXN1RTWURuNnczNC0yQmZ1UUQ1YU5sRmFYdW5pdU0wRlpvd3BnZlBvelRka1JTUV9WNy0yMG9TT2RRbzk4ZDg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_agents-크라우드스트라이크팔콘iq출시ai에이전트50개보안팀대신일한다",
-      "topic_id": "ai_agents",
-      "lane": "AI",
-      "label": "AI 에이전트",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "크라우드스트라이크 '팔콘 IQ' 출시…AI 에이전트 50개, 보안팀 대신 일한다",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
-      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
-      "money_signal": [],
-      "published_at": "2026-09-01T00:04:46+00:00",
+      "published_at": "2026-09-01T22:59:49+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "디지털투데이",
-          "title": "크라우드스트라이크 '팔콘 IQ' 출시…AI 에이전트 50개, 보안팀 대신 일한다",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HckFCNWVQVjdoT1dOYUNoY2hvaTZrMzI4RnNzRU5Ra0RpdzhaOExFa29FdUw4NXFlNTVyR0k0aFFRNURDQ2kyTEQzZGhoQ0RaZ1VwOGhPSHJGTkk2TWVxZG16YVVqYmlVUG5SdXJ1UEQtZUk?oc=5"
+          "name": "전자신문",
+          "title": "오픈AI, 차세대 모델 '아스트라' 곧 출시…사이버 보안 기능 일부 제한 예정",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ma1M0MmQybTZXMWsyUnNjTllrTUFMQzI2Mmh4X0FfRG5CemExdFRna204eVlxWFI4WHlEQW94VU1DdC1hOVhqWW9iUlRMUQ?oc=5"
         }
       ]
     },
     {
-      "id": "energy_support-삼성전자스마트가전캐시백전기요금절감지원",
-      "topic_id": "energy_support",
-      "lane": "혜택",
-      "label": "에너지 지원",
-      "status": "WATCH",
-      "score": 71,
-      "headline": "삼성전자, '스마트가전 캐시백'…전기요금 절감 지원",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "대상·금액·신청방법과 실제 절감액",
-      "check_first": "한전·가스공사·정부 공식 공고 확인",
-      "money_signal": [],
-      "published_at": "2026-09-01T00:21:00+00:00",
-      "source_count": 2,
-      "sources": [
-        {
-          "name": "서울경제TV",
-          "title": "삼성전자, '스마트가전 캐시백'…전기요금 절감 지원",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xNFhvQ1gtOWE5Y2VsQnJCOXFzX1dyU1A2bkRKVF9aNTJBTEdnZGFKZ0ZGSjVld0tJUDJNdWotVWQwTHVTWDY5cm9uRXpmbThyRmE5aWZlQnVGLXd0QWhpUGJvcVM?oc=5"
-        },
-        {
-          "name": "디지털투데이",
-          "title": "삼성전자, 스마트싱스에 전기요금 캐시백 연동 지원",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wXzEyenZldXVDQW0tRTBkM1NLRUVFY1UwVjhPVkllcGF3dUJ2TTRBOW5PT1lZLTdOd3huQmdjTTVHcjcxLWMtSmNXVkg0eWM1MUhILVZmckFrLWNDVEhSTS1JWW9rdnh4djUxeDNGNWZMTVU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_product_news-ai수요급증에애플도깜짝맥미니조기출시초강수",
+      "id": "ai_product_news-오픈ai강력한새ai아스트라곧출시보안기능은선별제공globalmoneyclub",
       "topic_id": "ai_product_news",
       "lane": "AI",
       "label": "AI 신제품",
       "status": "WATCH",
-      "score": 70,
-      "headline": "AI 수요 급증에 애플도 깜짝…맥미니 조기출시 '초강수'",
+      "score": 72,
+      "headline": "오픈AI, 강력한 새 AI ‘아스트라’ 곧 출시…보안 기능은 선별 제공｜Global Money Club",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
       "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
       "money_signal": [],
-      "published_at": "2026-08-31T23:22:39+00:00",
+      "published_at": "2026-09-01T21:04:21+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "지디넷코리아",
-          "title": "AI 수요 급증에 애플도 깜짝…맥미니 조기출시 '초강수'",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95TE5IU1ctVVBwUk5sVkNRcUd6ZnRKWWZmbm1IQ0hHT215TTVST1NSNTlwODVfaG90dUVmLU5MbW04X1k4eE5qNnJWMUw5ck84OS1GTVd3?oc=5"
+          "name": "중앙일보",
+          "title": "오픈AI, 강력한 새 AI ‘아스트라’ 곧 출시…보안 기능은 선별 제공｜Global Money Club",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Vzk1TUxlcHFYdXIxZ3FLVzUxbTJJVnVYbUotTXBzcDhRTzBfazNIU2x6TnFXdFB2eEJSTWx6Z2MzZTU1dkhuLVNZNV9ZaW5vMUlnVVJNSWVtVXc?oc=5"
         }
       ]
     },
     {
-      "id": "loan-8넘보는주담대금리물가금리이중고에내몰리는취약층",
-      "topic_id": "loan",
+      "id": "policy-ok제보수개월기다렸는데경기청년응시료지원접수첫날먹통",
+      "topic_id": "policy",
+      "lane": "혜택",
+      "label": "정책·지원사업",
+      "status": "WATCH",
+      "score": 71,
+      "headline": "[OK제보] \"수개월 기다렸는데\"…경기 청년 응시료 지원 접수 첫날 '먹통'",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "대상·금액·기한·신청처만 실전형으로 정리",
+      "check_first": "정부·지자체·공공기관 공식 공고 확인",
+      "money_signal": [],
+      "published_at": "2026-09-01T21:00:01+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "[OK제보] \"수개월 기다렸는데\"…경기 청년 응시료 지원 접수 첫날 '먹통'",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WUnFWdjV2c2JPOEF4QVo5a2k4S3JzUTRqOVEtSGlhSWdWNGx1VlFZNE5BUFBwYW91QmNiaDRkVXFCbFdaWmZaYm5nZ0QxMzRkZ3Y4RWJraC1yci1LbjRuX9IBYEFVX3lxTE9WUnFWdjV2c2JPOEF4QVo5a2k4S3JzUTRqOVEtSGlhSWdWNGx1VlFZNE5BUFBwYW91QmNiaDRkVXFCbFdaWmZaYm5nZ0QxMzRkZ3Y4RWJraC1yci1LbjRuXw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-지방부동산경기나쁜데금리까지올라연체율30넘는곳도",
+      "topic_id": "deposit",
       "lane": "재테크",
-      "label": "대출·금리",
+      "label": "예적금",
       "status": "WATCH",
       "score": 70,
-      "headline": "8% 넘보는 주담대 금리…물가·금리 이중고에 내몰리는 취약층",
+      "headline": "지방 부동산경기 나쁜데 금리까지 올라…연체율 30% 넘는 곳도",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
-        "8%"
+        "30%"
       ],
-      "published_at": "2026-08-27T21:00:00+00:00",
-      "source_count": 7,
+      "published_at": "2026-09-01T08:48:50+00:00",
+      "source_count": 1,
       "sources": [
         {
           "name": "서울경제",
-          "title": "8% 넘보는 주담대 금리…물가·금리 이중고에 내몰리는 취약층",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kVUNCWkZJZ0pOZGwyYnE3N1F1OG5yVG9VVExqVHkyVTJvVU5MQjRDZ2p3cmdWdFRjVjdfN2tFNXJ1eGVxVmRyTW9oSXZLdm5CTXc?oc=5"
-        },
-        {
-          "name": "머니투데이",
-          "title": "대출총량 풀리는데, 금리 날뛴다… 주담대 '8%' 찍나 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2Y1hULVFmZXFJbEk0QVh5Y0lQQlJqZFBhcHNuNi1pMzZIeXI5NWpRT09UTHc5RkE5T0dPWFBZRlFRclRJYzNWMnBjdTNFcTlYbXJlTG1OMHFVbUtLajM2ckNfSGcwTDJDTjFV0gFwQVVfeXFMTzVlc2tKVlQyRlZQYUNROEQwXzBGZzRhbUY0cnZFSk1OaFZTdEhNTWQ5U0Q5Mlk5NG1qbFBDVnV1djVPaGQ5cU5TeUFEUlZJWkFZelBvUHNIWkpESjdnOTZocllOQnpfbTEwQm11U3FPYQ?oc=5"
-        },
-        {
-          "name": "SBS Biz",
-          "title": "[집중진단] 주담대 금리 연 8% 뚫릴 수도…‘이자 폭탄’ 예고 변동형 주담대 어쩌나",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByUk16aTdhdlhydjF5U2hIZEZ5bVVNVUxKMVFNLTZCb0ZoQzFnRHlEVVFUd0pZRHhuVEJ3N3RJSVJGWlNwcXJoel9ITm9lcEo4X3dn0gFYQVVfeXFMTklBVjBrbDN5VlV6VjZQVjl3VlhmR21qME1qTXZZYXZMeFdZLWdFWXJMUkYwb1dLN2d3ci11LXk3Zmo3MUtoV2VSVGxESFh1c0FObkxZMEJ0ZQ?oc=5"
-        },
-        {
-          "name": "중앙일보",
-          "title": "주담대 금리 연 8% 뚫릴 수도…영끌족, 이자폭탄 공포",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pbkc1UDBNUFVtbzFtWmRBTnNueDFxaVlJZ3lfQ1J3MG14US1LS1BNZEZHVFZDNVJzbXdrOTIyeGEwaF85SUpxLXJvOTNpRF9JRkt4eVJB?oc=5"
+          "title": "지방 부동산경기 나쁜데 금리까지 올라…연체율 30% 넘는 곳도",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uR3pleWpiVzA1WVdFbDluQ3BWUkptaUF2MzVfN2FFd0RXY3BIUGtYd3VCa29KUXo5NjVNWGZaYVNvZ3gwd2N5bUJ0OXZqLVpoTVHSAVNBVV95cUxNTm84bDFUMXI0eXd3aWVXdzJWMVN4OWRqa2Q1VFNVbzZEdi1uUktvaG1OYUFjUnlhelluYjFkdFhmb0xsTXFYWm9tQTZ5cWhqbjhUMA?oc=5"
         }
       ]
     },
     {
-      "id": "loan-대출금리더오른다10년이상장기고정주담대재추진",
+      "id": "loan-대출이자144만원아꼈어요ai덕분에",
       "topic_id": "loan",
       "lane": "재테크",
       "label": "대출·금리",
       "status": "WATCH",
-      "score": 69,
-      "headline": "대출금리 더 오른다…10년 이상 장기·고정 주담대 재추진",
+      "score": 70,
+      "headline": "\"대출이자 144만원 아꼈어요\" AI 덕분에…",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
       "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [],
-      "published_at": "2026-08-31T20:40:00+00:00",
+      "money_signal": [
+        "144만원"
+      ],
+      "published_at": "2026-08-31T07:43:00+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "뉴스1",
-          "title": "대출금리 더 오른다…10년 이상 장기·고정 주담대 재추진",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wS0dMZTZGdXZhblFGcEl6d3E4NnByZmNTRV9OZVBPd3FJXy1fcXA4VnA0NkIxbGZ5N1Fjd3lPd0VITzY5T3JNcEQ5Z3d1UEVmd29INkxRU0VFNnBWTnItZm1R0gFnQVVfeXFMTTE1LVBOYUdJbWtwei1VVWZ6N0hEaThyZHBBcHBIc0hFSmtyOWczdVZzcVBhTHRFNVRtQUdXXzZneFdZS1JhZjdJZVJRYzBaMlBTbjN4ajVKcm45cW5PRHZoRkhlT1pQZw?oc=5"
+          "name": "이데일리TV",
+          "title": "\"대출이자 144만원 아꼈어요\" AI 덕분에…",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WQ296SGMzMmhqQ2tiVGpJQXZlb1FOVkFFdXdHcDRvcjUwVm1yS3lUdi1IVFhXdzRocVhtQTRrS1VNcVZyNUVKSktyWHRoT1k5Wi1hc1YydXJPVWVZbzVzZng1eXRZNFNaNmpuaWRKZUUyZ3poMlIzTGVRRQ?oc=5"
         }
       ]
     },
     {
-      "id": "ai_product_news-삼성전자ai기능대거탑재된100만원짜리갤럭시s26fe공개",
-      "topic_id": "ai_product_news",
-      "lane": "AI",
-      "label": "AI 신제품",
+      "id": "policy-횡성서12일창업토크콘서트예비창업자등20명모집",
+      "topic_id": "policy",
+      "lane": "혜택",
+      "label": "정책·지원사업",
+      "status": "WATCH",
+      "score": 69,
+      "headline": "횡성서 12일 창업 토크콘서트…예비창업자 등 20명 모집",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "대상·금액·기한·신청처만 실전형으로 정리",
+      "check_first": "정부·지자체·공공기관 공식 공고 확인",
+      "money_signal": [],
+      "published_at": "2026-09-01T00:09:09+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "횡성서 12일 창업 토크콘서트…예비창업자 등 20명 모집",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqZFZnQ0RMZ0M1dlB0ZG4zRURDNklmNi1qQmJRbzBIVzhXak80ZmdaRldvdEI0UlM2YUNLMjZOQ1N6R0tNOXhQTnhSNHFyV2RjSmJSc3VmM0Y0OThmdTA2bdIBYEFVX3lxTFBqZFZnQ0RMZ0M1dlB0ZG4zRURDNklmNi1qQmJRbzBIVzhXak80ZmdaRldvdEI0UlM2YUNLMjZOQ1N6R0tNOXhQTnhSNHFyV2RjSmJSc3VmM0Y0OThmdTA2bQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-신규대출17가금리5이상변동금리쏠림에이자경고등",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
       "status": "WATCH",
       "score": 68,
-      "headline": "삼성전자, AI 기능 대거 탑재된 100만원짜리 ‘갤럭시 S26 FE’ 공개",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "headline": "신규대출 17%가 금리 5% 이상…변동금리 쏠림에 이자 경고등",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
       "money_signal": [
-        "100만원"
+        "17%",
+        "5%"
       ],
-      "published_at": "2026-08-27T12:13:00+00:00",
+      "published_at": "2026-09-01T06:26:32+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "조선일보",
-          "title": "삼성전자, AI 기능 대거 탑재된 100만원짜리 ‘갤럭시 S26 FE’ 공개",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVcwRTE2clpLai1YaHhvTl80UG5IeEFMdjFNVG9WSTMwRmE4ckFickNOZkNVc0YyWnA4a0pjQ3pjVXR2bUhfbU92Qjdqb096U25GVDhWMFBlN2pUZF9fSlMwTFdhTzhKV3I1OGVfamxQb280UzNVOGF6alNFd1B0ZlhFSQ?oc=5"
+          "name": "아주경제",
+          "title": "신규대출 17%가 금리 5% 이상…변동금리 쏠림에 이자 경고등",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Sb2o2cEVYdWhCZU40bmJvY0pva2EtRnIyRERRUWRxYkFRTzRPeGFBMUNpWXNseEhvR2phcjRQcVczNmZ0NGcxMlZzUGJ1eld5Wi12OEZUdmbSAVhBVV95cUxNUm9qNnBFWHVoQmVONG5ib2NKb2thLUZyMkREUVFkcWJBUU80T3hhQTFDaVlzbHhIb0dqYXI0UHFXMzZmdDRnMTJWc1BidXpXeVotdjhGVHZm?oc=5"
         }
       ]
     },
     {
-      "id": "ai_image_tools-업데이트해도못쓴다고애플새ai시리줄서서차례기다려야",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
+      "id": "privacy_tip-다채로워지는공격안드로이드보안기능주목",
+      "topic_id": "privacy_tip",
+      "lane": "꿀팁",
+      "label": "보안·개인정보",
       "status": "WATCH",
-      "score": 67,
-      "headline": "\"업데이트해도 못 쓴다고?\"…애플 새 AI 시리, '줄 서서' 차례 기다려야",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
+      "score": 68,
+      "headline": "다채로워지는 공격…안드로이드 보안 기능 주목",
+      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
+      "angle": "계정 탈취·개인정보 노출을 줄이는 실제 설정",
+      "check_first": "서비스 공식 보안문서 확인",
       "money_signal": [],
-      "published_at": "2026-08-26T02:21:29+00:00",
+      "published_at": "2026-09-01T05:48:51+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "뉴시스",
-          "title": "\"업데이트해도 못 쓴다고?\"…애플 새 AI 시리, '줄 서서' 차례 기다려야",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RZk0xekZKWnpuN1hJcUlxNm13VHdMNC16MDhRVk1UdkU2RFN3WHNqWDIyNkR2Z0RwMGtkMHA3YVRnbTRYQ3AxRmFLZDBfd0ROVW9NSmxHejV5cm42cHgxSNIBeEFVX3lxTE43QmJ4WkJGYzN0d1AzMXEwc0hwelE1cEpGSjBjNlBrZVRCZ0wyUVp1alN1VXlmdXZDQ05OWU5xbUNfOEt5V2EwdDY4VUFaaTZ6MW1VWXlkeVJTMFJsWEFuVC1tc1VVa1dqR21uQngwNFA1aU54bEI0Zw?oc=5"
+          "name": "디지털투데이",
+          "title": "다채로워지는 공격…안드로이드 보안 기능 주목",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wcXJ2YWV0UHp3SURDblRNZ3M5Qi00ZHdFWlFSMGtzbzQxTXhDNlluVlo2YzJ0RU5vbW1qbTAycVhRNEctOV9ieHdSU2tGNzBrNG40cVI1MDFURU5EUWNMc1BWZnJxdzg4cmdsZ0d5WGdCcGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-기업뭉칫돈몰린정기예금금리4되면개인도돌아올까",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 68,
+      "headline": "기업 뭉칫돈 몰린 정기예금…금리 4% 되면 개인도 돌아올까",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "4%"
+      ],
+      "published_at": "2026-09-01T01:58:02+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "비즈워치",
+          "title": "기업 뭉칫돈 몰린 정기예금…금리 4% 되면 개인도 돌아올까",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YZUcwMHBTNFFlVHZkeXZTekdDMTVZeWhNX2wyaXVWTXR4eUh3SFB2M0xycjBWelNtY3l3R2JGbk1ybVNpOUxDODlUcWJ3bURCbzJjMUM5VFZEVUJsYno3VzdHQzBNNjYxQmhv?oc=5"
         }
       ]
     }
@@ -325,88 +374,88 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 25,
-    "shown": 12,
+    "raw_articles": 28,
+    "shown": 15,
     "topic_raw_counts": {
       "tax": 0,
-      "youtube_ypp": 3,
       "affiliate": 0,
-      "apptech": 3,
-      "blog_ads": 0,
+      "youtube_ypp": 3,
+      "apptech": 1,
       "benefit": 1,
-      "policy": 1,
-      "sns_growth": 4,
-      "loan": 32,
-      "deposit": 15,
-      "reviewer": 2,
-      "openai_official": 3,
-      "creator_campaign": 2,
-      "youtube_metrics": 0,
+      "blog_ads": 0,
+      "loan": 16,
+      "policy": 2,
+      "deposit": 14,
+      "sns_growth": 1,
       "instagram_metrics": 0,
-      "chatgpt_update": 0,
-      "useful_info": 4,
-      "ai_creator": 0,
-      "digital_tip": 1,
+      "openai_official": 3,
+      "reviewer": 1,
+      "youtube_metrics": 0,
+      "creator_campaign": 1,
       "platform": 1,
+      "digital_tip": 0,
+      "chatgpt_update": 0,
+      "ai_creator": 1,
+      "useful_info": 2,
       "claude_update": 0,
-      "gemini_update": 0,
       "chrome_tip": 0,
+      "youtube_shopping": 1,
+      "gemini_update": 0,
+      "smartstore_seller": 0,
       "naver_creator_money": 0,
       "freelance_market": 0,
-      "smartstore_seller": 0,
-      "youtube_shopping": 1,
-      "digital_product": 0,
       "creator_sponsorship": 0,
-      "instagram_reels_metrics": 0,
+      "digital_product": 0,
       "youtube_analytics_official": 1,
+      "youtube_channel_metrics": 0,
+      "instagram_reels_metrics": 0,
+      "threads_growth": 0,
       "youtube_shorts_metrics": 0,
       "naver_blog_metrics": 0,
-      "threads_growth": 0,
-      "youtube_channel_metrics": 0,
       "beauty_reviewer": 0,
-      "food_reviewer": 0,
       "tiktok_metrics": 0,
       "x_account_metrics": 0,
+      "food_reviewer": 0,
       "tech_reviewer": 0,
-      "travel_reviewer": 0,
-      "creator_ambassador": 2,
+      "creator_ambassador": 1,
       "app_beta_reviewer": 0,
-      "ai_video_tools": 0,
-      "ai_image_tools": 1,
+      "travel_reviewer": 0,
+      "ai_video_tools": 6,
       "ai_agents": 5,
       "ai_coding": 0,
+      "ai_image_tools": 2,
       "korean_ai": 0,
       "public_data_tip": 0,
-      "ai_search": 1,
-      "productivity_tip": 0,
-      "pc_tip": 0,
       "mobile_tip": 0,
-      "travel_tip": 0,
-      "energy_support": 2,
+      "ai_search": 0,
       "telecom_discount": 0,
-      "privacy_tip": 0,
-      "education_support": 0,
-      "local_currency": 1,
-      "bank_product": 0,
-      "card_benefit": 0,
+      "pc_tip": 0,
+      "energy_support": 0,
+      "productivity_tip": 0,
+      "privacy_tip": 1,
+      "travel_tip": 0,
+      "local_currency": 0,
       "employment_support": 0,
+      "education_support": 0,
+      "bank_product": 0,
       "family_benefit": 0,
-      "smallbiz_money": 0,
-      "isa_change": 0,
+      "card_benefit": 0,
       "mortgage_policy": 0,
-      "tax_refund": 1,
-      "pension_public": 0,
+      "smallbiz_money": 0,
+      "pension_tax": 0,
+      "isa_change": 0,
       "instagram_platform": 0,
+      "pension_public": 0,
+      "tax_refund": 1,
       "youtube_policy": 0,
+      "threads_platform": 0,
+      "x_platform": 0,
       "naver_platform": 0,
       "coupang_platform": 0,
-      "x_platform": 0,
-      "youtube_shop_affiliate": 2,
       "youtube_money_change": 2,
+      "youtube_shop_affiliate": 2,
       "creator_commerce": 1,
-      "ai_product_news": 4,
-      "pension_tax": 0,
-      "threads_platform": 0
+      "ai_product_news": 7
     },
     "errors": []
   }
