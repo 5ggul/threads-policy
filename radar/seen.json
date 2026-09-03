@@ -2562,5 +2562,24 @@
       "정기예금"
     ],
     "date": "2026-09-02"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "tokens": [
+      "air",
+      "atv",
+      "big",
+      "chatgpt",
+      "days",
+      "hours",
+      "into",
+      "of",
+      "tour",
+      "turned",
+      "with",
+      "work"
+    ],
+    "date": "2026-09-03"
   }
 ]
