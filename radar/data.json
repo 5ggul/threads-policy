@@ -1,35 +1,381 @@
 {
-  "generated_at": "2026-09-03 14:01 KST",
+  "generated_at": "2026-09-04 14:03 KST",
   "counts": {
-    "부업": 0,
-    "재테크": 0,
-    "혜택": 0,
+    "부업": 1,
+    "재테크": 5,
+    "혜택": 2,
     "SNS분석": 0,
-    "리뷰어": 0,
-    "AI": 1,
+    "리뷰어": 1,
+    "AI": 7,
     "꿀팁": 0,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "openai_official-atvbigairtourturned3daysofworkinto3hourswi",
+      "id": "openai_official-legorareviewed41documentsinminuteswithgpt6",
       "topic_id": "openai_official",
       "lane": "AI",
       "label": "OpenAI 공식",
       "status": "NOW",
       "score": 94,
-      "headline": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "headline": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
       "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
-      "money_signal": [],
-      "published_at": "2026-09-02T12:00:00+00:00",
+      "money_signal": [
+        "40%"
+      ],
+      "published_at": "2026-09-03T12:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
           "name": "OpenAI 공식",
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "url": "https://openai.com/index/atv-big-air-tour"
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+        }
+      ]
+    },
+    {
+      "id": "openai_official-playcocutmanualfixes50prototypinggameswith",
+      "topic_id": "openai_official",
+      "lane": "AI",
+      "label": "OpenAI 공식",
+      "status": "NOW",
+      "score": 94,
+      "headline": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
+      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
+      "money_signal": [
+        "50%"
+      ],
+      "published_at": "2026-09-03T12:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI 공식",
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+        }
+      ]
+    },
+    {
+      "id": "openai_official-safetyoverviewgpt6astra",
+      "topic_id": "openai_official",
+      "lane": "AI",
+      "label": "OpenAI 공식",
+      "status": "NOW",
+      "score": 88,
+      "headline": "Safety overview: GPT-6 Astra",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
+      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
+      "money_signal": [],
+      "published_at": "2026-09-03T00:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI 공식",
+          "title": "Safety overview: GPT-6 Astra",
+          "url": "https://openai.com/index/safety-overview-gpt-6-astra"
+        }
+      ]
+    },
+    {
+      "id": "loan-30년주담대금리671주택시장침체금융여건느슨하지않아",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 77,
+      "headline": "美 30년 주담대 금리 6.71%…\"주택시장 침체, 금융여건 느슨하지 않아\"",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [
+        "6.71%"
+      ],
+      "published_at": "2026-09-03T20:21:40+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴스1",
+          "title": "美 30년 주담대 금리 6.71%…\"주택시장 침체, 금융여건 느슨하지 않아\"",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91SXR6cnQ2YVBtTnJJRlVkbWZVNC0ycGNTNE0waVBfWWx5dF9OV2M2MkNMdDFDRlBzVWNJdGxVVUpkeGYwbTg2M2h6TlU4em44YTVCbU1BLUZoX3VwMVVGM2R5bUhmWUQyUlEzQ9IBbEFVX3lxTE91SXR6cnQ2YVBtTnJJRlVkbWZVNC0ycGNTNE0waVBfWWx5dF9OV2M2MkNMdDFDRlBzVWNJdGxVVUpkeGYwbTg2M2h6TlU4em44YTVCbU1BLUZoX3VwMVVGM2R5bUhmWUQyUlEzQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "reviewer-프리메라브랜드서포터즈크리에이티브크루3기모집",
+      "topic_id": "reviewer",
+      "lane": "리뷰어",
+      "label": "체험단·리뷰어",
+      "status": "WATCH",
+      "score": 77,
+      "headline": "프리메라, 브랜드 서포터즈 '크리에이티브 크루' 3기 모집",
+      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
+      "angle": "누가 신청할 수 있고 무엇을 제공받으며 후기 의무가 무엇인지",
+      "check_first": "브랜드·운영사 공식 모집 페이지 확인",
+      "money_signal": [],
+      "published_at": "2026-09-03T06:08:36+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "전자신문",
+          "title": "프리메라, 브랜드 서포터즈 '크리에이티브 크루' 3기 모집",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iQ2x0dldmLUprQWdVTzN0Y1p1d051Mm5pVWR4cWFjOVdIZjh3LWtaN2FhQVJxMEZRWnNtZ3Vvam9oNXZKaWZBSE1wd2Rwdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-주담대빗장풀리지만오픈런은여전이자까지고공행진",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 76,
+      "headline": "주담대 빗장 풀리지만 '오픈런'은 여전…이자까지 고공행진",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [],
+      "published_at": "2026-09-04T01:38:13+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "주담대 빗장 풀리지만 '오픈런'은 여전…이자까지 고공행진",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XUmR3c1VuUkxNaEhIZzlrWWVZYkozb2lUUmJyQjY1Uk9EQldaNzdCM2dyY1hQUm5ZTFMtWkRLQWJCWC1xTDROYjBwSU1FY0pPUko2NTdEOWlDX2RkTnhWRTFqMkwycU4wREJDbGJIQ1Y3MlRWUXhUYdIBeEFVX3lxTE5XUmR3c1VuUkxNaEhIZzlrWWVZYkozb2lUUmJyQjY1Uk9EQldaNzdCM2dyY1hQUm5ZTFMtWkRLQWJCWC1xTDROYjBwSU1FY0pPUko2NTdEOWlDX2RkTnhWRTFqMkwycU4wREJDbGJIQ1Y3MlRWUXhUYQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_agents-정부sk텔레콤카카오kt와모두의ai출시협력논의",
+      "topic_id": "ai_agents",
+      "lane": "AI",
+      "label": "AI 에이전트",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "정부, SK텔레콤·카카오·KT와 '모두의 AI' 출시 협력 논의",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
+      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
+      "money_signal": [],
+      "published_at": "2026-09-04T01:00:06+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "title": "정부, SK텔레콤·카카오·KT와 '모두의 AI' 출시 협력 논의",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ES1lvejV2S0RMYVhFYzNCb0JpUUU3WTM0bHJXTkhSblZLaW01bnBUekQ1WlBqZDBMRlRVcWF5dVBHQnhqZHhrbmJEVEx3RmN0dDBqWkNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_agents-엔비디아rtx스파크탑재pc10월출시로컬ai공략머니투데이",
+      "topic_id": "ai_agents",
+      "lane": "AI",
+      "label": "AI 에이전트",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "엔비디아 'RTX 스파크' 탑재 PC 10월 출시…로컬 AI 공략 - 머니투데이",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
+      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
+      "money_signal": [],
+      "published_at": "2026-09-03T23:51:49+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "머니투데이",
+          "title": "엔비디아 'RTX 스파크' 탑재 PC 10월 출시…로컬 AI 공략 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wUWpRRHJCVURZQy1ubnVMOUc5bmh5TG9nUWdHNEtyRXF0b3dRXzBIZUZpT0dqWi1GVHZKSjlNTDI2YjN2NmViOFFCSGwzX2paaVB1WlBnQkV0VjROOWhGVjI0YzYtUjJQdnlkMdIBbEFVX3lxTE9wUWpRRHJCVURZQy1ubnVMOUc5bmh5TG9nUWdHNEtyRXF0b3dRXzBIZUZpT0dqWi1GVHZKSjlNTDI2YjN2NmViOFFCSGwzX2paaVB1WlBnQkV0VjROOWhGVjI0YzYtUjJQdnlkMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_product_news-오픈aigpt6아스트라공개agi시대진입",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
+      "status": "WATCH",
+      "score": 73,
+      "headline": "오픈AI, ‘GPT-6 아스트라’ 공개… “AGI 시대 진입”",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "money_signal": [],
+      "published_at": "2026-09-04T00:20:12+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "IT조선",
+          "title": "오픈AI, ‘GPT-6 아스트라’ 공개… “AGI 시대 진입”",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wMlhvNVJhRmFmTFZTYTVRQzF6YWQ3Wl9PZFFReXB2dlQ0SE15TlBLY2cyT3FkalNfcWlqTnYtM2Z3bm1scE96VUk0eWZHeTRjcVQzR1J6TVZZMF8zZkxLdWtPYkpPQ1o3UzRVT3JvSUrSAXRBVV95cUxQRnV2UnVaczhNT0ZGdmlKZm5pNzU2a3FjSzNGdW44ck54N3N1U3BOdG96TkNhalU3T1JYUV9rUjZZWTRKZjVuQ29KenBJNDZBdFpieXhBVUFPUWRWc2gwcHJLZENQTEcxSzNKUmpnUy1yTjVWZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "benefit-226만명에3조760억원준다병원비많이나오면환급신청하세요머니투데이",
+      "topic_id": "benefit",
+      "lane": "혜택",
+      "label": "환급·캐시백",
+      "status": "WATCH",
+      "score": 73,
+      "headline": "226만명에 3조760억원 준다…\"병원비 많이 나오면 환급 신청하세요\" - 머니투데이",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "누가 얼마를 언제까지 신청하면 받는지",
+      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
+      "money_signal": [
+        "760억원"
+      ],
+      "published_at": "2026-08-30T03:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "머니투데이",
+          "title": "226만명에 3조760억원 준다…\"병원비 많이 나오면 환급 신청하세요\" - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1na1FHSXhnOXFSZFdZaG9nREFWbWJucnhYWEhOekRaOWFSZmw2N2VOSkNsRTM5N3JneGlRS19VdUtiUVpVczNLZXU0WE1POWZLUW42LUUyRHM2NXBiNVlWaVJxT08zdERFa2fSAW9BVV95cUxPQ1AybFJrQlNMajB0bk9MdDNBV1hhazcxaE1CMkhrUXJWZkhXSXgwbGJlZEFLS2p6X0MycmhDWHhKQlZLdkpKU1ZRMzZLNG5LT0szeVh1YmgxOTBjVGdWRFJidFJlR1haNV91X2czUTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "apptech-티맵운전만보기출시이동전반커버리워드체계완성",
+      "topic_id": "apptech",
+      "lane": "부업",
+      "label": "앱테크",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "티맵 '운전 만보기' 출시…이동 전반 커버 리워드 체계 완성",
+      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
+      "angle": "포인트가 실제 어디에 쓰이고 얼마 가치인지",
+      "check_first": "참여 대상·포인트 전환처·이벤트 종료일 확인",
+      "money_signal": [],
+      "published_at": "2026-09-04T00:11:59+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "title": "티맵 '운전 만보기' 출시…이동 전반 커버 리워드 체계 완성",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QSGt1T0kxcHFBR3VqZGFnMHNEd3FhN05TVE81ck9pSGJnbmg1al8xcWE4TFloYkFISnJCdVdUdjNSOGNGY2l4WHpyTFFsNFBYQld1eE51NW9lNWpyZ0w3RDFxWEZWME9FRkVZX0hMeE5Eczg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "benefit-1인당20만원나주시민생지원금14일부터지급한다",
+      "topic_id": "benefit",
+      "lane": "혜택",
+      "label": "환급·캐시백",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "\"1인당 20만원\"…나주시, 민생지원금 14일부터 지급한다",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "누가 얼마를 언제까지 신청하면 받는지",
+      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
+      "money_signal": [
+        "20만원"
+      ],
+      "published_at": "2026-09-03T05:42:58+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "\"1인당 20만원\"…나주시, 민생지원금 14일부터 지급한다",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54djNJNlF5R0h3VXU3Wk96M3M2NXFLQk5ocDFTVE9TNzFaTC1laDVVQ25JUDRIc0M1a3J6U2Ztc1hyelZsbWpDRWp1dUhGbGhLTDZ4dlhDODhWS2EweUc0RtIBeEFVX3lxTE1SSkRLcHVXYVBjSTh3VEZIcmZvSDg2YVowZXR6d3I1cGZUMzZnYXNwRHRJNXVmc3BpUXBrT1lpOUpEUUVzTDZoNnBpOThJc3I0azJ0SEpkNHZwNHRXX0FFalh6aWVtMjMtRmRtZEdVUHJTVWtFQ1Z4Yg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-5년전저금리막차탄영끌족이자폭탄3억주담대원리금연950만원",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "5년 전 저금리 막차 탄 '영끌족' 이자폭탄…\"3억 주담대 원리금 연 950만원↑\"",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [
+        "950만원"
+      ],
+      "published_at": "2026-09-02T22:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "5년 전 저금리 막차 탄 '영끌족' 이자폭탄…\"3억 주담대 원리금 연 950만원↑\"",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UMk96NzRnMFVCaHFaVF8zN1FPQy1HaUFWNm1HMm12ak45ZlZIQTdkVlVuR1J4VC0wazI3dTA0c1JXMDRDNWZQSHJDY1F3VUY5VGJmNGstS0FOVDYxRGNMZdIBeEFVX3lxTE1wMV9jaDFjYjZkUUcwcmpoQk1mWTlTb2NBX2N6NkYwcHZ1aG0zcG1NM2F5SVFzZ2tHVVZXV0N1OVc0S2dGTlRGTWg2RTRQWnVqYXBCUXpHb3l3WS1PbDh1cHNnVkJzb3BJb0NFNWllUzRNclYyUnA4SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-신한은행내일부터예적금금리015030p인상",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "신한은행 내일부터 예·적금 금리 0.15~0.30%p 인상",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "0.30%"
+      ],
+      "published_at": "2026-09-02T05:57:03+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴스1",
+          "title": "신한은행 내일부터 예·적금 금리 0.15~0.30%p 인상",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zM2prU0puYjRPSHdYYUpTUHJfenFobHhIOTZsOU81cG1nc2dCN08yMXBIVnk2OWRYRnRNZGRiVzc3ZENic0RyR2s2eWQxdm9TNXNYWUdkLUw5UEZWZ2tTMWZ30gFnQVVfeXFMTl9CaklMdEJuUWF3MEJSS1E2cGFuY2ZUdHQwUGNNVU9MZGU0WFlmQmhFWnFmUVRMX3d1UHhvMElTX0pLall4QWpWMFlNZW83dlREZTl4dGl4MktCOC1zRk5lRjJJQndfWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-전북은행최고376금리jb다이렉트예금출시",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 69,
+      "headline": "전북은행, 최고 3.76% 금리…JB 다이렉트 예금 출시",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "3.76%"
+      ],
+      "published_at": "2026-09-02T07:04:03+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "데일리한국",
+          "title": "전북은행, 최고 3.76% 금리…JB 다이렉트 예금 출시",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91ZXcyZF9SaEplYXFUbUhOS213MnZpbmMwOVlFbDR5TmdPelV5QU5pRG40MG9mZWItSFk3anU2bmVmN3ZmTjlIRUFXeGNKUGpLdWd4SEQxVlNKT0F6OW16WEJDZjdmUG9kbVBTQV8tZ9IBc0FVX3lxTE5RMTE2dVMweklDWE1CcF9iRXhBY3lBZWxjUVVDa3NKd01fcjlLY0drc0YtcTc3UnRBTEROQ25KTWMwRG5wNmFKNlFxMnNiM2VhdTJmT2N0Sk95SUowQlVhZXRPalp1NUNzZnRpVk9kNGQ1eWs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_video_tools-ai품은무료영상편집기오픈샷40업데이트",
+      "topic_id": "ai_video_tools",
+      "lane": "AI",
+      "label": "AI 영상",
+      "status": "WATCH",
+      "score": 69,
+      "headline": "AI 품은 무료 영상편집기…오픈샷 4.0 업데이트",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "영상 제작시간·비용을 얼마나 줄이는지 실제 사용 관점",
+      "check_first": "공식 제품 페이지의 요금·워터마크·상업이용 확인",
+      "money_signal": [],
+      "published_at": "2026-09-02T04:59:48+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "title": "AI 품은 무료 영상편집기…오픈샷 4.0 업데이트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UakZfdFNqWEtoY01tZjByUFFFZXlhQkgwTkRZNUtCR3V4ZVIxMjZwQzJ6c0VnVFdFM3E4ODJMb0UyMjNXM3B3cnBkaUpUUVE4ZzRUOFE1RGh3c1FIbHlqMVMtd3F3N3hfRzY4eXNRLUppaWc?oc=5"
         }
       ]
     }
@@ -37,167 +383,89 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 1,
-    "shown": 1,
+    "raw_articles": 21,
+    "shown": 16,
     "topic_raw_counts": {
-      "apptech": 0,
+      "youtube_ypp": 2,
       "tax": 0,
-      "youtube_ypp": 0,
-      "blog_ads": 0,
-      "policy": 0,
-      "loan": 0,
-      "benefit": 0,
-      "openai_official": 3,
       "affiliate": 0,
-      "sns_growth": 0,
-      "deposit": 0,
+      "apptech": 1,
+      "blog_ads": 0,
+      "benefit": 2,
+      "policy": 2,
+      "loan": 25,
+      "sns_growth": 1,
+      "reviewer": 1,
+      "openai_official": 6,
       "creator_campaign": 0,
-      "platform": 0,
-      "reviewer": 0,
-      "ai_creator": 0,
-      "digital_tip": 0,
-      "youtube_analytics_official": 1,
-      "instagram_metrics": 0,
-      "chatgpt_update": 0,
-      "gemini_update": 0,
-      "useful_info": 0,
+      "deposit": 5,
       "youtube_metrics": 0,
+      "instagram_metrics": 0,
+      "useful_info": 1,
+      "chatgpt_update": 0,
+      "digital_tip": 1,
+      "ai_creator": 0,
+      "platform": 0,
       "claude_update": 0,
+      "gemini_update": 0,
       "chrome_tip": 0,
-      "freelance_market": 0,
-      "smartstore_seller": 0,
-      "youtube_shopping": 0,
       "naver_creator_money": 0,
+      "smartstore_seller": 0,
+      "freelance_market": 0,
       "creator_sponsorship": 0,
       "digital_product": 0,
+      "youtube_shopping": 1,
       "youtube_shorts_metrics": 0,
-      "threads_growth": 0,
-      "instagram_reels_metrics": 0,
       "youtube_channel_metrics": 0,
-      "x_account_metrics": 0,
+      "instagram_reels_metrics": 0,
+      "beauty_reviewer": 0,
+      "naver_blog_metrics": 0,
+      "threads_growth": 0,
+      "youtube_analytics_official": 1,
       "tiktok_metrics": 0,
       "food_reviewer": 0,
-      "naver_blog_metrics": 0,
-      "beauty_reviewer": 0,
-      "ai_image_tools": 0,
-      "travel_reviewer": 0,
       "tech_reviewer": 0,
-      "creator_ambassador": 0,
-      "ai_video_tools": 0,
+      "x_account_metrics": 0,
+      "creator_ambassador": 1,
       "app_beta_reviewer": 0,
+      "travel_reviewer": 0,
       "ai_coding": 0,
-      "ai_agents": 0,
-      "privacy_tip": 0,
-      "korean_ai": 0,
-      "mobile_tip": 0,
-      "productivity_tip": 0,
+      "ai_agents": 4,
+      "ai_video_tools": 2,
+      "ai_image_tools": 0,
       "ai_search": 0,
+      "korean_ai": 0,
+      "pc_tip": 0,
+      "mobile_tip": 1,
+      "productivity_tip": 0,
+      "privacy_tip": 1,
       "public_data_tip": 0,
       "travel_tip": 0,
-      "pc_tip": 0,
+      "local_currency": 1,
       "energy_support": 0,
-      "telecom_discount": 0,
       "employment_support": 0,
-      "local_currency": 0,
-      "smallbiz_money": 0,
-      "family_benefit": 0,
-      "bank_product": 0,
-      "education_support": 0,
-      "pension_public": 0,
-      "mortgage_policy": 0,
+      "telecom_discount": 0,
       "card_benefit": 0,
+      "education_support": 0,
+      "family_benefit": 0,
       "pension_tax": 0,
-      "youtube_policy": 0,
+      "mortgage_policy": 0,
+      "smallbiz_money": 0,
+      "bank_product": 0,
       "isa_change": 0,
-      "tax_refund": 0,
-      "instagram_platform": 0,
+      "tax_refund": 1,
       "threads_platform": 0,
+      "youtube_policy": 0,
+      "instagram_platform": 0,
+      "coupang_platform": 0,
       "x_platform": 0,
-      "youtube_money_change": 0,
-      "creator_commerce": 0,
-      "youtube_shop_affiliate": 0,
-      "ai_product_news": 0,
       "naver_platform": 0,
-      "coupang_platform": 0
+      "pension_public": 0,
+      "youtube_shop_affiliate": 1,
+      "ai_product_news": 8,
+      "youtube_money_change": 1,
+      "creator_commerce": 0
     },
-    "errors": [
-      "apptech: HTTPError: HTTP Error 503: Service Unavailable",
-      "tax: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_ypp: HTTPError: HTTP Error 503: Service Unavailable",
-      "blog_ads: HTTPError: HTTP Error 503: Service Unavailable",
-      "policy: HTTPError: HTTP Error 503: Service Unavailable",
-      "loan: HTTPError: HTTP Error 503: Service Unavailable",
-      "benefit: HTTPError: HTTP Error 503: Service Unavailable",
-      "affiliate: HTTPError: HTTP Error 503: Service Unavailable",
-      "sns_growth: HTTPError: HTTP Error 503: Service Unavailable",
-      "deposit: HTTPError: HTTP Error 503: Service Unavailable",
-      "creator_campaign: HTTPError: HTTP Error 503: Service Unavailable",
-      "platform: HTTPError: HTTP Error 503: Service Unavailable",
-      "reviewer: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_creator: HTTPError: HTTP Error 503: Service Unavailable",
-      "digital_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "instagram_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "chatgpt_update: HTTPError: HTTP Error 503: Service Unavailable",
-      "gemini_update: HTTPError: HTTP Error 503: Service Unavailable",
-      "useful_info: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "claude_update: HTTPError: HTTP Error 503: Service Unavailable",
-      "chrome_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "freelance_market: HTTPError: HTTP Error 503: Service Unavailable",
-      "smartstore_seller: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_shopping: HTTPError: HTTP Error 503: Service Unavailable",
-      "naver_creator_money: HTTPError: HTTP Error 503: Service Unavailable",
-      "creator_sponsorship: HTTPError: HTTP Error 503: Service Unavailable",
-      "digital_product: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_shorts_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "threads_growth: HTTPError: HTTP Error 503: Service Unavailable",
-      "instagram_reels_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_channel_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "x_account_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "tiktok_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "food_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
-      "naver_blog_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "beauty_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_image_tools: HTTPError: HTTP Error 503: Service Unavailable",
-      "travel_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
-      "tech_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
-      "creator_ambassador: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_video_tools: HTTPError: HTTP Error 503: Service Unavailable",
-      "app_beta_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_coding: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_agents: HTTPError: HTTP Error 503: Service Unavailable",
-      "privacy_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "korean_ai: HTTPError: HTTP Error 503: Service Unavailable",
-      "mobile_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "productivity_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_search: HTTPError: HTTP Error 503: Service Unavailable",
-      "public_data_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "travel_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "pc_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "energy_support: HTTPError: HTTP Error 503: Service Unavailable",
-      "telecom_discount: HTTPError: HTTP Error 503: Service Unavailable",
-      "employment_support: HTTPError: HTTP Error 503: Service Unavailable",
-      "local_currency: HTTPError: HTTP Error 503: Service Unavailable",
-      "smallbiz_money: HTTPError: HTTP Error 503: Service Unavailable",
-      "family_benefit: HTTPError: HTTP Error 503: Service Unavailable",
-      "bank_product: HTTPError: HTTP Error 503: Service Unavailable",
-      "education_support: HTTPError: HTTP Error 503: Service Unavailable",
-      "pension_public: HTTPError: HTTP Error 503: Service Unavailable",
-      "mortgage_policy: HTTPError: HTTP Error 503: Service Unavailable",
-      "card_benefit: HTTPError: HTTP Error 503: Service Unavailable",
-      "pension_tax: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_policy: HTTPError: HTTP Error 503: Service Unavailable",
-      "isa_change: HTTPError: HTTP Error 503: Service Unavailable",
-      "tax_refund: HTTPError: HTTP Error 503: Service Unavailable",
-      "instagram_platform: HTTPError: HTTP Error 503: Service Unavailable",
-      "threads_platform: HTTPError: HTTP Error 503: Service Unavailable",
-      "x_platform: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_money_change: HTTPError: HTTP Error 503: Service Unavailable",
-      "creator_commerce: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_shop_affiliate: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_product_news: HTTPError: HTTP Error 503: Service Unavailable",
-      "naver_platform: HTTPError: HTTP Error 503: Service Unavailable",
-      "coupang_platform: HTTPError: HTTP Error 503: Service Unavailable"
-    ]
+    "errors": []
   }
 }
