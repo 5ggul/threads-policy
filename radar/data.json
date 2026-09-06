@@ -1,223 +1,57 @@
 {
-  "generated_at": "2026-09-05 13:55 KST",
+  "generated_at": "2026-09-06 14:03 KST",
   "counts": {
-    "부업": 1,
-    "재테크": 3,
-    "혜택": 1,
+    "부업": 0,
+    "재테크": 0,
+    "혜택": 0,
     "SNS분석": 0,
     "리뷰어": 1,
-    "AI": 3,
+    "AI": 1,
     "꿀팁": 0,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "openai_official-gpt6astraanewgenerationofintelligence",
-      "topic_id": "openai_official",
-      "lane": "AI",
-      "label": "OpenAI 공식",
-      "status": "NOW",
-      "score": 88,
-      "headline": "GPT-6 Astra: A new generation of intelligence",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
-      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
-      "money_signal": [],
-      "published_at": "2026-09-03T11:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "OpenAI 공식",
-          "title": "GPT-6 Astra: A new generation of intelligence",
-          "url": "https://openai.com/index/gpt-6-astra"
-        }
-      ]
-    },
-    {
-      "id": "apptech-최대7포인트로적립네이트리워드기반경유쇼핑쇼핑팟출시",
-      "topic_id": "apptech",
-      "lane": "부업",
-      "label": "앱테크",
-      "status": "PICK",
-      "score": 81,
-      "headline": "최대 7% 포인트로 적립...네이트, 리워드 기반 경유쇼핑 ‘쇼핑팟’ 출시",
-      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
-      "angle": "포인트가 실제 어디에 쓰이고 얼마 가치인지",
-      "check_first": "참여 대상·포인트 전환처·이벤트 종료일 확인",
-      "money_signal": [
-        "7%"
-      ],
-      "published_at": "2026-09-03T02:15:29+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "매일경제",
-          "title": "최대 7% 포인트로 적립...네이트, 리워드 기반 경유쇼핑 ‘쇼핑팟’ 출시",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ubGFJTFlMcGxrdzNXLU5FWWxrZUNnRUdGd0FQMjNMUm96MUloZDRtU2xmNW9IOFFKS3pZSVJhWVNzbjViLVNIQ1lKLV82bmhubzc0a3Vn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "creator_ambassador-프리메라브랜드서포터즈크리에이티브크루3기모집",
-      "topic_id": "creator_ambassador",
+      "id": "reviewer-인천시2026인차이나포럼청년서포터즈모집한중교류의미래이끈다",
+      "topic_id": "reviewer",
       "lane": "리뷰어",
-      "label": "브랜드 앰배서더",
+      "label": "체험단·리뷰어",
       "status": "WATCH",
-      "score": 77,
-      "headline": "프리메라, 브랜드 서포터즈 '크리에이티브 크루' 3기 모집",
+      "score": 76,
+      "headline": "인천시,‘2026 인차이나포럼 청년 서포터즈’모집, 한중 교류의 미래 이끈다",
       "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
-      "angle": "활동기간·제공혜택·필수 콘텐츠 수를 정리",
-      "check_first": "브랜드 공식 캠페인 페이지 확인",
+      "angle": "누가 신청할 수 있고 무엇을 제공받으며 후기 의무가 무엇인지",
+      "check_first": "브랜드·운영사 공식 모집 페이지 확인",
       "money_signal": [],
-      "published_at": "2026-09-03T06:08:36+00:00",
+      "published_at": "2026-09-04T11:03:46+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "전자신문",
-          "title": "프리메라, 브랜드 서포터즈 '크리에이티브 크루' 3기 모집",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iQ2x0dldmLUprQWdVTzN0Y1p1d051Mm5pVWR4cWFjOVdIZjh3LWtaN2FhQVJxMEZRWnNtZ3Vvam9oNXZKaWZBSE1wd2Rwdw?oc=5"
+          "name": "아이뉴스24",
+          "title": "인천시,‘2026 인차이나포럼 청년 서포터즈’모집, 한중 교류의 미래 이끈다",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CNXpFcEhsM0tqM2JOZFpGTVJyLWNRX3UxSDhWdGwyblI4dFJGdjZ3cUJTbEl1NEdjelJLcHIzUl9mVE5xeWhKLVJEbGI?oc=5"
         }
       ]
     },
     {
-      "id": "loan-월10만원아끼는게어디야주담대변동금리괜찮을까",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "“월10만원 아끼는게 어디야” … 주담대 변동금리 괜찮을까",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "10만원"
-      ],
-      "published_at": "2026-09-04T06:41:58+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "매일경제",
-          "title": "“월10만원 아끼는게 어디야” … 주담대 변동금리 괜찮을까",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mOWpzTkhCWGV1VVhEMndQaWYwZ1NnRjFrQ2tWT25lWXNiVTVDUG9rUDVvblRzXzVWUFpQbGptOGNTV0RUeW9TMU9OancySTM5WEhqWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "benefit-나주시시민1인당20만원민생회복지원금지급머니투데이",
-      "topic_id": "benefit",
-      "lane": "혜택",
-      "label": "환급·캐시백",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "나주시, 시민 1인당 20만원 민생회복지원금 지급 - 머니투데이",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "누가 얼마를 언제까지 신청하면 받는지",
-      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
-      "money_signal": [
-        "20만원"
-      ],
-      "published_at": "2026-09-04T02:16:59+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "머니투데이",
-          "title": "나주시, 시민 1인당 20만원 민생회복지원금 지급 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96MHVQRXRoN2xVWWxENWRJcEtyMDVsOFk5RnQ1RXdXeUJiSGxOWVVCeWF1bWw0ZWMyRVRWQUI5NGo2NWhLVVUtYmNtWG92UzNoem1ZbXJjSm1tb3h6UHhXQ2FnZzZEeEgtWW1zaVdLVTRFU1hMbDlV0gF8QVVfeXFMTy1BMmxSUWI0WDNiR1VXdmJTZ0d3eEIwYUVfT3dKVnRMNm11Q0YzTWFHbHd3V0ZJSUt3TWVLWUxvb0lCRnNLTkw4dDh6S1NsYlFCamIzWmtGUS11Sk9sZGlJN1dfa1dVdDk2V3I2NXUzQjRKVzBFTGdmZjRPWg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_product_news-ai품은무료영상편집기오픈샷40업데이트",
-      "topic_id": "ai_product_news",
+      "id": "ai_agents-ai홈에이전트와카톡으로대화lg전자씽큐클로연내출시ifa2026",
+      "topic_id": "ai_agents",
       "lane": "AI",
-      "label": "AI 신제품",
+      "label": "AI 에이전트",
       "status": "WATCH",
-      "score": 69,
-      "headline": "AI 품은 무료 영상편집기…오픈샷 4.0 업데이트",
+      "score": 67,
+      "headline": "\"AI 홈 에이전트와 카톡으로 대화\"…LG전자, 씽큐 클로 연내 출시[IFA 2026]",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
+      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
       "money_signal": [],
-      "published_at": "2026-09-02T04:59:48+00:00",
+      "published_at": "2026-09-05T01:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "디지털투데이",
-          "title": "AI 품은 무료 영상편집기…오픈샷 4.0 업데이트",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UakZfdFNqWEtoY01tZjByUFFFZXlhQkgwTkRZNUtCR3V4ZVIxMjZwQzJ6c0VnVFdFM3E4ODJMb0UyMjNXM3B3cnBkaUpUUVE4ZzRUOFE1RGh3c1FIbHlqMVMtd3F3N3hfRzY4eXNRLUppaWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_product_news-이노그리드오픈스택잇35출시ai인프라수용하는가상화플랫폼으로진화",
-      "topic_id": "ai_product_news",
-      "lane": "AI",
-      "label": "AI 신제품",
-      "status": "WATCH",
-      "score": 68,
-      "headline": "이노그리드, '오픈스택잇 3.5' 출시…AI 인프라 수용하는 가상화 플랫폼으로 진화",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
-      "money_signal": [],
-      "published_at": "2026-09-03T03:09:01+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "title": "이노그리드, '오픈스택잇 3.5' 출시…AI 인프라 수용하는 가상화 플랫폼으로 진화",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02d1hCXzdsU2ZMN0ZVa3hPbGdMamFUcEN5V2VBa1BoSGFycF90XzNJaWhDUnhXX0NvWlh0X0pybnZSdlFZTExaV3oyakdEdDlfQ0NBNExB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-뛰는기준금리4였던주담대금리7대오를수도이자800만원",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 68,
-      "headline": "[뛰는 기준금리]③ 4%였던 주담대 금리, 7%대 오를 수도…이자 800만원 ↑",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "4%",
-        "7%",
-        "800만원"
-      ],
-      "published_at": "2026-09-02T22:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴스핌",
-          "title": "[뛰는 기준금리]③ 4%였던 주담대 금리, 7%대 오를 수도…이자 800만원 ↑",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hbHdyNVZ5aElOSi1MQUdLYk1mbjJiN1VzM0ptYUtWcklpVmJac2FkVkh5aGJSTEdqblRINjhsQjhvS3U2TVg0ZnFpX3lOaTh4ZFpnemdOc1hHVTNp?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-통신요금기저효과걷히자물가다시3대대출금리까지이중고",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 68,
-      "headline": "통신요금 기저효과 걷히자 물가 다시 3%대…대출금리까지 '이중고'",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "3%"
-      ],
-      "published_at": "2026-09-02T00:59:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴스핌",
-          "title": "통신요금 기저효과 걷히자 물가 다시 3%대…대출금리까지 '이중고'",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zbnQwX0J5MXgwRjZRQXJza2RtYjhkNUl3a3hocVpucnJYVXRPbDcwRjhQZ0hPUUFfVVhNcVlhZTdzNF9GT0xIdVYzLVBaa0VCOHVvT3VOSlJubV9T?oc=5"
+          "name": "뉴시스",
+          "title": "\"AI 홈 에이전트와 카톡으로 대화\"…LG전자, 씽큐 클로 연내 출시[IFA 2026]",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XZ0pHSnZLYWV5OTRPOXU3VWNpZUtzWElDRXc5ZjBwd3gzSEVoUGV4ZzlLa3BLU2FKNVRZbmFWTzFhUF80c0N1X3MzaUdFTW9LaDVoNjVlX2dURVNpa3pLd9IBeEFVX3lxTE1aR3VLNkY2TzFFVGh6Vm80djdSaEdXVkh2ZWdjVWVBd3NqeENNTXZQd19uZ1MyQ0c3YkJ4Wmp3eUg5VWxkSFZUQWZJamhFX2VtNlczYTFSZDQyd3JNM2duVzdqdS1CMXdpX09aZmZvTmxSdno0cTIzQg?oc=5"
         }
       ]
     }
@@ -225,89 +59,93 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 10,
-    "shown": 9,
+    "raw_articles": 2,
+    "shown": 2,
     "topic_raw_counts": {
-      "tax": 0,
       "youtube_ypp": 2,
-      "affiliate": 0,
+      "tax": 0,
       "apptech": 1,
+      "affiliate": 0,
       "blog_ads": 0,
-      "benefit": 2,
+      "benefit": 3,
+      "policy": 1,
       "sns_growth": 1,
-      "policy": 0,
-      "loan": 19,
-      "deposit": 12,
-      "reviewer": 2,
+      "loan": 18,
+      "deposit": 16,
       "openai_official": 7,
       "instagram_metrics": 0,
-      "ai_creator": 0,
-      "creator_campaign": 2,
-      "useful_info": 1,
       "youtube_metrics": 0,
+      "reviewer": 2,
+      "creator_campaign": 1,
       "chatgpt_update": 0,
+      "useful_info": 3,
       "digital_tip": 2,
-      "chrome_tip": 0,
-      "smartstore_seller": 0,
-      "platform": 0,
+      "ai_creator": 0,
       "gemini_update": 0,
-      "freelance_market": 0,
+      "platform": 1,
+      "chrome_tip": 0,
       "naver_creator_money": 0,
-      "digital_product": 0,
       "youtube_shopping": 1,
-      "claude_update": 0,
+      "freelance_market": 0,
+      "smartstore_seller": 0,
       "creator_sponsorship": 0,
-      "youtube_analytics_official": 1,
+      "digital_product": 0,
       "instagram_reels_metrics": 0,
-      "youtube_channel_metrics": 0,
-      "youtube_shorts_metrics": 0,
-      "threads_growth": 0,
-      "x_account_metrics": 0,
-      "tech_reviewer": 0,
       "naver_blog_metrics": 0,
+      "youtube_shorts_metrics": 0,
       "beauty_reviewer": 0,
+      "threads_growth": 0,
+      "youtube_channel_metrics": 0,
+      "youtube_analytics_official": 1,
       "tiktok_metrics": 0,
       "food_reviewer": 0,
-      "creator_ambassador": 1,
+      "tech_reviewer": 0,
+      "x_account_metrics": 0,
       "travel_reviewer": 0,
       "app_beta_reviewer": 0,
-      "ai_video_tools": 2,
-      "ai_agents": 1,
+      "creator_ambassador": 0,
       "ai_image_tools": 0,
+      "ai_video_tools": 2,
       "ai_coding": 0,
-      "ai_search": 0,
+      "ai_agents": 1,
       "korean_ai": 0,
-      "public_data_tip": 0,
+      "ai_search": 0,
       "pc_tip": 0,
-      "mobile_tip": 1,
       "productivity_tip": 0,
       "travel_tip": 0,
+      "mobile_tip": 1,
+      "privacy_tip": 1,
       "energy_support": 0,
-      "privacy_tip": 0,
-      "education_support": 0,
-      "card_benefit": 0,
+      "local_currency": 0,
       "telecom_discount": 0,
-      "local_currency": 1,
-      "isa_change": 0,
-      "family_benefit": 0,
+      "education_support": 0,
       "employment_support": 0,
-      "smallbiz_money": 0,
+      "card_benefit": 0,
       "bank_product": 0,
-      "pension_tax": 0,
+      "isa_change": 0,
       "mortgage_policy": 0,
-      "coupang_platform": 0,
-      "tax_refund": 1,
-      "youtube_policy": 0,
-      "threads_platform": 0,
-      "instagram_platform": 0,
+      "smallbiz_money": 0,
+      "pension_tax": 0,
+      "tax_refund": 0,
       "pension_public": 0,
       "naver_platform": 0,
+      "threads_platform": 0,
       "x_platform": 0,
-      "youtube_money_change": 1,
-      "ai_product_news": 7,
+      "instagram_platform": 0,
+      "youtube_policy": 0,
+      "coupang_platform": 0,
       "youtube_shop_affiliate": 2,
-      "creator_commerce": 0
+      "youtube_money_change": 1,
+      "creator_commerce": 1,
+      "ai_product_news": 6,
+      "public_data_tip": 0,
+      "claude_update": 0,
+      "family_benefit": 0
     },
-    "errors": []
+    "errors": [
+      "public_data_tip: HTTPError: HTTP Error 404: Not Found",
+      "claude_update: HTTPError: HTTP Error 404: Not Found",
+      "family_benefit: HTTPError: HTTP Error 404: Not Found"
+    ]
   }
 }
