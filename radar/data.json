@@ -1,552 +1,180 @@
 {
-  "generated_at": "2026-09-07 14:11 KST",
+  "generated_at": "2026-09-08 14:11 KST",
   "counts": {
-    "부업": 3,
-    "재테크": 4,
-    "혜택": 2,
-    "SNS분석": 1,
-    "리뷰어": 4,
-    "AI": 3,
-    "꿀팁": 2,
+    "부업": 0,
+    "재테크": 0,
+    "혜택": 0,
+    "SNS분석": 0,
+    "리뷰어": 0,
+    "AI": 0,
+    "꿀팁": 0,
     "플랫폼": 0
   },
-  "items": [
-    {
-      "id": "youtube_analytics_official-youtubewillalignpublicviewcountingforallvi",
-      "topic_id": "youtube_analytics_official",
-      "lane": "SNS분석",
-      "label": "YouTube Analytics 공식",
-      "status": "NOW",
-      "score": 92,
-      "headline": "YouTube will align public view counting for all video formats: long-form videos, Live, and Shorts.",
-      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "조회수·engaged views·Analytics 지표 변경이 채널 성과 해석에 미치는 영향",
-      "check_first": "YouTube Analytics 공식 변경이력과 Help 문서에서 YPP·수익 영향 확인",
-      "money_signal": [],
-      "published_at": "2026-08-27T00:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "YouTube Analytics 공식",
-          "title": "YouTube will align public view counting for all video formats: long-form videos, Live, and Shorts.",
-          "url": "https://developers.google.com/youtube/analytics/revision_history"
-        }
-      ]
-    },
-    {
-      "id": "openai_official-introducingtheadminpluginforchatgptworkand",
-      "topic_id": "openai_official",
-      "lane": "AI",
-      "label": "OpenAI 공식",
-      "status": "PICK",
-      "score": 82,
-      "headline": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
-      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
-      "money_signal": [],
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "OpenAI 공식",
-          "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-          "url": "https://openai.com/index/introducing-admin-plugin"
-        }
-      ]
-    },
-    {
-      "id": "creator_campaign-ssg닷컴멤버십크리에이터쓱7크루2기모집",
-      "topic_id": "creator_campaign",
-      "lane": "리뷰어",
-      "label": "크리에이터 모집",
-      "status": "PICK",
-      "score": 81,
-      "headline": "SSG닷컴, 멤버십 크리에이터 '쓱7크루' 2기 모집",
-      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
-      "angle": "선정 기준·콘텐츠 의무·보상 구조를 정리",
-      "check_first": "공식 캠페인 약관에서 광고표시·사용권·보상조건 확인",
-      "money_signal": [],
-      "published_at": "2026-08-25T07:00:00+00:00",
-      "source_count": 2,
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "title": "SSG닷컴, 멤버십 크리에이터 '쓱7크루' 2기 모집",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hY2dCQUY3Q0tacXdCNmNUY3RfYVRtUEl0MG5DMVI1QUtsNERBcE5Pcll6bXN1dDdWMHVWalAxSGwyVFF1dUZmT3dza2hQTDRsaFFWV0ZhYnZNNmfSAWBBVV95cUxPR3hCbVZUYkk3amdhV3FobVdhN1VrTjQzU3Q0Vl9GS2E3WHNMMVlZZDRCVEVpQ2sxc2puS0tNTGVoekx5cTNjeVRxRUJ1dV85X0lXTzluTl9RbWlBWUNJc0M?oc=5"
-        },
-        {
-          "name": "뉴스핌",
-          "title": "SSG닷컴, 멤버십 크리에이터 '쓱7크루' 2기 모집",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qSkhsQnQ3NUpVSXhfSlQ5VS1ZcEdFckdvUXJQbUxVQkstVlJTOWtuZkxPS1hGY0Y2LWN5ek1qQUFHNHE4U3ZnSm45X3A4TzlRdUZMWEdVejZWMEx5?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "creator_campaign-뻔한창원815프로젝트독도로향할경남권지역숏폼크리에이터모집머니투데이",
-      "topic_id": "creator_campaign",
-      "lane": "리뷰어",
-      "label": "크리에이터 모집",
-      "status": "WATCH",
-      "score": 77,
-      "headline": "뻔한창원, '815 프로젝트' 독도로 향할 경남권 지역 숏폼 크리에이터 모집 - 머니투데이",
-      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
-      "angle": "선정 기준·콘텐츠 의무·보상 구조를 정리",
-      "check_first": "공식 캠페인 약관에서 광고표시·사용권·보상조건 확인",
-      "money_signal": [],
-      "published_at": "2026-08-27T07:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "머니투데이",
-          "title": "뻔한창원, '815 프로젝트' 독도로 향할 경남권 지역 숏폼 크리에이터 모집 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjbmh4VHBoREtqSnVpTXhDbERMTGFydHR6T1g5b2doSW1yT3lNUlM5bXFUaW5mT3RRY3otSEVaV2Fnb2ZGeThpSXpCZzhwc2M5aDU4bGNJQW5pNXRoWlFTWHRUSGJ5YWpZdjJON9IBckFVX3lxTE10RFdOYlNDaTNycy1OcVc0ekg3b3h5MWVnZEZtNURzMWdWSG0zQnZLWVB0UGdzQXJCanJCNWduQ1RDVTNGWk5EOWVqQWlCMUMzdkQtR2FneWhpVW9aUkc5RU5VMkxDd0FJU212UkhmRHZPQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "youtube_ypp-롯데홈쇼핑gs샵현대홈쇼핑이유튜브쇼핑제휴프로그램의새로운파트너로함께합니다",
-      "topic_id": "youtube_ypp",
-      "lane": "부업",
-      "label": "유튜브·쇼츠",
-      "status": "WATCH",
-      "score": 77,
-      "headline": "롯데홈쇼핑·GS샵·현대홈쇼핑이 유튜브 쇼핑 제휴 프로그램의 새로운 파트너로 함께합니다!",
-      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
-      "angle": "바뀐 수익화 조건이 기존 채널·신규 채널에 미치는 영향",
-      "check_first": "YouTube 공식 도움말·블로그에서 적용일과 한국 적용 여부 확인",
-      "money_signal": [],
-      "published_at": "2026-08-25T23:39:12+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "YouTube Official Blog",
-          "title": "롯데홈쇼핑·GS샵·현대홈쇼핑이 유튜브 쇼핑 제휴 프로그램의 새로운 파트너로 함께합니다!",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1MyMlZqTE5sVHJxY0JJMzdGaWdncTJLbUc1VTBVb0ZMTTBBbmlsU0NQdEQ0R3hITWlwUU5CUnNnbS1QSS1aSlpYQUdablpXaWpBMmNkWHlaQWJ5NFh3MFRFMG5hYldJek1WWC1BVjRRSDFSZ2M1MWpma3dFVFpjZ0RmdTlMaExQV2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "reviewer-전문건설협회청년우수서포터즈5명선정",
-      "topic_id": "reviewer",
-      "lane": "리뷰어",
-      "label": "체험단·리뷰어",
-      "status": "WATCH",
-      "score": 76,
-      "headline": "전문건설협회, 청년 우수 서포터즈 5명 선정",
-      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
-      "angle": "누가 신청할 수 있고 무엇을 제공받으며 후기 의무가 무엇인지",
-      "check_first": "브랜드·운영사 공식 모집 페이지 확인",
-      "money_signal": [],
-      "published_at": "2026-09-02T06:56:21+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "전문건설협회, 청년 우수 서포터즈 5명 선정",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRdkNzY184aUVCQmEwZFk3NnZ6bC14RHZqTjhJNEVDUjc1ODB0Y0p6NXJvUWxnWjl2Mk8xOC1BNk93ZFZURnRlMEdScHpuMEJUVnpiWVd2V3UtUWI1TnhPM3F3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "reviewer-경남도청년서포터즈k거상리치메이트모집k거상관광루트홍보강화",
-      "topic_id": "reviewer",
-      "lane": "리뷰어",
-      "label": "체험단·리뷰어",
-      "status": "WATCH",
-      "score": 75,
-      "headline": "경남도, 청년 서포터즈 'K-거상 리치메이트' 모집…'K-거상 관광루트' 홍보 강화",
-      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
-      "angle": "누가 신청할 수 있고 무엇을 제공받으며 후기 의무가 무엇인지",
-      "check_first": "브랜드·운영사 공식 모집 페이지 확인",
-      "money_signal": [],
-      "published_at": "2026-09-02T05:38:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴스핌",
-          "title": "경남도, 청년 서포터즈 'K-거상 리치메이트' 모집…'K-거상 관광루트' 홍보 강화",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10SWtzQkNjRWI0bVpCREZRMG8teEdmdDBhS1dWZEVFN0lCdU9MemZTWmhIYkdUMFlRUzYzQkx2dW15b0Z2UlIyNEg0MDVHZUJzSG9aNGRRLU0yMzJI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "useful_info-국가대표ai5개팀ai학습데이터방출15조토큰데이터무료개방",
-      "topic_id": "useful_info",
-      "lane": "꿀팁",
-      "label": "유용정보",
-      "status": "WATCH",
-      "score": 75,
-      "headline": "국가대표 AI 5개팀, AI 학습 데이터 방출…'1.5조 토큰' 데이터 무료 개방",
-      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
-      "angle": "돈 안 들이고 바로 써먹을 수 있는 공식 서비스와 사용법",
-      "check_first": "공식 운영기관·무료 범위·회원가입 필요 여부 확인",
-      "money_signal": [],
-      "published_at": "2026-08-27T07:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "국가대표 AI 5개팀, AI 학습 데이터 방출…'1.5조 토큰' 데이터 무료 개방",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZT1hVdE5hNWlPa3JrVWRZV0JaNEFGZG5EbWFjY3lKX0psaC1yTGZwT2xvUkdnVERkZzdCbjlSZ2Uzbk1EUUtsTEhlc3c1TkxtRllibWg5N1BfLUJmZ3VYZdIBeEFVX3lxTE9jTTAyVlQtT1dsMFQxOXZtd2JCLWFUR1ZMSDVuZ3hwS0ZTejZaR3BIR1NJQ3FZUHZMRXJwZGdGbTBrbEIza01UVkxSWWtaSG5hVEFVUHg4MnpvUnFBYmJKc25uNGxTdFZSdWpCMFdLbHhxTVU5Rnpxaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-주담대8시대예고영끌빚투족비명",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "주담대 8% 시대 예고…영끌·빚투족 ’비명’",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "8%"
-      ],
-      "published_at": "2026-08-27T07:00:00+00:00",
-      "source_count": 3,
-      "sources": [
-        {
-          "name": "연합뉴스TV",
-          "title": "주담대 8% 시대 예고…영끌·빚투족 ’비명’",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZUXF0SlpoMC1ZNXA5WTBMa1IwRVpOSTJsejlHYjgxSHBMZnJUa3BnMGpKUXBUc2U5R25xbmxvUzB2ZkRNTE50LXdDWWVxQnpWWnNraHhYM3lXVG9aeGVTRkF3RFQzWkk?oc=5"
-        },
-        {
-          "name": "뉴시스",
-          "title": "\"집값보다 이자가 더 무섭다\"…주담대 8% 눈앞 '영끌족' 비상",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ydGNkYWJFYUJsUXJNUzVuOFkxOVV6STc0NDU4TURNWmVLYzRiX0xQS1Y2N0JPQWpUdmt6NWVLaWRMVjRtMkFHZGpSbG56VUhJMFlfV2F3Z1p2a0RBUjY3bNIBeEFVX3lxTFAwUjlqOFQ0SHFGX3BaVmEyaGx0NDVWZTZraDY4Ni0teUMxQXlTQ2pNZVEzSVpYQUo1OE5uV2lURkxnR2c3a0tyMmx3TDhtNU56SjFXY2I1OEcwRmQ2WHVvMlRKeDNpVlZQcDhpRkF4OGpOQ2ttU3o0Ng?oc=5"
-        },
-        {
-          "name": "비즈워치",
-          "title": "'기준금리 3% 주담대 8% 시대'…가계부채 잦아들까",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QeGFOWmVpdkg3cGwwNExjQlRoaHhJTWpkbDdQaXFodzZTZDdudUhmbUt0VzBFcnA3LVAzMFMxeEpiNEs1SF9rdGp3RUlvVHNENEt5NVpkeWNiVkVUUjFpNk8xbUZNZ2pjcGRZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bank_product-하나카드산림조합과연8특판적금출시",
-      "topic_id": "bank_product",
-      "lane": "재테크",
-      "label": "은행 상품",
-      "status": "WATCH",
-      "score": 73,
-      "headline": "하나카드, 산림조합과 연 8% 특판 적금 출시",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "우대조건 충족 시 실제 세후 이자",
-      "check_first": "은행 공식 상품설명서 확인",
-      "money_signal": [
-        "8%"
-      ],
-      "published_at": "2026-09-01T00:38:34+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "한국경제",
-          "title": "하나카드, 산림조합과 연 8% 특판 적금 출시",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wV0xBVmpGVFFHQXdUTmtHSXdwSnI5eVNLRThXLXNMTVJjYkpNTWV4ck9DWFY5V0NWLWp6M2NvRkhBRnJpZ0NCZ19nU2pZS3JBVzhoVm9JbFd5Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-국채매도세집차대출비용까지압박주담대7에더가까이",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "美 국채 매도세, 집·차 대출비용까지 압박…\"주담대 7%에 더 가까이\"",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "7%"
-      ],
-      "published_at": "2026-09-03T01:34:57+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "美 국채 매도세, 집·차 대출비용까지 압박…\"주담대 7%에 더 가까이\"",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yMTJ2cE5VLV85MF9QMGozbjNBeXkwcTNiLUczUGRnUDFNNzVNVERYTzJ3X05fN3BONVRwdktFMnQ2T0tWaW1OYjl5cG4wU2Ryd1RiSkZYQ0phVzNTMThTedIBeEFVX3lxTE85bERla0ZncXJCU3pDVmdxMFNQVUszZk9NLUo5UWI4WkozSjFZb1dUeHd0UmlGdC1QN1k0ZEFWajVfSTZVYmFHaVBzX1E4OFVDYVZOS1BGRmV1d3VBOXVFNElGODRJZmxvMld4ZUd4QTMwNlUyX09EZQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "policy-제천시2026년청년주택자금대출이자지원사업신청자모집",
-      "topic_id": "policy",
-      "lane": "혜택",
-      "label": "정책·지원사업",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "제천시, 2026년 청년 주택자금 대출이자 지원사업 신청자 모집",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "대상·금액·기한·신청처만 실전형으로 정리",
-      "check_first": "정부·지자체·공공기관 공식 공고 확인",
-      "money_signal": [],
-      "published_at": "2026-09-02T01:28:23+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "title": "제천시, 2026년 청년 주택자금 대출이자 지원사업 신청자 모집",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwem0wNEpMSUFJaVRiRmhza3hrdjZPXzY3ZmM1NWNLc3hZTDVhV1BTWXdoMXlQaWt1aGd4UXVQbEJmYkJzd1pTelNKUGtndHk4UkhVa3pheFk4T2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-변동고정금리뭐가더유리기준금리3주담대차주들고민",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "변동·고정금리 뭐가 더 유리?…기준금리 3%, 주담대 차주들 고민",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "3%"
-      ],
-      "published_at": "2026-08-31T20:50:00+00:00",
-      "source_count": 2,
-      "sources": [
-        {
-          "name": "뉴스1",
-          "title": "변동·고정금리 뭐가 더 유리?…기준금리 3%, 주담대 차주들 고민",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oSEROUTk3TTEwUTg3ZTdwNkltNndqb3B2MzJsQzR3ZFA4alZJZWUxMVU4al9ZWVRHOEdWUnVYU3B4R0hlWTQ2S0NHbHN6ak9XWF9TTFZyWm9CeXdFbW5SUERR0gFnQVVfeXFMTzVpTkx0dG84ZV9kaDJFbGlaM1g5bVc4d1M1V2o3cVdyVmNiZzUxdGNpUHdwVDRlaWVjdGlNMVN1aFRUQVNqd1BlcHJ3dUFiUEFObjRuUFpKTjA1X003SHRIQ3FLT3h0RQ?oc=5"
-        },
-        {
-          "name": "SBS Biz",
-          "title": "기준금리 3% 시대…주담대, 변동 vs 고정 뭐가 유리?",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OczUxMHZ4WGdXTmFheDZrMjk1WDl0LVQ5RUlaeUEzUU5nVUV0RjRpTEMweDFzSVFhSS1xVEttdFBFbkhBWmpCUVNpSG5aT3Y1a1ZV0gFYQVVfeXFMUDM1TDB0bDBWd2s4N1ZXeWJOc1BvQktRZ2hJMktHTE4wN0pCdS1aUEJOS0todk5LTmRCa2w3NmdscDkwaXVnLXk4Rnk4WmxqSnZQenU0eXFWZA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "local_currency-이천시추석맞이지역화폐10특별캐시백최대40할인혜택",
-      "topic_id": "local_currency",
-      "lane": "혜택",
-      "label": "지역화폐",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "이천시, 추석맞이 지역화폐 10% 특별 캐시백…최대 40% 할인 혜택",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "지역별 한도·기간·예산소진 조건",
-      "check_first": "지자체·운영기관 공식 공고 확인",
-      "money_signal": [
-        "10%",
-        "40%"
-      ],
-      "published_at": "2026-08-28T07:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴스1",
-          "title": "이천시, 추석맞이 지역화폐 10% 특별 캐시백…최대 40% 할인 혜택",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05aGJzQjRjVDRhaUVzRWo3dWNRVG43Z3Z0dDlFaUlFclVsc3ptMDNWaWlHSlN6OFRteVhoMXJ5UlVXZ1ZKbHRweEFBSGJXZTRUTm9nYTBB0gFbQVVfeXFMTi02RS1tUFpSZjNqOVpKaER1RHdxTjc2TE5hR1ZGN1hEbDdCWGpwUXZJODBhZWlzOHlLTENReDF4TFBwRTJWbVBXMUhyVFdCcThqSUxxRDUtSGNxOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "creator_commerce-빅링크에이아이ai제휴플랫폼출시광고주와진성크리에이터자동매칭",
-      "topic_id": "creator_commerce",
-      "lane": "부업",
-      "label": "크리에이터 커머스",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "빅링크에이아이, AI 제휴 플랫폼 출시…광고주와 진성 크리에이터 자동 매칭",
-      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
-      "angle": "콘텐츠에서 구매·예약으로 이어지는 실제 수익구조",
-      "check_first": "플랫폼 공식 제휴조건·수수료·정산주기 확인",
-      "money_signal": [],
-      "published_at": "2026-08-28T07:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "동아일보",
-          "title": "빅링크에이아이, AI 제휴 플랫폼 출시…광고주와 진성 크리에이터 자동 매칭",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EaEFMZU9sRWFRMFptOGlEMmJrM0g3MUtVbEVTSGdzLVdsNmg0OXJWcVZKSWxrTTNwWlNJQzNxNGVkYlJYbEpoVG1fRFh5NzBrcVVTQU5LSk9fS0hhS1N2OEp6V1B3LUtWajRST3Vob1NJVlI1cmfSAWZBVV95cUxQU285M01jS2pJejhXbjdqQWxha0hiNjZNOU1pQ2R0M0lHT3lvQWZsZ3lxRXdvYmJxLTI4UlhBeUdlcVpsY2pJYUdlLU1LUkJUUFhaeWF1X3dLeWk2dEhfdElTWWFNZWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "useful_info-정부독파모5개팀ai학습데이터푼다15조토큰규모무료개방",
-      "topic_id": "useful_info",
-      "lane": "꿀팁",
-      "label": "유용정보",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "정부, 독파모 5개 팀 AI 학습데이터 푼다… 1.5조 토큰 규모 무료 개방",
-      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
-      "angle": "돈 안 들이고 바로 써먹을 수 있는 공식 서비스와 사용법",
-      "check_first": "공식 운영기관·무료 범위·회원가입 필요 여부 확인",
-      "money_signal": [],
-      "published_at": "2026-08-27T07:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "한국일보",
-          "title": "정부, 독파모 5개 팀 AI 학습데이터 푼다… 1.5조 토큰 규모 무료 개방",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52SmVlS0lVcHRSMWRoX3pMYXJPNzFHTGdoVVA4dkNoc0pjWDdEcEF0UHV0dE5XMG9IWklTZmsxTU8zc3h3cXlnT3MtUXJxQkpSbFp3Z1lIQURPMnU1OGhqbC1SekxjejlXRnNWckNn0gFzQVVfeXFMTWNKZFdfMks2S1VPdmVLbjlnV1dWSmd4NEhxeGt0SHF4dC1zNzZTQnM2LVlwdzdfQkNESXROR0YzTGNlNDByWWlTRXVqekFTNGxFdk9uZ3FmT0c1MEVWX3dQcUpIME5jMHdVbHpWbnBqYUZfYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "youtube_ypp-유튜브보면서홈쇼핑제품구매쇼핑제휴파트너확대",
-      "topic_id": "youtube_ypp",
-      "lane": "부업",
-      "label": "유튜브·쇼츠",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "\"유튜브 보면서 홈쇼핑 제품 구매\"…쇼핑 제휴 파트너 확대",
-      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
-      "angle": "바뀐 수익화 조건이 기존 채널·신규 채널에 미치는 영향",
-      "check_first": "YouTube 공식 도움말·블로그에서 적용일과 한국 적용 여부 확인",
-      "money_signal": [],
-      "published_at": "2026-08-26T07:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴스1",
-          "title": "\"유튜브 보면서 홈쇼핑 제품 구매\"…쇼핑 제휴 파트너 확대",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94amZiYUlybDVEUWtiU2M1SFh3TlhFUnI4TXZLNk5rYTh3MlJvRVlmd2dSZWxqd1ZXU2RVbGxpeVBhWHJrUU53VmJfZ0thOWlGdDZ0dldCMVE0RS1TbTM4X1pjQVNVM2Za0gFuQVVfeXFMTWp1VGdhc3pBZ1pPb0pTYll6V094WjRqWnA4MDhsVEk3OGxmMi01eDRjMXdxTlh6aXBaQVUxQjdIcDlRNHF0TWVmOEJlOHBTWUpTLWgtSWlZbHBMdDBnM1lDeEhpU1I4RnpoSWFFelE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_image_tools-또새ai야신모델속도전에커지는신모델피로감",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
-      "status": "WATCH",
-      "score": 69,
-      "headline": "“또 새 AI야?”… 美·中 신모델 속도전에 커지는 ‘신모델 피로감’",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
-      "money_signal": [],
-      "published_at": "2026-09-06T23:45:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "조선일보",
-          "title": "“또 새 AI야?”… 美·中 신모델 속도전에 커지는 ‘신모델 피로감’",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQTVPS2h1TEJCTFZZUzgxQXRIQlFsOWxjLVJyMC1uWWFlMHV0NkVZRGpJbkRnb040Z2JBc0U1Ty1hY0pwLXRGQVd5ZUJaX0EtSGZZTmg3T0x3b2QwbXhfZnNXZzJtZEVMVDBUY1pyUi1xTjhycnF3Skp6ZnNyU2tfcWhZdXgzWDV2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_search-어도비adobe는왜검색최적화기업셈러시semrush를인수했나",
-      "topic_id": "ai_search",
-      "lane": "AI",
-      "label": "AI 검색",
-      "status": "WATCH",
-      "score": 67,
-      "headline": "어도비(Adobe)는 왜 검색최적화 기업 셈러시(Semrush)를 인수했나!",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "검색·팩트체크·콘텐츠 조사에 어떤 차이가 생기는지",
-      "check_first": "공식 출처표시·검색범위·요금 확인",
-      "money_signal": [],
-      "published_at": "2026-09-07T05:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "매드타임스",
-          "title": "어도비(Adobe)는 왜 검색최적화 기업 셈러시(Semrush)를 인수했나!",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Gb3gtRURtSExHR3FvM3p0WDFaUnlxTk5ISlJTT1pSYXBKS29lT0M0VVpjMllscTVvdUdoLTVlQ0lIMHhDMVFlTWdKYVRmS1dpQ3Z0SmFYVmhIY1ZIT3IyUVdMX19yT0RoRmhfOA?oc=5"
-        }
-      ]
-    }
-  ],
+  "items": [],
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 27,
-    "shown": 19,
+    "raw_articles": 0,
+    "shown": 0,
     "topic_raw_counts": {
-      "tax": 0,
-      "youtube_ypp": 2,
-      "apptech": 1,
-      "affiliate": 0,
+      "youtube_ypp": 0,
       "blog_ads": 0,
-      "benefit": 3,
-      "loan": 18,
-      "deposit": 16,
-      "policy": 2,
       "sns_growth": 0,
-      "openai_official": 7,
-      "reviewer": 4,
-      "creator_campaign": 3,
+      "tax": 0,
+      "loan": 0,
+      "apptech": 0,
+      "affiliate": 0,
+      "openai_official": 6,
+      "benefit": 0,
+      "deposit": 0,
+      "policy": 0,
+      "creator_campaign": 0,
+      "ai_creator": 0,
+      "reviewer": 0,
+      "youtube_analytics_official": 1,
+      "digital_tip": 0,
+      "useful_info": 0,
       "youtube_metrics": 0,
+      "gemini_update": 0,
+      "platform": 0,
       "instagram_metrics": 0,
       "chatgpt_update": 0,
-      "useful_info": 3,
-      "digital_tip": 0,
-      "ai_creator": 0,
-      "naver_creator_money": 0,
-      "chrome_tip": 0,
-      "gemini_update": 0,
-      "youtube_shopping": 2,
-      "freelance_market": 0,
-      "youtube_analytics_official": 1,
       "claude_update": 0,
-      "platform": 0,
-      "smartstore_seller": 0,
+      "chrome_tip": 0,
+      "naver_creator_money": 0,
+      "youtube_shopping": 0,
       "creator_sponsorship": 0,
       "digital_product": 0,
-      "instagram_reels_metrics": 0,
-      "naver_blog_metrics": 0,
+      "freelance_market": 0,
+      "smartstore_seller": 0,
       "youtube_shorts_metrics": 0,
+      "instagram_reels_metrics": 0,
       "x_account_metrics": 0,
-      "food_reviewer": 0,
       "youtube_channel_metrics": 0,
-      "beauty_reviewer": 0,
-      "tech_reviewer": 0,
+      "naver_blog_metrics": 0,
       "threads_growth": 0,
       "tiktok_metrics": 0,
+      "food_reviewer": 0,
+      "beauty_reviewer": 0,
+      "creator_ambassador": 0,
+      "ai_video_tools": 0,
       "travel_reviewer": 0,
+      "ai_agents": 0,
+      "tech_reviewer": 0,
       "app_beta_reviewer": 0,
-      "creator_ambassador": 2,
-      "ai_search": 1,
-      "ai_agents": 2,
-      "ai_image_tools": 1,
-      "ai_video_tools": 2,
-      "mobile_tip": 1,
-      "korean_ai": 0,
-      "pc_tip": 0,
-      "productivity_tip": 0,
-      "public_data_tip": 0,
       "ai_coding": 0,
+      "ai_image_tools": 0,
+      "ai_search": 0,
+      "korean_ai": 0,
+      "public_data_tip": 0,
+      "pc_tip": 0,
+      "mobile_tip": 0,
       "privacy_tip": 0,
-      "travel_tip": 0,
+      "productivity_tip": 0,
       "telecom_discount": 0,
-      "education_support": 0,
-      "energy_support": 0,
-      "card_benefit": 0,
-      "local_currency": 1,
-      "family_benefit": 0,
-      "employment_support": 0,
-      "isa_change": 0,
+      "local_currency": 0,
+      "travel_tip": 0,
       "smallbiz_money": 0,
+      "energy_support": 0,
+      "employment_support": 0,
+      "education_support": 0,
+      "family_benefit": 0,
+      "bank_product": 0,
       "pension_tax": 0,
-      "mortgage_policy": 0,
-      "bank_product": 1,
-      "instagram_platform": 0,
-      "threads_platform": 0,
+      "card_benefit": 0,
+      "isa_change": 0,
       "pension_public": 0,
-      "x_platform": 0,
+      "mortgage_policy": 0,
       "youtube_policy": 0,
+      "instagram_platform": 0,
       "tax_refund": 0,
-      "naver_platform": 0,
+      "x_platform": 0,
+      "threads_platform": 0,
+      "ai_product_news": 0,
       "coupang_platform": 0,
-      "youtube_shop_affiliate": 2,
-      "youtube_money_change": 0,
-      "ai_product_news": 7,
-      "creator_commerce": 1
+      "youtube_shop_affiliate": 0,
+      "naver_platform": 0,
+      "creator_commerce": 0,
+      "youtube_money_change": 0
     },
-    "errors": []
+    "errors": [
+      "youtube_ypp: HTTPError: HTTP Error 503: Service Unavailable",
+      "blog_ads: HTTPError: HTTP Error 503: Service Unavailable",
+      "sns_growth: HTTPError: HTTP Error 503: Service Unavailable",
+      "tax: HTTPError: HTTP Error 503: Service Unavailable",
+      "loan: HTTPError: HTTP Error 503: Service Unavailable",
+      "apptech: HTTPError: HTTP Error 503: Service Unavailable",
+      "affiliate: HTTPError: HTTP Error 503: Service Unavailable",
+      "benefit: HTTPError: HTTP Error 503: Service Unavailable",
+      "deposit: HTTPError: HTTP Error 503: Service Unavailable",
+      "policy: HTTPError: HTTP Error 503: Service Unavailable",
+      "creator_campaign: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_creator: HTTPError: HTTP Error 503: Service Unavailable",
+      "reviewer: HTTPError: HTTP Error 503: Service Unavailable",
+      "digital_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "useful_info: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "gemini_update: HTTPError: HTTP Error 503: Service Unavailable",
+      "platform: HTTPError: HTTP Error 503: Service Unavailable",
+      "instagram_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "chatgpt_update: HTTPError: HTTP Error 503: Service Unavailable",
+      "claude_update: HTTPError: HTTP Error 503: Service Unavailable",
+      "chrome_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "naver_creator_money: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_shopping: HTTPError: HTTP Error 503: Service Unavailable",
+      "creator_sponsorship: HTTPError: HTTP Error 503: Service Unavailable",
+      "digital_product: HTTPError: HTTP Error 503: Service Unavailable",
+      "freelance_market: HTTPError: HTTP Error 503: Service Unavailable",
+      "smartstore_seller: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_shorts_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "instagram_reels_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "x_account_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_channel_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "naver_blog_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "threads_growth: HTTPError: HTTP Error 503: Service Unavailable",
+      "tiktok_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "food_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
+      "beauty_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
+      "creator_ambassador: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_video_tools: HTTPError: HTTP Error 503: Service Unavailable",
+      "travel_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_agents: HTTPError: HTTP Error 503: Service Unavailable",
+      "tech_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
+      "app_beta_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_coding: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_image_tools: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_search: HTTPError: HTTP Error 503: Service Unavailable",
+      "korean_ai: HTTPError: HTTP Error 503: Service Unavailable",
+      "public_data_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "pc_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "mobile_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "privacy_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "productivity_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "telecom_discount: HTTPError: HTTP Error 503: Service Unavailable",
+      "local_currency: HTTPError: HTTP Error 503: Service Unavailable",
+      "travel_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "smallbiz_money: HTTPError: HTTP Error 503: Service Unavailable",
+      "energy_support: HTTPError: HTTP Error 503: Service Unavailable",
+      "employment_support: HTTPError: HTTP Error 503: Service Unavailable",
+      "education_support: HTTPError: HTTP Error 503: Service Unavailable",
+      "family_benefit: HTTPError: HTTP Error 503: Service Unavailable",
+      "bank_product: HTTPError: HTTP Error 503: Service Unavailable",
+      "pension_tax: HTTPError: HTTP Error 503: Service Unavailable",
+      "card_benefit: HTTPError: HTTP Error 503: Service Unavailable",
+      "isa_change: HTTPError: HTTP Error 503: Service Unavailable",
+      "pension_public: HTTPError: HTTP Error 503: Service Unavailable",
+      "mortgage_policy: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_policy: HTTPError: HTTP Error 503: Service Unavailable",
+      "instagram_platform: HTTPError: HTTP Error 503: Service Unavailable",
+      "tax_refund: HTTPError: HTTP Error 503: Service Unavailable",
+      "x_platform: HTTPError: HTTP Error 503: Service Unavailable",
+      "threads_platform: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_product_news: HTTPError: HTTP Error 503: Service Unavailable",
+      "coupang_platform: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_shop_affiliate: HTTPError: HTTP Error 503: Service Unavailable",
+      "naver_platform: HTTPError: HTTP Error 503: Service Unavailable",
+      "creator_commerce: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_money_change: HTTPError: HTTP Error 503: Service Unavailable"
+    ]
   }
 }
