@@ -1,211 +1,173 @@
 {
-  "generated_at": "2026-09-15 14:17 KST",
+  "generated_at": "2026-09-16 14:12 KST",
   "counts": {
-    "부업": 1,
+    "부업": 0,
     "재테크": 2,
     "혜택": 0,
-    "SNS분석": 0,
-    "리뷰어": 0,
-    "AI": 6,
+    "SNS분석": 1,
+    "리뷰어": 2,
+    "AI": 2,
     "꿀팁": 0,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "deposit-광주은행창립58주년더드림예금금리이벤트",
-      "topic_id": "deposit",
-      "lane": "재테크",
-      "label": "예적금",
-      "status": "WATCH",
-      "score": 75,
-      "headline": "광주은행 창립 58주년 '더드림+' 예금 금리 이벤트",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
-      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "id": "sns_growth-ai가추천하는인생샷자세틱톡출신이만든슈퍼포즈",
+      "topic_id": "sns_growth",
+      "lane": "SNS분석",
+      "label": "성장·알고리즘",
+      "status": "PICK",
+      "score": 79,
+      "headline": "AI가 추천하는 '인생샷' 자세…틱톡 출신이 만든 '슈퍼포즈'",
+      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
+      "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
+      "check_first": "공식 크리에이터 문서와 실제 적용 화면 확인",
       "money_signal": [],
-      "published_at": "2026-09-15T01:15:32+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "title": "광주은행 창립 58주년 '더드림+' 예금 금리 이벤트",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEdDk2N3NtOElKdHdvMmlVOHFJQzFZLW1Hd21kVllIR2JTOXZseVU5UFpWcXNfcWhScHJ4RzAtczFoMm5yc0Q5c1hRZF9OQ1M4RUM4LXVsZ21ERDNtWURpX9IBYEFVX3lxTFBEdDk2N3NtOElKdHdvMmlVOHFJQzFZLW1Hd21kVllIR2JTOXZseVU5UFpWcXNfcWhScHJ4RzAtczFoMm5yc0Q5c1hRZF9OQ1M4RUM4LXVsZ21ERDNtWURpXw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "apptech-삼성생명건강관리리워드더한삼성팩건강보험care출시",
-      "topic_id": "apptech",
-      "lane": "부업",
-      "label": "앱테크",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "삼성생명, 건강관리 리워드 더한 「삼성 팩 건강보험 Care+」 출시",
-      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
-      "angle": "포인트가 실제 어디에 쓰이고 얼마 가치인지",
-      "check_first": "참여 대상·포인트 전환처·이벤트 종료일 확인",
-      "money_signal": [],
-      "published_at": "2026-09-15T02:01:10+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "한국경제",
-          "title": "삼성생명, 건강관리 리워드 더한 「삼성 팩 건강보험 Care+」 출시",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMU9wd2RHeGtyVVkzS0xNSG9rVDhvMzR6a0ZQY2g1UDBKNTBRTjFVUV9Sa0tTUWFyVkdUbUdsaXhaMk8yOWhSRXpaXzlpdjJ1SUFvV3A5eFZvdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_product_news-gc메디아이의사랑ai출시3주여만에1천처돌파emr내재형의료ai확산본격화",
-      "topic_id": "ai_product_news",
-      "lane": "AI",
-      "label": "AI 신제품",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "GC메디아이 ‘의사랑 AI’ 출시 3주여 만에 1천처 돌파… EMR 내재형 의료 AI 확산 본격화",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
-      "money_signal": [],
-      "published_at": "2026-09-15T01:17:11+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "한국경제",
-          "title": "GC메디아이 ‘의사랑 AI’ 출시 3주여 만에 1천처 돌파… EMR 내재형 의료 AI 확산 본격화",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95bExMbVVRZzhaWUZ0eEdVREpwMWE4eVJDZnBhSV9LMk42QXdmVHEwSzAxYVdmMnE5QkI3SDB2LXota3lrTDVJVzN0azhYdkpDazFWMmJ1N0E2QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_product_news-체크포인트ai네트워크방화벽출시데이터유출보호",
-      "topic_id": "ai_product_news",
-      "lane": "AI",
-      "label": "AI 신제품",
-      "status": "WATCH",
-      "score": 73,
-      "headline": "체크포인트, `AI 네트워크 방화벽` 출시…데이터 유출 보호",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
-      "money_signal": [],
-      "published_at": "2026-09-15T02:39:45+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "디지털데일리",
-          "title": "체크포인트, `AI 네트워크 방화벽` 출시…데이터 유출 보호",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94U2puOEs0aXAtR2JHdUFBekllbC03ME5jNE5iMVhkSjcxemw1enFUOTd5LUExV08yaXdlcWhhSFFLWkpORklta0hnc3hwNEt6Ql9Qd0N6S212MURPT0YyUjY3VWU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_image_tools-사진구도바꾸고웹페이지가격추적애플ai기능확대",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
-      "status": "WATCH",
-      "score": 71,
-      "headline": "사진 구도 바꾸고 웹페이지 가격 추적…애플, AI 기능 확대",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
-      "money_signal": [],
-      "published_at": "2026-09-15T01:40:42+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "전자신문",
-          "title": "사진 구도 바꾸고 웹페이지 가격 추적…애플, AI 기능 확대",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OYkNtbU5HZlpPU2tzdnptUmlzWTM0VjZhdk5OOVA4MVJXYVVtV0pCQ1k3czVGcndMMUJlR09MbUNOSUxZaVViLUN6TUdndw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_image_tools-챗gpt이미지25vs나노바나나2ai이미지생성모델맞대결승자는",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
-      "status": "WATCH",
-      "score": 69,
-      "headline": "챗GPT 이미지 2.5 vs 나노 바나나 2, AI 이미지 생성 모델 맞대결…승자는?",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
-      "money_signal": [],
-      "published_at": "2026-09-15T01:14:37+00:00",
+      "published_at": "2026-09-16T01:47:04+00:00",
       "source_count": 1,
       "sources": [
         {
           "name": "디지털투데이",
-          "title": "챗GPT 이미지 2.5 vs 나노 바나나 2, AI 이미지 생성 모델 맞대결…승자는?",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KOGZ6Ymo3OHFDX2l4dTJRMkUyNWVDdXNvWkFvUlk5LVpWMjRyNUtsYXl3X290Q1NFOS1ydkxRbnQ4VGlIeWRhUnVhQmtFUVAxODJQcFFDN2JVR2g3N3MwQXBMNVA0cTlDUElvekY3bVRYRFk?oc=5"
+          "title": "AI가 추천하는 '인생샷' 자세…틱톡 출신이 만든 '슈퍼포즈'",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84X1NUQUZiRmdXenZwMS1ocExwR3NQTFg2YlhQdmFYOEpXVHNmakx3RE5hLTBCaU9iT1NSbmF2UFZ6QS1iMm10YUV2dzBYLTBnamJ0ZG45WkVyRHNmMGFJby1aMUlfRHI0NlZISXpYS2I5NEk?oc=5"
         }
       ]
     },
     {
-      "id": "loan-금리위험줄이려다대출더내줄라장기고정형주담대dsr역설",
+      "id": "reviewer-군민이직접전하는임실제1기sns서포터즈모집",
+      "topic_id": "reviewer",
+      "lane": "리뷰어",
+      "label": "체험단·리뷰어",
+      "status": "PICK",
+      "score": 79,
+      "headline": "\"군민이 직접 전하는 임실\"…제1기 SNS 서포터즈 모집",
+      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
+      "angle": "누가 신청할 수 있고 무엇을 제공받으며 후기 의무가 무엇인지",
+      "check_first": "브랜드·운영사 공식 모집 페이지 확인",
+      "money_signal": [],
+      "published_at": "2026-09-15T06:58:58+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴스1",
+          "title": "\"군민이 직접 전하는 임실\"…제1기 SNS 서포터즈 모집",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zYjdZVUhTMU8td2xITkpRNzlGSW1KVV9TZ1hjTk9uZlVPT0xZS2w4Nnl0aTUzaFk5Y2p6ZGVyT0p5U3AzeVNKdnlxUEc3VllOSWxpSdIBWkFVX3lxTFBZTUNIbUVPNlA4RTNOQlpEWVFxV29kVFl4UXY5TGY3Wl85dnRISjByZWpvcFB5RHRPTlIzZ3hReFkzbS14WFhGUGItV0d2MjFyYUJTZk8wRFRnZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-올해주담대하단1p뛰어3억대출이자6600만원더내야",
       "topic_id": "loan",
       "lane": "재테크",
       "label": "대출·금리",
       "status": "WATCH",
-      "score": 69,
-      "headline": "금리 위험 줄이려다 대출 더 내줄라…장기 고정형 주담대 ‘DSR 역설’",
+      "score": 77,
+      "headline": "올해 주담대 하단 1%p 뛰어…3억 대출이자 6600만원 더 내야",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
       "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [],
-      "published_at": "2026-09-14T23:48:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "국민일보",
-          "title": "금리 위험 줄이려다 대출 더 내줄라…장기 고정형 주담대 ‘DSR 역설’",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVhFWjRhNzhvcW5EYnZaYWp5RWgtcFVhR1NfdkhzY2N0MEJsQ2ZkSUwtLUM5Qlc4V1RPQ2hxVlQ2eTN5N2RYMzJnLXktSklkMFFWV19lWXpCaWRZYl9nVHlpSlFVaUhSSzhqS1RiSzg2NmRBRUVCamROampIajFLUktBOUw3dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_image_tools-이제야약속지킨다애플차세대인텔리전스결합한시리ai정식출시",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
-      "status": "WATCH",
-      "score": 69,
-      "headline": "\"이제야 약속 지킨다\"…애플, 차세대 인텔리전스 결합한 `시리 AI` 정식 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
-      "money_signal": [],
-      "published_at": "2026-09-14T22:50:20+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "디지털데일리",
-          "title": "\"이제야 약속 지킨다\"…애플, 차세대 인텔리전스 결합한 `시리 AI` 정식 출시",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41WVpFNEJreG9hNExPczVFVkZNZVc0ZjF0aWx0blA3RlYzM2YwZWNHZ2c5M05LWVIzSVVQdllQQUNKc1VqeUktZ2tIOXBFWm5BSEVqdVNZUGtWaHZoSFpTbVN3cFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_agents-바로팜약국전용aiotc에이전트출시",
-      "topic_id": "ai_agents",
-      "lane": "AI",
-      "label": "AI 에이전트",
-      "status": "WATCH",
-      "score": 67,
-      "headline": "바로팜, 약국 전용 AI 'OTC 에이전트' 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
-      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
-      "money_signal": [],
-      "published_at": "2026-09-14T00:02:08+00:00",
+      "money_signal": [
+        "1%",
+        "6600만원"
+      ],
+      "published_at": "2026-09-15T22:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
           "name": "뉴시스",
-          "title": "바로팜, 약국 전용 AI 'OTC 에이전트' 출시",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1aE9fYmtTV2FtaXQtbTVKenQzcFl4SV8ydmdRVmZ1LV9uZ1poZEd4OFNGWUNEMmE0WGd4dFpVOHpkRjV0cEp5XzEwdnZCNVEzM2dnVUNFZW5OXzZac3hINjBTOG1DUXBuc2FaZ2VTYlNzLTlUSllvY9IBeEFVX3lxTFB1aE9fYmtTV2FtaXQtbTVKenQzcFl4SV8ydmdRVmZ1LV9uZ1poZEd4OFNGWUNEMmE0WGd4dFpVOHpkRjV0cEp5XzEwdnZCNVEzM2dnVUNFZW5OXzZac3hINjBTOG1DUXBuc2FaZ2VTYlNzLTlUSllvYw?oc=5"
+          "title": "올해 주담대 하단 1%p 뛰어…3억 대출이자 6600만원 더 내야",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wODNNZDNqa29Zb0lSZmJyU3FYSDJoSzQxeU53NS1WaDBPQ3RhcUtUZzBtS09TemtQTVJubFdkZGxOSmZxLWNZOGZzSkl2ckg1ZHAwdThnOWs5YWhMZzBObNIBeEFVX3lxTE1yekNhUlRsc3JVY01aMUFzNE1PajFFZE9yMTVlanlUQUN6amhRRmlDS210Ym9lQXljd0FMS2hwWjV2MEJBb1lvdDNtWWo2TEViX2RuRVVZckNkaE1lTmFnU2wxTV9yVFFkZ1B6dXNiWDdvbTZ6WkFEVg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "reviewer-경남도청년서포터즈k거상리치메이트모집k거상관광루트홍보강화",
+      "topic_id": "reviewer",
+      "lane": "리뷰어",
+      "label": "체험단·리뷰어",
+      "status": "WATCH",
+      "score": 75,
+      "headline": "경남도, 청년 서포터즈 'K-거상 리치메이트' 모집…'K-거상 관광루트' 홍보 강화",
+      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
+      "angle": "누가 신청할 수 있고 무엇을 제공받으며 후기 의무가 무엇인지",
+      "check_first": "브랜드·운영사 공식 모집 페이지 확인",
+      "money_signal": [],
+      "published_at": "2026-09-02T05:38:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "title": "경남도, 청년 서포터즈 'K-거상 리치메이트' 모집…'K-거상 관광루트' 홍보 강화",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10SWtzQkNjRWI0bVpCREZRMG8teEdmdDBhS1dWZEVFN0lCdU9MemZTWmhIYkdUMFlRUzYzQkx2dW15b0Z2UlIyNEg0MDVHZUJzSG9aNGRRLU0yMzJI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_product_news-오라클자바27출시포스트양자암호화ai개발기능강화",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "오라클, 자바 27 출시…포스트 양자 암호화·AI 개발 기능 강화",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "money_signal": [],
+      "published_at": "2026-09-16T00:34:55+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "title": "오라클, 자바 27 출시…포스트 양자 암호화·AI 개발 기능 강화",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56cXQ1SmVWUlYwQXdNcTVLMmloWkQtYW5wbnc4ZTEyV2M3cGJLT2pMSEViYmVjNl9Id2JvUGhQX0FZZzN2cy1hWUVZS2l3emFadnZSU0dB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-321335정기예금금리올린시중은행이자많이주는저축은행바짝추격머니뭐니",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 68,
+      "headline": "“3.21%→3.35%” 정기예금 금리 올린 시중은행…이자 많이 주는 저축은행 바짝 추격 [머니뭐니]",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "3.21%",
+        "3.35%"
+      ],
+      "published_at": "2026-09-12T00:44:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "헤럴드경제",
+          "title": "“3.21%→3.35%” 정기예금 금리 올린 시중은행…이자 많이 주는 저축은행 바짝 추격 [머니뭐니]",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSkFnZkNBaHVUMHBsZlFRZndwU3RzSk1YbUFiMGhzMXVRVS05WTNoN2Q5SUR4TnM3T0xzTkFuU2ViYmdMaGRaeGFqaHV3TUFiWmViVVZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_image_tools-위클리ai메타오픈ai신규모델출시브레이크밟은마이크로소프트앤트로픽",
+      "topic_id": "ai_image_tools",
+      "lane": "AI",
+      "label": "AI 이미지",
+      "status": "WATCH",
+      "score": 67,
+      "headline": "[위클리AI] 메타·오픈AI, 신규 모델 출시···브레이크 밟은 마이크로소프트·앤트로픽",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
+      "check_first": "공식 요금·상업이용·저작권 정책 확인",
+      "money_signal": [],
+      "published_at": "2026-09-15T09:45:58+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "동아일보",
+          "title": "[위클리AI] 메타·오픈AI, 신규 모델 출시···브레이크 밟은 마이크로소프트·앤트로픽",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaN2JETUZDQXpnQ0JxTmkyX2VBYm9qT0RyazJsRmE3TFhlTWlkaklnU3NLWmZjOVFxQzZhQnd3SkJPTUxVSmpmb0RyS1RNMnRHOHBxS1o3MzJTdW0zSGd4NzZZQ0prMFJvdTZpdk5qONIBZkFVX3lxTE14YXNZUG5hcFNSV1ZIR200b0dsR01rdXM3S3JNZHlBVUs4TGZGV0ZjenZPTVNpcVlFTnp0VVRNSjVIcWJuU3ZSc2pDVGZtSkNadmF6cjZvX29vcmtuUGwyZzRIN0txZw?oc=5"
         }
       ]
     }
@@ -213,87 +175,87 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 11,
-    "shown": 9,
+    "raw_articles": 9,
+    "shown": 7,
     "topic_raw_counts": {
-      "apptech": 2,
-      "tax": 0,
       "affiliate": 0,
+      "tax": 0,
       "youtube_ypp": 0,
+      "apptech": 0,
+      "benefit": 4,
       "blog_ads": 0,
-      "benefit": 5,
       "policy": 1,
-      "deposit": 19,
-      "sns_growth": 0,
-      "loan": 17,
-      "openai_official": 14,
-      "youtube_metrics": 0,
+      "loan": 13,
+      "deposit": 18,
+      "sns_growth": 1,
       "creator_campaign": 0,
-      "reviewer": 4,
-      "instagram_metrics": 0,
-      "chatgpt_update": 0,
+      "openai_official": 13,
+      "reviewer": 3,
+      "youtube_metrics": 0,
       "useful_info": 0,
-      "platform": 1,
+      "instagram_metrics": 0,
       "ai_creator": 0,
-      "gemini_update": 0,
-      "chrome_tip": 0,
-      "claude_update": 0,
       "digital_tip": 3,
+      "claude_update": 0,
       "naver_creator_money": 0,
-      "youtube_shopping": 0,
+      "chatgpt_update": 0,
       "smartstore_seller": 0,
       "freelance_market": 0,
+      "gemini_update": 0,
       "digital_product": 0,
+      "platform": 0,
+      "youtube_shopping": 0,
+      "chrome_tip": 0,
+      "youtube_analytics_official": 1,
       "creator_sponsorship": 0,
       "instagram_reels_metrics": 0,
-      "youtube_shorts_metrics": 0,
-      "youtube_analytics_official": 1,
       "youtube_channel_metrics": 0,
-      "naver_blog_metrics": 0,
-      "threads_growth": 0,
       "beauty_reviewer": 0,
-      "tiktok_metrics": 0,
-      "tech_reviewer": 0,
-      "x_account_metrics": 0,
       "food_reviewer": 0,
+      "tiktok_metrics": 0,
+      "youtube_shorts_metrics": 0,
+      "naver_blog_metrics": 0,
+      "x_account_metrics": 0,
+      "threads_growth": 0,
       "travel_reviewer": 0,
-      "app_beta_reviewer": 0,
+      "tech_reviewer": 0,
       "creator_ambassador": 4,
-      "ai_video_tools": 0,
-      "ai_image_tools": 6,
-      "ai_coding": 0,
+      "app_beta_reviewer": 0,
       "ai_search": 0,
-      "korean_ai": 0,
-      "ai_agents": 1,
-      "mobile_tip": 1,
-      "public_data_tip": 0,
-      "productivity_tip": 0,
+      "ai_image_tools": 4,
+      "ai_agents": 2,
+      "ai_video_tools": 0,
+      "ai_coding": 0,
       "pc_tip": 0,
-      "travel_tip": 0,
-      "telecom_discount": 0,
-      "privacy_tip": 1,
+      "productivity_tip": 0,
+      "privacy_tip": 0,
+      "korean_ai": 0,
+      "public_data_tip": 0,
       "energy_support": 0,
+      "mobile_tip": 1,
+      "telecom_discount": 0,
       "employment_support": 0,
-      "local_currency": 0,
-      "education_support": 0,
+      "travel_tip": 0,
       "family_benefit": 0,
-      "card_benefit": 0,
       "bank_product": 0,
+      "local_currency": 0,
+      "smallbiz_money": 0,
+      "education_support": 0,
+      "card_benefit": 0,
       "isa_change": 0,
-      "smallbiz_money": 1,
       "pension_tax": 0,
-      "mortgage_policy": 0,
-      "tax_refund": 0,
-      "pension_public": 0,
-      "youtube_policy": 1,
-      "instagram_platform": 0,
       "threads_platform": 0,
+      "tax_refund": 0,
+      "mortgage_policy": 0,
+      "pension_public": 0,
+      "instagram_platform": 0,
+      "youtube_policy": 1,
       "x_platform": 0,
       "naver_platform": 0,
-      "coupang_platform": 0,
       "youtube_shop_affiliate": 0,
+      "coupang_platform": 0,
+      "ai_product_news": 4,
       "youtube_money_change": 0,
-      "ai_product_news": 7,
       "creator_commerce": 0
     },
     "errors": []
