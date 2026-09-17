@@ -1,49 +1,71 @@
 {
-  "generated_at": "2026-09-16 14:12 KST",
+  "generated_at": "2026-09-17 14:19 KST",
   "counts": {
     "부업": 0,
     "재테크": 2,
     "혜택": 0,
-    "SNS분석": 1,
-    "리뷰어": 2,
-    "AI": 2,
-    "꿀팁": 0,
+    "SNS분석": 0,
+    "리뷰어": 1,
+    "AI": 7,
+    "꿀팁": 2,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "sns_growth-ai가추천하는인생샷자세틱톡출신이만든슈퍼포즈",
-      "topic_id": "sns_growth",
-      "lane": "SNS분석",
-      "label": "성장·알고리즘",
+      "id": "useful_info-경남공공형제조ai데이터센터운영올해무료개방",
+      "topic_id": "useful_info",
+      "lane": "꿀팁",
+      "label": "유용정보",
       "status": "PICK",
-      "score": 79,
-      "headline": "AI가 추천하는 '인생샷' 자세…틱톡 출신이 만든 '슈퍼포즈'",
-      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
-      "check_first": "공식 크리에이터 문서와 실제 적용 화면 확인",
+      "score": 81,
+      "headline": "경남 공공형 ‘제조 AI데이터센터’ 운영···올해 무료 개방",
+      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
+      "angle": "돈 안 들이고 바로 써먹을 수 있는 공식 서비스와 사용법",
+      "check_first": "공식 운영기관·무료 범위·회원가입 필요 여부 확인",
       "money_signal": [],
-      "published_at": "2026-09-16T01:47:04+00:00",
+      "published_at": "2026-09-17T04:20:00+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "디지털투데이",
-          "title": "AI가 추천하는 '인생샷' 자세…틱톡 출신이 만든 '슈퍼포즈'",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84X1NUQUZiRmdXenZwMS1ocExwR3NQTFg2YlhQdmFYOEpXVHNmakx3RE5hLTBCaU9iT1NSbmF2UFZ6QS1iMm10YUV2dzBYLTBnamJ0ZG45WkVyRHNmMGFJby1aMUlfRHI0NlZISXpYS2I5NEk?oc=5"
+          "name": "경향신문",
+          "title": "경남 공공형 ‘제조 AI데이터센터’ 운영···올해 무료 개방",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95MEJBNWQ2MkRURzZoZG0xRUItd3BCcDA5aHMxQ2I4MURHS2p3TE5tZkJvUDU0LTdZc0VBdUJoTDM1dWEyTkRZWWVpM2xtel9COTYwWjRUNEJXUdIBX0FVX3lxTFBUY1ZJNVhPOVduQkg3YzRXaDRwbUFXQk5XTWd3emREOHVWMU9NTTlaVlZ2NmZVdkhOMkhNTkhDdF8yc0lzQVduRXBraWxSZXBWUE5SajBOZ0dKSEEyUEtz?oc=5"
         }
       ]
     },
     {
-      "id": "reviewer-군민이직접전하는임실제1기sns서포터즈모집",
-      "topic_id": "reviewer",
+      "id": "digital_tip-삼성전자oneui9업데이트시작갤럭시s26부터적용",
+      "topic_id": "digital_tip",
+      "lane": "꿀팁",
+      "label": "디지털 꿀팁",
+      "status": "PICK",
+      "score": 80,
+      "headline": "삼성전자, One UI 9 업데이트 시작…갤럭시 S26부터 적용",
+      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
+      "angle": "지금 바로 켜거나 바꾸면 시간·돈을 아끼는 설정인지",
+      "check_first": "공식 도움말에서 지원 기기·버전·적용 조건 확인",
+      "money_signal": [],
+      "published_at": "2026-09-16T23:40:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "title": "삼성전자, One UI 9 업데이트 시작…갤럭시 S26부터 적용",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1USUduTFVCOUd5MXJaZml3LXlRcHljZjJ0RnpUNjZoQ2t2ZWNGRWVWQTA1SUgyYXdXUUdUdE05dnkxcE9wS2pmemFsTjQ5LXRmZlV0VHlzMHoxeUc0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "creator_ambassador-군민이직접전하는임실제1기sns서포터즈모집",
+      "topic_id": "creator_ambassador",
       "lane": "리뷰어",
-      "label": "체험단·리뷰어",
+      "label": "브랜드 앰배서더",
       "status": "PICK",
       "score": 79,
       "headline": "\"군민이 직접 전하는 임실\"…제1기 SNS 서포터즈 모집",
       "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
-      "angle": "누가 신청할 수 있고 무엇을 제공받으며 후기 의무가 무엇인지",
-      "check_first": "브랜드·운영사 공식 모집 페이지 확인",
+      "angle": "활동기간·제공혜택·필수 콘텐츠 수를 정리",
+      "check_first": "브랜드 공식 캠페인 페이지 확인",
       "money_signal": [],
       "published_at": "2026-09-15T06:58:58+00:00",
       "source_count": 1,
@@ -56,110 +78,201 @@
       ]
     },
     {
-      "id": "loan-올해주담대하단1p뛰어3억대출이자6600만원더내야",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 77,
-      "headline": "올해 주담대 하단 1%p 뛰어…3억 대출이자 6600만원 더 내야",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "1%",
-        "6600만원"
-      ],
-      "published_at": "2026-09-15T22:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "올해 주담대 하단 1%p 뛰어…3억 대출이자 6600만원 더 내야",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wODNNZDNqa29Zb0lSZmJyU3FYSDJoSzQxeU53NS1WaDBPQ3RhcUtUZzBtS09TemtQTVJubFdkZGxOSmZxLWNZOGZzSkl2ckg1ZHAwdThnOWs5YWhMZzBObNIBeEFVX3lxTE1yekNhUlRsc3JVY01aMUFzNE1PajFFZE9yMTVlanlUQUN6amhRRmlDS210Ym9lQXljd0FMS2hwWjV2MEJBb1lvdDNtWWo2TEViX2RuRVVZckNkaE1lTmFnU2wxTV9yVFFkZ1B6dXNiWDdvbTZ6WkFEVg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "reviewer-경남도청년서포터즈k거상리치메이트모집k거상관광루트홍보강화",
-      "topic_id": "reviewer",
-      "lane": "리뷰어",
-      "label": "체험단·리뷰어",
-      "status": "WATCH",
-      "score": 75,
-      "headline": "경남도, 청년 서포터즈 'K-거상 리치메이트' 모집…'K-거상 관광루트' 홍보 강화",
-      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
-      "angle": "누가 신청할 수 있고 무엇을 제공받으며 후기 의무가 무엇인지",
-      "check_first": "브랜드·운영사 공식 모집 페이지 확인",
-      "money_signal": [],
-      "published_at": "2026-09-02T05:38:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴스핌",
-          "title": "경남도, 청년 서포터즈 'K-거상 리치메이트' 모집…'K-거상 관광루트' 홍보 강화",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10SWtzQkNjRWI0bVpCREZRMG8teEdmdDBhS1dWZEVFN0lCdU9MemZTWmhIYkdUMFlRUzYzQkx2dW15b0Z2UlIyNEg0MDVHZUJzSG9aNGRRLU0yMzJI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_product_news-오라클자바27출시포스트양자암호화ai개발기능강화",
-      "topic_id": "ai_product_news",
+      "id": "ai_agents-대화로장소찾고예약도네이버지도플레이스에이전트출시",
+      "topic_id": "ai_agents",
       "lane": "AI",
-      "label": "AI 신제품",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "오라클, 자바 27 출시…포스트 양자 암호화·AI 개발 기능 강화",
+      "label": "AI 에이전트",
+      "status": "PICK",
+      "score": 78,
+      "headline": "대화로 장소 찾고 예약도…네이버지도 '플레이스 에이전트' 출시",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
+      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
       "money_signal": [],
-      "published_at": "2026-09-16T00:34:55+00:00",
-      "source_count": 1,
+      "published_at": "2026-09-17T01:40:39+00:00",
+      "source_count": 2,
       "sources": [
         {
-          "name": "지디넷코리아",
-          "title": "오라클, 자바 27 출시…포스트 양자 암호화·AI 개발 기능 강화",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56cXQ1SmVWUlYwQXdNcTVLMmloWkQtYW5wbnc4ZTEyV2M3cGJLT2pMSEViYmVjNl9Id2JvUGhQX0FZZzN2cy1hWUVZS2l3emFadnZSU0dB?oc=5"
+          "name": "연합뉴스",
+          "title": "대화로 장소 찾고 예약도…네이버지도 '플레이스 에이전트' 출시",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HYlFCZDE1c2g1SXJORG9Lbk1MUWhjdVVBS0hYdHpESVRMU2VSeUxTeVRrR0lZNFlwZndsZGMzVUdObE9ybDFUQldXZ2pnby1Da0RaY01hTXdfTEnSAWBBVV95cUxPQnhsckNMZHlSeEZLVkxEbkRMZVI4LUw2OG1hdmQyR3pyTE1EU0tGeVBBamROSEMwME5OWWRCRW9ZbjNfTERTZXhUODN4Njd1QlVkbUswUmhxNmZRV2xiUzc?oc=5"
+        },
+        {
+          "name": "플래텀(Platum)",
+          "title": "네이버지도, AI 기반 대화형 장소 탐색 기능 ‘플레이스 에이전트’ 출시",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TMGdRM1B5cHlIREdLMWRyNUNhZHJ4M0p3VGVzYjFfWE1aeUlPN09DLXJRTFJENzQ3bEVYbnkzdlhTZF9ZNDlPRg?oc=5"
         }
       ]
     },
     {
-      "id": "deposit-321335정기예금금리올린시중은행이자많이주는저축은행바짝추격머니뭐니",
+      "id": "deposit-저축은행예금이자4대올리자한달새5조원뭉칫돈",
       "topic_id": "deposit",
       "lane": "재테크",
       "label": "예적금",
       "status": "WATCH",
-      "score": 68,
-      "headline": "“3.21%→3.35%” 정기예금 금리 올린 시중은행…이자 많이 주는 저축은행 바짝 추격 [머니뭐니]",
+      "score": 77,
+      "headline": "저축은행, 예금이자 4%대 올리자…한달새 5조원 '뭉칫돈'",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "광고금리 말고 실제 세후 이자와 우대조건",
       "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
-        "3.21%",
-        "3.35%"
+        "4%"
       ],
-      "published_at": "2026-09-12T00:44:00+00:00",
+      "published_at": "2026-09-16T21:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "헤럴드경제",
-          "title": "“3.21%→3.35%” 정기예금 금리 올린 시중은행…이자 많이 주는 저축은행 바짝 추격 [머니뭐니]",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSkFnZkNBaHVUMHBsZlFRZndwU3RzSk1YbUFiMGhzMXVRVS05WTNoN2Q5SUR4TnM3T0xzTkFuU2ViYmdMaGRaeGFqaHV3TUFiWmViVVZB?oc=5"
+          "name": "뉴시스",
+          "title": "저축은행, 예금이자 4%대 올리자…한달새 5조원 '뭉칫돈'",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JMmJCUVpScmZzNjAtVTUzNVFUZXp0Z0JJUmhuUU1ESm95NHpuZHdrazFuYzdaTjRjOFhUR2duSC00Ri0zX1VVUVJrWGF6X1hWd1l3QkxfS1FEcjVJNDIxUTRrZGNCSHNYZVhKamItZzNUV3Q1aEcyeNIBeEFVX3lxTE9JMmJCUVpScmZzNjAtVTUzNVFUZXp0Z0JJUmhuUU1ESm95NHpuZHdrazFuYzdaTjRjOFhUR2duSC00Ri0zX1VVUVJrWGF6X1hWd1l3QkxfS1FEcjVJNDIxUTRrZGNCSHNYZVhKamItZzNUV3Q1aEcyeA?oc=5"
         }
       ]
     },
     {
-      "id": "ai_image_tools-위클리ai메타오픈ai신규모델출시브레이크밟은마이크로소프트앤트로픽",
-      "topic_id": "ai_image_tools",
+      "id": "ai_product_news-삼성갤s26부터원ui9업데이트ai변조보이스피싱도감지",
+      "topic_id": "ai_product_news",
       "lane": "AI",
-      "label": "AI 이미지",
+      "label": "AI 신제품",
+      "status": "WATCH",
+      "score": 76,
+      "headline": "삼성, 갤S26부터 '원 UI 9' 업데이트…AI 변조 보이스피싱도 감지",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "money_signal": [],
+      "published_at": "2026-09-17T00:16:42+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "삼성, 갤S26부터 '원 UI 9' 업데이트…AI 변조 보이스피싱도 감지",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VYWpLdzB0czZPdmxaUThIczNwTFU2V0FZQUtiTXV0TUJiVXVzYm9jSFZIcm1NX01KRW13d0NuNFc4eEw4clota25ZSDFFUktvVW03TFdNdDQzT2loYW1lZGwzV1NKMDhjSVRldGlVWTNBSWF1QUJTbtIBeEFVX3lxTE5VYWpLdzB0czZPdmxaUThIczNwTFU2V0FZQUtiTXV0TUJiVXVzYm9jSFZIcm1NX01KRW13d0NuNFc4eEw4clota25ZSDFFUktvVW03TFdNdDQzT2loYW1lZGwzV1NKMDhjSVRldGlVWTNBSWF1QUJTbg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_product_news-ai로바꾼목소리도잡아내삼성oneui9업데이트",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
+      "status": "WATCH",
+      "score": 73,
+      "headline": "\"AI로 바꾼 목소리도 잡아내\"…삼성, 'One UI 9' 업데이트",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "money_signal": [],
+      "published_at": "2026-09-16T23:54:33+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "title": "\"AI로 바꾼 목소리도 잡아내\"…삼성, 'One UI 9' 업데이트",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zUGdsN3lDR2JzVF9rV3JPbEYzQ1o1Znd1N3NKbG5RUE5pOTduVkZicnNHSWRUNXU5bFJwandVempYYUZRVDdvVjZadw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_product_news-네이버지도ai기반대화형장소탐색기능플레이스에이전트출시",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "네이버지도, AI 기반 대화형 장소 탐색 기능 ‘플레이스 에이전트’ 출시",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "money_signal": [],
+      "published_at": "2026-09-17T00:49:48+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "플래텀(Platum)",
+          "title": "네이버지도, AI 기반 대화형 장소 탐색 기능 ‘플레이스 에이전트’ 출시",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TMGdRM1B5cHlIREdLMWRyNUNhZHJ4M0p3VGVzYjFfWE1aeUlPN09DLXJRTFJENzQ3bEVYbnkzdlhTZF9ZNDlPRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_creator-네이버쇼핑앱ai에이전트배송특화기능고도화",
+      "topic_id": "ai_creator",
+      "lane": "AI",
+      "label": "AI 제작도구",
+      "status": "WATCH",
+      "score": 69,
+      "headline": "네이버, 쇼핑앱 AI 에이전트 배송 특화 기능 고도화",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "기존 작업시간을 얼마나 줄이고 결과물 품질이 어느 수준인지",
+      "check_first": "요금·상업적 이용조건·워터마크·저작권 정책 확인",
+      "money_signal": [],
+      "published_at": "2026-09-17T00:45:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "title": "네이버, 쇼핑앱 AI 에이전트 배송 특화 기능 고도화",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxZG1LVEVpY3llQTc1T092ZXpSYkRocUx4THdlb1JvNkdicXZqQ2tGNGdNN2dMYXJRY0ZkNmFHV3ZCUWFrOFdmMV9xY3VRQXBFMXE2VjFMemsxa2t2?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-증시식고예금금리오르자증권사도연5내걸고금리경쟁가세",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 69,
+      "headline": "증시 식고 예금금리 오르자…증권사도 연 5% 내걸고 '금리 경쟁' 가세",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "5%"
+      ],
+      "published_at": "2026-09-14T07:45:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "한국일보",
+          "title": "증시 식고 예금금리 오르자…증권사도 연 5% 내걸고 '금리 경쟁' 가세",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15MTVWTlF1Wkk1b0xwMTB2U3hybGpJRU1QY2xGNk81MGtKQzA1ellyRXhKdDlLQTdraDZuTGFqQS1IUDByd2RUd2VYV0JLSTNVZlFtb1kzbXZRU1JfeHZMTi1sc0RVRGZidm5zNDhB0gFzQVVfeXFMUE5nMVQ1YWdDa0lGZS0tS0h0ZkhGMm8wZmZGRFJ1d0M0Tmw1SGhhYWdXSHVqTHhEU0pDRmV2TGlodjFDRG1BS0dVY0lwWUlRMkNFQWpnUFhYaXBsNXFGSWI0cWJxakF6N0x0em5PU1JqNFc4SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_agents-택시부르고병원예약하는무료ai서비스연말출시한다",
+      "topic_id": "ai_agents",
+      "lane": "AI",
+      "label": "AI 에이전트",
+      "status": "WATCH",
+      "score": 67,
+      "headline": "\"택시 부르고 병원 예약하는 무료 AI 서비스 연말 출시한다\"",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
+      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
+      "money_signal": [],
+      "published_at": "2026-09-16T06:33:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "한국일보",
+          "title": "\"택시 부르고 병원 예약하는 무료 AI 서비스 연말 출시한다\"",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjSHhqVzBwa0h0MWk0NmttbGZ3ZWRDUWtCdk1SZndLSTlJRVBxUmtwYm9SYXd6LThBeUwwRzVjWVVHaHMxc0ZnMlZwcWZhS3h3aEtkWW8xNkdZY3V4T0VLeV9YaExlNmJRbXlkRGJn0gFzQVVfeXFMT3lOa2o3TktSSDJvenNkbTdHN3RzemJualdyang4eHU3U0VXVVRWR1V1M2lJdUhLeW94aFVqUk81OUtfWG5QXzFNR3dxV0NKSm1JbFRDdUttdEpYbnpVdTJtazE5eHAyTlNncWVYVmY4NWNYMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_agents-위클리ai메타오픈ai신규모델출시브레이크밟은마이크로소프트앤트로픽",
+      "topic_id": "ai_agents",
+      "lane": "AI",
+      "label": "AI 에이전트",
       "status": "WATCH",
       "score": 67,
       "headline": "[위클리AI] 메타·오픈AI, 신규 모델 출시···브레이크 밟은 마이크로소프트·앤트로픽",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
+      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
+      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
       "money_signal": [],
       "published_at": "2026-09-15T09:45:58+00:00",
       "source_count": 1,
@@ -167,7 +280,7 @@
         {
           "name": "동아일보",
           "title": "[위클리AI] 메타·오픈AI, 신규 모델 출시···브레이크 밟은 마이크로소프트·앤트로픽",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaN2JETUZDQXpnQ0JxTmkyX2VBYm9qT0RyazJsRmE3TFhlTWlkaklnU3NLWmZjOVFxQzZhQnd3SkJPTUxVSmpmb0RyS1RNMnRHOHBxS1o3MzJTdW0zSGd4NzZZQ0prMFJvdTZpdk5qONIBZkFVX3lxTE14YXNZUG5hcFNSV1ZIR200b0dsR01rdXM3S3JNZHlBVUs4TGZGV0ZjenZPTVNpcVlFTnp0VVRNSjVIcWJuU3ZSc2pDVGZtSkNadmF6cjZvX29vcmtuUGwyZzRIN0txZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14YXNZUG5hcFNSV1ZIR200b0dsR01rdXM3S3JNZHlBVUs4TGZGV0ZjenZPTVNpcVlFTnp0VVRNSjVIcWJuU3ZSc2pDVGZtSkNadmF6cjZvX29vcmtuUGwyZzRIN0txZ9IBZkFVX3lxTE14YXNZUG5hcFNSV1ZIR200b0dsR01rdXM3S3JNZHlBVUs4TGZGV0ZjenZPTVNpcVlFTnp0VVRNSjVIcWJuU3ZSc2pDVGZtSkNadmF6cjZvX29vcmtuUGwyZzRIN0txZw?oc=5"
         }
       ]
     }
@@ -175,87 +288,87 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 9,
-    "shown": 7,
+    "raw_articles": 17,
+    "shown": 12,
     "topic_raw_counts": {
-      "affiliate": 0,
       "tax": 0,
+      "affiliate": 0,
       "youtube_ypp": 0,
-      "apptech": 0,
-      "benefit": 4,
+      "apptech": 1,
       "blog_ads": 0,
+      "benefit": 4,
       "policy": 1,
-      "loan": 13,
-      "deposit": 18,
-      "sns_growth": 1,
-      "creator_campaign": 0,
-      "openai_official": 13,
-      "reviewer": 3,
+      "sns_growth": 0,
+      "loan": 9,
+      "deposit": 22,
+      "openai_official": 11,
       "youtube_metrics": 0,
-      "useful_info": 0,
+      "reviewer": 3,
+      "useful_info": 1,
       "instagram_metrics": 0,
-      "ai_creator": 0,
-      "digital_tip": 3,
-      "claude_update": 0,
-      "naver_creator_money": 0,
+      "creator_campaign": 0,
+      "digital_tip": 1,
       "chatgpt_update": 0,
+      "gemini_update": 0,
+      "ai_creator": 1,
+      "platform": 1,
+      "chrome_tip": 0,
+      "naver_creator_money": 0,
+      "claude_update": 0,
       "smartstore_seller": 0,
       "freelance_market": 0,
-      "gemini_update": 0,
-      "digital_product": 0,
-      "platform": 0,
-      "youtube_shopping": 0,
-      "chrome_tip": 0,
       "youtube_analytics_official": 1,
       "creator_sponsorship": 0,
+      "digital_product": 0,
       "instagram_reels_metrics": 0,
-      "youtube_channel_metrics": 0,
-      "beauty_reviewer": 0,
-      "food_reviewer": 0,
-      "tiktok_metrics": 0,
-      "youtube_shorts_metrics": 0,
       "naver_blog_metrics": 0,
-      "x_account_metrics": 0,
+      "beauty_reviewer": 0,
+      "youtube_channel_metrics": 0,
       "threads_growth": 0,
-      "travel_reviewer": 0,
+      "food_reviewer": 0,
+      "youtube_shorts_metrics": 0,
+      "tiktok_metrics": 0,
       "tech_reviewer": 0,
-      "creator_ambassador": 4,
+      "x_account_metrics": 0,
       "app_beta_reviewer": 0,
-      "ai_search": 0,
-      "ai_image_tools": 4,
-      "ai_agents": 2,
-      "ai_video_tools": 0,
+      "travel_reviewer": 0,
+      "youtube_shopping": 0,
+      "creator_ambassador": 3,
       "ai_coding": 0,
+      "ai_image_tools": 1,
+      "ai_search": 0,
       "pc_tip": 0,
-      "productivity_tip": 0,
-      "privacy_tip": 0,
-      "korean_ai": 0,
       "public_data_tip": 0,
-      "energy_support": 0,
+      "ai_agents": 5,
+      "korean_ai": 0,
+      "ai_video_tools": 0,
+      "productivity_tip": 0,
       "mobile_tip": 1,
+      "travel_tip": 0,
+      "privacy_tip": 0,
+      "energy_support": 0,
       "telecom_discount": 0,
       "employment_support": 0,
-      "travel_tip": 0,
       "family_benefit": 0,
-      "bank_product": 0,
-      "local_currency": 0,
-      "smallbiz_money": 0,
       "education_support": 0,
       "card_benefit": 0,
+      "local_currency": 0,
+      "bank_product": 1,
       "isa_change": 0,
+      "smallbiz_money": 0,
       "pension_tax": 0,
-      "threads_platform": 0,
-      "tax_refund": 0,
       "mortgage_policy": 0,
-      "pension_public": 0,
+      "tax_refund": 0,
+      "threads_platform": 0,
       "instagram_platform": 0,
-      "youtube_policy": 1,
+      "youtube_policy": 0,
       "x_platform": 0,
+      "pension_public": 0,
       "naver_platform": 0,
-      "youtube_shop_affiliate": 0,
       "coupang_platform": 0,
-      "ai_product_news": 4,
+      "youtube_shop_affiliate": 0,
       "youtube_money_change": 0,
+      "ai_product_news": 6,
       "creator_commerce": 0
     },
     "errors": []
