@@ -1,151 +1,6 @@
 [
   {
     "topic_id": "openai_official",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "tokens": [
-      "astra",
-      "end",
-      "gpt",
-      "perplexity",
-      "systems",
-      "to",
-      "trusts",
-      "with"
-    ],
-    "date": "2026-09-12"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "tokens": [
-      "billion",
-      "chatgpt",
-      "online",
-      "over",
-      "rapidly",
-      "scaling",
-      "serve",
-      "storage",
-      "to",
-      "users"
-    ],
-    "date": "2026-09-12"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "tokens": [
-      "air",
-      "atv",
-      "big",
-      "chatgpt",
-      "days",
-      "hours",
-      "into",
-      "of",
-      "tour",
-      "turned",
-      "with",
-      "work"
-    ],
-    "date": "2026-09-12"
-  },
-  {
-    "topic_id": "policy",
-    "title": "보은군, 청년 주거·점포 월세 지원…\"21일까지 신청\"",
-    "tokens": [
-      "21일까지",
-      "보은군",
-      "월세",
-      "점포",
-      "주거",
-      "청년"
-    ],
-    "date": "2026-09-12"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "예금금리 3%대 중반까지… 은행권 고금리 상품 잇따라",
-    "tokens": [
-      "고금리",
-      "상품",
-      "예금금리",
-      "은행권",
-      "잇따라",
-      "중반까지"
-    ],
-    "date": "2026-09-12"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "주식보다 예금?…3%대 중반 금리에 자금이동 촉각",
-    "tokens": [
-      "금리에",
-      "예금",
-      "자금이동",
-      "주식보다",
-      "중반",
-      "촉각"
-    ],
-    "date": "2026-09-12"
-  },
-  {
-    "topic_id": "loan",
-    "title": "美 금리 인상 확률 72.4%…주담대 8% 현실화?",
-    "tokens": [
-      "금리",
-      "인상",
-      "주담대",
-      "현실화",
-      "확률"
-    ],
-    "date": "2026-09-12"
-  },
-  {
-    "topic_id": "loan",
-    "title": "주담대 7%도 버거운데…코픽스·FOMC에 또 오르나",
-    "tokens": [
-      "fomc에",
-      "버거운데",
-      "오르나",
-      "주담대",
-      "코픽스"
-    ],
-    "date": "2026-09-12"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "DB저축은행, 'Dream Big 보통예금' 금리 인상…최고 연 3.2%",
-    "tokens": [
-      "big",
-      "db저축은행",
-      "dream",
-      "금리",
-      "보통예금",
-      "인상",
-      "최고"
-    ],
-    "date": "2026-09-12"
-  },
-  {
-    "topic_id": "mobile_tip",
-    "title": "애플, 구형 아이폰 위성 연결 기능 1년 연장…카메라 신기능은 최신폰만",
-    "tokens": [
-      "1년",
-      "구형",
-      "신기능은",
-      "아이폰",
-      "애플",
-      "연결",
-      "연장",
-      "위성",
-      "최신폰만",
-      "카메라"
-    ],
-    "date": "2026-09-12"
-  },
-  {
-    "topic_id": "openai_official",
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
     "tokens": [
       "astra",
@@ -1318,5 +1173,197 @@
       "확인"
     ],
     "date": "2026-09-19"
+  },
+  {
+    "topic_id": "youtube_analytics_official",
+    "title": "The YouTube Reporting API now supports Version 1.1 of the weekly references report for content owners ( content_owner_active_references_a2 ).",
+    "tokens": [
+      "a2",
+      "active",
+      "api",
+      "content",
+      "for",
+      "now",
+      "of",
+      "owner",
+      "owners",
+      "references",
+      "report",
+      "reporting",
+      "supports",
+      "the",
+      "version",
+      "weekly",
+      "youtube"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "Introducing ChatGPT for Financial Services",
+    "tokens": [
+      "chatgpt",
+      "financial",
+      "for",
+      "introducing",
+      "services"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "tokens": [
+      "api",
+      "build",
+      "experiences",
+      "gpt",
+      "in",
+      "live",
+      "more",
+      "natural",
+      "the",
+      "voice",
+      "with"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "Introducing the Agents API",
+    "tokens": [
+      "agents",
+      "api",
+      "introducing",
+      "the"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "예금금리도 4% 눈앞…돌아오는 '예테크족'[긴축이 온다②]",
+    "tokens": [
+      "긴축이",
+      "눈앞",
+      "돌아오는",
+      "예금금리도",
+      "예테크족",
+      "온다"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "topic_id": "creator_ambassador",
+    "title": "엔픽스, 유아용품 서포터즈 'ABC 스타맘' 14기 모집 - 머니투데이",
+    "tokens": [
+      "14기",
+      "abc",
+      "머니투데이",
+      "모집",
+      "서포터즈",
+      "스타맘",
+      "엔픽스",
+      "유아용품"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "topic_id": "smallbiz_money",
+    "title": "대구시, 5000억 원 규모 중소기업ㆍ소상공인 금융지원 접수",
+    "tokens": [
+      "5000억",
+      "규모",
+      "금융지원",
+      "대구시",
+      "소상공인",
+      "접수",
+      "중소기업"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "topic_id": "loan",
+    "title": "주담대 변동금리 5개월 만에 상승세 멈춰…8월 코픽스 연 3.18%(종합)",
+    "tokens": [
+      "5개월",
+      "8월",
+      "만에",
+      "멈춰",
+      "변동금리",
+      "상승세",
+      "종합",
+      "주담대",
+      "코픽스"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "연 4% 향하는 은행 예금금리…5대 은행 줄인상 '최고 3.8%'",
+    "tokens": [
+      "5대",
+      "예금금리",
+      "은행",
+      "줄인상",
+      "최고",
+      "향하는"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "4.0% 예금 금리 등장…SC제일은행, '하이통장' 특별금리 이벤트",
+    "tokens": [
+      "sc제일은행",
+      "금리",
+      "등장",
+      "예금",
+      "이벤트",
+      "특별금리",
+      "하이통장"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "topic_id": "loan",
+    "title": "“주담대 금리 내리겠습니다”…0.45%P 역주행 택한 NH농협은행",
+    "tokens": [
+      "nh농협은행",
+      "금리",
+      "내리겠습니다",
+      "역주행",
+      "주담대",
+      "택한"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "topic_id": "loan",
+    "title": "대출이자 1년에 600만원 더?…5년 전 집 산 ‘영끌족’ 비상",
+    "tokens": [
+      "1년에",
+      "5년",
+      "600만원",
+      "대출이자",
+      "비상",
+      "영끌족"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "topic_id": "ai_agents",
+    "title": "앤트로픽 \"AI 연구개발 업무 26%는 클로드가\"…사내 에이전트 3만개 가동",
+    "tokens": [
+      "3만개",
+      "ai",
+      "가동",
+      "사내",
+      "앤트로픽",
+      "업무",
+      "에이전트",
+      "연구개발",
+      "클로드가"
+    ],
+    "date": "2026-09-20"
   }
 ]
