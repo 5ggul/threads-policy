@@ -1,35 +1,463 @@
 {
-  "generated_at": "2026-09-22 14:21 KST",
+  "generated_at": "2026-09-23 14:08 KST",
   "counts": {
-    "부업": 0,
-    "재테크": 0,
-    "혜택": 0,
+    "부업": 1,
+    "재테크": 6,
+    "혜택": 4,
     "SNS분석": 0,
-    "리뷰어": 0,
-    "AI": 1,
-    "꿀팁": 0,
+    "리뷰어": 1,
+    "AI": 5,
+    "꿀팁": 1,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "openai_official-higgsfieldaishipsnewvideofeaturesinadaywit",
+      "id": "openai_official-betterpromptcachingforgpt6",
       "topic_id": "openai_official",
       "lane": "AI",
       "label": "OpenAI 공식",
       "status": "NOW",
       "score": 94,
-      "headline": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "headline": "Better prompt caching for GPT-6",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
       "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
       "money_signal": [],
-      "published_at": "2026-09-21T12:00:00+00:00",
+      "published_at": "2026-09-22T21:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
           "name": "OpenAI 공식",
-          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+          "title": "Better prompt caching for GPT-6",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+        }
+      ]
+    },
+    {
+      "id": "openai_official-introducinggpt6solandluna",
+      "topic_id": "openai_official",
+      "lane": "AI",
+      "label": "OpenAI 공식",
+      "status": "NOW",
+      "score": 94,
+      "headline": "Introducing GPT-6 Sol and Luna",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
+      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
+      "money_signal": [],
+      "published_at": "2026-09-22T18:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI 공식",
+          "title": "Introducing GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+        }
+      ]
+    },
+    {
+      "id": "ai_product_news-tcl필기ai기능갖춘태블릿노트a1넥스트페이퍼출시89만9000원조선비즈",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
+      "status": "PICK",
+      "score": 82,
+      "headline": "中 TCL, 필기·AI 기능 갖춘 태블릿 ‘노트 A1 넥스트페이퍼’ 출시… 89만9000원 - 조선비즈",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "money_signal": [
+        "9000원"
+      ],
+      "published_at": "2026-09-23T01:53:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "title": "中 TCL, 필기·AI 기능 갖춘 태블릿 ‘노트 A1 넥스트페이퍼’ 출시… 89만9000원 - 조선비즈",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUU1welB1WkgwOF90cGhyUjJNYXdsdy1wb2VFbjZMUDQxejRJUWtPNnEtZVZpTkFzUkNReng5TnBHcUlxM3V0aEhYRjNVeXBPb3RNaE5WRi1fM3F4YjI3T3hUMExORDFPLWoxdkJOQkk0S1lxeW9iU3BZTXdIZllTZmtVRFRhSkVHbmRaZUVIVUktYUxMc3fSAZYBQVVfeXFMUFFNcHpQdVpIMDhfdHBoclIyTWF3bHctcG9lRW42TFA0MXo0SVFrTzZxLWVWaU5Bc1JDUXp4OU5wR3FJcTN1dGhIWEYzVXlwT290TWhOVkYtXzNxeGIyN094VDBMTkQxTy1qMXZCTkJJNEtZcXlvYlNwWU13SGZZU2ZrVURUYUpFR25kWmVFSFVJLWFMTHN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "openai_official-gpt6astrathenextgenerationinintelligencefo",
+      "topic_id": "openai_official",
+      "lane": "AI",
+      "label": "OpenAI 공식",
+      "status": "PICK",
+      "score": 82,
+      "headline": "GPT-6 Astra: The next generation in intelligence for work",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
+      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
+      "money_signal": [],
+      "published_at": "2026-09-09T11:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI 공식",
+          "title": "GPT-6 Astra: The next generation in intelligence for work",
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work"
+        }
+      ]
+    },
+    {
+      "id": "reviewer-서울디자인어워드최고디자인뽑을서포터즈200명모집",
+      "topic_id": "reviewer",
+      "lane": "리뷰어",
+      "label": "체험단·리뷰어",
+      "status": "PICK",
+      "score": 81,
+      "headline": "'서울디자인어워드' 최고 디자인 뽑을 서포터즈 200명 모집",
+      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
+      "angle": "누가 신청할 수 있고 무엇을 제공받으며 후기 의무가 무엇인지",
+      "check_first": "브랜드·운영사 공식 모집 페이지 확인",
+      "money_signal": [],
+      "published_at": "2026-09-21T21:00:09+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "'서울디자인어워드' 최고 디자인 뽑을 서포터즈 200명 모집",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IaWhDcVpvcjhyU25vSjlfMGdpT2x5dWoydXAtckNKaS1TMC1kYkpJVFhYWFdKVnFqSmRKZ0R1TTV2X3paYlFreWZsU2ctdHdDckx1TFNSVi1BQjDSAWBBVV95cUxNZmVsR25PX3BTamtlYUdZTi1HOW5YWVU4UFRiZDloZ1owSldVQ1E4a0NLOGFIZTFtYVlLdmJhLWYxNUJpWGw0bzNrZzNUd2tBZjJ6M2hKdHd6emJvTkJqSVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-농협은행예적금금리최대025p은행권수신경쟁본격화",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "PICK",
+      "score": 79,
+      "headline": "농협은행, 예·적금 금리 최대 0.25%p↑…은행권 수신경쟁 본격화",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "0.25%"
+      ],
+      "published_at": "2026-09-23T04:43:00+00:00",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "한국경제TV",
+          "title": "농협은행, 예·적금 금리 최대 0.25%p↑…은행권 수신경쟁 본격화",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DT0ZjM2JacUJEVG9DRGExbnYxN2RRRkR3MzZzelNLSkdQX29QdEZYQmpEQ2JTZktScGVveVh0aVlYNnNLdnh2Y19zbFd3bDN4Rk1GSzVUelBybGpWYU5wb2FRQjhGUEFxZXVRemxDVXdYSWQxNE9V?oc=5"
+        },
+        {
+          "name": "매일경제 마켓",
+          "title": "NH농협은행 수신금리 인상…예·적금 기본금리 최대 0.25%p↑",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vUE9pc3lPdGgtcjV2dGYzeVFkV0lvd3RmZFNWSl9YV2FDZWVqZFJaYWNTQklodlhSd1c5bG5rTFgzczNiaXZhUExMSDlKTnc1ZWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-다시예금4예금돌아올까특판예금은4근접",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 77,
+      "headline": "[다시, 예금]4% 예금 돌아올까…특판예금은 4% 근접",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "4%"
+      ],
+      "published_at": "2026-09-22T23:30:03+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "비즈워치",
+          "title": "[다시, 예금]4% 예금 돌아올까…특판예금은 4% 근접",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTY3lGMkp1SXZhLXVoODhrSmp2V1pHRThWd3dIU0lUS2JVbDNpWUg5dXpWWWxKczREczVJU29hNV9nY1lFVXJINFlIWG1lblR3Rmw0c1o2U2V3TEtnUVNkWmd2bE03SnV3VFM4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "benefit-속초민생회복지원금지급마감대상자965가153억원수령",
+      "topic_id": "benefit",
+      "lane": "혜택",
+      "label": "환급·캐시백",
+      "status": "WATCH",
+      "score": 77,
+      "headline": "속초 민생 회복지원금 지급 마감…대상자 96.5%가 153억원 수령",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "누가 얼마를 언제까지 신청하면 받는지",
+      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
+      "money_signal": [
+        "96.5%",
+        "153억원"
+      ],
+      "published_at": "2026-09-14T07:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "속초 민생 회복지원금 지급 마감…대상자 96.5%가 153억원 수령",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05N3VmQzlCTGJZb1puMDQ3QTNySF9wMjFzQm5SeHlwaWhVNTJ1bXdpNFhJV3JIQW9OWlJkbXg2d2MzUnlMQ0ZyLVdkSG9XZWlyY0FWQUNNNjBlYjjSAWBBVV95cUxNZHFCWG5BV1VrV3NJYUFPT2gtdWNCWVZMNGo0UENUb1Zjci01ZTdoN0xMWklOZnZXTzVnaFhwQl9VMFFzaFB3WmlXMEdnSndYaGdHNFAwSzhpVE8wZlVoOEg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "benefit-영동군민생지원금신청936기본소득지급체계완비",
+      "topic_id": "benefit",
+      "lane": "혜택",
+      "label": "환급·캐시백",
+      "status": "WATCH",
+      "score": 75,
+      "headline": "영동군 \"민생지원금 신청 93.6%, 기본소득 지급체계 완비\"",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "누가 얼마를 언제까지 신청하면 받는지",
+      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
+      "money_signal": [
+        "93.6%"
+      ],
+      "published_at": "2026-09-22T01:57:56+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "영동군 \"민생지원금 신청 93.6%, 기본소득 지급체계 완비\"",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bVdhR05zWG1MTkctUTVTYUdBSVRMRkFDdVJiR0tuTXFhWEctNUhEV2lUOHg4WVgza29iaHNHQXViaHJnU25mRHMzbTR4NVdxT0RFa09sZTdsd21DeXB4c1NOMUk3WFMtclhiMDFvam5lNXd2aF9LU9IBeEFVX3lxTE14bVdhR05zWG1MTkctUTVTYUdBSVRMRkFDdVJiR0tuTXFhWEctNUhEV2lUOHg4WVgza29iaHNHQXViaHJnU25mRHMzbTR4NVdxT0RFa09sZTdsd21DeXB4c1NOMUk3WFMtclhiMDFvam5lNXd2aF9LUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "benefit-부산시소상공인에너지바우처동백전20만원지급",
+      "topic_id": "benefit",
+      "lane": "혜택",
+      "label": "환급·캐시백",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "부산시, 소상공인 에너지바우처 동백전 20만원 지급",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "누가 얼마를 언제까지 신청하면 받는지",
+      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
+      "money_signal": [
+        "20만원"
+      ],
+      "published_at": "2026-09-21T23:07:06+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "부산시, 소상공인 에너지바우처 동백전 20만원 지급",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RNTBJX2JjWU5malA1UDdwWndHZlBIa2NEYkViRFVyUFBnMm9menNKNXZEeVRBMVpoRElScjdfRUtVZXM5OUFHNi1DYTZYc19nRjg2aWlVSWV1U1XSAWBBVV95cUxONnJhTUJRMURWajA1UERJODJ4Q0RLb29wRjRhSV9UckowbFRSakE0dUJGaXJOdDRIa05IX3JxSGxOMTRqOEtITUJSeEVGaS1zeVhFMTgzc3dGQUhicFR3N1U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-카카오뱅크1년정기예금금리370로인상",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "카카오뱅크, 1년 정기예금 금리 3.70%로 인상",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "3.70%"
+      ],
+      "published_at": "2026-09-22T07:19:44+00:00",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "카카오뱅크, 1년 정기예금 금리 3.70%로 인상",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wZDlTYlJYUUNrOHpuaDJ5cW5DSlo3OHNNUXl2VDV5WENyZkFCczRiWkNCaHRTd1NZNUgwajVwekpSNTZSYWhNd1psdnloSzNCcUQxVk01cEpiUkZJMjg3VtIBeEFVX3lxTE5kb0ZQNkoxSzVBNUh1MDkyUW9fbGtmTVJucDFjc1licjNiLUJEZGx2Zk16M2lxOGw2eWJKaEw4YnF2cjNSb3EzcDNtdXU5elJjd1I2WVpPUWRVZjl4SHNDUDZVR2Nqb2hUZVdJWEtpVjFZSDQzLWo0SQ?oc=5"
+        },
+        {
+          "name": "매일경제 마켓",
+          "title": "카카오뱅크도 예금 금리 인상…1년 만기 연 3.7%(종합)",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrS2pNNGdQTnZ4RHRxcFFIVzk2emVDSllWakViMkF3aHljUGRSQmtVS21wNm5GLTRqTlU3cDA3WERMOUFsWkt6Uk1pdnY0SUI3YkE?oc=5"
+        },
+        {
+          "name": "매일경제TV",
+          "title": "정기예금 금리 0.1%P 인상 … KB국민銀, 1주만에 또 올려",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5aFB0MmJUdVI0TkZIWk5UMFVkQ09VODhTd0Myc2dkS0h6bWpLVEZsODF5T0stUzM0ekdCVXZmUm5KcVZkZzFlNENVNlN5NUJpajQ0RmNfbnl3MGxET3VRcnc4NFhacF9P?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_product_news-higgsfieldaigpt6astra로하루만에새동영상기능출시",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "Higgsfield AI, GPT-6 Astra로 하루 만에 새 동영상 기능 출시",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "money_signal": [],
+      "published_at": "2026-09-21T21:52:55+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "Higgsfield AI, GPT-6 Astra로 하루 만에 새 동영상 기능 출시",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb1B6ZnMzSi1CV0hINUxCd1Ezb3RyenlvcHBzNnZibTduZi1nQ1RQbGtjOV9qdzFOUE4wRzNYcUNCYXVhWFY2cFphYmRrdXE4VnRjMzVqeVN3SWZ4Qy12RlQ1cXhCSGVEX21YNVBEbGNOOUQxcXVPb2hZb1gwYmN5MWVFV1FlQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-금리인상에영끌족비명주담대7넘어더오른다",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "美 금리 인상에 '영끌족' 비명…주담대 7% 넘어 더 오른다",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [
+        "7%"
+      ],
+      "published_at": "2026-09-17T01:18:08+00:00",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "뉴스1",
+          "title": "美 금리 인상에 '영끌족' 비명…주담대 7% 넘어 더 오른다",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjOWN0REwyTC1tWDQ1MWVITTV4cnAzZmI5YUxneDVudTNBc3VuRE9ZdnZobmVHbDVUX2lFNXRuQUU0SC05UndQa3BhTWUtQ2k1LUNCdGtfeUtUR0h3cjZXMGx30gFnQVVfeXFMUHBjVW02akwzR3NtUTlqS1dGaVFwdG9QNGZwVmdnZmt0OEl4a1pLNlVWNkRuT0MtWkcyU1FhTTE4b21EUFV2R1B4RFl3c2pmalF5TWluODZlMkJOaUhBUVFSaGNEWmxNNA?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "미 주담대 금리 7% 육박…트럼프 행정부 취임 이후 최고",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1heTFXOVNCcVJJYy1KT2RmcFM1OElUTUFTeVFVdGU1b3NuNmRwSGRpcHhhYkJTXzh0WVU2WUF2ejlTMUtJU2JCSFFmVDY4ZHBoTFhiSkxYZ0Z1LUE?oc=5"
+        },
+        {
+          "name": "이코노미스트",
+          "title": "美 금리 올렸는데 끝이 아니다…주담대 7%·‘고금리 장기전’ 온다",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OdDBOVlVYSXg5eWYwSGg0a1hUcjZkbFVUN0lFRFU4Q1R3UmpHVXRlY2pkaHlIVTE3RE5KVmJLMG94MTFHRlRaVjYweDF5eEw5ekNMbFJTdkVKQVN5MEpPS0NB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "smallbiz_money-양구군소상공인카드수수료지원이달말까지신청",
+      "topic_id": "smallbiz_money",
+      "lane": "혜택",
+      "label": "소상공인 지원",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "양구군, 소상공인 카드수수료 지원…이달 말까지 신청",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "현금지원과 대출성 정책자금을 구분",
+      "check_first": "중기부·소진공 공식 공고 확인",
+      "money_signal": [],
+      "published_at": "2026-09-13T07:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "양구군, 소상공인 카드수수료 지원…이달 말까지 신청",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWMU5KOVJmcG5RWTVVWHctQkpDNGZuVVVIU1YtalItdTZEekxVek5EbHlNem82RFJpSHhQcGVMMzRsMWhkbkQ2cmg4OC1WZW5abkVlYTh2RmdzYlHSAWBBVV95cUxPOGk0YVBnVTlJQXJpV1Q5UmpSX3JtdDJaV0tmWlExNmEwM2RoLVJCU0RKMF9NVGFuTDNGNHB2cXpCWmNhazdMS0xvajh4WU1LX3ZvR3FuZGVRS0Q0NlZOWDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-금융당국시장금리상승에가계대출대응체계강화조선비즈",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 71,
+      "headline": "금융 당국, 시장 금리 상승에 가계대출 대응 체계 강화 - 조선비즈",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [],
+      "published_at": "2026-09-23T01:32:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "title": "금융 당국, 시장 금리 상승에 가계대출 대응 체계 강화 - 조선비즈",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMUhEMW40T0I0X2QyZWJpNjJsdWlyVk8xOGYzbF8zV2ljT2psaTlmc1Bjb0JuT0hlWmI3VnZKbTQydllWeFZrZXJka1gtNHh5cHlsb1Y5TWVPVUlfYnp3Zm9JVVY5cXhUaHJnUTBkcmhZakRYNmFSS0tiYldaQ2FFTNIBlAFBVV95cUxQSTRjcHRhQ0ZkSGpYNHZGT3RVZW5MMi1OMUdHM0dYZEZOU242WXJvNkNPOVM5b0pXdzBFbWZQTFJxeEk4M1VXN1hWYTVSYkwyblUyVlRpTHloamZJWm5Yc1lLOE5NVkhVQTRNM2d0Z0pEdmNpTF9yTFRvdkFQVWp3ZHlsVzlzbWVjdFZlMnNEUEhfdi12?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-주담대8충격파더빨라진다대출금리도줄인상경제한방",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 70,
+      "headline": "‘주담대 8%’ 충격파 더 빨라진다…대출금리도 줄인상? [경제한방]",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [
+        "8%"
+      ],
+      "published_at": "2026-09-22T01:18:00+00:00",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "KBS 뉴스",
+          "title": "‘주담대 8%’ 충격파 더 빨라진다…대출금리도 줄인상? [경제한방]",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zUWRpU2Qxb3lVZWFyZndwWnNlaWtnSk5XZ1U3eUdsT3k0QnZ3UzhvOHJib0VLV3lPZDZfSGJLdGV3SW1udUplWm1LdWoxeUxLbGhPSmNWYVVTZEt3ZW50MmdBSFROUQ?oc=5"
+        },
+        {
+          "name": "서울경제",
+          "title": "대출금리도 줄인상 예고…주담대 8% 더 빨라진다",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UbWxTNGRmdlZIZ01NSHJBSlcwbnFNSW00WEU1YmwwMk9fZ0hPb0lGUEI1ZGhVV2txZXNYWGV5dXNpVk13bjlvT0tSY2xwMEdDR3fSAVNBVV95cUxPYk9DdU9YMFVkX1BlLXZtQVpqY3VSdExESGVSblF6SW5ZTlNsRGhwZVo1X3d5QnNyNF9DeTF0TkVLU0I2VEdsUzlCdTNNdVUzcEFsSQ?oc=5"
+        },
+        {
+          "name": "비즈워치",
+          "title": "[돈MORE]8% 향하는 주담대…은행에 '깎아달라' 할 수 있어요",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nYUJQNjVFU2laRnp5RFR1MklfalA2QjgycGhJNWFKSDN0MDBDTmVCclJkZFo5ZkduaUhSRS05TTdWbFZmMERwRXdva24tZkx6NDFMQ1lubDZXQlYyanEzQmdoN1VHTHhWM2JF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "creator_commerce-순이엔티유튜브쇼핑인센티브파트너선정크리에이터수익모델확대",
+      "topic_id": "creator_commerce",
+      "lane": "부업",
+      "label": "크리에이터 커머스",
+      "status": "WATCH",
+      "score": 70,
+      "headline": "순이엔티, 유튜브 쇼핑 인센티브 파트너 선정···크리에이터 수익모델 확대",
+      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
+      "angle": "콘텐츠에서 구매·예약으로 이어지는 실제 수익구조",
+      "check_first": "플랫폼 공식 제휴조건·수수료·정산주기 확인",
+      "money_signal": [],
+      "published_at": "2026-09-21T00:38:35+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "전자신문",
+          "title": "순이엔티, 유튜브 쇼핑 인센티브 파트너 선정···크리에이터 수익모델 확대",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vYzF3Z0xaNWtfODBha3BGY09hRU9nbmNLOTBtY1NaUU9WMGd0QmpDVzlBYk1sTVAwMmpqdlBrRXU2X2ozbElwTU1JNENMUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mobile_tip-애플구형아이폰위성연결기능1년연장카메라신기능은최신폰만",
+      "topic_id": "mobile_tip",
+      "lane": "꿀팁",
+      "label": "스마트폰 꿀팁",
+      "status": "WATCH",
+      "score": 68,
+      "headline": "애플, 구형 아이폰 위성 연결 기능 1년 연장…카메라 신기능은 최신폰만",
+      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
+      "angle": "바로 켜거나 바꿔서 시간·돈을 아끼는 설정",
+      "check_first": "Apple·Samsung 공식 지원문서 확인",
+      "money_signal": [],
+      "published_at": "2026-09-11T01:29:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "title": "애플, 구형 아이폰 위성 연결 기능 1년 연장…카메라 신기능은 최신폰만",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjc0FHZXFZdVdCOVBhX1hQRjV4eC1iRkl0UVFXNklTbmtlTkN1am5LaDVxRFpEU3pQU1E5dkpwOUx2eWtPQXZ5dGMtVFZOcjdhSFRJWkNCbFZiZTAwMUQxOW1KSXdvLWZJOVlvTzY0SVFSRVE?oc=5"
         }
       ]
     }
@@ -37,167 +465,89 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 1,
-    "shown": 1,
+    "raw_articles": 38,
+    "shown": 18,
     "topic_raw_counts": {
       "apptech": 0,
-      "affiliate": 0,
-      "loan": 0,
-      "youtube_ypp": 0,
-      "benefit": 0,
-      "sns_growth": 0,
-      "blog_ads": 0,
-      "openai_official": 8,
-      "deposit": 0,
       "tax": 0,
+      "blog_ads": 0,
       "policy": 0,
-      "digital_tip": 0,
-      "ai_creator": 0,
+      "affiliate": 0,
+      "youtube_ypp": 0,
+      "sns_growth": 1,
+      "loan": 16,
+      "benefit": 5,
+      "openai_official": 9,
+      "deposit": 30,
       "creator_campaign": 0,
-      "youtube_analytics_official": 1,
-      "reviewer": 0,
-      "chatgpt_update": 0,
+      "youtube_metrics": 0,
+      "reviewer": 2,
       "useful_info": 0,
       "platform": 0,
-      "youtube_metrics": 0,
-      "chrome_tip": 0,
-      "gemini_update": 0,
+      "ai_creator": 0,
       "instagram_metrics": 0,
+      "digital_tip": 3,
+      "chrome_tip": 0,
       "claude_update": 0,
-      "creator_sponsorship": 0,
-      "smartstore_seller": 0,
+      "gemini_update": 0,
+      "chatgpt_update": 0,
+      "youtube_shopping": 1,
       "naver_creator_money": 0,
-      "youtube_shorts_metrics": 0,
-      "instagram_reels_metrics": 0,
-      "youtube_shopping": 0,
-      "youtube_channel_metrics": 0,
       "freelance_market": 0,
       "digital_product": 0,
-      "tiktok_metrics": 0,
-      "threads_growth": 0,
-      "travel_reviewer": 0,
-      "x_account_metrics": 0,
+      "youtube_analytics_official": 1,
+      "smartstore_seller": 0,
+      "creator_sponsorship": 0,
+      "youtube_shorts_metrics": 0,
+      "youtube_channel_metrics": 0,
+      "instagram_reels_metrics": 0,
       "naver_blog_metrics": 0,
-      "tech_reviewer": 0,
-      "creator_ambassador": 0,
       "beauty_reviewer": 0,
       "food_reviewer": 0,
+      "threads_growth": 0,
+      "tiktok_metrics": 0,
+      "tech_reviewer": 0,
+      "x_account_metrics": 0,
       "app_beta_reviewer": 0,
-      "ai_image_tools": 0,
-      "ai_video_tools": 0,
-      "korean_ai": 0,
-      "ai_agents": 0,
-      "ai_search": 0,
+      "travel_reviewer": 0,
       "ai_coding": 0,
-      "productivity_tip": 0,
-      "mobile_tip": 0,
-      "privacy_tip": 0,
-      "public_data_tip": 0,
+      "ai_image_tools": 1,
+      "creator_ambassador": 2,
+      "ai_video_tools": 0,
+      "ai_agents": 0,
+      "korean_ai": 0,
+      "ai_search": 0,
       "pc_tip": 0,
+      "public_data_tip": 0,
       "travel_tip": 0,
+      "mobile_tip": 2,
+      "productivity_tip": 0,
       "energy_support": 0,
-      "family_benefit": 0,
       "telecom_discount": 0,
-      "smallbiz_money": 0,
       "local_currency": 0,
-      "card_benefit": 0,
       "employment_support": 0,
+      "privacy_tip": 0,
+      "card_benefit": 0,
       "education_support": 0,
-      "bank_product": 0,
-      "isa_change": 0,
-      "pension_public": 0,
-      "pension_tax": 0,
-      "threads_platform": 0,
-      "instagram_platform": 0,
-      "tax_refund": 0,
+      "family_benefit": 0,
+      "bank_product": 1,
       "mortgage_policy": 0,
+      "isa_change": 0,
+      "pension_tax": 0,
       "youtube_policy": 0,
       "x_platform": 0,
-      "ai_product_news": 0,
+      "instagram_platform": 0,
+      "smallbiz_money": 2,
+      "threads_platform": 0,
+      "tax_refund": 0,
+      "pension_public": 0,
       "naver_platform": 0,
       "coupang_platform": 0,
-      "youtube_money_change": 0,
       "youtube_shop_affiliate": 0,
-      "creator_commerce": 0
+      "creator_commerce": 1,
+      "ai_product_news": 4,
+      "youtube_money_change": 0
     },
-    "errors": [
-      "apptech: HTTPError: HTTP Error 503: Service Unavailable",
-      "affiliate: HTTPError: HTTP Error 503: Service Unavailable",
-      "loan: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_ypp: HTTPError: HTTP Error 503: Service Unavailable",
-      "benefit: HTTPError: HTTP Error 503: Service Unavailable",
-      "sns_growth: HTTPError: HTTP Error 503: Service Unavailable",
-      "blog_ads: HTTPError: HTTP Error 503: Service Unavailable",
-      "deposit: HTTPError: HTTP Error 503: Service Unavailable",
-      "tax: HTTPError: HTTP Error 503: Service Unavailable",
-      "policy: HTTPError: HTTP Error 503: Service Unavailable",
-      "digital_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_creator: HTTPError: HTTP Error 503: Service Unavailable",
-      "creator_campaign: HTTPError: HTTP Error 503: Service Unavailable",
-      "reviewer: HTTPError: HTTP Error 503: Service Unavailable",
-      "chatgpt_update: HTTPError: HTTP Error 503: Service Unavailable",
-      "useful_info: HTTPError: HTTP Error 503: Service Unavailable",
-      "platform: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "chrome_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "gemini_update: HTTPError: HTTP Error 503: Service Unavailable",
-      "instagram_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "claude_update: HTTPError: HTTP Error 503: Service Unavailable",
-      "creator_sponsorship: HTTPError: HTTP Error 503: Service Unavailable",
-      "smartstore_seller: HTTPError: HTTP Error 503: Service Unavailable",
-      "naver_creator_money: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_shorts_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "instagram_reels_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_shopping: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_channel_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "freelance_market: HTTPError: HTTP Error 503: Service Unavailable",
-      "digital_product: HTTPError: HTTP Error 503: Service Unavailable",
-      "tiktok_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "threads_growth: HTTPError: HTTP Error 503: Service Unavailable",
-      "travel_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
-      "x_account_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "naver_blog_metrics: HTTPError: HTTP Error 503: Service Unavailable",
-      "tech_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
-      "creator_ambassador: HTTPError: HTTP Error 503: Service Unavailable",
-      "beauty_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
-      "food_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
-      "app_beta_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_image_tools: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_video_tools: HTTPError: HTTP Error 503: Service Unavailable",
-      "korean_ai: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_agents: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_search: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_coding: HTTPError: HTTP Error 503: Service Unavailable",
-      "productivity_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "mobile_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "privacy_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "public_data_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "pc_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "travel_tip: HTTPError: HTTP Error 503: Service Unavailable",
-      "energy_support: HTTPError: HTTP Error 503: Service Unavailable",
-      "family_benefit: HTTPError: HTTP Error 503: Service Unavailable",
-      "telecom_discount: HTTPError: HTTP Error 503: Service Unavailable",
-      "smallbiz_money: HTTPError: HTTP Error 503: Service Unavailable",
-      "local_currency: HTTPError: HTTP Error 503: Service Unavailable",
-      "card_benefit: HTTPError: HTTP Error 503: Service Unavailable",
-      "employment_support: HTTPError: HTTP Error 503: Service Unavailable",
-      "education_support: HTTPError: HTTP Error 503: Service Unavailable",
-      "bank_product: HTTPError: HTTP Error 503: Service Unavailable",
-      "isa_change: HTTPError: HTTP Error 503: Service Unavailable",
-      "pension_public: HTTPError: HTTP Error 503: Service Unavailable",
-      "pension_tax: HTTPError: HTTP Error 503: Service Unavailable",
-      "threads_platform: HTTPError: HTTP Error 503: Service Unavailable",
-      "instagram_platform: HTTPError: HTTP Error 503: Service Unavailable",
-      "tax_refund: HTTPError: HTTP Error 503: Service Unavailable",
-      "mortgage_policy: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_policy: HTTPError: HTTP Error 503: Service Unavailable",
-      "x_platform: HTTPError: HTTP Error 503: Service Unavailable",
-      "ai_product_news: HTTPError: HTTP Error 503: Service Unavailable",
-      "naver_platform: HTTPError: HTTP Error 503: Service Unavailable",
-      "coupang_platform: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_money_change: HTTPError: HTTP Error 503: Service Unavailable",
-      "youtube_shop_affiliate: HTTPError: HTTP Error 503: Service Unavailable",
-      "creator_commerce: HTTPError: HTTP Error 503: Service Unavailable"
-    ]
+    "errors": []
   }
 }
