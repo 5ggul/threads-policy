@@ -1,27 +1,51 @@
 {
-  "generated_at": "2026-09-25 14:21 KST",
+  "generated_at": "2026-09-26 14:25 KST",
   "counts": {
     "부업": 0,
-    "재테크": 5,
+    "재테크": 4,
     "혜택": 1,
     "SNS분석": 1,
     "리뷰어": 1,
-    "AI": 3,
-    "꿀팁": 1,
+    "AI": 2,
+    "꿀팁": 2,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "reviewer-군민이직접전하는임실제1기sns서포터즈모집",
-      "topic_id": "reviewer",
+      "id": "openai_official-proactionboostssales60andsaves75hourswithc",
+      "topic_id": "openai_official",
+      "lane": "AI",
+      "label": "OpenAI 공식",
+      "status": "NOW",
+      "score": 94,
+      "headline": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
+      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
+      "money_signal": [
+        "60%"
+      ],
+      "published_at": "2026-09-25T19:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI 공식",
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "url": "https://openai.com/index/proaction"
+        }
+      ]
+    },
+    {
+      "id": "creator_ambassador-군민이직접전하는임실제1기sns서포터즈모집",
+      "topic_id": "creator_ambassador",
       "lane": "리뷰어",
-      "label": "체험단·리뷰어",
+      "label": "브랜드 앰배서더",
       "status": "PICK",
       "score": 79,
       "headline": "\"군민이 직접 전하는 임실\"…제1기 SNS 서포터즈 모집",
       "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
-      "angle": "누가 신청할 수 있고 무엇을 제공받으며 후기 의무가 무엇인지",
-      "check_first": "브랜드·운영사 공식 모집 페이지 확인",
+      "angle": "활동기간·제공혜택·필수 콘텐츠 수를 정리",
+      "check_first": "브랜드 공식 캠페인 페이지 확인",
       "money_signal": [],
       "published_at": "2026-09-15T07:00:00+00:00",
       "source_count": 1,
@@ -34,73 +58,183 @@
       ]
     },
     {
-      "id": "deposit-mmf보다돈더준다고3대예금금리에단기자금몰린다",
+      "id": "deposit-추석용돈어디넣지연7자녀적금예금금리쑥",
       "topic_id": "deposit",
       "lane": "재테크",
       "label": "예적금",
       "status": "PICK",
       "score": 78,
-      "headline": "\"MMF보다 돈 더 준다고?\"…3%대 예금 금리에 단기자금 몰린다",
+      "headline": "추석 용돈 어디 넣지… 연 7% 자녀 적금, 예금금리 ‘쑥’",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "광고금리 말고 실제 세후 이자와 우대조건",
       "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
-        "3%"
+        "7%"
       ],
-      "published_at": "2026-09-25T02:00:00+00:00",
+      "published_at": "2026-09-26T00:41:35+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "한국일보",
-          "title": "\"MMF보다 돈 더 준다고?\"…3%대 예금 금리에 단기자금 몰린다",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Tel92b05YQ2xSby04aVlBSk82ZFhrRmMyZ1R3eEJYcHQtOW9ubE9LSUFnSms0MUNYdTVzTFlVRjdFWE1iUUpoSm5Ka0dUZ0Z4U3NIcTRQbTZqZngtNVN1R1dYNmMwYnRkQURWQWVEZHcxSTjSAXNBVV95cUxOU3pfdm9OWENsUm8tOGlZQUpPNmRYa0ZjMmdUd3hCWHB0LTlvbmxPS0lBZ0prNDFDWHU1c0xZVUY3RVhNYlFKaEpuSmtHVGdGeFNzSHE0UG02amZ4LTVTdUdXWDZjMGJ0ZEFEVkFlRGR3MUk4?oc=5"
+          "name": "IT조선",
+          "title": "추석 용돈 어디 넣지… 연 7% 자녀 적금, 예금금리 ‘쑥’",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HOWVIU244cV9kVnhpaDdBQlFmZU43UnRpZ0RUYXpZUlVXSnBiWkJLdXpaQWQzbVlXNlJuYUVYN2xVcy1JZjVDVWpISmRDbU5fVlB2UXYzLTY2ZklnRDlXQ1BRZmFHcW5MLUFOMlNmTHIwemZP0gF0QVVfeXFMT0c5ZUhTbjhxX2RWeGloN0FCUWZlTjdSdGlnRFRhellSVVdKcGJaQkt1elpBZDNtWVc2Um5hRVg3bFVzLUlmNUNVakhKZENtTl9WUHZRdjMtNjZmSWdEOVdDUFFmYUdxbkwtQU4yU2ZMcjB6Zk8?oc=5"
         }
       ]
     },
     {
-      "id": "digital_tip-아이폰18프로먹통강제재부팅애플내주sw업데이트",
-      "topic_id": "digital_tip",
+      "id": "ai_product_news-메타ai에이전트뮤즈신기능체험자모집신청도ai에게",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
+      "status": "WATCH",
+      "score": 77,
+      "headline": "메타, AI 에이전트 뮤즈 신기능 체험자 모집…신청도 AI에게",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "money_signal": [],
+      "published_at": "2026-09-26T04:53:18+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "title": "메타, AI 에이전트 뮤즈 신기능 체험자 모집…신청도 AI에게",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sUEdlU3FhanR5amRERjZxdk4zUVdfOFJXZWwyZWlQclN1RmFuQnlfNXltMlBqbldOU3NKNjV6b3B4NThOQ3JydEg3TkNKNkFWU2VJOExR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-6억영끌족매달440만원갚을수도주담대8시대온다는데어쩌나",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 77,
+      "headline": "\"6억 영끌족, 매달 440만원 갚을 수도\"…'주담대 8% 시대' 온다는데 어쩌나",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [
+        "440만원",
+        "8%"
+      ],
+      "published_at": "2026-09-25T21:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "\"6억 영끌족, 매달 440만원 갚을 수도\"…'주담대 8% 시대' 온다는데 어쩌나",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lUEdSaVpnOGZ6T1dKeE9tNFJBY3Nic0xPRDNXRDlXM0U4SGJqZzE1SmNraTBRRXhER2hUazJxcVBkMkczYVlZZjk3bG5FaWdkcUlNUVdYdWhYMmtvcXZmVtIBeEFVX3lxTE8wY2RxLU00OF9XaU91V01KMXlQQWlpNExOY0FreE5USE9wVndOYzZDWHducTRyUzM0WFVkdkFUMGg2TXplam1mRjA2N0NaVjhXSl9fTUQwZmlydFVWZ2ZOZnNoT3JCSW1WX3dYU0ZSSVpUMDJ4MzRDNw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "mobile_tip-아이폰18프로먹통강제재부팅애플내주sw업데이트",
+      "topic_id": "mobile_tip",
       "lane": "꿀팁",
-      "label": "디지털 꿀팁",
-      "status": "PICK",
-      "score": 78,
+      "label": "스마트폰 꿀팁",
+      "status": "WATCH",
+      "score": 73,
       "headline": "아이폰18프로 먹통·강제 재부팅...애플, 내주 SW 업데이트",
       "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
-      "angle": "지금 바로 켜거나 바꾸면 시간·돈을 아끼는 설정인지",
-      "check_first": "공식 도움말에서 지원 기기·버전·적용 조건 확인",
+      "angle": "바로 켜거나 바꿔서 시간·돈을 아끼는 설정",
+      "check_first": "Apple·Samsung 공식 지원문서 확인",
       "money_signal": [],
       "published_at": "2026-09-24T22:15:44+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "zdnet.co.kr",
+          "name": "지디넷코리아",
           "title": "아이폰18프로 먹통·강제 재부팅...애플, 내주 SW 업데이트",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sMVBjay05Z3R5MXdyNTgxUVhjSTgxYXdZOXZRN3hiNktZa3Z4YUxkNHZVdWF2WDJpMzZ2c0xlNy1tdWF2aGpHTzRNNVAtazRRS19WWldn?oc=5"
         }
       ]
     },
     {
-      "id": "deposit-퇴근길머니예금금리연35급여표시없으면우대금리제외",
+      "id": "sns_growth-알고리즘몰라돌아버리겠다이경규예능대부여도유튜브는레벨1조선비즈",
+      "topic_id": "sns_growth",
+      "lane": "SNS분석",
+      "label": "성장·알고리즘",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "\"알고리즘 몰라 돌아버리겠다\" 이경규, 예능 대부여도 유튜브는 레벨1 - 조선비즈",
+      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
+      "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
+      "check_first": "공식 크리에이터 문서와 실제 적용 화면 확인",
+      "money_signal": [],
+      "published_at": "2026-09-25T14:36:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "title": "\"알고리즘 몰라 돌아버리겠다\" 이경규, 예능 대부여도 유튜브는 레벨1 - 조선비즈",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXZ5cnpBampZa0htUGVudWJpTXY5dWhYYllQaWF4eEw2Wno0WnIzOElYYk1RX0ZELUs5RjhaMWlYTU95UnZ3Q2JwbjI0QzZ4Zlk4ekR3T0FJdFhHemQ3RFN5eXBVdFh2Y25ITlBHRlMzNUlyU213RDAwV3J1NGRvRDdjbngxYWpCY3J6cm9jU1pCRWxRSUxhSVNxZWtDZ0JDSTJnR1Qzc9IBpwFBVV95cUxPOXZ5cnpBampZa0htUGVudWJpTXY5dWhYYllQaWF4eEw2Wno0WnIzOElYYk1RX0ZELUs5RjhaMWlYTU95UnZ3Q2JwbjI0QzZ4Zlk4ekR3T0FJdFhHemQ3RFN5eXBVdFh2Y25ITlBHRlMzNUlyU213RDAwV3J1NGRvRDdjbngxYWpCY3J6cm9jU1pCRWxRSUxhSVNxZWtDZ0JDSTJnR1Qzcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "smallbiz_money-부산소상공인에너지바우처20만원28일부터신청",
+      "topic_id": "smallbiz_money",
+      "lane": "혜택",
+      "label": "소상공인 지원",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "부산 소상공인 에너지바우처 20만원…28일부터 신청",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "현금지원과 대출성 정책자금을 구분",
+      "check_first": "중기부·소진공 공식 공고 확인",
+      "money_signal": [
+        "20만원"
+      ],
+      "published_at": "2026-09-22T01:42:19+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "title": "부산 소상공인 에너지바우처 20만원…28일부터 신청",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nbnF3N0Y3YS11STA5UkFaREx1ejZJaXlTTGk4VVY1cTBQbmRKbFVoRTF1TEllcmxWTXNCWFQ5RzZ1c1JzMHNYbVVIeWU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "digital_tip-삼성전자oneui9업데이트시작갤럭시s26부터적용",
+      "topic_id": "digital_tip",
+      "lane": "꿀팁",
+      "label": "디지털 꿀팁",
+      "status": "WATCH",
+      "score": 71,
+      "headline": "삼성전자, One UI 9 업데이트 시작…갤럭시 S26부터 적용",
+      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
+      "angle": "지금 바로 켜거나 바꾸면 시간·돈을 아끼는 설정인지",
+      "check_first": "공식 도움말에서 지원 기기·버전·적용 조건 확인",
+      "money_signal": [],
+      "published_at": "2026-09-17T07:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "title": "삼성전자, One UI 9 업데이트 시작…갤럭시 S26부터 적용",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1USUduTFVCOUd5MXJaZml3LXlRcHljZjJ0RnpUNjZoQ2t2ZWNGRWVWQTA1SUgyYXdXUUdUdE05dnkxcE9wS2pmemFsTjQ5LXRmZlV0VHlzMHoxeUc0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-은행들예금금리35까지올리자역머니무브가속",
       "topic_id": "deposit",
       "lane": "재테크",
       "label": "예적금",
       "status": "WATCH",
-      "score": 74,
-      "headline": "[퇴근길머니] 예금금리 연 3.5%…’급여’ 표시 없으면 우대금리 제외",
+      "score": 68,
+      "headline": "은행들 예금금리 3.5%까지 올리자 ‘역 머니무브’ 가속",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "광고금리 말고 실제 세후 이자와 우대조건",
       "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
         "3.5%"
       ],
-      "published_at": "2026-09-21T08:24:00+00:00",
-      "source_count": 2,
+      "published_at": "2026-09-21T02:42:52+00:00",
+      "source_count": 1,
       "sources": [
-        {
-          "name": "연합뉴스TV",
-          "title": "[퇴근길머니] 예금금리 연 3.5%…’급여’ 표시 없으면 우대금리 제외",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNRnU2VktPcDAzRHhobnZBWlVhM1dKVmwtb1RJS2ZDbmVrSjBNR2NXcUtZMWlHTFBucU9WS2hMVlZLWDd4QzQwMkFSQXNua01qUGtXdDYySTVTbkxHTzI3NUVHUHk1clE?oc=5"
-        },
         {
           "name": "문화일보",
           "title": "은행들 예금금리 3.5%까지 올리자 ‘역 머니무브’ 가속",
@@ -109,189 +243,26 @@
       ]
     },
     {
-      "id": "smallbiz_money-부산소상공인에너지비부담던다20만원바우처지급",
-      "topic_id": "smallbiz_money",
-      "lane": "혜택",
-      "label": "소상공인 지원",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "부산 소상공인 에너지비 부담 던다…\"20만원 바우처 지급\"",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "현금지원과 대출성 정책자금을 구분",
-      "check_first": "중기부·소진공 공식 공고 확인",
-      "money_signal": [
-        "20만원"
-      ],
-      "published_at": "2026-09-22T00:12:59+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "부산 소상공인 에너지비 부담 던다…\"20만원 바우처 지급\"",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rdDEzTjYwWnZrRkF1UllXOVFXS21nV1o0RE9VNW5KWWxaMjRwVEVSZGxxblM4eFRlWlQ4RndKUGRUNXl5dTdSU0FaZjBVRjBtWFFIcTdjZ3VDX2VzT2VYRNIBeEFVX3lxTE9VUWpiUWlLaXRKR1Uyb04tcDBzWWtvRTFwYndhMmFaZXF4RWlGUUpRUUdUU3dNRGFSenRtVWI3dGdmbGxPZWJPUWU5VmxyTDhjR3F5Y2NQYk9sd0NZVm1hell3bTJCckhfS0lVMUF4OFVwdnRnd2pJMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_agents-버드닷컴ai에이전트용커뮤니케이션인프라출시와함께4억5000만달러자금조달",
-      "topic_id": "ai_agents",
-      "lane": "AI",
-      "label": "AI 에이전트",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "버드닷컴, AI 에이전트용 커뮤니케이션 인프라 출시와 함께 4억 5000만 달러 자금 조달",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
-      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
-      "money_signal": [],
-      "published_at": "2026-09-24T18:10:02+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "zdnet.co.kr",
-          "title": "버드닷컴, AI 에이전트용 커뮤니케이션 인프라 출시와 함께 4억 5000만 달러 자금 조달",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91QWttNVF6OE5TTnVkMm01TnVXRkNzUXRiMzRXbnZnaUxQSVVwemc4VWlZTnNfb28xQlkwbzJ2QjRGUGdfMzVJRU94OFZjalhMV3hlNWtB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "sns_growth-ai가추천하는인생샷자세틱톡출신이만든슈퍼포즈",
-      "topic_id": "sns_growth",
-      "lane": "SNS분석",
-      "label": "성장·알고리즘",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "AI가 추천하는 '인생샷' 자세…틱톡 출신이 만든 '슈퍼포즈'",
-      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
-      "check_first": "공식 크리에이터 문서와 실제 적용 화면 확인",
-      "money_signal": [],
-      "published_at": "2026-09-16T01:47:04+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "디지털투데이",
-          "title": "AI가 추천하는 '인생샷' 자세…틱톡 출신이 만든 '슈퍼포즈'",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84X1NUQUZiRmdXenZwMS1ocExwR3NQTFg2YlhQdmFYOEpXVHNmakx3RE5hLTBCaU9iT1NSbmF2UFZ6QS1iMm10YUV2dzBYLTBnamJ0ZG45WkVyRHNmMGFJby1aMUlfRHI0NlZISXpYS2I5NEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-금리인상확률724주담대8현실화",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "美 금리 인상 확률 72.4%…주담대 8% 현실화?",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "72.4%",
-        "8%"
-      ],
-      "published_at": "2026-09-11T07:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "MTN 머니투데이방송",
-          "title": "美 금리 인상 확률 72.4%…주담대 8% 현실화?",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wVzl5M2M5TWs2YmNkSk12WVVSYzZNZThORXhtdWVtMWJoTC1Uc2U3Q2hWd0RESmhRSGlXVWhiS2JscE9iQ28wZ0lPQVZxX1NNNnV6c0F2TnMxRlFvNHR2MkJjdTk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-두달새03p뛴주담대3억빌리면월이자30만원더내",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 69,
-      "headline": "두 달새 0.3%p 뛴 주담대… 3억 빌리면 월이자 30만원 더 내",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "0.3%",
-        "30만원"
-      ],
-      "published_at": "2026-09-22T05:02:29+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "IT조선",
-          "title": "두 달새 0.3%p 뛴 주담대… 3억 빌리면 월이자 30만원 더 내",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EMTJTOG9qNzNYMWdnaWw5SlR6U2hHcGdvQjF1ekJWSEFGa0FlZGw1dHB4TG4xQkZTSHpLUTBPdkNScDlSRnh2UElRZVFCeVRLR3duZEwtVWtTdW12WFRnZ2lzQk9xd0tZT1llNzFYdjY3Mm1S0gF0QVVfeXFMTkQxMlM4b2o3M1gxZ2dpbDlKVHpTaEdwZ29CMXV6QlZIQUZrQWVkbDV0cHhMbjFCRlNIektRME92Q1JwOVJGeHZQSVFlUUJ5VEtHd25kTC1Va1N1bXZYVGdnaXNCT3F3S1lPWWU3MVh2NjcybVI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "deposit-예금금리38라고세계1위베네수엘라물가534폭등",
+      "id": "deposit-24개월최고연580엠에스저축은행아이사랑정기적금이주의저축은행적금금리9월3주",
       "topic_id": "deposit",
       "lane": "재테크",
       "label": "예적금",
       "status": "WATCH",
-      "score": 69,
-      "headline": "“예금금리 38%라고?”…세계 1위 베네수엘라, 물가 534% 폭등",
+      "score": 68,
+      "headline": "24개월 최고 연 5.80%…엠에스저축은행 '아이사랑 정기적금'[이주의 저축은행 적금금리-9월 3주]",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "광고금리 말고 실제 세후 이자와 우대조건",
       "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
-        "38%",
-        "534%"
+        "5.80%"
       ],
-      "published_at": "2026-09-21T06:56:36+00:00",
+      "published_at": "2026-09-20T14:17:50+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "디지털데일리",
-          "title": "“예금금리 38%라고?”…세계 1위 베네수엘라, 물가 534% 폭등",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhc00yZzV5VUJ2eTctR3ZrVnhpam1DX3JHdlhtWFBHdHV5ZFQzTF9pTnN6NDhiOHV6TExJWWs0Z05HOE82U1BiSzB6WVNNTFVBc3ZRSkx3bENiNnZjSmtza29NTVo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_product_news-카메라뺀ai안경나왔다메타43g레이밴메타오디오공개",
-      "topic_id": "ai_product_news",
-      "lane": "AI",
-      "label": "AI 신제품",
-      "status": "WATCH",
-      "score": 68,
-      "headline": "카메라 뺀 AI 안경 나왔다…메타, 43g ‘레이밴 메타 오디오’ 공개",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
-      "money_signal": [],
-      "published_at": "2026-09-25T00:36:03+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "세계일보",
-          "title": "카메라 뺀 AI 안경 나왔다…메타, 43g ‘레이밴 메타 오디오’ 공개",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wR0M5aUZhZVdER2dVbU9KaGZVLTB1bElEOWFXSlJxLVZtSXBqbnVabTRKWjd5X2UtZ2Z1VHdBX2F2MHl5TGtHb0N3VVdPaDQ5Tko4RThMaUFNSFJvemJBTTQ2aWYxb3gxQUMw0gFUQVVfeXFMTmlINkJ5WFYwM2x5eVNWOEUtZjhxUy1rRnJON2tTYnBiTGlvdnJMWlJqanNIZHRRV2RiTGY5OVAzX2YwREFuRWNOQ1RndXRvMzRzLWUt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_image_tools-위클리ai메타오픈ai신규모델출시브레이크밟은마이크로소프트앤트로픽",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
-      "status": "WATCH",
-      "score": 67,
-      "headline": "[위클리AI] 메타·오픈AI, 신규 모델 출시···브레이크 밟은 마이크로소프트·앤트로픽",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
-      "money_signal": [],
-      "published_at": "2026-09-15T07:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "동아일보",
-          "title": "[위클리AI] 메타·오픈AI, 신규 모델 출시···브레이크 밟은 마이크로소프트·앤트로픽",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaN2JETUZDQXpnQ0JxTmkyX2VBYm9qT0RyazJsRmE3TFhlTWlkaklnU3NLWmZjOVFxQzZhQnd3SkJPTUxVSmpmb0RyS1RNMnRHOHBxS1o3MzJTdW0zSGd4NzZZQ0prMFJvdTZpdk5qONIBZkFVX3lxTE14YXNZUG5hcFNSV1ZIR200b0dsR01rdXM3S3JNZHlBVUs4TGZGV0ZjenZPTVNpcVlFTnp0VVRNSjVIcWJuU3ZSc2pDVGZtSkNadmF6cjZvX29vcmtuUGwyZzRIN0txZw?oc=5"
+          "name": "한국금융신문",
+          "title": "24개월 최고 연 5.80%…엠에스저축은행 '아이사랑 정기적금'[이주의 저축은행 적금금리-9월 3주]",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiMl9BNWZfTk1YLWp5cHRuOVVyT3h4c0JrOThGODFYdnROSFNYZXFkRTFXLWVJRHlEQTBHNHIxY1VGZ2RiMWp2TVBCbG9reVhnSDY4MWpXMDBjZ1JPYTRxWktHbmplMTg3N3JuX0pDbDQwLXhRaDMxdnNjQnY?oc=5"
         }
       ]
     }
@@ -299,88 +270,88 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 16,
-    "shown": 12,
+    "raw_articles": 12,
+    "shown": 11,
     "topic_raw_counts": {
-      "apptech": 0,
       "tax": 0,
+      "apptech": 0,
       "youtube_ypp": 0,
-      "blog_ads": 0,
       "affiliate": 0,
-      "benefit": 3,
-      "sns_growth": 1,
-      "deposit": 17,
       "policy": 0,
       "loan": 17,
+      "blog_ads": 0,
+      "sns_growth": 2,
+      "deposit": 28,
+      "benefit": 3,
       "openai_official": 8,
       "creator_campaign": 0,
-      "instagram_metrics": 0,
-      "youtube_metrics": 0,
-      "reviewer": 2,
+      "reviewer": 3,
       "chatgpt_update": 0,
-      "useful_info": 0,
+      "youtube_metrics": 0,
+      "instagram_metrics": 0,
       "digital_tip": 3,
       "ai_creator": 0,
-      "platform": 1,
       "chrome_tip": 0,
-      "gemini_update": 0,
       "claude_update": 0,
       "naver_creator_money": 0,
+      "gemini_update": 0,
+      "platform": 1,
+      "youtube_shopping": 1,
+      "useful_info": 0,
       "smartstore_seller": 0,
       "freelance_market": 0,
-      "youtube_shopping": 0,
-      "digital_product": 0,
       "creator_sponsorship": 0,
-      "youtube_analytics_official": 1,
+      "digital_product": 0,
       "instagram_reels_metrics": 0,
-      "naver_blog_metrics": 0,
+      "youtube_analytics_official": 1,
       "youtube_shorts_metrics": 1,
-      "beauty_reviewer": 0,
       "youtube_channel_metrics": 0,
+      "naver_blog_metrics": 0,
+      "beauty_reviewer": 0,
       "threads_growth": 0,
+      "food_reviewer": 0,
+      "tech_reviewer": 0,
       "tiktok_metrics": 0,
       "x_account_metrics": 0,
-      "tech_reviewer": 0,
-      "food_reviewer": 0,
       "app_beta_reviewer": 0,
-      "creator_ambassador": 2,
-      "ai_video_tools": 0,
-      "ai_coding": 0,
-      "ai_image_tools": 1,
-      "ai_agents": 1,
+      "creator_ambassador": 3,
       "travel_reviewer": 0,
-      "pc_tip": 0,
+      "ai_coding": 0,
+      "ai_video_tools": 0,
+      "ai_image_tools": 0,
+      "ai_agents": 1,
       "ai_search": 0,
-      "korean_ai": 0,
-      "mobile_tip": 3,
       "productivity_tip": 0,
-      "travel_tip": 0,
-      "energy_support": 0,
+      "pc_tip": 0,
+      "korean_ai": 0,
       "public_data_tip": 0,
+      "travel_tip": 0,
+      "mobile_tip": 3,
+      "energy_support": 0,
       "telecom_discount": 0,
       "privacy_tip": 0,
       "local_currency": 0,
+      "card_benefit": 0,
+      "family_benefit": 0,
       "employment_support": 0,
       "education_support": 0,
-      "family_benefit": 0,
-      "card_benefit": 0,
-      "bank_product": 1,
       "isa_change": 0,
+      "bank_product": 1,
       "mortgage_policy": 0,
       "pension_tax": 0,
+      "smallbiz_money": 4,
       "tax_refund": 0,
       "pension_public": 0,
       "youtube_policy": 0,
-      "smallbiz_money": 2,
       "instagram_platform": 0,
       "threads_platform": 0,
-      "naver_platform": 0,
       "x_platform": 0,
+      "naver_platform": 0,
       "coupang_platform": 0,
-      "youtube_shop_affiliate": 0,
       "youtube_money_change": 0,
-      "ai_product_news": 4,
-      "creator_commerce": 0
+      "youtube_shop_affiliate": 0,
+      "ai_product_news": 3,
+      "creator_commerce": 1
     },
     "errors": []
   }
