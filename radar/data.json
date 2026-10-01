@@ -1,494 +1,502 @@
 {
-  "generated_at": "2026-09-30 14:56 KST",
+  "generated_at": "2026-10-01 15:30 KST",
   "counts": {
-    "부업": 3,
+    "부업": 2,
     "재테크": 6,
     "혜택": 2,
-    "SNS분석": 1,
-    "리뷰어": 0,
+    "SNS분석": 0,
+    "리뷰어": 1,
     "AI": 7,
     "꿀팁": 1,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "smartstore_seller-빠른정산에서ai추천까지네이버스마트스토어의10년",
-      "topic_id": "smartstore_seller",
-      "lane": "부업",
-      "label": "스마트스토어",
+      "id": "creator_campaign-참신한아이디어로핸드볼알린다h리그대학생크리에이터3기모집",
+      "topic_id": "creator_campaign",
+      "lane": "리뷰어",
+      "label": "크리에이터 모집",
       "status": "PICK",
       "score": 86,
-      "headline": "빠른 정산에서 AI 추천까지…네이버 스마트스토어의 10년",
-      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
-      "angle": "판매수수료와 실제 마진에 미치는 영향",
-      "check_first": "네이버 판매자센터 공식 공지 확인",
+      "headline": "참신한 아이디어로 핸드볼 알린다…H리그 대학생 크리에이터 3기 모집",
+      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
+      "angle": "선정 기준·콘텐츠 의무·보상 구조를 정리",
+      "check_first": "공식 캠페인 약관에서 광고표시·사용권·보상조건 확인",
       "money_signal": [],
-      "published_at": "2026-09-30T02:01:51+00:00",
+      "published_at": "2026-10-01T00:59:39+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "연합뉴스",
-          "title": "빠른 정산에서 AI 추천까지…네이버 스마트스토어의 10년",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pa2E4QVRVY3FYNnJqdHo2LXJQNFNrSEpYeGRQaEJheTFkdkhSeEMyYmRpSFBRaWpkS0I1cXBBcTdzLTY4ZDNnbksxSlp1cmhmQVVuUGZrdGlvcWwzbWNjRtIBYEFVX3lxTE9pa2E4QVRVY3FYNnJqdHo2LXJQNFNrSEpYeGRQaEJheTFkdkhSeEMyYmRpSFBRaWpkS0I1cXBBcTdzLTY4ZDNnbksxSlp1cmhmQVVuUGZrdGlvcWwzbWNjRg?oc=5"
+          "name": "매일경제",
+          "title": "참신한 아이디어로 핸드볼 알린다…H리그 대학생 크리에이터 3기 모집",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwTWloMElpSFl2SmZwVEpjVGhMNGhSRUpsWVl6U1oyR25PTHVqQ3ItVmt1Y3ZxS0JqSlJGVV9fTDJUV2lwWW5vcTlEYXBXV3d4Tm4w?oc=5"
         }
       ]
     },
     {
-      "id": "loan-은행주담대금리연466넉달째상승해3년9개월만에최고",
-      "topic_id": "loan",
+      "id": "tax_refund-단독120만원환급믿고덜컥신청했다가150만원세금폭탄토스인컴책임은이용자몫",
+      "topic_id": "tax_refund",
       "lane": "재테크",
-      "label": "대출·금리",
+      "label": "세금·환급",
       "status": "PICK",
-      "score": 83,
-      "headline": "은행 주담대 금리 연 4.66%…넉달째 상승해 3년 9개월만에 최고",
+      "score": 82,
+      "headline": "[단독] “120만원 환급” 믿고 덜컥 신청했다가 150만원 ‘세금폭탄’…토스인컴 “책임은 이용자 몫”",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "angle": "누가 어떤 공제로 얼마를 돌려받을 수 있는지",
+      "check_first": "국세청 공식 안내 확인",
       "money_signal": [
-        "4.66%"
+        "120만원",
+        "150만원"
       ],
-      "published_at": "2026-09-30T03:00:00+00:00",
-      "source_count": 5,
+      "published_at": "2026-10-01T02:50:06+00:00",
+      "source_count": 1,
       "sources": [
         {
-          "name": "연합뉴스",
-          "title": "은행 주담대 금리 연 4.66%…넉달째 상승해 3년 9개월만에 최고",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hd3BEeVJzMVRiNEk2R1hrOGtRLWlIU2dBSG5kdGVOcm1VVmtUY3kyclF5aUlSNFNFV0wyaWhVa0IwNnBnX0ZzdG8tWFZnRWNoc3dtTndaaUFjZ1VpNDJyOdIBYEFVX3lxTE5hd3BEeVJzMVRiNEk2R1hrOGtRLWlIU2dBSG5kdGVOcm1VVmtUY3kyclF5aUlSNFNFV0wyaWhVa0IwNnBnX0ZzdG8tWFZnRWNoc3dtTndaaUFjZ1VpNDJyOQ?oc=5"
-        },
-        {
-          "name": "뉴스1",
-          "title": "주담대 평균 연 4.66%·넉 달째 상승…신용대출 6% 돌파",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zT0R0WHpwQUEzcWF6UjNJYVBmb0hJRnhzbmpRLVZkOXBjTGJaS0dwd3I5MlM1NUpGSDJOaXFLUEZOQlVjRHAzdjY3UUx4UXRZOVRyUGVCTy1CUdIBWkFVX3lxTE0zT0R0WHpwQUEzcWF6UjNJYVBmb0hJRnhzbmpRLVZkOXBjTGJaS0dwd3I5MlM1NUpGSDJOaXFLUEZOQlVjRHAzdjY3UUx4UXRZOVRyUGVCTy1CUQ?oc=5"
-        },
-        {
-          "name": "MTN 머니투데이방송",
-          "title": "대출금리 다시 들썩…주담대 4.66%·신용대출 6.33%",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FUi1tb0xNdXViYnJsWTRHZlh5WVdGQUZzSlpVbWFpOTYtSU5jY05jSjVaaFgwbWV0VkR5Z1VvZXFYbTRYbERQa3N3b0FOX0xPSVZmajNKMk1VbDFwOFhkZ05ESWY?oc=5"
-        },
-        {
-          "name": "브릿지경제",
-          "title": "주담대 금리 4.66%로 ‘껑충’…가계대출 금리도 1년9개월래 최고",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jVjM2RTFEblhqYm5OWlpLU3dOWURLSV82alQ5NEVLQzJJcUlZd3MzNllGdVlLQzQyUnRoQ21qVU1EZ2M2ZVJETUJOVUNjOGhMLVZZTmpERlNoQQ?oc=5"
+          "name": "마이데일리",
+          "title": "[단독] “120만원 환급” 믿고 덜컥 신청했다가 150만원 ‘세금폭탄’…토스인컴 “책임은 이용자 몫”",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YVDV5OEFybC1XQUJhSDM2dl9DSV9OYmFzb013ME52TnVpSFFvZm1wMkxNNGNpU0V6RmVBY193VFFJaTF6d2t4V21kWDR1Y2kydG5HcGVwTFJ5VVFaU2s2eA?oc=5"
         }
       ]
     },
     {
-      "id": "deposit-신한은행예금금리최대025p인상3개월만기도3대진입",
+      "id": "openai_official-higgsfieldaishipsnewvideofeaturesinadaywit",
+      "topic_id": "openai_official",
+      "lane": "AI",
+      "label": "OpenAI 공식",
+      "status": "PICK",
+      "score": 82,
+      "headline": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
+      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
+      "money_signal": [],
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI 공식",
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+        }
+      ]
+    },
+    {
+      "id": "deposit-줄줄이오르는은행예금금리하나은행1년만기연36로",
       "topic_id": "deposit",
       "lane": "재테크",
       "label": "예적금",
       "status": "PICK",
       "score": 81,
-      "headline": "신한은행 예금금리 최대 0.25%p 인상…3개월 만기도 3%대 진입",
+      "headline": "줄줄이 오르는 은행 예금금리…하나은행, 1년 만기 연 3.6%로",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "광고금리 말고 실제 세후 이자와 우대조건",
       "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
-        "0.25%",
-        "3%"
+        "3.6%"
       ],
-      "published_at": "2026-09-30T01:15:22+00:00",
+      "published_at": "2026-10-01T05:41:37+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "뉴스1",
-          "title": "신한은행 예금금리 최대 0.25%p 인상…3개월 만기도 3%대 진입",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWkJJZFA1VzB6bmswaGoyTXMwRVc4U3RCY08tbExBWDRlRy00TllOd2tnUlZ5OGc2VXo1c1FFMFJleGFqR2hMNHVic0pFaldzZG51QW1DaTQ5d3VZWmJBQXp1TUVoUmfSAWdBVV95cUxNSFpCSWRQNVcwem5rMGhqMk1zMEVXOFN0QmNPLWxMQVg0ZUctNE5ZTndrZ1JWeThnNlV6NXNRRTBSZXhhakdoTDR1YnNKRWpXc2RudUFtQ2k0OXd1WVpiQUF6dU1FaFJn?oc=5"
+          "name": "뉴시스",
+          "title": "줄줄이 오르는 은행 예금금리…하나은행, 1년 만기 연 3.6%로",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UY2RNVU0zUHZidGprM1Jzd2NaSTMwelV6ZzlieVUxRjlEUW5sN0Y1Mlh0d1RidUpHdG42SlNXbldmejlrbi1IZnl3SVQwbG02SVM0MHJMM1pSNXVHV0RONtIBeEFVX3lxTE8yVnJia1dNR1JPbHBIakxyaTVwZG15eWljUVRsSXNUbnY3SmNnUldmTmtRTDI3b0UxS0RXeVJqN201azNIaVhGM1E2dmxQWlAxUTdSUmZuY3BfVlIwZDk5TlU4a1FUUnBqRjJDLTJ1NFBLcUVCb2w2Yg?oc=5"
         }
       ]
     },
     {
-      "id": "loan-주담대금리45개월만에최고신용대출은20개월만에6돌파조선비즈",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "PICK",
-      "score": 79,
-      "headline": "주담대 금리 45개월 만에 최고… 신용대출은 20개월 만에 6% 돌파 - 조선비즈",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "6%"
-      ],
-      "published_at": "2026-09-30T03:09:07+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "Chosunbiz",
-          "title": "주담대 금리 45개월 만에 최고… 신용대출은 20개월 만에 6% 돌파 - 조선비즈",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTUQ1WURsTXFpU1ZhU0gwQjFMaVR2cDh5bUg1ZGhMZzRTU2FrV1ZTNnItZUN4eEZrbUR6eURSODR5dmo2eDExZEtKQXFTTDhYTVVJcnBoWXJLRTdfRTNwTnZscGFEWS13cG9qdDlqUEY5bGd5N0NRRkQwdjZ0TnFvbV92dDN1UdIBmgFBVV95cUxPYk4zaHMyYVVnLUdRam54QlVKMmx5MFBiT3JjLXZOUXZzZnZnWkNGeEdTSnhKSV8zeUItUE1ZWUdFTHVMN19kVk1kcERfRDNVa2VkRHVGRWI4a1M0MHZZWEZsaHJRNDlmUWdNeHdPd1dUWkxzQy01VktLR1Z5MEZaa1o4VUQ5dF9aS3B5bWdHTU5SV3VLSjhwbTVB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-주담대고정금리비중10개월만에반등대출금리44로상승머니투데이",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "PICK",
-      "score": 79,
-      "headline": "주담대 고정금리 비중 10개월 만에 반등…대출금리 4.4%로 상승 - 머니투데이",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "4.4%"
-      ],
-      "published_at": "2026-09-30T03:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "머니투데이",
-          "title": "주담대 고정금리 비중 10개월 만에 반등…대출금리 4.4%로 상승 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93WTRzNmZlaGY5Q3pQSmhjd2hxQlBzNFhwenkxNUxCcmFyZG1OOFptaHdWV0pLV2c0elMtYTBVMUlrNHo2c1FBVG5aMDV3aTF2ekdNenF3RXFrbkVlNHlMeS1kNTQ0T3BjSDZBSmZEV1PSAXBBVV95cUxPd1k0czZmZWhmOUN6UEpoY3docUJQczRYcHp5MTVMQnJhcmRtTjhabWh3VldKS1dnNHpTLWEwVTFJazR6NnNRQVRuWjA1d2kxdnpHTXpxd0Vxa25FZTR5THktZDU0NE9wY0g2QUpmRFdT?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "benefit-강릉시11월중순부터민생안정지원금지급추진주민1인당10만원",
-      "topic_id": "benefit",
+      "id": "policy-광양시전남청년근속장려금지원사업참여기업추가모집",
+      "topic_id": "policy",
       "lane": "혜택",
-      "label": "환급·캐시백",
+      "label": "정책·지원사업",
       "status": "PICK",
       "score": 78,
-      "headline": "강릉시 11월 중순부터 민생안정지원금 지급 추진···주민 1인당 10만 원",
+      "headline": "광양시, 전남 청년 근속장려금 지원사업 참여기업 추가 모집",
       "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "누가 얼마를 언제까지 신청하면 받는지",
-      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
-      "money_signal": [
-        "10만 원"
-      ],
-      "published_at": "2026-09-30T01:18:00+00:00",
+      "angle": "대상·금액·기한·신청처만 실전형으로 정리",
+      "check_first": "정부·지자체·공공기관 공식 공고 확인",
+      "money_signal": [],
+      "published_at": "2026-10-01T02:23:46+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "경향신문",
-          "title": "강릉시 11월 중순부터 민생안정지원금 지급 추진···주민 1인당 10만 원",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVdFg2RnFUZV9DN0Z1NzY2ZjljUjFjaW1rNWdJZHdNb2h3U0JyNWZRYWFscjc2SW9RX2tkbV9sR1NXNG9obVplaGlxdVYyTVUwbm95YTBWQzlJWFBZZFpz0gFfQVVfeXFMUFV0WDZGcVRlX0M3RnU3NjZmOWNSMWNpbWs1Z0lkd01vaHdTQnI1ZlFhYWxyNzZJb1Ffa2RtX2xHU1c0b2htWmVoaXF1VjJNVTBub3lhMFZDOUlYUFlkWnM?oc=5"
+          "name": "도민연합뉴스",
+          "title": "광양시, 전남 청년 근속장려금 지원사업 참여기업 추가 모집",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlWmU4UllVdEx2NUltU0RITnIxT1RRMHRYQ2wzSGFSejhuZ1RERDhjSjVsZVlmNGhuS0x1WjN5Skl3SXo5NC0wa3V3cWFlckYwOFIxU2F3UDR6RTNSakVYVlRHZE9nNTdZQmc?oc=5"
         }
       ]
     },
     {
-      "id": "digital_tip-하루전업데이트했는데또아이폰18프로이번엔스피커잡음",
-      "topic_id": "digital_tip",
-      "lane": "꿀팁",
-      "label": "디지털 꿀팁",
+      "id": "ai_product_news-웹페이지요약부터일정관리까지네이버웨일aichat출시",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
       "status": "PICK",
       "score": 78,
-      "headline": "하루 전 업데이트했는데 또?...아이폰18 프로, 이번엔 스피커 잡음",
-      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
-      "angle": "지금 바로 켜거나 바꾸면 시간·돈을 아끼는 설정인지",
-      "check_first": "공식 도움말에서 지원 기기·버전·적용 조건 확인",
-      "money_signal": [],
-      "published_at": "2026-09-29T23:24:39+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "title": "하루 전 업데이트했는데 또?...아이폰18 프로, 이번엔 스피커 잡음",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRWDZKQTBHUzctemdBazY0TGhzb2Zjb3R1TlVoNVM3Y0IzaW5jMjEzVTBaZm5YYjlRbncwUVNyV1hoaHJrdnUtdjllSUZmTzlIMS0yMTJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_agents-시키지않아도일한다오픈aiai에이전트닷출시머니투데이",
-      "topic_id": "ai_agents",
-      "lane": "AI",
-      "label": "AI 에이전트",
-      "status": "WATCH",
-      "score": 77,
-      "headline": "\"시키지 않아도 일한다\"…오픈AI, AI 에이전트 '닷' 출시 - 머니투데이",
+      "headline": "웹페이지 요약부터 일정 관리까지…네이버 웨일 'AI Chat' 출시",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
-      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
       "money_signal": [],
-      "published_at": "2026-09-30T00:23:46+00:00",
-      "source_count": 2,
+      "published_at": "2026-10-01T01:27:43+00:00",
+      "source_count": 4,
       "sources": [
         {
-          "name": "머니투데이",
-          "title": "\"시키지 않아도 일한다\"…오픈AI, AI 에이전트 '닷' 출시 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UU1RDX3cyXzJDYWZZeGw3RUJjbVZkUWhTWGlzNVNaS0QzU3RjQXdCdEdiN0dhSHhILXdTVVZqT3dRb1VfUlFpRXVySG5PWm10UVhOOU5SQ3RtM0NOWlBJVE01SW9tb1dhZnpwdNIBbEFVX3lxTE9UU1RDX3cyXzJDYWZZeGw3RUJjbVZkUWhTWGlzNVNaS0QzU3RjQXdCdEdiN0dhSHhILXdTVVZqT3dRb1VfUlFpRXVySG5PWm10UVhOOU5SQ3RtM0NOWlBJVE01SW9tb1dhZnpwdA?oc=5"
+          "name": "연합뉴스",
+          "title": "웹페이지 요약부터 일정 관리까지…네이버 웨일 'AI Chat' 출시",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoR2U0TzA5YUJWcUx6cG93dGJ3OUlJd3Z5WUVqLXJTdGV5dUpZeEN3ZzNYTFIzN2VRUWU3SmpHZkpXdTJVbHhwQ20ybmdEQ3NZeklvaWF3akVqdjZYdVB2RNIBYEFVX3lxTFBoR2U0TzA5YUJWcUx6cG93dGJ3OUlJd3Z5WUVqLXJTdGV5dUpZeEN3ZzNYTFIzN2VRUWU3SmpHZkpXdTJVbHhwQ20ybmdEQ3NZeklvaWF3akVqdjZYdVB2RA?oc=5"
         },
         {
-          "name": "디지털데일리",
-          "title": "오픈AI, 메타 ‘뮤즈` 맞불… AI 에이전트 ‘닷’ 출시",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMaXRqUWhodXU1UDd5Y1FKeHFXbmVQVGY2NTNLTkFxLXBPbUtMWmlDa0gyVXRwNE82VmdqalIwMzNFQzU1RVRYZTZJWnFFTEl3RHdnSXNFMHFUWFpIdU40UTFNM28?oc=5"
+          "name": "한국경제TV",
+          "title": "웹페이지 요약부터 일정 관리까지…네이버 웨일 ＇AI Chat＇ 출시",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fV0tkMlpKVzd3MVZfSUo5ejhoWENSazB6ZDFfaWkwR2gtQWpZUnhNWkIzZ1dMazBXQUtqRmhnTW00ZVFULVlRMzZWV292dGRLbTZMOHNMdlIyZVlmT1dJa243RnhyaXQ0UW9XcmF0X1M2ZHdtX1hMRFNhVHg?oc=5"
+        },
+        {
+          "name": "뉴시스",
+          "title": "네이버 웨일, 웹페이지 보며 AI에 바로 묻는다…'AI 챗' 정식 출시",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94ejRGYXo0djdvWHRILXV3V2xJdHc4b3cwY0tpa1Vkem53V0pOVFRobkp4ZG5vWmY0SFYta3JnUC1iVmVqcnFjRFdodDhxY0gzN0oydi05WlJtQ3ItM2wxaE80SC02WDNnQXBXdzJYSjJvN2xZTWRFMdIBeEFVX3lxTE94ejRGYXo0djdvWHRILXV3V2xJdHc4b3cwY0tpa1Vkem53V0pOVFRobkp4ZG5vWmY0SFYta3JnUC1iVmVqcnFjRFdodDhxY0gzN0oydi05WlJtQ3ItM2wxaE80SC02WDNnQXBXdzJYSjJvN2xZTWRFMQ?oc=5"
+        },
+        {
+          "name": "아주경제",
+          "title": "네이버 웨일, AI 브라우저로 진화…AI 챗 정식 출시",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40U1owVHoyUGR1LUFpdXhOdWdYdmlOR1JLb3BWUWx3eFFNTDlxeG91MVphRHV4NlZ4ckpmb3EwS1NDMXllMWF2dy1HNHRObFU3WmEwZjBhMGtKd9IBWEFVX3lxTE1HMGFIY29JTHRwMGYyQlVtczFvNUZKRGJwNmpmVk56TE0zX2dPYk5WWUJROUJ0bUxqc1E1LW5mbkFPNHd5RVJMd0pOODhsRThHc05WWUpLSms?oc=5"
         }
       ]
     },
     {
-      "id": "youtube_channel_metrics-유튜브공개조회수중참여조회수는60새집계방식에광고성과측정도달라졌다",
-      "topic_id": "youtube_channel_metrics",
-      "lane": "SNS분석",
-      "label": "YouTube 채널",
+      "id": "deposit-하나은행예금금리또올렸다한달새04p인상",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
       "status": "WATCH",
-      "score": 76,
-      "headline": "“유튜브 공개 조회수 중 ‘참여 조회수’는 60%”…새 집계 방식에 광고 성과 측정도 달라졌다",
-      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "채널 지표 변화가 콘텐츠 편성에 주는 신호",
-      "check_first": "YouTube Studio 공식 지표 정의 확인",
+      "score": 77,
+      "headline": "하나은행, 예금금리 또 올렸다…한 달 새 0.4%p 인상",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
-        "60%"
+        "0.4%"
       ],
-      "published_at": "2026-09-28T15:00:00+00:00",
+      "published_at": "2026-10-01T04:44:16+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "매드타임스",
-          "title": "“유튜브 공개 조회수 중 ‘참여 조회수’는 60%”…새 집계 방식에 광고 성과 측정도 달라졌다",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54QUZhTGtVOTl4OFJ6YnN3OF9YUWlIRWlISUk4eU9QTVhrSm03VnNoMjNSSGJHQUJNdHZGNHZXcXBsLUFQaWE0azZKVzVqNHktREgwSzNJaDRLbU5BUTlwaWp2UVplZzlpRUcwbw?oc=5"
+          "name": "아주경제",
+          "title": "하나은행, 예금금리 또 올렸다…한 달 새 0.4%p 인상",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlTlhQUWNaYk01cGZWR2QyUWxZUDJrUTVvR3B4aHdhZmV6dl9rYnZhcHNOYlhIeF93X3BwVE02RlJpU0RXWUk2SUg4a21TTF9sMGE4UHh3MzlKUdIBWEFVX3lxTFBuZnl0aTQ1Wk5pRk9Mc0JDOFVHQXZxWGVraGFvN29jbGFsQXlhMi1Jby1YTU16MWFUMmk2ZmZmanVkOVpjNmdfeHBlUDI3UWtHRmI0R1VuYlk?oc=5"
         }
       ]
     },
     {
-      "id": "deposit-다시4대예금금리도뛴다머니투데이",
+      "id": "deposit-기업예금금리4돌파대출금리더뛴다",
       "topic_id": "deposit",
       "lane": "재테크",
       "label": "예적금",
       "status": "WATCH",
       "score": 75,
-      "headline": "다시 '4%대'… 예금금리도 뛴다 - 머니투데이",
+      "headline": "기업 예금금리 4% 돌파...대출금리 더 뛴다",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "광고금리 말고 실제 세후 이자와 우대조건",
       "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
         "4%"
       ],
-      "published_at": "2026-09-29T18:15:00+00:00",
-      "source_count": 1,
+      "published_at": "2026-09-30T21:00:00+00:00",
+      "source_count": 2,
       "sources": [
         {
-          "name": "머니투데이",
-          "title": "다시 '4%대'… 예금금리도 뛴다 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qTVFwMTdMSWUtbDdDcERTNFFEc1Bqa1lkNE9QMDNWcWdqMWtPMXZQd1NRVDFjRHh3NFlLaVF4a1owSFNNaWtFZDJMTllXWGhSSDM1aEVvUVk3ZG05NHlXcTNZOHpCZDdPdHFhRlJJZjTSAXBBVV95cUxPak1RcDE3TEllLWw3Q3BEUzRRRHNQamtZZDRPUDAzVnFnajFrTzF2UHdTUVQxY0R4dzRZS2lReGtaMEhTTWlrRWQyTE5ZV1hoUkgzNWhFb1FZN2RtOTR5V3EzWTh6QmQ3T3RxYUZSSWY0?oc=5"
+          "name": "서울경제",
+          "title": "기업 예금금리 4% 돌파...대출금리 더 뛴다",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBueE5WNU9mZmJzVU9nd20zcXZJdzY2a3h1ZGRJSUFsSThPdm9xTGlTTmhuRUk4SmpYYnlrcEE3ZTkxLVVqYzdmWElSX3lJNGtiY3fSAVNBVV95cUxPZHozNjNiTlRRV041YTJEWTdfdHAxeGN3TXQyeEpUQWFxYWdtWUgyZFNTLWpGWWtZcEJFYkFZUXBlVjBiTk9Gc3RPek0wUDBnakMtOA?oc=5"
+        },
+        {
+          "name": "SBS Biz",
+          "title": "[숏폼] 은행 예금금리 4% 시대 온다…돈 다시 은행으로",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3LWV4R25GOC1ua3dITnZTeTFOLVlKejlBVHpDV25NbmRHODhXc0xteDd3VGFnZXp4OHgwNFNaWUVhSWlIRjBJaU0yVWREN2ZnVnJiYVdDS1nSAVhBVV95cUxQNy1leEduRjgtbmt3SE52U3kxTi1ZSno5QVR6Q1duTW5kRzg4V3NMbXg3d1RhZ2V6eDh4MDRTWllFYUlpSEYwSWlNMlVkRDdmZ1ZyYmFXQ0tZ?oc=5"
         }
       ]
     },
     {
-      "id": "ai_agents-오픈ai자율업무에이전트닷공개클라우드pc앱연동",
-      "topic_id": "ai_agents",
-      "lane": "AI",
-      "label": "AI 에이전트",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "오픈AI, 자율 업무 에이전트 ‘닷’ 공개…클라우드 PC·앱 연동",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
-      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
-      "money_signal": [],
-      "published_at": "2026-09-30T01:36:35+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "서울경제TV",
-          "title": "오픈AI, 자율 업무 에이전트 ‘닷’ 공개…클라우드 PC·앱 연동",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oY1VFXzdoWURlZXdnNC1taWVKNC1jTnp5UGx1OC0wX2h2NExXY2E3OEtMTHBYcENzcjNhUGt5TWVUS05MZk9hYWFTSmgwR3ZWZVAtUkVPRWREZ0wtdVhER3BkYlg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_image_tools-씽크프리ai결과물을업무문서로documenteditorsdk정식출시",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "씽크프리, AI 결과물을 업무 문서로… 'Document Editor SDK' 정식 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
-      "money_signal": [],
-      "published_at": "2026-09-30T01:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "전자신문",
-          "title": "씽크프리, AI 결과물을 업무 문서로… 'Document Editor SDK' 정식 출시",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtUk9SOEI1a1ZfajJ6VDRRcERzdVZSZW41cmtXWTJzV09ERi0zTUQtaVFZaEN0S3RTNUhidVZhWEJjVkFDbUh0ODY5X2hBQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_creator-솔트웨어데이터연결ai에이전트통합한사피adp출시",
-      "topic_id": "ai_creator",
-      "lane": "AI",
-      "label": "AI 제작도구",
-      "status": "WATCH",
-      "score": 73,
-      "headline": "솔트웨어, 데이터 연결·AI 에이전트 통합한 ‘사피-ADP’ 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "기존 작업시간을 얼마나 줄이고 결과물 품질이 어느 수준인지",
-      "check_first": "요금·상업적 이용조건·워터마크·저작권 정책 확인",
-      "money_signal": [],
-      "published_at": "2026-09-30T05:29:04+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "디지털데일리",
-          "title": "솔트웨어, 데이터 연결·AI 에이전트 통합한 ‘사피-ADP’ 출시",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HdDF6UF91T29nZ01PUjFWQ0cxLTRNWTBhckt3TkNtOHVtZXlLTnc5dkN3MUtKa0FMTGRSYkVTd1hjTS1KZUZLNWRCOURnQ0pvdHJCUmZmVFBQUW5tdUF4UGxn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "smallbiz_money-정읍시소상공인대상안정지원금추가접수사업자당50만원",
-      "topic_id": "smallbiz_money",
-      "lane": "혜택",
-      "label": "소상공인 지원",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "정읍시, 소상공인 대상 안정지원금 추가 접수…사업자당 50만원",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "현금지원과 대출성 정책자금을 구분",
-      "check_first": "중기부·소진공 공식 공고 확인",
-      "money_signal": [
-        "50만원"
-      ],
-      "published_at": "2026-09-29T07:06:22+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴스1",
-          "title": "정읍시, 소상공인 대상 안정지원금 추가 접수…사업자당 50만원",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TYXRlRHVTbDFlS1RGdFJxSzJsMmd4VUlHRlNUTzZ2TUJwZlZNbWdRN3FLSzdyZ0NaOWdrSUQyZFRqbFk1dXE5aGZ2dkhpSGFhcDg2OThoUElyUdIBWkFVX3lxTE9TYXRlRHVTbDFlS1RGdFJxSzJsMmd4VUlHRlNUTzZ2TUJwZlZNbWdRN3FLSzdyZ0NaOWdrSUQyZFRqbFk1dXE5aGZ2dkhpSGFhcDg2OThoUElyUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_agents-오픈ai퇴근후에도일하는ai에이전트닷공개안전문제출시연기하루뒤개발자콘퍼런스개최",
-      "topic_id": "ai_agents",
-      "lane": "AI",
-      "label": "AI 에이전트",
-      "status": "WATCH",
-      "score": 71,
-      "headline": "오픈AI 퇴근 후에도 일하는 AI에이전트 '닷' 공개... '안전 문제' 출시 연기 하루 뒤, 개발자 콘퍼런스 개최",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
-      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
-      "money_signal": [],
-      "published_at": "2026-09-29T21:29:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "조선일보",
-          "title": "오픈AI 퇴근 후에도 일하는 AI에이전트 '닷' 공개... '안전 문제' 출시 연기 하루 뒤, 개발자 콘퍼런스 개최",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSlk2Ml9ubmNOdTFvUDJfdE15dGN5SUs0SGxWNzYwR1VDR0dtUnVPZ296bl9oYmZNWHA4bGJpY0RSczJZaWZtSTJKTU9FWnoteE5yRExXc3BTLVRveHBpOUR0bzdHaDFJN0JEc04yOFRsaUVMRWw4TG5UVGpiTXVkRUh3UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_image_tools-ms생성형ai사용률40첫돌파세계12위로상승",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "MS “韓 생성형 AI 사용률 40% 첫 돌파…세계 12위로 상승”",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
-      "money_signal": [
-        "40%"
-      ],
-      "published_at": "2026-09-28T06:38:20+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "전자신문",
-          "title": "MS “韓 생성형 AI 사용률 40% 첫 돌파…세계 12위로 상승”",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pZVFKV2k1UnVBdzRWanFkR1Q4RXU3MmhXMm9Lem9mVDdLOFczX1FxQlF4b1JjWklMV0pETmhCdFBPUWdFeVBfTHhpQ0F5Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "youtube_shopping-순이엔티유튜브쇼핑인센티브파트너선정크리에이터수익모델확대",
-      "topic_id": "youtube_shopping",
-      "lane": "부업",
-      "label": "유튜브 쇼핑",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "순이엔티, 유튜브 쇼핑 인센티브 파트너 선정···크리에이터 수익모델 확대",
-      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
-      "angle": "어떤 상품을 태그할 수 있고 실제 제휴수익 구조가 어떻게 바뀌는지",
-      "check_first": "YouTube 공식 쇼핑 도움말과 참여 자격 확인",
-      "money_signal": [],
-      "published_at": "2026-09-21T00:38:35+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "전자신문",
-          "title": "순이엔티, 유튜브 쇼핑 인센티브 파트너 선정···크리에이터 수익모델 확대",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vYzF3Z0xaNWtfODBha3BGY09hRU9nbmNLOTBtY1NaUU9WMGd0QmpDVzlBYk1sTVAwMmpqdlBrRXU2X2ozbElwTU1JNENMUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "smartstore_seller-네이버스마트스토어판매자성장단계따라ai물류까지성장사다리역할톡톡",
+      "id": "smartstore_seller-초보엔수수료깎아주고베테랑엔손님붙여준다스마트스토어10년성장공식",
       "topic_id": "smartstore_seller",
       "lane": "부업",
       "label": "스마트스토어",
       "status": "WATCH",
-      "score": 69,
-      "headline": "네이버 스마트스토어, 판매자 성장 단계 따라 'AI·물류'까지...'성장 사다리' 역할 톡톡",
+      "score": 75,
+      "headline": "초보엔 수수료 깎아주고, 베테랑엔 손님 붙여준다…'스마트스토어 10년' 성장 공식",
       "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
       "angle": "판매수수료와 실제 마진에 미치는 영향",
       "check_first": "네이버 판매자센터 공식 공지 확인",
       "money_signal": [],
-      "published_at": "2026-09-30T02:53:37+00:00",
+      "published_at": "2026-09-30T02:03:02+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "테크M",
-          "title": "네이버 스마트스토어, 판매자 성장 단계 따라 'AI·물류'까지...'성장 사다리' 역할 톡톡",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aSzNIQU5raXdscDlWUWdocFVkU3VvNXE3VHRHN2d6LUxOd3JCMTd1RHI3ZzV2dUF6Wi03ZWVrR185VTZJYy1Ydnpiamt3dGhHQ2QzcHNCbjlqNGJmRWVMVG1kNnZpZ9IBakFVX3lxTFBFSHAzck96TGM1alFGU084c1hKN2FSb2dvQjlrQUxkUU9ibjdaaXViUDN1V2J2LVFGUy11aEloM3oxUXh0VkJmZmZRSlZxNjVUcno1M2owRlhrWVlEOVRpWnE0b0FHY2ZOTkE?oc=5"
+          "name": "뉴시스",
+          "title": "초보엔 수수료 깎아주고, 베테랑엔 손님 붙여준다…'스마트스토어 10년' 성장 공식",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGWFdOWEJodF9QSUdWRjVDbG54Rzdwc0FXY2hPSXd2OXpkdC1CTVZnLWhhdVRsSkljb1FSYVJfZHVYVUtRTjg4aEVQZnBsdmVRTWcyeU9DWUNURlFPNkpJcNIBeEFVX3lxTE9JZGZ4UkNEMGlkVnlwWkFXSnNmSnJmblFJLXdkSm1MWkt1SUJGRzJGTFk3WmNtNG0xU3pwUE56RU45VjdjSFBmdTJWM19PMnQ2VklrdHRIZTJPSUREVXBZOExHUFYyZ0YxbkpWd2htZnluVFZQUzdfSw?oc=5"
         }
       ]
     },
     {
-      "id": "deposit-은행권예금금리줄인상하나은행정기예금연34로인상",
-      "topic_id": "deposit",
-      "lane": "재테크",
-      "label": "예적금",
+      "id": "ai_image_tools-amd반도체설계도구다루는에이전틱ai로스출시",
+      "topic_id": "ai_image_tools",
+      "lane": "AI",
+      "label": "AI 이미지",
       "status": "WATCH",
-      "score": 69,
-      "headline": "은행권 예금금리 줄인상…하나은행, 정기예금 연 3.4%로 인상",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
-      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
-      "money_signal": [
-        "3.4%"
-      ],
-      "published_at": "2026-09-22T06:33:11+00:00",
+      "score": 74,
+      "headline": "AMD, 반도체 설계도구 다루는 에이전틱 AI '로스' 출시",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
+      "check_first": "공식 요금·상업이용·저작권 정책 확인",
+      "money_signal": [],
+      "published_at": "2026-10-01T05:20:25+00:00",
       "source_count": 1,
       "sources": [
+        {
+          "name": "zdnet.co.kr",
+          "title": "AMD, 반도체 설계도구 다루는 에이전틱 AI '로스' 출시",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByYkF0MTNCdlhDWnhySWg0aWVGSTBaalRMdjlySGVDWUhwTU9lbWpEc0dmdS1hVTcydUtyS0pOaVZJT3RkYi1ZdkFLUUpuZHZ1dXBCTVZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_creator-디지털엑스서브어카운트출시ai에이전트별자산분리운용",
+      "topic_id": "ai_creator",
+      "lane": "AI",
+      "label": "AI 제작도구",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "디지털엑스, '서브 어카운트' 출시…AI 에이전트별 자산 분리 운용",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "기존 작업시간을 얼마나 줄이고 결과물 품질이 어느 수준인지",
+      "check_first": "요금·상업적 이용조건·워터마크·저작권 정책 확인",
+      "money_signal": [],
+      "published_at": "2026-10-01T04:26:34+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "전자신문",
+          "title": "디지털엑스, '서브 어카운트' 출시…AI 에이전트별 자산 분리 운용",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ubnppTVB6R3V3MUtra2s2QUZxWDlLbmNjSlowb2FEMGxQVncza0dOR2NlUjhZMW9SV3JzZURXVHdHLUZxZlZYb3prVHpCUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_creator-코딩몰라도ai에이전트개발skax바이브코딩교육프로그램출시조선비즈",
+      "topic_id": "ai_creator",
+      "lane": "AI",
+      "label": "AI 제작도구",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "“코딩 몰라도 AI 에이전트 개발”…SK AX, 바이브코딩 교육 프로그램 출시 - 조선비즈",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "기존 작업시간을 얼마나 줄이고 결과물 품질이 어느 수준인지",
+      "check_first": "요금·상업적 이용조건·워터마크·저작권 정책 확인",
+      "money_signal": [],
+      "published_at": "2026-10-01T02:16:00+00:00",
+      "source_count": 8,
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "title": "“코딩 몰라도 AI 에이전트 개발”…SK AX, 바이브코딩 교육 프로그램 출시 - 조선비즈",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMl9Id0RvQUZRNUc3bWd2QmR2LWZwRTcwMHNfYmVJb0RUdDJnVGZaT0xzYkpuZTRaVGVoanVuT25mRmYxS1BvWjhFY3ZDeWhTazJJdnVXdkVnZGN6NkVMX21ydTdFZU5BZzd5d0RzYmUxMTlXRC1MQjVMWXlmenNieWR30gGWAUFVX3lxTE0yX2tLTFVFNndNbEFteWpkTjAySkswdV9ndUNTbGlrUVJEeXF4Y1pWZDNkX0NxcEZ4WWcyU29OcFJ4emF1NWdrXzhaSVEwZzl4ZHJxekZ4enY3dG15UTBBRXJuNFVuaTlBdEJJM2F2V2h6NzI4Z3pDZWlPdmFZRkFTQ2lkWXJlYXdVWWNpRWhwS05jQUk1Zw?oc=5"
+        },
+        {
+          "name": "머니투데이",
+          "title": "코딩 몰라도 AI 에이전트 만든다…SK AX, 'AI 부트캠프 바이브' 출시 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OdGxnWnU2c25DUVpHWEJ3cmJONTZOYkZWVVpxdl9Qb2IxNEtwS1BlR2t0UG9ac3d3NGZ4eVNuaHB1NlIzeVpuMkpSOG5TM05pUmFuOWhqTnNRSXZLN1lHeXFRdEVDZHJNVjhNWNIBbEFVX3lxTE5OdGxnWnU2c25DUVpHWEJ3cmJONTZOYkZWVVpxdl9Qb2IxNEtwS1BlR2t0UG9ac3d3NGZ4eVNuaHB1NlIzeVpuMkpSOG5TM05pUmFuOWhqTnNRSXZLN1lHeXFRdEVDZHJNVjhNWA?oc=5"
+        },
         {
           "name": "동아일보",
-          "title": "은행권 예금금리 줄인상…하나은행, 정기예금 연 3.4%로 인상",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YZ3lKVEkyT0NIT1huTVVaZEFXb1pqZGprSUYxVmxNcnU3bTl4Q2V2YW1ibjJqbkI2QnpvUkVBaDh1NDBnYm42TTFrTEtpdzlpX0ktcUZrREtpTFllTnJjRHhjLW5lWWJvaHNKRzNFUVZCUTFtLUHSAWZBVV95cUxNRWk1Q1ZUXzV2eWlfU1dwajQzbm5YcUFuWTdTcnMwRWQ4SU85SDQybUlDcGwtbm1hMEJ6R3RibHRRVGd4RE5MR242NmRUWlk3SXBJWUN2VEhvanVON0FmZnFmOW5SSHc?oc=5"
+          "title": "“일반인도 AI 에이전트 개발”…SK AX, ‘바이브 코딩’ 교육 프로그램 출시",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBla29NZlRPZGZyWEVJZng1T0xhcTFmRFE1UjRxbVd0OFVVWk5wd0l4T05oanVNam4tT1J6V3JVOUppd0pBc3VtV0hFZEtDWENUX3JJdC1wVVh6NUw2NFVKQVhOM0xKUHpfV2xnTFNVb1NfUkNZUGfSAWZBVV95cUxOYmJCbUhtVmxHbHpRcExXb3BNbGFlSDRJdFBfV3FrUlJ5V0hsUnRLNE1RX2ZEc0NxMkxFZVJleEFmVVVPa1R1enFFMXZ3S1g2OFN5RVJpejRucEI1SGJXa2VHa3hlZnc?oc=5"
+        },
+        {
+          "name": "IT조선",
+          "title": "“바이브코딩으로 나만의 AI 에이전트를”…SK AX, 실무형 교육 프로그램 출시",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3S3pfREp0UXpZMTVEYTFjd2JTSkVxeC16MzJTT0h4aWphbmN6LWdMdGVOT2ZEbFpGUjlUcDFLSkxTXzRJbXpSMWQ1SGhzX3lSazVYb3JXXzl1YzI3WkZSbWt1X1g1QnlGQzlIcmd1UE40SmdH0gF0QVVfeXFMUDdLel9ESnRRelkxNURhMWN3YlNKRXF4LXozMlNPSHhpamFuY3otZ0x0ZU5PZkRsWkZSOVRwMUtKTFNfNEltelIxZDVIaHNfeVJrNVhvcldfOXVjMjdaRlJta3VfWDVCeUZDOUhyZ3VQTjRKZ0c?oc=5"
         }
       ]
     },
     {
-      "id": "ai_product_news-hitpawedimakorv530업데이트로ai영상편집기능강화",
-      "topic_id": "ai_product_news",
+      "id": "ai_image_tools-skax비개발자용ai에이전트교육부트캠프바이브출시",
+      "topic_id": "ai_image_tools",
       "lane": "AI",
-      "label": "AI 신제품",
+      "label": "AI 이미지",
       "status": "WATCH",
-      "score": 68,
-      "headline": "HitPaw Edimakor, V5.3.0 업데이트로 AI 영상 편집 기능 강화",
+      "score": 74,
+      "headline": "SK AX, 비개발자용 AI 에이전트 교육 '부트캠프 바이브' 출시",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
+      "check_first": "공식 요금·상업이용·저작권 정책 확인",
       "money_signal": [],
-      "published_at": "2026-09-30T02:46:33+00:00",
+      "published_at": "2026-09-30T23:30:01+00:00",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "SK AX, 비개발자용 AI 에이전트 교육 '부트캠프 바이브' 출시",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QYW1LdUVuSTNuekJwOU82SEJJNmFmYkE4bW1hejVWQ3J0V1JiaVBpT0NoMGdEWFZHV3lHRzlRb2hodnFwUS1ncnY4Q3FQekJtTUY4Wm1HajVJRGfSAWBBVV95cUxQc1AyWUxDTEU3U0hlallPdVFsWGR5dDhaNTgtRExWd0tlOUJrREdyWmVJbFFTMjJ0cWVrckpRZHJobzRKYTBnQmpEUTRQNGI2eldjakxtVl8xaGJPYjA1aEo?oc=5"
+        },
+        {
+          "name": "매일경제 마켓",
+          "title": "SK AX, 비개발자용 AI 에이전트 교육 '부트캠프 바이브' 출시",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10TE9BWTE0TFFmMFpHYkMzdjdEdDVnZlZINFJLbHM1dlpUbi1aSnpub3JpallnNnJYaFhSSWhteHd1clFzYXdYRjF6UFBMOTFDS3c?oc=5"
+        },
+        {
+          "name": "디지털데일리",
+          "title": "\"바이브코딩으로 AI 에이전트 개발\"…SK AX, `부트캠프 바이브` 출시",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Jd1B4SHFGZUlOTkItN3ctR25EUFUxaHNLOEhQSUhsblZiSXdmV0NycUQyNWMydmNRQVdRd2RZRVQ5NVBpdnZIZ2dqNWxnSlJ5NTZCVm45YnhMU2lPZk5MOEs0aWw?oc=5"
+        },
+        {
+          "name": "헤럴드경제",
+          "title": "SK AX, ‘AI 부트캠프 바이브’ 출시…비개발자도 AI 에이전트 만든다",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUVRpdG8xR1dDUFdtRjFVQ3cyYmxFdkJrZ1lFY3NhUl9OTHdSZW5HbTNoMmRMZU1GZ0M5dGRHcWpvZm1SODhFRkxaekxTcnBSR2NXUm53?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "smartstore_seller-스마트스토어판매자초기엔수수료정산을보고성숙기엔판로를본다",
+      "topic_id": "smartstore_seller",
+      "lane": "부업",
+      "label": "스마트스토어",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "스마트스토어 판매자, 초기엔 수수료·정산을 보고 성숙기엔 판로를 본다",
+      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
+      "angle": "판매수수료와 실제 마진에 미치는 영향",
+      "check_first": "네이버 판매자센터 공식 공지 확인",
+      "money_signal": [],
+      "published_at": "2026-09-30T06:26:40+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "뉴스와이어",
-          "title": "HitPaw Edimakor, V5.3.0 업데이트로 AI 영상 편집 기능 강화",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14T3VrZ0x6ZjlnMlY4dVhzVkFFMUlvOGdGNnNZSzN1cG5JMG9QVU5ZbmN0Y2F4TllCbUtGSWNtQXNpYm1EZEpJX244Uno0QUxqa0tlRmtINy1sU3pVdzJj?oc=5"
+          "name": "플래텀(Platum)",
+          "title": "스마트스토어 판매자, 초기엔 수수료·정산을 보고 성숙기엔 판로를 본다",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13THpMbW4zTXd1WldhdlhhNGhGQVlYUlZhN0xMamwxQ3VycnBVc3pxMFFZNTBoWVJWMmNFWkRSZFJBcXZxVTFsNg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_agents-바이브코딩으로나만의ai에이전트를skax실무형교육프로그램출시",
+      "topic_id": "ai_agents",
+      "lane": "AI",
+      "label": "AI 에이전트",
+      "status": "WATCH",
+      "score": 73,
+      "headline": "“바이브코딩으로 나만의 AI 에이전트를”…SK AX, 실무형 교육 프로그램 출시",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
+      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
+      "money_signal": [],
+      "published_at": "2026-10-01T01:31:32+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "IT조선",
+          "title": "“바이브코딩으로 나만의 AI 에이전트를”…SK AX, 실무형 교육 프로그램 출시",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3S3pfREp0UXpZMTVEYTFjd2JTSkVxeC16MzJTT0h4aWphbmN6LWdMdGVOT2ZEbFpGUjlUcDFLSkxTXzRJbXpSMWQ1SGhzX3lSazVYb3JXXzl1YzI3WkZSbWt1X1g1QnlGQzlIcmd1UE40SmdH0gF0QVVfeXFMUDdLel9ESnRRelkxNURhMWN3YlNKRXF4LXozMlNPSHhpamFuY3otZ0x0ZU5PZkRsWkZSOVRwMUtKTFNfNEltelIxZDVIaHNfeVJrNVhvcldfOXVjMjdaRlJta3VfWDVCeUZDOUhyZ3VQTjRKZ0c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "useful_info-지식재산처특허데이터961만건ai학습용으로푼다민간무료개방",
+      "topic_id": "useful_info",
+      "lane": "꿀팁",
+      "label": "유용정보",
+      "status": "WATCH",
+      "score": 73,
+      "headline": "지식재산처, 특허 데이터 961만 건 AI 학습용으로 푼다…민간 무료 개방",
+      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
+      "angle": "돈 안 들이고 바로 써먹을 수 있는 공식 서비스와 사용법",
+      "check_first": "공식 운영기관·무료 범위·회원가입 필요 여부 확인",
+      "money_signal": [],
+      "published_at": "2026-09-30T04:27:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "전자신문",
+          "title": "지식재산처, 특허 데이터 961만 건 AI 학습용으로 푼다…민간 무료 개방",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uUGZJNV93eGdvYVlvYjFzOTdaSmRyTEpVejFqNUhGV1hlY2kzQzZwd2lNZUVyVlptdHB2dUljaDhQeVI1bmNhZGJ0YkRjdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-대출금리다시들썩주담대466신용대출633",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 70,
+      "headline": "대출금리 다시 들썩…주담대 4.66%·신용대출 6.33%",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [
+        "4.66%",
+        "6.33%"
+      ],
+      "published_at": "2026-09-30T03:02:01+00:00",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "MTN 머니투데이방송",
+          "title": "대출금리 다시 들썩…주담대 4.66%·신용대출 6.33%",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FUi1tb0xNdXViYnJsWTRHZlh5WVdGQUZzSlpVbWFpOTYtSU5jY05jSjVaaFgwbWV0VkR5Z1VvZXFYbTRYbERQa3N3b0FOX0xPSVZmajNKMk1VbDFwOFhkZ05ESWY?oc=5"
+        },
+        {
+          "name": "동아일보",
+          "title": "8월 주담대 평균금리 연 4.66%…3년9개월만에 최고치",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwbzFCd1ZwZlZsQXNXdzVuYjl3RjNtUFQ0c0RwVGR6LWZMVnU4Y2hIYzk2ZmdlMGdjWkR2RnlIRHRXWi0tUzVqN1pUQldYNkE2bzBISXRsMVNQdjdDVXBaQzJ2QnpPeVdJRFJjbDREQnNfM19WV2fSAWZBVV95cUxPU0pDVExVRnBVdDdMTU9fUVdxSDU5LWRVeTFqcDJRQVJfREtsOGlKeGdzenpJQ1lpdjJvWTc1MWJ0ZFhPZEZTNHpMNXZWRl9zaTRQa1ZGV20wS29Uc1VTeE9EUXhtTEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-혼합형주담대평균금리연488역대최고변동형비중오히려축소",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 69,
+      "headline": "혼합형 주담대 평균금리 연4.88% ‘역대 최고’…변동형 비중 오히려 축소",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [
+        "4.88%"
+      ],
+      "published_at": "2026-09-30T08:25:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "경향신문",
+          "title": "혼합형 주담대 평균금리 연4.88% ‘역대 최고’…변동형 비중 오히려 축소",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoTWJFS21Ua1ItYkduOHZ4dmRqWjFYR1pWZ3pnNHA3QUZfbkQyWjQxclBDb254ZHRuWEstNHZYYVNVS1gxd2Q0Mi1zX2RWN1lya2xFcnRpRXo1RERZTXBj0gFfQVVfeXFMUGhNYkVLbVRrUi1iR244dnh2ZGpaMVhHWlZnemc0cDdBRl9uRDJaNDFyUENvbnhkdG5YSy00dlhhU1VLWDF3ZDQyLXNfZFY3WXJrbEVydGlFejVERFlNcGM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "benefit-강릉시전시민에10만원민생안정지원금지급",
+      "topic_id": "benefit",
+      "lane": "혜택",
+      "label": "환급·캐시백",
+      "status": "WATCH",
+      "score": 68,
+      "headline": "강릉시, 전 시민에 10만원 민생안정지원금 지급",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "누가 얼마를 언제까지 신청하면 받는지",
+      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
+      "money_signal": [
+        "10만원"
+      ],
+      "published_at": "2026-09-30T02:09:13+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "아주경제",
+          "title": "강릉시, 전 시민에 10만원 민생안정지원금 지급",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05ZFNzOUhURVhXOHFmeXQwTWVHUmJUR01EMnhlV0tsdE15Z1lsV0pvdWNKMWxrTk5iQUF2VkJUbWMxT2VxNGNxeW53ODVfQ0dnTmpqMTlHNmrSAVhBVV95cUxNOWRTczlIVEVYVzhxZnl0ME1lR1JiVEdNRDJ4ZVdLbHRNeWdZbFdKb3VjSjFsa05OYkFBdlZCVG1jMU9lcTRjcXludzg1X0NHZ05qajE5RzZq?oc=5"
         }
       ]
     }
@@ -496,87 +504,87 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 31,
-    "shown": 20,
+    "raw_articles": 46,
+    "shown": 19,
     "topic_raw_counts": {
       "tax": 0,
       "youtube_ypp": 0,
       "apptech": 0,
       "affiliate": 0,
       "blog_ads": 0,
-      "policy": 0,
-      "benefit": 2,
+      "benefit": 5,
+      "loan": 12,
+      "policy": 1,
       "deposit": 26,
-      "loan": 13,
       "sns_growth": 2,
       "openai_official": 10,
       "reviewer": 2,
       "youtube_metrics": 0,
-      "creator_campaign": 0,
-      "ai_creator": 2,
       "instagram_metrics": 0,
       "chatgpt_update": 0,
-      "digital_tip": 4,
-      "gemini_update": 0,
-      "useful_info": 0,
-      "claude_update": 0,
-      "chrome_tip": 0,
+      "creator_campaign": 1,
+      "digital_tip": 2,
+      "useful_info": 1,
+      "ai_creator": 12,
       "platform": 1,
+      "chrome_tip": 0,
+      "claude_update": 0,
       "naver_creator_money": 0,
+      "gemini_update": 0,
+      "freelance_market": 0,
       "youtube_shopping": 1,
       "smartstore_seller": 2,
       "creator_sponsorship": 0,
       "digital_product": 0,
-      "freelance_market": 0,
       "youtube_analytics_official": 0,
+      "naver_blog_metrics": 0,
       "instagram_reels_metrics": 0,
       "youtube_shorts_metrics": 1,
       "youtube_channel_metrics": 1,
       "beauty_reviewer": 0,
-      "naver_blog_metrics": 0,
-      "tiktok_metrics": 1,
       "threads_growth": 0,
+      "tiktok_metrics": 1,
       "food_reviewer": 0,
       "tech_reviewer": 0,
       "x_account_metrics": 0,
-      "creator_ambassador": 3,
-      "app_beta_reviewer": 0,
+      "creator_ambassador": 2,
       "travel_reviewer": 0,
-      "ai_coding": 0,
-      "ai_image_tools": 2,
+      "app_beta_reviewer": 0,
       "ai_video_tools": 0,
+      "ai_image_tools": 6,
+      "ai_coding": 0,
       "ai_search": 0,
-      "ai_agents": 4,
-      "pc_tip": 0,
+      "ai_agents": 11,
       "korean_ai": 0,
       "public_data_tip": 0,
+      "pc_tip": 0,
       "productivity_tip": 0,
-      "mobile_tip": 3,
-      "energy_support": 0,
+      "mobile_tip": 1,
       "travel_tip": 0,
       "telecom_discount": 0,
       "privacy_tip": 0,
+      "energy_support": 0,
       "local_currency": 0,
-      "education_support": 0,
       "employment_support": 0,
+      "education_support": 0,
       "family_benefit": 0,
       "card_benefit": 0,
-      "pension_tax": 0,
       "mortgage_policy": 0,
+      "pension_tax": 0,
       "isa_change": 0,
-      "tax_refund": 0,
-      "bank_product": 2,
       "smallbiz_money": 2,
-      "pension_public": 0,
+      "bank_product": 1,
+      "tax_refund": 1,
       "youtube_policy": 0,
+      "pension_public": 0,
       "instagram_platform": 0,
       "threads_platform": 0,
-      "x_platform": 0,
       "naver_platform": 0,
+      "x_platform": 0,
       "coupang_platform": 0,
       "youtube_shop_affiliate": 0,
       "youtube_money_change": 0,
-      "ai_product_news": 5,
+      "ai_product_news": 8,
       "creator_commerce": 2
     },
     "errors": []
