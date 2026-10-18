@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-17 13:57 KST",
+  "generated_at": "2026-10-18 14:05 KST",
   "counts": {
     "부업": 0,
     "재테크": 4,
-    "혜택": 1,
+    "혜택": 0,
     "SNS분석": 0,
     "리뷰어": 0,
-    "AI": 7,
-    "꿀팁": 1,
+    "AI": 3,
+    "꿀팁": 0,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "openai_official-stackoverflowforagentstriplessignupswithch",
+      "id": "openai_official-benefitstreetpartnersanswersquestionsfaste",
       "topic_id": "openai_official",
       "lane": "AI",
       "label": "OpenAI 공식",
       "status": "NOW",
       "score": 88,
-      "headline": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "headline": "Benefit Street Partners answers questions faster with Codex",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
       "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
@@ -28,145 +28,80 @@
       "sources": [
         {
           "name": "OpenAI 공식",
-          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+          "title": "Benefit Street Partners answers questions faster with Codex",
+          "url": "https://openai.com/index/benefit-street-partners"
         }
       ]
     },
     {
-      "id": "openai_official-radissonhotelgroupbringshoteldiscoveryinto",
+      "id": "openai_official-legalonhalvescodexcostswhilemaintainingdev",
       "topic_id": "openai_official",
       "lane": "AI",
       "label": "OpenAI 공식",
       "status": "PICK",
       "score": 82,
-      "headline": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "headline": "LegalOn halves Codex costs while maintaining development speed",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
       "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
-      "money_signal": [],
-      "published_at": "2026-10-07T07:00:00+00:00",
+      "money_signal": [
+        "65%"
+      ],
+      "published_at": "2026-10-08T12:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
           "name": "OpenAI 공식",
-          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "url": "https://openai.com/index/radisson"
+          "title": "LegalOn halves Codex costs while maintaining development speed",
+          "url": "https://openai.com/index/legalon-halves-codex-costs"
         }
       ]
     },
     {
-      "id": "openai_official-gpt6andintelligentuiforeveryone",
-      "topic_id": "openai_official",
-      "lane": "AI",
-      "label": "OpenAI 공식",
-      "status": "PICK",
-      "score": 82,
-      "headline": "GPT-6 and Intelligent UI for everyone",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
-      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
-      "money_signal": [],
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "OpenAI 공식",
-          "title": "GPT-6 and Intelligent UI for everyone",
-          "url": "https://openai.com/index/gpt-6-for-everyone"
-        }
-      ]
-    },
-    {
-      "id": "ai_product_news-깃허브php테라폼코드취약점찾는ai스캔정식출시",
+      "id": "ai_product_news-lg전자ai로습도공기동시관리퓨리케어하이드로타워맥스출시",
       "topic_id": "ai_product_news",
       "lane": "AI",
       "label": "AI 신제품",
       "status": "WATCH",
       "score": 74,
-      "headline": "깃허브, PHP·테라폼 코드 취약점 찾는 'AI 스캔' 정식 출시",
+      "headline": "LG전자, AI로 습도·공기 동시 관리…'퓨리케어 하이드로타워 맥스' 출시",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
       "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
       "money_signal": [],
-      "published_at": "2026-10-17T00:24:59+00:00",
-      "source_count": 1,
+      "published_at": "2026-10-18T01:25:41+00:00",
+      "source_count": 2,
       "sources": [
         {
-          "name": "지디넷코리아",
-          "title": "깃허브, PHP·테라폼 코드 취약점 찾는 'AI 스캔' 정식 출시",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pdzNKMUZiTnpEWlIyRVF4NEY0ZS1KR3dBT2xTcE5qWWxKVUplekRyTVVNdmFEOWk3RF9PTXFYeDlSODVpWG9WZ1NLMkRhZFhXcWFGWjRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-온라인주담대갈아타기85급감이유는",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "온라인 주담대 갈아타기 85% 급감 이유는",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "85%"
-      ],
-      "published_at": "2026-10-14T08:37:49+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "매일경제",
-          "title": "온라인 주담대 갈아타기 85% 급감 이유는",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TcWlNdkJYaDlQVEo2UkVnWi1IVGRUcG1qYXUzMWcyUDhYcVFqcHhuMDBpM0xIUVlsWFA5TnZxMDFua3VEbkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "mobile_tip-갤럭시수면기록3일이면맞춤코칭삼성헬스기능개편",
-      "topic_id": "mobile_tip",
-      "lane": "꿀팁",
-      "label": "스마트폰 꿀팁",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "갤럭시, 수면 기록 3일이면 맞춤 코칭…삼성 헬스 기능 개편",
-      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
-      "angle": "바로 켜거나 바꿔서 시간·돈을 아끼는 설정",
-      "check_first": "Apple·Samsung 공식 지원문서 확인",
-      "money_signal": [],
-      "published_at": "2026-10-14T01:05:54+00:00",
-      "source_count": 1,
-      "sources": [
+          "name": "이데일리",
+          "title": "LG전자, AI로 습도·공기 동시 관리…'퓨리케어 하이드로타워 맥스' 출시",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMzlnT3dnelIzbjNmSC0zTEZOenV3TUZNaFlJQ1hKTi1SZnIyS0poektxc1VET1FDVS05Y1V4MUdZeFByVzQxR2dqLTI4RHZjYWZaVlVueFE0T0JucVRZUjdzVmhQY0FDTVcwMnRfRWJhandqUEEyU2szLVpaMURFeg?oc=5"
+        },
         {
           "name": "전자신문",
-          "title": "갤럭시, 수면 기록 3일이면 맞춤 코칭…삼성 헬스 기능 개편",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBSDZzTmwtV0lqZVVuU1JtVEJBU1lBUFhDV0I1d01JbmsyZlc4VWd4LUZJTHo0b3RrMC04cjJpU0FuQ3pyUVdwVWEtek9tZw?oc=5"
+          "title": "LG전자, 가습·공기청정기 '퓨리케어 하이드로타워 맥스' 출시…AI 기능 탑재",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBldkcyeTJZcmhmRGdDLTRsbURKVFBfbUVYM19CemhJbFhFaEh1eFVRQmhQZjE2cmlqWTRUXzFlVVp5aUlBZ0pPZFFSTHB5dw?oc=5"
         }
       ]
     },
     {
-      "id": "loan-7주담대못버틴다건설사도할인경쟁",
+      "id": "loan-2대에집샀는데7낼판165조주담대금리리셋비상머니투데이",
       "topic_id": "loan",
       "lane": "재테크",
       "label": "대출·금리",
       "status": "WATCH",
       "score": 70,
-      "headline": "'7% 주담대' 못 버틴다…美 건설사도 할인 경쟁",
+      "headline": "\"2%대에 집 샀는데 7% 낼 판\"…165조 주담대 '금리 리셋' 비상 - 머니투데이",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
       "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
       "money_signal": [
+        "2%",
         "7%"
       ],
-      "published_at": "2026-10-13T02:01:10+00:00",
-      "source_count": 3,
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "source_count": 2,
       "sources": [
-        {
-          "name": "한국경제",
-          "title": "'7% 주담대' 못 버틴다…美 건설사도 할인 경쟁",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nT0N6X2NLX1M1WUlZUmRYUkhWdzgwbDM1UUFxQjZsY3JqS3I5RElOWkR5b2JIdk9Nb3RxajV5V3VKclQ0MlZoSlduT05lR2FfS2ZoR0IyUkl5dw?oc=5"
-        },
         {
           "name": "머니투데이",
           "title": "\"2%대에 집 샀는데 7% 낼 판\"…165조 주담대 '금리 리셋' 비상 - 머니투데이",
@@ -180,140 +115,72 @@
       ]
     },
     {
-      "id": "deposit-10월에도예금금리인상경쟁우리은행최대02p인상",
+      "id": "deposit-은행권예금금리줄인상3개월단기도연3시대종합",
       "topic_id": "deposit",
       "lane": "재테크",
       "label": "예적금",
       "status": "WATCH",
       "score": 70,
-      "headline": "10월에도 예금 금리 인상 경쟁…우리은행 최대 0.2%p 인상",
+      "headline": "은행권 예금금리 줄인상…3개월 단기도 연 3% 시대(종합)",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "광고금리 말고 실제 세후 이자와 우대조건",
       "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
-        "0.2%"
+        "3%"
       ],
       "published_at": "2026-10-08T07:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
           "name": "이데일리",
-          "title": "10월에도 예금 금리 인상 경쟁…우리은행 최대 0.2%p 인상",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUZBUW4xYU9CaTBNdmc1WlZEcy1zdDJfVDZwR3ZLOUlvYzkxZXpqcFVYbDdXNHhSZEh6Qkh1dnUyWGMyNEZreEpZS3V3dzJTV0hOQ1ItUnZ0WXByM0hzN2lmS29UMTdqS3pOUkNIZE1vMHpDU05vUG02eVMtUkZ3Qg?oc=5"
+          "title": "은행권 예금금리 줄인상…3개월 단기도 연 3% 시대(종합)",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkpabTJCU0RNZ3ZORVFHM1ZldFZhNUhXenIzcmQ2Y29uVjhGczlRUHFUNGtBa2c4NkVsYVVneXRORktVZXBOQU4tRGZURmFjRDdVangweVNhQ0ZyWHpzRmNuVUl0c2dXQlFIRjBiaXlZalBUbHhYb29uMWpyeTI5bg?oc=5"
         }
       ]
     },
     {
-      "id": "ai_agents-ai픽클라우드없이ai돌린다엔비디아rtx스파크출시",
-      "topic_id": "ai_agents",
-      "lane": "AI",
-      "label": "AI 에이전트",
-      "status": "WATCH",
-      "score": 69,
-      "headline": "[AI픽] 클라우드 없이 AI 돌린다…엔비디아 'RTX 스파크' 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
-      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
-      "money_signal": [],
-      "published_at": "2026-10-16T12:00:01+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "title": "[AI픽] 클라우드 없이 AI 돌린다…엔비디아 'RTX 스파크' 출시",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rUm5VaWM1V2JSWnFkTEVpWDh0ay1tWWdtLTVseVFyV1JsLVlZNllxUlU2Qm9vek9rUGJDX2NYNjduXzFiNUJyOWZGTGdocFpNS29uVjNodVNWQUE0NnJzWtIBYEFVX3lxTE1rUm5VaWM1V2JSWnFkTEVpWDh0ay1tWWdtLTVseVFyV1JsLVlZNllxUlU2Qm9vek9rUGJDX2NYNjduXzFiNUJyOWZGTGdocFpNS29uVjNodVNWQUE0NnJzWg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "policy-남양주시고립청년지원사업청년김치로무르잇다참여자모집",
-      "topic_id": "policy",
-      "lane": "혜택",
-      "label": "정책·지원사업",
-      "status": "WATCH",
-      "score": 69,
-      "headline": "남양주시, 고립 청년 지원사업 ‘청년, 김치로 무르잇다’ 참여자 모집",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "대상·금액·기한·신청처만 실전형으로 정리",
-      "check_first": "정부·지자체·공공기관 공식 공고 확인",
-      "money_signal": [],
-      "published_at": "2026-10-16T09:16:08+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "경기연합뉴스",
-          "title": "남양주시, 고립 청년 지원사업 ‘청년, 김치로 무르잇다’ 참여자 모집",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2LWtiNE1yS0IxeDN6THlMUlAxSFdyZlFwLTFjSEN1VGdQc21PV0JSMWFpbGs3NFFGRmZaQ01sbFJCM1JYeE8xV0VtcW1yS3lqZjdjX2pUclotN2VoclpFNkZrOUFJRjTSAWdBVV95cUxQdi1rYjRNcktCMXgzekx5TFJQMUhXcmZRcC0xY0hDdVRnUHNtT1dCUjFhaWxrNzRRRkZmWkNNbGxSQjNSWHhPMVdFbXFtckt5amY3Y19qVHJaLTdlaHJaRTZGazlBSUY0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-월급그대로인데이자만쑥영끌족덮친주담대6",
+      "id": "loan-금통위숨고르기우세에도코픽스등대출금리더오를라",
       "topic_id": "loan",
       "lane": "재테크",
       "label": "대출·금리",
       "status": "WATCH",
       "score": 69,
-      "headline": "“월급 그대로인데 이자만 쑥”…영끌족 덮친 주담대 6%",
+      "headline": "금통위 '숨고르기' 우세에도 코픽스 등 대출금리 더 오를라",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [],
+      "published_at": "2026-10-18T03:00:02+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "비즈워치",
+          "title": "금통위 '숨고르기' 우세에도 코픽스 등 대출금리 더 오를라",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTU84T0JsSzJpeHo0VWZkcUE5bFBqX0h4VnBsV2tKSFUyaGQyVkFQa3pyOW5QMloxb1Jmam9jaVNhUDR0M1dBajRXTUNUZkxyaVdnRHpsdUFUaF9kNjlKMmRCY293Zk14bWQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-증시출렁이자연4대예금에눈길대출금리도덩달아들썩",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 69,
+      "headline": "증시 출렁이자 연 4%대 예금에 눈길…대출금리도 덩달아 '들썩'",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
       "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
       "money_signal": [
-        "6%"
+        "4%"
       ],
-      "published_at": "2026-10-16T05:27:17+00:00",
+      "published_at": "2026-10-15T07:14:00+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "디지털데일리",
-          "title": "“월급 그대로인데 이자만 쑥”…영끌족 덮친 주담대 6%",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJbGZUclhXRkNib2U3RTVKYzEzVWkwMmNNTlVNSlBMQnVEN1FWdFZNLUROdlRndjg3eDdlV3E5OTNlbUlpRlB3NWxDTjlaVzdfTnBRalZsTmtMUGpRZHRCcHQzSEo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_agents-테크스냅트웰브랩스영상이해ai에이전트자키출시",
-      "topic_id": "ai_agents",
-      "lane": "AI",
-      "label": "AI 에이전트",
-      "status": "WATCH",
-      "score": 69,
-      "headline": "[테크스냅] 트웰브랩스, 영상이해 AI 에이전트 '자키' 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
-      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
-      "money_signal": [],
-      "published_at": "2026-10-16T01:07:24+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "title": "[테크스냅] 트웰브랩스, 영상이해 AI 에이전트 '자키' 출시",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95cGd4c3RRS19KdTRvN0JaSTlFcHJrNGVkeEZLdVp1dDJrbWx2RVVmNjBQeWF6MGY4elhOMHNzMDMtTmd0amxCSVk4eGlObTVOUFh5V1NTZkhFcnNncVEzd9IBYEFVX3lxTE95cGd4c3RRS19KdTRvN0JaSTlFcHJrNGVkeEZLdVp1dDJrbWx2RVVmNjBQeWF6MGY4elhOMHNzMDMtTmd0amxCSVk4eGlObTVOUFh5V1NTZkhFcnNncVEzdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_search-네이버ai브리핑출처의465는네이버블로그챗gpt제미나이에서는0건",
-      "topic_id": "ai_search",
-      "lane": "AI",
-      "label": "AI 검색",
-      "status": "WATCH",
-      "score": 67,
-      "headline": "\"네이버 AI 브리핑 출처의 46.5%는 네이버 블로그… 챗GPT·제미나이에서는 0건\"",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "검색·팩트체크·콘텐츠 조사에 어떤 차이가 생기는지",
-      "check_first": "공식 출처표시·검색범위·요금 확인",
-      "money_signal": [
-        "46.5%"
-      ],
-      "published_at": "2026-10-15T00:56:59+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "브랜드브리프",
-          "title": "\"네이버 AI 브리핑 출처의 46.5%는 네이버 블로그… 챗GPT·제미나이에서는 0건\"",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTdnlmaHFkT3diWXhaT3V5V000SkhZMmJ4RkFhYktsUTNwN21qdWpkbjh5aXo2S2M1Q19fNnNGbmtrOTdEZjZYLXlVZS1XeU5keXZGOWJMYmhiY0VFLVBHd0NNZzhVVnZfeUFlTmJ5NA?oc=5"
+          "name": "한국일보",
+          "title": "증시 출렁이자 연 4%대 예금에 눈길…대출금리도 덩달아 '들썩'",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zMHdhcWNBUGhTZmNsTVZMT2FuaUExUzhkN0ctQmZXa3k3N0ZMNk45VUhZSjFuNi1CNE1iZ044MjNicEFHem5vZ25sUmtyTFBnR1laUHdySGZkWGFoV0w1dExxYUU3MGdCMlZUb2dpXzNBeFXSAXNBVV95cUxOMzB3YXFjQVBoU2ZjbE1WTE9hbmlBMVM4ZDdHLUJmV2t5NzdGTDZOOVVIWUoxbjYtQjRNYmdOODIzYnBBR3pub2dubFJrckxQZ0dZWlB3ckhmZFhhaFdMNXRMcWFFNzBnQjJWVG9naV8zQXhV?oc=5"
         }
       ]
     }
@@ -321,88 +188,88 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 16,
-    "shown": 13,
+    "raw_articles": 9,
+    "shown": 7,
     "topic_raw_counts": {
-      "youtube_ypp": 0,
-      "apptech": 0,
       "tax": 0,
+      "apptech": 0,
+      "youtube_ypp": 0,
+      "blog_ads": 0,
       "affiliate": 0,
       "benefit": 2,
-      "blog_ads": 0,
-      "deposit": 26,
       "sns_growth": 2,
-      "loan": 24,
-      "openai_official": 5,
-      "reviewer": 0,
+      "loan": 25,
+      "deposit": 40,
       "policy": 1,
+      "reviewer": 0,
+      "openai_official": 6,
       "creator_campaign": 2,
-      "instagram_metrics": 0,
       "youtube_metrics": 0,
-      "ai_creator": 2,
-      "useful_info": 1,
+      "instagram_metrics": 0,
       "chatgpt_update": 0,
+      "ai_creator": 2,
+      "useful_info": 0,
       "digital_tip": 3,
+      "platform": 2,
       "chrome_tip": 0,
-      "platform": 1,
       "gemini_update": 0,
-      "claude_update": 0,
-      "naver_creator_money": 0,
       "youtube_shopping": 0,
+      "naver_creator_money": 0,
       "smartstore_seller": 0,
       "freelance_market": 0,
-      "digital_product": 0,
       "creator_sponsorship": 0,
+      "digital_product": 0,
+      "claude_update": 0,
+      "youtube_analytics_official": 0,
       "instagram_reels_metrics": 0,
-      "naver_blog_metrics": 0,
       "youtube_shorts_metrics": 0,
       "beauty_reviewer": 0,
-      "threads_growth": 0,
+      "naver_blog_metrics": 0,
       "food_reviewer": 0,
-      "youtube_analytics_official": 0,
       "youtube_channel_metrics": 0,
-      "tech_reviewer": 0,
       "tiktok_metrics": 0,
+      "x_account_metrics": 0,
+      "tech_reviewer": 0,
       "creator_ambassador": 0,
       "app_beta_reviewer": 0,
+      "threads_growth": 0,
       "travel_reviewer": 0,
-      "x_account_metrics": 0,
       "ai_video_tools": 1,
       "ai_coding": 0,
       "ai_image_tools": 1,
-      "ai_agents": 3,
-      "korean_ai": 0,
-      "pc_tip": 0,
+      "ai_agents": 4,
       "public_data_tip": 0,
-      "productivity_tip": 0,
-      "ai_search": 4,
+      "pc_tip": 0,
+      "korean_ai": 0,
       "mobile_tip": 3,
-      "travel_tip": 0,
-      "telecom_discount": 0,
+      "productivity_tip": 0,
+      "ai_search": 3,
       "energy_support": 0,
       "privacy_tip": 0,
-      "employment_support": 0,
+      "travel_tip": 0,
+      "telecom_discount": 0,
       "local_currency": 0,
-      "family_benefit": 0,
+      "employment_support": 0,
       "education_support": 0,
+      "family_benefit": 0,
       "card_benefit": 0,
       "bank_product": 1,
-      "isa_change": 0,
       "pension_tax": 0,
+      "isa_change": 0,
       "mortgage_policy": 0,
-      "instagram_platform": 0,
-      "threads_platform": 0,
-      "smallbiz_money": 1,
-      "pension_public": 0,
       "tax_refund": 1,
+      "pension_public": 0,
+      "smallbiz_money": 1,
       "youtube_policy": 0,
+      "threads_platform": 0,
+      "instagram_platform": 0,
       "x_platform": 0,
-      "coupang_platform": 0,
       "naver_platform": 0,
+      "coupang_platform": 0,
       "youtube_shop_affiliate": 0,
-      "ai_product_news": 5,
       "youtube_money_change": 0,
-      "creator_commerce": 2
+      "ai_product_news": 6,
+      "creator_commerce": 1
     },
     "errors": []
   }
