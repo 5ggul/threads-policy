@@ -1,186 +1,263 @@
 {
-  "generated_at": "2026-10-18 14:05 KST",
+  "generated_at": "2026-10-19 14:16 KST",
   "counts": {
-    "부업": 0,
-    "재테크": 4,
-    "혜택": 0,
+    "부업": 1,
+    "재테크": 3,
+    "혜택": 3,
     "SNS분석": 0,
     "리뷰어": 0,
-    "AI": 3,
-    "꿀팁": 0,
+    "AI": 2,
+    "꿀팁": 1,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "openai_official-benefitstreetpartnersanswersquestionsfaste",
-      "topic_id": "openai_official",
-      "lane": "AI",
-      "label": "OpenAI 공식",
-      "status": "NOW",
-      "score": 88,
-      "headline": "Benefit Street Partners answers questions faster with Codex",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
-      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
-      "money_signal": [],
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "OpenAI 공식",
-          "title": "Benefit Street Partners answers questions faster with Codex",
-          "url": "https://openai.com/index/benefit-street-partners"
-        }
-      ]
-    },
-    {
-      "id": "openai_official-legalonhalvescodexcostswhilemaintainingdev",
-      "topic_id": "openai_official",
-      "lane": "AI",
-      "label": "OpenAI 공식",
+      "id": "benefit-강릉시11월9일부터1인당10만원민생안정지원금지급",
+      "topic_id": "benefit",
+      "lane": "혜택",
+      "label": "환급·캐시백",
       "status": "PICK",
-      "score": 82,
-      "headline": "LegalOn halves Codex costs while maintaining development speed",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
-      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
+      "score": 83,
+      "headline": "강릉시, 11월 9일부터 1인당 10만원 민생안정지원금 지급",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "누가 얼마를 언제까지 신청하면 받는지",
+      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
       "money_signal": [
-        "65%"
+        "10만원"
       ],
-      "published_at": "2026-10-08T12:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "OpenAI 공식",
-          "title": "LegalOn halves Codex costs while maintaining development speed",
-          "url": "https://openai.com/index/legalon-halves-codex-costs"
-        }
-      ]
-    },
-    {
-      "id": "ai_product_news-lg전자ai로습도공기동시관리퓨리케어하이드로타워맥스출시",
-      "topic_id": "ai_product_news",
-      "lane": "AI",
-      "label": "AI 신제품",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "LG전자, AI로 습도·공기 동시 관리…'퓨리케어 하이드로타워 맥스' 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
-      "money_signal": [],
-      "published_at": "2026-10-18T01:25:41+00:00",
+      "published_at": "2026-10-19T01:03:37+00:00",
       "source_count": 2,
       "sources": [
         {
-          "name": "이데일리",
-          "title": "LG전자, AI로 습도·공기 동시 관리…'퓨리케어 하이드로타워 맥스' 출시",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMzlnT3dnelIzbjNmSC0zTEZOenV3TUZNaFlJQ1hKTi1SZnIyS0poektxc1VET1FDVS05Y1V4MUdZeFByVzQxR2dqLTI4RHZjYWZaVlVueFE0T0JucVRZUjdzVmhQY0FDTVcwMnRfRWJhandqUEEyU2szLVpaMURFeg?oc=5"
+          "name": "연합뉴스",
+          "title": "강릉시, 11월 9일부터 1인당 10만원 민생안정지원금 지급",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CN3llN25FbkFiVWREQ1ZlT3k1RDFHcGRDVHMwQjVjeWhIbU02ZWUtdE10bDhUSXRZakRBdFR5Ukt1NzdJLXFQTlFFS0hpb3FURmgxQkM3VzhXbnlPWWg3bdIBYEFVX3lxTE1CN3llN25FbkFiVWREQ1ZlT3k1RDFHcGRDVHMwQjVjeWhIbU02ZWUtdE10bDhUSXRZakRBdFR5Ukt1NzdJLXFQTlFFS0hpb3FURmgxQkM3VzhXbnlPWWg3bQ?oc=5"
         },
         {
-          "name": "전자신문",
-          "title": "LG전자, 가습·공기청정기 '퓨리케어 하이드로타워 맥스' 출시…AI 기능 탑재",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBldkcyeTJZcmhmRGdDLTRsbURKVFBfbUVYM19CemhJbFhFaEh1eFVRQmhQZjE2cmlqWTRUXzFlVVp5aUlBZ0pPZFFSTHB5dw?oc=5"
+          "name": "뉴스1",
+          "title": "강릉시, 11월 9일부터 민생안정지원금 10만원 지급…첫 주엔 요일제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Edm5vRHMwdnJMaTdydkVod3lKMkwzX1NIZ3VXUTJ2ZEtxNV8xMU1FMVJaVDBNNzZVZUtidURncUpYcWpycVhpYl91UlFMWjRHZUpkUw?oc=5"
         }
       ]
     },
     {
-      "id": "loan-2대에집샀는데7낼판165조주담대금리리셋비상머니투데이",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "\"2%대에 집 샀는데 7% 낼 판\"…165조 주담대 '금리 리셋' 비상 - 머니투데이",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "id": "benefit-고유가피해지원금신청률224전통시장골목상권기대감",
+      "topic_id": "benefit",
+      "lane": "혜택",
+      "label": "환급·캐시백",
+      "status": "PICK",
+      "score": 78,
+      "headline": "고유가 피해지원금 신청률 22.4%…전통시장·골목상권 기대감 ↑",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "누가 얼마를 언제까지 신청하면 받는지",
+      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
       "money_signal": [
-        "2%",
-        "7%"
+        "22.4%"
       ],
-      "published_at": "2026-10-09T07:00:00+00:00",
+      "published_at": "2026-10-18T03:07:45+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "고유가 피해지원금 신청률 22.4%…전통시장·골목상권 기대감 ↑",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2pBYktmQUYyRmJJN1ExRmlOa0JoMkNSTndvSFBoWEk5Z3haQ2R5UkRuTmhIX0lGN0xDaHpKamNPTU5lUDhrZDJaYlQ2NHZlTUF0VTAyeDZMbzRpNmJJMnk5azBIbmJTY2RFQnotd1ZFYXQzQ2x2Z196WlpfcUlPeHR6cVRsLXFpT0wzdQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "creator_commerce-판매자에크리에이터이용자까지네카오쇼핑추천자늘리기경쟁",
+      "topic_id": "creator_commerce",
+      "lane": "부업",
+      "label": "크리에이터 커머스",
+      "status": "WATCH",
+      "score": 77,
+      "headline": "판매자에 크리에이터·이용자까지...네카오 '쇼핑 추천자' 늘리기 경쟁",
+      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
+      "angle": "콘텐츠에서 구매·예약으로 이어지는 실제 수익구조",
+      "check_first": "플랫폼 공식 제휴조건·수수료·정산주기 확인",
+      "money_signal": [],
+      "published_at": "2026-10-19T04:34:36+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "title": "판매자에 크리에이터·이용자까지...네카오 '쇼핑 추천자' 늘리기 경쟁",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XcmpVY0l1NHNDNjkycEU3ZGtpRS16LW0wNTR5VkJJdkZleWRXWS1zOHpHcjlVSWduYWhZT29jMzFvMXJTcF9IUHhhenhDQVVrR3VNdi14NmxPSVNJbHZXX1R1ejNFZ2VkMkVnZzZaeVpVa3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "digital_tip-아이폰18프로한달사용기쓸수록돋보인기능3가지",
+      "topic_id": "digital_tip",
+      "lane": "꿀팁",
+      "label": "디지털 꿀팁",
+      "status": "WATCH",
+      "score": 77,
+      "headline": "아이폰18 프로 한 달 사용기…쓸수록 돋보인 기능 3가지",
+      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
+      "angle": "지금 바로 켜거나 바꾸면 시간·돈을 아끼는 설정인지",
+      "check_first": "공식 도움말에서 지원 기기·버전·적용 조건 확인",
+      "money_signal": [],
+      "published_at": "2026-10-19T03:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "title": "아이폰18 프로 한 달 사용기…쓸수록 돋보인 기능 3가지",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Dd3k0aGVwRFEwa1J2UEkwb0VfZG15aTROX2dDbnBJb0tKcGgyUGN5ZTRiS3BUYlVJbXgyRW1Qb0t0d1p6SFdBRENWbXVmSlI0R25YOFVsWXgxaTNlMWlQb1VmT3RPUDNyUXVzQktZaGVPbmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_agents-dsc인베스트자회사똑똑투자ai에이전트디디웍스출시머니투데이",
+      "topic_id": "ai_agents",
+      "lane": "AI",
+      "label": "AI 에이전트",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "DSC인베스트 자회사 똑똑, 투자 AI 에이전트 '디디웍스' 출시 - 머니투데이",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
+      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
+      "money_signal": [],
+      "published_at": "2026-10-19T03:00:00+00:00",
       "source_count": 2,
       "sources": [
         {
           "name": "머니투데이",
-          "title": "\"2%대에 집 샀는데 7% 낼 판\"…165조 주담대 '금리 리셋' 비상 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KU2hwNWNsU1JVdk5xeVZzb2cyMkVaSkxZcURHRmRQbjhubW80ZFBPcEkyTnA5SktWLWl1S0NYNl81WVhVUS1JMC12YkNsUjhXVk1LR0lBWHZjQ2h1ZHIzOVBxcWt1czlKNzFv0gFwQVVfeXFMTmltTEl6WDdJVlExeUxvZnA4eUs1NTVSUy1PZUJFaDFlMVBSR0tWY2ZBbmlSUF9OSUNzUFlmLWF3dmtQN2dJakJxOG5oeW1VRmFadVA0My00dTEzd0RKSDVlaWV0ZDU3SU5kQzh1NWo1Rg?oc=5"
+          "title": "DSC인베스트 자회사 똑똑, 투자 AI 에이전트 '디디웍스' 출시 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5eG9BMmllZTBXZTJvMGx3R2pFbGtxbktVQlZWUXFJb0txV21lcHBfeE11TTItZkZDdkhOYkZYOFZ1UzVhUWpfTTBPLTBfbzRmUUR5X0FNeHFObHRxVFRoZnBSazJyWGpteVM5Nl9rMNIBb0FVX3lxTFA5eG9BMmllZTBXZTJvMGx3R2pFbGtxbktVQlZWUXFJb0txV21lcHBfeE11TTItZkZDdkhOYkZYOFZ1UzVhUWpfTTBPLTBfbzRmUUR5X0FNeHFObHRxVFRoZnBSazJyWGpteVM5Nl9rMA?oc=5"
         },
         {
-          "name": "국민일보",
-          "title": "주담대 7% 눈앞…165조 ‘금리 재산정’에 가계 상환부담 비상",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IenpSLVluREFqeTIwTHJUOWJzN3dQZF96aGpaVFNzZlpGdXQzeXlydjk4N2k3UVEzSmhNYTd6WC1uY3NtSnp6b2RNYnRONWhFcUtQVXpoS3FINmNyZlk4MU1nSURJbmfSAWxBVV95cUxNSGw4a201N3U2TWc3M05CemJfQVdlcWRwcEtHdWMzNFZIY1ZMZndBaU4tZzEyTXlFMG0xanh3cmZXaFFiakVZSHVPc1hBOEp0MUlfVmxHbWxJYlgtTXpzcldQaVlIVDAtT0lEZ1U?oc=5"
+          "name": "아시아경제",
+          "title": "DSC 자회사 똑똑 \"AI 에이전트 'DDworks' 출시\"",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1T2dRbm1MRFJBR3dJV201bWRxQ1NFTmNjY2lPWk1XTF85T2syZ1A2RGkxWVRzaWpDXy1BUkR2YXl1Z3daV1k1SUE5MDV0Vm53ZWZWZFg3d2JoR1B4QWQzVmZn?oc=5"
         }
       ]
     },
     {
-      "id": "deposit-은행권예금금리줄인상3개월단기도연3시대종합",
+      "id": "smallbiz_money-kb국민은행소상공인대출신청실행모두비대면6개월간50이자지원",
+      "topic_id": "smallbiz_money",
+      "lane": "혜택",
+      "label": "소상공인 지원",
+      "status": "WATCH",
+      "score": 73,
+      "headline": "KB국민은행, 소상공인 대출신청·실행, 모두 비대면…6개월간 50% 이자지원",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "현금지원과 대출성 정책자금을 구분",
+      "check_first": "중기부·소진공 공식 공고 확인",
+      "money_signal": [
+        "50%"
+      ],
+      "published_at": "2026-10-18T07:12:20+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "매일경제",
+          "title": "KB국민은행, 소상공인 대출신청·실행, 모두 비대면…6개월간 50% 이자지원",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE53R0ZFSFN4Qy1BcWl1TUdGZGxhdmRaVTVXbnJDTVBqZVk5amwxSlRfV3Z0RXhyZ21ULURwQUtyQnJJcjJUTXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-4특판예금나왔다일주일새16조뭉칫돈",
       "topic_id": "deposit",
       "lane": "재테크",
       "label": "예적금",
       "status": "WATCH",
       "score": 70,
-      "headline": "은행권 예금금리 줄인상…3개월 단기도 연 3% 시대(종합)",
+      "headline": "\"年4% 특판예금 나왔다\" … 일주일새 16조 뭉칫돈",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "4%"
+      ],
+      "published_at": "2026-10-18T08:21:37+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "매일경제",
+          "title": "\"年4% 특판예금 나왔다\" … 일주일새 16조 뭉칫돈",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4d3NkaVdHYTYzRXVvNWtHWUhlRVFEc192RDl1VkdsazE0RlVRaVRfbmptaHYxa2NLVk1IakphVXdpSVBBdGxjejNHNFFtQUdqdFBzQg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-은행정기예금금리줄인상연3대후반까지",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 70,
+      "headline": "은행 정기예금 금리 줄인상…연 3%대 후반까지",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "광고금리 말고 실제 세후 이자와 우대조건",
       "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
         "3%"
       ],
-      "published_at": "2026-10-08T07:00:00+00:00",
+      "published_at": "2026-10-10T07:00:00+00:00",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "서울경제TV",
+          "title": "은행 정기예금 금리 줄인상…연 3%대 후반까지",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YbV9hMzVKcjhyU093MEFkclR2dXNDWks4cWIwU01lSzBackRpRmlnenBQQVItWl84ZzRrbzZuRHF1Q2w2RGN0YzNyM2FBQzRsVXNkZFpJUTY2R0ltSFdGeXhkb0U?oc=5"
+        },
+        {
+          "name": "매일경제TV",
+          "title": "시중은행 정기예금 금리 3%대 후반 눈앞",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hTTBNQVJPa29JMGRVVlRmXzhqdnlhOTdmZTBvTjFVV2sycS1GZWozZE9WaTlTOVNpN0F3Qjg5cGY4Z0JNTnFfaDVUMVhFRlMxcVhhX1lmZl9OekxrVG9sTEt1Y29ucEE?oc=5"
+        },
+        {
+          "name": "SBS Biz",
+          "title": "은행권 1년 만기 예금 금리 연 3%대 후반으로 향한다",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ybFVFMzdPQ3d5MXdFY2h2UldFeGxfdGhrWVZSV3g2dV94TmdiMm1VTm9uNmJSZ29mZFNsUE13Tk1XUTc2dmJIS2J2U0FSUmZGOGg00gFYQVVfeXFMT0ppbkxVaklWcUFuMEt6RkdjS0d6aXA0OWVxOTlGcndnTUpGN2hjMGxtUzZTZ0hHZU9TRnBXdlNPUEwtSGZFdjFWS0d3MU95M3VYZGdoVlB2TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_image_tools-애플ai이미지생성기능확바꿨다원하는화풍말하면그대로",
+      "topic_id": "ai_image_tools",
+      "lane": "AI",
+      "label": "AI 이미지",
+      "status": "WATCH",
+      "score": 69,
+      "headline": "애플, AI 이미지 생성 기능 확 바꿨다…원하는 화풍 말하면 그대로",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
+      "check_first": "공식 요금·상업이용·저작권 정책 확인",
+      "money_signal": [],
+      "published_at": "2026-10-19T02:06:43+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "title": "애플, AI 이미지 생성 기능 확 바꿨다…원하는 화풍 말하면 그대로",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HdW5wQ3VUbkpyVkFsc3h4bjZLcVlaalNJUkZ2RU4tQlZUYWs4MHV6eDF3OUs4clpPb2hDcGV5RGNKX3Q0alFsS1ZjRXFXNGUzRGxKRTBNTHN6SWctbUJDVjdtSDg2czhNMlBqeW92N0pvQjg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-bis은행예금금리올리면스테이블코인성장둔화",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 67,
+      "headline": "BIS \"은행 예금금리 올리면 스테이블코인 성장 둔화\"",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [],
+      "published_at": "2026-10-18T22:43:46+00:00",
       "source_count": 1,
       "sources": [
         {
           "name": "이데일리",
-          "title": "은행권 예금금리 줄인상…3개월 단기도 연 3% 시대(종합)",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkpabTJCU0RNZ3ZORVFHM1ZldFZhNUhXenIzcmQ2Y29uVjhGczlRUHFUNGtBa2c4NkVsYVVneXRORktVZXBOQU4tRGZURmFjRDdVangweVNhQ0ZyWHpzRmNuVUl0c2dXQlFIRjBiaXlZalBUbHhYb29uMWpyeTI5bg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-금통위숨고르기우세에도코픽스등대출금리더오를라",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 69,
-      "headline": "금통위 '숨고르기' 우세에도 코픽스 등 대출금리 더 오를라",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [],
-      "published_at": "2026-10-18T03:00:02+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "비즈워치",
-          "title": "금통위 '숨고르기' 우세에도 코픽스 등 대출금리 더 오를라",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTU84T0JsSzJpeHo0VWZkcUE5bFBqX0h4VnBsV2tKSFUyaGQyVkFQa3pyOW5QMloxb1Jmam9jaVNhUDR0M1dBajRXTUNUZkxyaVdnRHpsdUFUaF9kNjlKMmRCY293Zk14bWQw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-증시출렁이자연4대예금에눈길대출금리도덩달아들썩",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 69,
-      "headline": "증시 출렁이자 연 4%대 예금에 눈길…대출금리도 덩달아 '들썩'",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "4%"
-      ],
-      "published_at": "2026-10-15T07:14:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "한국일보",
-          "title": "증시 출렁이자 연 4%대 예금에 눈길…대출금리도 덩달아 '들썩'",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zMHdhcWNBUGhTZmNsTVZMT2FuaUExUzhkN0ctQmZXa3k3N0ZMNk45VUhZSjFuNi1CNE1iZ044MjNicEFHem5vZ25sUmtyTFBnR1laUHdySGZkWGFoV0w1dExxYUU3MGdCMlZUb2dpXzNBeFXSAXNBVV95cUxOMzB3YXFjQVBoU2ZjbE1WTE9hbmlBMVM4ZDdHLUJmV2t5NzdGTDZOOVVIWUoxbjYtQjRNYmdOODIzYnBBR3pub2dubFJrckxQZ0dZWlB3ckhmZFhhaFdMNXRMcWFFNzBnQjJWVG9naV8zQXhV?oc=5"
+          "title": "BIS \"은행 예금금리 올리면 스테이블코인 성장 둔화\"",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3FBS2c0aDMyZHJ3bnJZeVdmVTJpUjRVQzhYZTBFeXBwZXlXWVlkNlBUYkJIOFZoOFNQTmFYQmk4Umh3X0k2WXZyM3lXREZ3ZWZyN2c5Y24ybllpV1A3ZU9kQmRtTzlxcjQzQUtmZHVDX2IxaURDNlNOQkMzY2YyVg?oc=5"
         }
       ]
     }
@@ -188,88 +265,88 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 9,
-    "shown": 7,
+    "raw_articles": 14,
+    "shown": 10,
     "topic_raw_counts": {
+      "youtube_ypp": 0,
       "tax": 0,
       "apptech": 0,
-      "youtube_ypp": 0,
-      "blog_ads": 0,
       "affiliate": 0,
-      "benefit": 2,
-      "sns_growth": 2,
-      "loan": 25,
-      "deposit": 40,
-      "policy": 1,
+      "blog_ads": 0,
+      "deposit": 34,
+      "policy": 0,
+      "benefit": 5,
+      "loan": 27,
       "reviewer": 0,
       "openai_official": 6,
-      "creator_campaign": 2,
+      "sns_growth": 2,
+      "digital_tip": 4,
       "youtube_metrics": 0,
+      "creator_campaign": 1,
       "instagram_metrics": 0,
-      "chatgpt_update": 0,
-      "ai_creator": 2,
       "useful_info": 0,
-      "digital_tip": 3,
-      "platform": 2,
-      "chrome_tip": 0,
+      "ai_creator": 2,
+      "chatgpt_update": 0,
       "gemini_update": 0,
-      "youtube_shopping": 0,
-      "naver_creator_money": 0,
-      "smartstore_seller": 0,
-      "freelance_market": 0,
-      "creator_sponsorship": 0,
-      "digital_product": 0,
+      "platform": 2,
       "claude_update": 0,
+      "chrome_tip": 0,
+      "naver_creator_money": 0,
+      "freelance_market": 0,
+      "smartstore_seller": 0,
+      "digital_product": 0,
       "youtube_analytics_official": 0,
+      "youtube_shopping": 0,
+      "creator_sponsorship": 0,
+      "naver_blog_metrics": 0,
       "instagram_reels_metrics": 0,
+      "food_reviewer": 0,
       "youtube_shorts_metrics": 0,
       "beauty_reviewer": 0,
-      "naver_blog_metrics": 0,
-      "food_reviewer": 0,
       "youtube_channel_metrics": 0,
+      "tech_reviewer": 0,
+      "threads_growth": 0,
       "tiktok_metrics": 0,
       "x_account_metrics": 0,
-      "tech_reviewer": 0,
       "creator_ambassador": 0,
       "app_beta_reviewer": 0,
-      "threads_growth": 0,
       "travel_reviewer": 0,
-      "ai_video_tools": 1,
       "ai_coding": 0,
-      "ai_image_tools": 1,
       "ai_agents": 4,
-      "public_data_tip": 0,
-      "pc_tip": 0,
-      "korean_ai": 0,
-      "mobile_tip": 3,
-      "productivity_tip": 0,
+      "ai_video_tools": 1,
+      "ai_image_tools": 2,
       "ai_search": 3,
-      "energy_support": 0,
-      "privacy_tip": 0,
+      "pc_tip": 0,
+      "mobile_tip": 3,
       "travel_tip": 0,
+      "energy_support": 0,
+      "public_data_tip": 1,
+      "productivity_tip": 0,
+      "privacy_tip": 0,
       "telecom_discount": 0,
       "local_currency": 0,
       "employment_support": 0,
       "education_support": 0,
-      "family_benefit": 0,
       "card_benefit": 0,
+      "korean_ai": 0,
+      "family_benefit": 0,
       "bank_product": 1,
       "pension_tax": 0,
-      "isa_change": 0,
       "mortgage_policy": 0,
-      "tax_refund": 1,
-      "pension_public": 0,
-      "smallbiz_money": 1,
+      "isa_change": 0,
       "youtube_policy": 0,
+      "pension_public": 0,
+      "tax_refund": 1,
       "threads_platform": 0,
+      "smallbiz_money": 2,
       "instagram_platform": 0,
       "x_platform": 0,
       "naver_platform": 0,
       "coupang_platform": 0,
       "youtube_shop_affiliate": 0,
       "youtube_money_change": 0,
-      "ai_product_news": 6,
-      "creator_commerce": 1
+      "ai_product_news": 4,
+      "creator_commerce": 2
     },
     "errors": []
   }
