@@ -1,127 +1,6 @@
 [
   {
     "topic_id": "openai_official",
-    "title": "Build more responsive apps with the Decisions API",
-    "tokens": [
-      "api",
-      "apps",
-      "build",
-      "decisions",
-      "more",
-      "responsive",
-      "the",
-      "with"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "tokens": [
-      "all",
-      "brings",
-      "chatgpt",
-      "employees",
-      "openai",
-      "to",
-      "uber",
-      "with",
-      "work"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "OK저축은행, 최고 연 15% 금리 제공...'OK마이펫적금' 출시",
-    "tokens": [
-      "ok마이펫적금",
-      "ok저축은행",
-      "금리",
-      "제공",
-      "최고",
-      "출시"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "topic_id": "loan",
-    "title": "NH농협은행, 주담대 금리 인하…비수도권 0.2%p·수도권 0.1%p↓",
-    "tokens": [
-      "nh농협은행",
-      "금리",
-      "비수도권",
-      "수도권",
-      "인하",
-      "주담대"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "topic_id": "ai_agents",
-    "title": "메타, AI 에이전트 '뮤즈' 일본 출시…북미 넘어 글로벌 시장 확대",
-    "tokens": [
-      "ai",
-      "글로벌",
-      "넘어",
-      "메타",
-      "뮤즈",
-      "북미",
-      "시장",
-      "에이전트",
-      "일본",
-      "출시",
-      "확대"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "topic_id": "gemini_update",
-    "title": "Google Cloud, 비즈니스의 가장 어려운 문제를 해결하도록 설계된 Gemini 4 Argon 출시",
-    "tokens": [
-      "argon",
-      "cloud",
-      "gemini",
-      "google",
-      "가장",
-      "문제를",
-      "비즈니스의",
-      "설계된",
-      "어려운",
-      "출시",
-      "해결하도록"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "topic_id": "ai_image_tools",
-    "title": "캔바, 첫 자체 이미지 생성 AI 모델 '캔바 크래프트' 공개",
-    "tokens": [
-      "ai",
-      "모델",
-      "생성",
-      "이미지",
-      "자체",
-      "캔바",
-      "크래프트"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "topic_id": "loan",
-    "title": "기준금리 동결에도 주담대 7% 턱밑···빚투족 '이자폭탄' 가시화",
-    "tokens": [
-      "가시화",
-      "기준금리",
-      "동결에도",
-      "빚투족",
-      "이자폭탄",
-      "주담대",
-      "턱밑"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "topic_id": "openai_official",
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
     "tokens": [
       "billion",
@@ -1740,5 +1619,194 @@
       "플래티어"
     ],
     "date": "2026-10-30"
+  },
+  {
+    "topic_id": "youtube_analytics_official",
+    "title": "The YouTube Reporting API now supports the following system-managed reports for content owners: Category Report name Report type ID Financial Summaries Monthly channel adjustments",
+    "tokens": [
+      "adjustments",
+      "api",
+      "category",
+      "channel",
+      "content",
+      "financial",
+      "following",
+      "for",
+      "id",
+      "managed",
+      "monthly",
+      "name",
+      "now",
+      "owners",
+      "report",
+      "reporting",
+      "reports",
+      "summaries",
+      "supports",
+      "system",
+      "the",
+      "type",
+      "youtube"
+    ],
+    "date": "2026-10-31"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "tokens": [
+      "achieves",
+      "chatgpt",
+      "credit",
+      "enterprise",
+      "in",
+      "pilot",
+      "roi",
+      "saison"
+    ],
+    "date": "2026-10-31"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "tokens": [
+      "ads",
+      "advertisers",
+      "as",
+      "chatgpt",
+      "countries",
+      "expands",
+      "have",
+      "new",
+      "over",
+      "platform",
+      "the",
+      "to",
+      "used"
+    ],
+    "date": "2026-10-31"
+  },
+  {
+    "topic_id": "ai_agents",
+    "title": "깃허브, AI 모델 선택·작업 관리 자동화…\"내년 애저 100% 전환\"",
+    "tokens": [
+      "ai",
+      "관리",
+      "깃허브",
+      "내년",
+      "모델",
+      "선택",
+      "애저",
+      "자동화",
+      "작업",
+      "전환"
+    ],
+    "date": "2026-10-31"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "요즘 시대 연 26% 적금 실화냐?...저축은행의 몸부림",
+    "tokens": [
+      "몸부림",
+      "시대",
+      "실화냐",
+      "요즘",
+      "저축은행의",
+      "적금"
+    ],
+    "date": "2026-10-31"
+  },
+  {
+    "topic_id": "platform",
+    "title": "“가방 뭐야?” 챗GPT 묻지 마라…한달 1.4억명 쓴 유튜브 기능",
+    "tokens": [
+      "4억명",
+      "가방",
+      "마라",
+      "묻지",
+      "뭐야",
+      "유튜브",
+      "챗gpt",
+      "한달"
+    ],
+    "date": "2026-10-31"
+  },
+  {
+    "topic_id": "ai_product_news",
+    "title": "Apple, 강력한 신규 AI 기능과 한층 다양해진 창작 도구가 추가된 Apple Creator Studio 공개",
+    "tokens": [
+      "ai",
+      "apple",
+      "creator",
+      "studio",
+      "강력한",
+      "기능과",
+      "다양해진",
+      "도구가",
+      "신규",
+      "창작",
+      "추가된",
+      "한층"
+    ],
+    "date": "2026-10-31"
+  },
+  {
+    "topic_id": "bank_product",
+    "title": "年 4% 정기예금, 5% 발행어음… 고금리 상품 다시 뜬다",
+    "tokens": [
+      "고금리",
+      "다시",
+      "뜬다",
+      "발행어음",
+      "상품",
+      "정기예금"
+    ],
+    "date": "2026-10-31"
+  },
+  {
+    "topic_id": "ai_product_news",
+    "title": "현대차, '플레오스 커넥트' 무선 업데이트 실시…\"음성 AI 기능 강화\"",
+    "tokens": [
+      "ai",
+      "강화",
+      "무선",
+      "실시",
+      "음성",
+      "커넥트",
+      "플레오스",
+      "현대차"
+    ],
+    "date": "2026-10-31"
+  },
+  {
+    "topic_id": "ai_image_tools",
+    "title": "레페리, AI 콘텐츠 제작·배포 플랫폼 'LCMD STUDIO' 정식 출시",
+    "tokens": [
+      "ai",
+      "lcmd",
+      "studio",
+      "레페리",
+      "배포",
+      "정식",
+      "제작",
+      "출시",
+      "콘텐츠"
+    ],
+    "date": "2026-10-31"
+  },
+  {
+    "topic_id": "ai_product_news",
+    "title": "\"업데이트했는데 왜 안 돼?\"… 한국어 트인 시리 AI, 대기표 받아야 하는 이유",
+    "tokens": [
+      "ai",
+      "대기표",
+      "받아야",
+      "시리",
+      "업데이트했는데",
+      "이유",
+      "트인",
+      "하는",
+      "한국어"
+    ],
+    "date": "2026-10-31"
   }
 ]
