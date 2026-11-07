@@ -1,148 +1,246 @@
 {
-  "generated_at": "2026-11-06 16:21 KST",
+  "generated_at": "2026-11-07 15:33 KST",
   "counts": {
     "부업": 1,
-    "재테크": 5,
-    "혜택": 1,
-    "SNS분석": 3,
-    "리뷰어": 2,
-    "AI": 7,
-    "꿀팁": 1,
-    "플랫폼": 2
+    "재테크": 4,
+    "혜택": 3,
+    "SNS분석": 2,
+    "리뷰어": 0,
+    "AI": 5,
+    "꿀팁": 0,
+    "플랫폼": 0
   },
   "items": [
     {
-      "id": "openai_official-cultfitbuildsoperationalmusclewithcodex",
-      "topic_id": "openai_official",
+      "id": "ai_image_tools-라이너글쓰기ai취업준비기능강화이용자53가청년층",
+      "topic_id": "ai_image_tools",
       "lane": "AI",
-      "label": "OpenAI 공식",
-      "status": "NOW",
-      "score": 94,
-      "headline": "Cult.fit builds operational muscle with Codex",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
-      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
-      "money_signal": [],
-      "published_at": "2026-11-05T20:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "OpenAI 공식",
-          "title": "Cult.fit builds operational muscle with Codex",
-          "url": "https://openai.com/index/cultfit-builds-with-codex"
-        }
-      ]
-    },
-    {
-      "id": "openai_official-introducinggpt61terra",
-      "topic_id": "openai_official",
-      "lane": "AI",
-      "label": "OpenAI 공식",
-      "status": "PICK",
-      "score": 82,
-      "headline": "Introducing GPT-6.1 Terra",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
-      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
-      "money_signal": [],
-      "published_at": "2026-10-26T18:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "OpenAI 공식",
-          "title": "Introducing GPT-6.1 Terra",
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra"
-        }
-      ]
-    },
-    {
-      "id": "openai_official-chatgptsexpandingworldofwork",
-      "topic_id": "openai_official",
-      "lane": "AI",
-      "label": "OpenAI 공식",
-      "status": "PICK",
-      "score": 82,
-      "headline": "ChatGPT’s expanding world of work",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
-      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
-      "money_signal": [],
-      "published_at": "2026-10-26T10:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "OpenAI 공식",
-          "title": "ChatGPT’s expanding world of work",
-          "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
-        }
-      ]
-    },
-    {
-      "id": "creator_ambassador-오산시2027경기도체육대회시민서포터즈100명모집",
-      "topic_id": "creator_ambassador",
-      "lane": "리뷰어",
-      "label": "브랜드 앰배서더",
+      "label": "AI 이미지",
       "status": "PICK",
       "score": 79,
-      "headline": "오산시, 2027 경기도체육대회 시민서포터즈 100명 모집",
-      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
-      "angle": "활동기간·제공혜택·필수 콘텐츠 수를 정리",
-      "check_first": "브랜드 공식 캠페인 페이지 확인",
-      "money_signal": [],
-      "published_at": "2026-11-02T04:14:56+00:00",
+      "headline": "라이너, 글쓰기 AI '취업 준비' 기능 강화…“이용자 53%가 청년층”",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
+      "check_first": "공식 요금·상업이용·저작권 정책 확인",
+      "money_signal": [
+        "53%"
+      ],
+      "published_at": "2026-11-07T02:28:13+00:00",
       "source_count": 1,
       "sources": [
+        {
+          "name": "전자신문",
+          "title": "라이너, 글쓰기 AI '취업 준비' 기능 강화…“이용자 53%가 청년층”",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10empkbVVpQ2czanBOVWttZngyWTQ1aEdETlN0NThsd0FjYnBHeE1YYTBPUHJncmw4aXhMNUtXT1Zuei1TVU5hMFlCai11Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "creator_commerce-cj온스타일첫크리에이터커머스축제성황관람객656가수익화도전",
+      "topic_id": "creator_commerce",
+      "lane": "부업",
+      "label": "크리에이터 커머스",
+      "status": "WATCH",
+      "score": 77,
+      "headline": "CJ온스타일 첫 크리에이터 커머스 축제 성황…“관람객 65.6%가 수익화 도전”",
+      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
+      "angle": "콘텐츠에서 구매·예약으로 이어지는 실제 수익구조",
+      "check_first": "플랫폼 공식 제휴조건·수수료·정산주기 확인",
+      "money_signal": [
+        "65.6%"
+      ],
+      "published_at": "2026-10-29T02:34:20+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "동아일보",
+          "title": "CJ온스타일 첫 크리에이터 커머스 축제 성황…“관람객 65.6%가 수익화 도전”",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2WkxfX0FMb3VlSy1jd0tlWlVUa0Ffa2RQdldURE8xbzh5Q09NSXdXejB6UFROcHowQ242c3BsYWMwUjl1M2lvc1JWaGQ5NjI0eGhDdmNnbFNEQ0xyRHlZdjJnbUZ1R3UwVDNhRTVNNVBqZ2pPWlHSAWZBVV95cUxQc2ZQSDVoNEE0V3hfRUJtNnpPMjFwYjJnWVNLeXVkVjBPTHV2NHpFY2lqQmxvRExYNUQ3ZnlHdVhrbHJHdHhTMW85NmZmVnI1ZjFMODNTX0Q4emU1azlVeVpDUjk3Y1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "sns_growth-창원시유튜브추천창원구독자10만달성감사이벤트",
+      "topic_id": "sns_growth",
+      "lane": "SNS분석",
+      "label": "성장·알고리즘",
+      "status": "WATCH",
+      "score": 76,
+      "headline": "창원시 유튜브 '추천창원' 구독자 10만 달성 감사 이벤트",
+      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
+      "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
+      "check_first": "공식 크리에이터 문서와 실제 적용 화면 확인",
+      "money_signal": [],
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "창원시 유튜브 '추천창원' 구독자 10만 달성 감사 이벤트",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxSHBXZjB2M1g5SE9CTXpkYVpMc21VUndOVjBRTkdqZURpTU4zNDhuMXJ6bGdFNzhreFZfMTdZcy1OOHFmeVlHSUVJeTdXMmE3NGpHbjdSZ3owb2fSAWBBVV95cUxQeEFXOGMtTGd0X1o0SE5fX0xmU3c1cHkzaExpNUpJRV9mNGNjMFlRUnRIdkppYUltdlVyYVB3djlfN2RxZnJ6b0tMbmp1OUctdS1tYWR4TV9FWElnWTFSM0c?oc=5"
+        },
         {
           "name": "뉴시스",
-          "title": "오산시, 2027 경기도체육대회 시민서포터즈 100명 모집",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOUXJMLXdsWkVrSTN5bER4ODJfQ2RjRGJNSXZNXy1VWGpaY3hVV2lKU2JpaldvQWJFZm5SeEljVmpPZVpLbVNzbG93WmlFUU5WbktyTGR1cE5xdklSMDM3cNIBeEFVX3lxTE1yZnBIWlh4aEVCU3FFdGtLZW5hVTFsd19jN0lSc2ZIMzNiN1Z1MEFMd25SQktNT2lLdjVyQmxFclBWUlNJSG1Ld21LQUdGb1hVampvNUlQMHBxbDlhdDd4YlJNSlRxeGFiSi1KZGYtcG5CNHJmelVPUQ?oc=5"
+          "title": "창원시 유튜브 '추천창원' 10만 달성 이벤트",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6cEVNakhIM21QZ0ZzOTVsS3JPQ0lXSDY3UDlSZ0ZESWtvNUJRZXNqOFpUZ1M5Qi1vZERERm0wMmE1Uy12VlNkQXJGZkx3ZGkyYlJGckxoZks1V3BEUG5BatIBeEFVX3lxTE1HczJ3QjR5VFQxclZmLXplSVB4RnBNcDdjMzZ5aGNQOU03Q2dIWVZtamZKSE5GX1JMNFRHbS1MbmdvRWFiVG1UNkdnd2R1elh5XzI1NVVFVVZPa2Y2Ri1QaVVfSkNMSjEwRjN6ckk5QWZoUlQyOGtoaA?oc=5"
         }
       ]
     },
     {
-      "id": "useful_info-인프라지스틱스ms와blazor생태계강화협력ui컴포넌트50종이상무료공개",
-      "topic_id": "useful_info",
-      "lane": "꿀팁",
-      "label": "유용정보",
-      "status": "PICK",
-      "score": 78,
-      "headline": "인프라지스틱스, MS와 Blazor 생태계 강화 협력… UI 컴포넌트 50종 이상 무료 공개",
-      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
-      "angle": "돈 안 들이고 바로 써먹을 수 있는 공식 서비스와 사용법",
-      "check_first": "공식 운영기관·무료 범위·회원가입 필요 여부 확인",
-      "money_signal": [],
-      "published_at": "2026-11-06T00:00:03+00:00",
+      "id": "benefit-강릉시9일부터1인당10만원민생지원금신청첫주요일제",
+      "topic_id": "benefit",
+      "lane": "혜택",
+      "label": "환급·캐시백",
+      "status": "WATCH",
+      "score": 75,
+      "headline": "강릉시, 9일부터 1인당 10만원 민생지원금 신청…첫 주 요일제",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "누가 얼마를 언제까지 신청하면 받는지",
+      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
+      "money_signal": [
+        "10만원"
+      ],
+      "published_at": "2026-11-06T05:20:02+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "이데일리",
-          "title": "인프라지스틱스, MS와 Blazor 생태계 강화 협력… UI 컴포넌트 50종 이상 무료 공개",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNamtqblhGVHQwalliMzRRUHViSWx1ajBVbWgtZDNMYnR2cHpXdVR6WF84cW5kby03Unc1d3ZVbm0xTWdTYTdDZ2RBUElwOWMyQ0t2ZWhMZmNSRmYtWF9ER1FTSWpwbWNuekIxRmotR09VMC1IRTMybzY1dzA5bktUTw?oc=5"
+          "name": "뉴스1",
+          "title": "강릉시, 9일부터 1인당 10만원 민생지원금 신청…첫 주 요일제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05Y1JlUEFXWXg0R2lzM28ydGNCM2NHOGRoc3IyZkVncXo5eURuU182ZWxTVjg4dGNIVnBmYnZNeDdFUnhTSzB6ZXlHc1FhNW1jd0wtUA?oc=5"
         }
       ]
     },
     {
-      "id": "deposit-고객이탈막자저축은행연4대금리속출",
+      "id": "deposit-카카오뱅크정기예금자유적금금리01p인상",
       "topic_id": "deposit",
       "lane": "재테크",
       "label": "예적금",
       "status": "WATCH",
-      "score": 77,
-      "headline": "“고객이탈 막자”… 저축은행 연 4%대 금리 속출",
+      "score": 74,
+      "headline": "카카오뱅크, 정기예금·자유적금 금리 0.1%p인상",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "0.1%"
+      ],
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "카카오뱅크, 정기예금·자유적금 금리 0.1%p인상",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiNUlfUlB5OXlIaVdONnlRZzlrbVBjeVE5bHdFTnFseVhrTF9PcXBiYVh6NUI2QklQcE5LcVFuTklvRTA3MHlwT1F3ZmE2UG1MWXJVWVhxTFhGSE3SAWBBVV95cUxPRXVwTlp4NEpzbGFDdFNzWDk4b1BLc2pyY05UbXRTMUpJSHdkamw0RTZfZ0lQREhFbEdUUlYyVUJsTThpWHVjbmZBeVNhdmR5dE1rV19JUlQ1cUcyWHVuN2U?oc=5"
+        },
+        {
+          "name": "뉴시스",
+          "title": "카카오뱅크, 정기예금·자유적금 금리 0.1%p 인상",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13U0FTRjBjQWVraEZhLXQxckh4RHJvT0tOT25MWldqbUIzM0RFbXFwN0xGTXRzMWZOY0IyNktxcjVnX1R3MXdpVFVUcWpUcmZhTUo4M0FVOS1QQXBQQnI0b9IBeEFVX3lxTE41RFd3OUp3bEhBMjFvVXR2V20zWl8tU2M0blZYWmhpV2JfZU1Va2R0Vm5Pc0pkVTFoSDJjS1FHZnpVLVFaQlNzNUpiUi1Fak1pTjZ1NlVxMGdQU2t1eVJBdGxCNWlyZE8tQjNwajZDck5vcl9XRS1BeA?oc=5"
+        },
+        {
+          "name": "이데일리",
+          "title": "카카오뱅크, 예·적금 금리 0.1%p 인상…최고 4.05%",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaHR5VEpORlI4NHBZT0Y4Y253VjIwQ2k2M19oYno1YmpmaV83X21hSEp6eG83bmhtWGNDS3hqdXFIVEM4eGVSdDFjcTJpRldSd1p2U2JWV3RWWmMyQkJfZnY4WDRtaWFydTkxcDNTSUVsQWNsblB6UzZVQXM3RjJlNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-토스뱅크자유적금금리인상1년만기최고연375",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "토스뱅크, 자유적금 금리 인상…1년 만기 최고 연 3.75%",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "3.75%"
+      ],
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "토스뱅크, 자유적금 금리 인상…1년 만기 최고 연 3.75%",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tYWlMUnBDR3IwZUpHTEJ4cktuQmZBS3ZESGZmQlU4R25XbWpBWnFCN3VQSUUyb28tbTUwd254N083ajAxNUVGTUptZTV4cmFWTFpQemhlektieE3SAWBBVV95cUxNWlMyelpWdjZWNi1fdllyN0ZDZkZULU16Mm4xRldkbVM1N3RkTFhzSWR3RUs4SDZiQ0VwRkw1XzNza0JFcXlES3FiNnF2WUtFNGJwZkV4U0lsNWswMWpKaUc?oc=5"
+        },
+        {
+          "name": "뉴스1",
+          "title": "카카오뱅크, 예적금 금리 0.10%p 인상…연 최고 4.05%",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLUF8xRURUeC01MDhFSV9uVmJ5UHVPT3dhY0pXVXZRNjRWVlBmVzZkY1JnSFRpMkJ6TjNwNDI1TXVRV3o4ZzVwWTlJR0tLbjI4Zl9V?oc=5"
+        },
+        {
+          "name": "뉴스핌",
+          "title": "토스뱅크, '자유 적금' 금리 인상…1년 만기 최고 연 3.75%",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOa0M5ZlZKMXVfeDh3VlRoejVUNC1NMzlGd2xDanFTMTNzZ3ZELVVpLTdCaXNOVE9TTXQtMGV2ZzlXRndOR3dfTURMUjJ2OGtnN1UtWFI0V1hmaEFW?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-주택담보대출금리4885개월째오름세",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "주택담보대출 금리 4.88%…5개월째 오름세",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [
+        "4.88%"
+      ],
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴스1",
+          "title": "주택담보대출 금리 4.88%…5개월째 오름세",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5R01yWmlEWVZYNTQ0LVduN0lDb0VUNHAwcVVoUThWbGJZZm1uV0toUUFUTVdaLThoTXdYaTNRX19NQXBsWTFLLVIxOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_video_tools-스케치가움직이는캐릭터로오픈ai이미지26출시",
+      "topic_id": "ai_video_tools",
+      "lane": "AI",
+      "label": "AI 영상",
+      "status": "WATCH",
+      "score": 70,
+      "headline": "스케치가 움직이는 캐릭터로…오픈AI '이미지 2.6' 출시",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "영상 제작시간·비용을 얼마나 줄이는지 실제 사용 관점",
+      "check_first": "공식 제품 페이지의 요금·워터마크·상업이용 확인",
+      "money_signal": [],
+      "published_at": "2026-11-05T08:32:26+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "스케치가 움직이는 캐릭터로…오픈AI '이미지 2.6' 출시",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10VlpVcFNGSk00VnY5MmFJQVg4cWZZeXlXYmFhdzJyZHZTekZaY2MxR291YWN1LWZaWjVSNVpGR3FTbExJeFQxVDFjRkJoSEUzUlFNSTZ6UFI3MDlpU0xqYtIBeEFVX3lxTE1ZYUh2a3MtWlYyeVVySkRUb3lXUzZ3LTF4aGYtUTBtb1JzaEw5NnNWc2NaVVNCckdpYjg0VTVaZGhLNmxQeWJvdXNOQzdaUTUwN1AxYlN6V19VZFI5TWJKbWRsWGdGY0hGSWxfVDQyRkpRWENaY1hBcA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-정기예금금리4대인데지금들까더오르길기다릴까머니뷰",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 69,
+      "headline": "정기예금 금리 4%대인데…지금 들까, 더 오르길 기다릴까 [머니뷰]",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "광고금리 말고 실제 세후 이자와 우대조건",
       "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
         "4%"
       ],
-      "published_at": "2026-11-06T02:43:19+00:00",
-      "source_count": 2,
+      "published_at": "2026-11-06T01:01:00+00:00",
+      "source_count": 1,
       "sources": [
-        {
-          "name": "문화일보",
-          "title": "“고객이탈 막자”… 저축은행 연 4%대 금리 속출",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXY3dWLU5CRzE2RGw5cG15eEt3QWptdlctS3o1SW0wQ0JmQlFKUkNxcl9Ja29nelA5YzRpanp4YUUyaXkxRXZnd3BtNG9NcS14?oc=5"
-        },
         {
           "name": "동아일보",
           "title": "정기예금 금리 4%대인데…지금 들까, 더 오르길 기다릴까 [머니뷰]",
@@ -151,389 +249,139 @@
       ]
     },
     {
-      "id": "creator_campaign-냉부방청객모집논란sns방송출연여부까지조사이럴거면인플루언서부르지",
-      "topic_id": "creator_campaign",
-      "lane": "리뷰어",
-      "label": "크리에이터 모집",
-      "status": "WATCH",
-      "score": 77,
-      "headline": "`냉부` 방청객 모집 논란…SNS, 방송 출연 여부까지 조사 \"이럴 거면 인플루언서 부르지\"",
-      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
-      "angle": "선정 기준·콘텐츠 의무·보상 구조를 정리",
-      "check_first": "공식 캠페인 약관에서 광고표시·사용권·보상조건 확인",
-      "money_signal": [],
-      "published_at": "2026-10-27T16:01:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "마이데일리",
-          "title": "`냉부` 방청객 모집 논란…SNS, 방송 출연 여부까지 조사 \"이럴 거면 인플루언서 부르지\"",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wdGpqX3E1aG04Z0I0MGVIQ01oQVVrd3ppZUctZFRjZWJ2YnBqcW9jemZHZThkdUpKcWV0NDZYZnk4bDlyVkhoZTZQblZkSmxvQk9ZdXlCcklaOHF0X3FHMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "platform-네이버광고주센터에ai기능넣어네이버애즈로개편",
-      "topic_id": "platform",
-      "lane": "플랫폼",
-      "label": "플랫폼 변화",
-      "status": "WATCH",
-      "score": 75,
-      "headline": "네이버, 광고주센터에 AI 기능 넣어 ‘네이버애즈’로 개편",
-      "why_now": "플랫폼 정책·기능 변화가 운영 방식에 영향을 줌.",
-      "angle": "플랫폼 변화가 기존 운영 방식·수익에 미치는 영향",
-      "check_first": "플랫폼 공식 공지에서 적용일·대상 확인",
-      "money_signal": [],
-      "published_at": "2026-11-05T21:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "서울경제",
-          "title": "네이버, 광고주센터에 AI 기능 넣어 ‘네이버애즈’로 개편",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lU1J6RGM0T2RIQTBNajVUeVBRbnNqWVlSYzVfQ2FkclIyejZ4WENOdDRKMF9FOUpQclMtMmpFUWlVRUNHNXAyaTlUYmc0TzdWYlHSAVNBVV95cUxOM2hwdHByWW90ek8weUFjTEpCelAxYTJuNTdUZTNmMmRwZlRzY1NhQ01WS01QbGQ0SzRodkxMQ09FRVllZzFRRDBXeldTWGt2RFFmQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "korean_ai-ai판단돕는다카카오카나나디사이드오픈소스공개",
-      "topic_id": "korean_ai",
-      "lane": "AI",
-      "label": "국내 AI",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "AI 판단 돕는다…카카오, '카나나 디사이드' 오픈소스 공개",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "한국어·국내 서비스 연동에서 쓸 수 있는 기능",
-      "check_first": "회사 공식 발표와 공개 범위 확인",
-      "money_signal": [],
-      "published_at": "2026-11-06T05:48:44+00:00",
-      "source_count": 3,
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "title": "AI 판단 돕는다…카카오, '카나나 디사이드' 오픈소스 공개",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96WTZ5ZlhwQy0tTUkwSGVOdHhNUk9VdS1nWFRhRTJ3ZzVqMV9uTENlY3ZKbmZCbFRoeUpfWXpJYkZ6bzhna2RTMUpuZ09QNTVyNmMtZW1B?oc=5"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[AI픽] 카카오, AI 판단 돕는 '카나나-2-v-디사이드' 오픈소스 공개",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5NUxzMEVhbnRJX2xQeUZZSDhBN0JBX01UajBMWThTMW5iZ1luQ0dwN2xaa3pXOXBZVUlpOXQxZUlTTmRZVmpLT1FDU1d4V25MNzdFQ3NRb1pKODjSAWBBVV95cUxPZ3k1UE96cWFxUzFIZzBRZDFSLW9jWHFKcTNpTU5TT1dvWUlIOWxZbDlCQW1KNzVTVktFYVdHZnF1eG9HME9RX2NZR0Q1ZkpRZGxGOWVGZGtBOUxyMlBJS3U?oc=5"
-        },
-        {
-          "name": "아주경제",
-          "title": "카카오, 멀티모달 모델 카나나-2-v-디사이드 공개…AI 에이전트 판단·선택 돕는다",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9saXFqWDczSGx6U1BRZWhPSnlmWWNTUTF3SzFreUd4aFBLelZRa285RS1nYzNqdFRwNUlGNFRwNXFjM0xZUGJ5WDFZbVoxZ0k1bGwyNWpack9UZ9IBWEFVX3lxTFA4a3ZhcDNHWnZiVlU1STl5UGJkMzBCYjdlU3pZWGluQ0pxMWFlX1cxZmc1YmVybXBCSktOWkI4S0M3NVJuQUF0bXpzUExpNmtocWRLUjJxay0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_image_tools-오픈ai사이버보안특화ai모델gpt6사이버공개",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "오픈AI, 사이버보안 특화 AI 모델 'GPT-6 사이버' 공개",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
-      "money_signal": [],
-      "published_at": "2026-11-06T01:51:51+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "전자신문",
-          "title": "오픈AI, 사이버보안 특화 AI 모델 'GPT-6 사이버' 공개",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54UGFra1pwa0htRlhMOERnbG9iSWcyeklsMkRYRjV6ekwwX2JmZWoyNVdha3Z2bmNXd0xNZ3VUQThYR3U0dTJMLVpGZExsZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_image_tools-챗gpt이미지생성50빨라진다오픈ai이미지26출시",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "챗GPT 이미지 생성 50% 빨라진다…오픈AI ‘이미지 2.6’ 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
-      "money_signal": [
-        "50%"
-      ],
-      "published_at": "2026-11-05T04:23:00+00:00",
-      "source_count": 2,
-      "sources": [
-        {
-          "name": "CNET Korea",
-          "title": "챗GPT 이미지 생성 50% 빨라진다…오픈AI ‘이미지 2.6’ 출시",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qbjZrWHMtdU40aTJVaFVGMU1ZdXlCbm0wMlh3eUs4MGxwUnVTWVh4a1VlOHVjbFB5TTc1Z000c0daMVl6QkwtWGFhNURNaFQyRU51SFFhZw?oc=5"
-        },
-        {
-          "name": "뉴시스",
-          "title": "스케치가 움직이는 캐릭터로…오픈AI '이미지 2.6' 출시",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZYUh2a3MtWlYyeVVySkRUb3lXUzZ3LTF4aGYtUTBtb1JzaEw5NnNWc2NaVVNCckdpYjg0VTVaZGhLNmxQeWJvdXNOQzdaUTUwN1AxYlN6V19VZFI5TWJKbWRsWGdGY0hGSWxfVDQyRkpRWENaY1hBcNIBeEFVX3lxTE1ZYUh2a3MtWlYyeVVySkRUb3lXUzZ3LTF4aGYtUTBtb1JzaEw5NnNWc2NaVVNCckdpYjg0VTVaZGhLNmxQeWJvdXNOQzdaUTUwN1AxYlN6V19VZFI5TWJKbWRsWGdGY0hGSWxfVDQyRkpRWENaY1hBcA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "benefit-강릉시민생안정지원금10만원영주권자결혼이민자도지급",
-      "topic_id": "benefit",
+      "id": "smallbiz_money-중기부정책자금동일ip중복신청9천여건적발760건차단",
+      "topic_id": "smallbiz_money",
       "lane": "혜택",
-      "label": "환급·캐시백",
+      "label": "소상공인 지원",
       "status": "WATCH",
-      "score": 74,
-      "headline": "강릉시 민생안정지원금 10만원, 영주권자·결혼이민자도 지급",
+      "score": 69,
+      "headline": "중기부, 정책자금 동일 IP 중복신청 9천여건 적발…760건 차단",
       "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "누가 얼마를 언제까지 신청하면 받는지",
-      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
-      "money_signal": [
-        "10만원"
-      ],
-      "published_at": "2026-10-30T01:14:03+00:00",
+      "angle": "현금지원과 대출성 정책자금을 구분",
+      "check_first": "중기부·소진공 공식 공고 확인",
+      "money_signal": [],
+      "published_at": "2026-11-05T05:30:00+00:00",
       "source_count": 1,
       "sources": [
         {
           "name": "연합뉴스",
-          "title": "강릉시 민생안정지원금 10만원, 영주권자·결혼이민자도 지급",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRNEtxN3pTVHpGV0ctUHBDUnAzUDZ2MEFlOTduamxxUVNRY1JXMFdWcmwzVFBpNGdlQVpyTnhhYmkyR1VOUUZfdDJENHBCYUp0QTZjODZpdk0wX2PSAWBBVV95cUxQWnpONEx6d2ZXM3RieUJEMEtaSHp2c1ZxU3lrMEI4VS0xUW5qRDdHbGtVV09uVTRPSTdyQWZLWjRjZzBJaks3VnMwS3M5eTQ2eU5adzJSV0xfeTZnWWtiaWc?oc=5"
+          "title": "중기부, 정책자금 동일 IP 중복신청 9천여건 적발…760건 차단",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XWnBmZjVWN3padmRQNExPMTZnd3R0NFpKR3hMZmVXU1E4aDZjNVZhaUhRZjNsS2RUcjh4WkthMmZXWTlDdFFVeXZYZWFkSjdVVzJxVE56cVpnWWM1TEJLcNIBYEFVX3lxTE9XWnBmZjVWN3padmRQNExPMTZnd3R0NFpKR3hMZmVXU1E4aDZjNVZhaUhRZjNsS2RUcjh4WkthMmZXWTlDdFFVeXZYZWFkSjdVVzJxVE56cVpnWWM1TEJLcA?oc=5"
         }
       ]
     },
     {
-      "id": "loan-취약계층찾는급전인데소액대출금리15개월만에최고치",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 73,
-      "headline": "취약계층 찾는 급전인데…소액대출 금리 15개월 만에 최고치",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [],
-      "published_at": "2026-11-06T01:33:22+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "취약계층 찾는 급전인데…소액대출 금리 15개월 만에 최고치",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IRUF1WUp4MEJaWHQ4T0lWdlZvVGxRdVl3V0xOS3JzcnFpa3ZjVW9STktXTTZ4cE00M2IwS0RDNW5FcENITWRCcm9Qak5zTm1selVSUGo5am95aE0tRzdDd1E5YUVYeHdyNTFTZXpvWnNHTmw5V09CTtIBeEFVX3lxTE5IRUF1WUp4MEJaWHQ4T0lWdlZvVGxRdVl3V0xOS3JzcnFpa3ZjVW9STktXTTZ4cE00M2IwS0RDNW5FcENITWRCcm9Qak5zTm1selVSUGo5am95aE0tRzdDd1E5YUVYeHdyNTFTZXpvWnNHTmw5V09CTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_product_news-오픈ai이미지26공개생성속도50",
+      "id": "ai_product_news-lg전자ai기능갖춘얼음정수냉장고스템출시",
       "topic_id": "ai_product_news",
       "lane": "AI",
       "label": "AI 신제품",
       "status": "WATCH",
-      "score": 73,
-      "headline": "오픈AI, ‘이미지 2.6’ 공개…생성 속도 50%↑",
+      "score": 69,
+      "headline": "LG전자, AI 기능 갖춘 얼음정수 냉장고 ’스템’ 출시",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
       "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
-      "money_signal": [
-        "50%"
-      ],
-      "published_at": "2026-11-05T03:45:31+00:00",
-      "source_count": 3,
-      "sources": [
-        {
-          "name": "이데일리",
-          "title": "오픈AI, ‘이미지 2.6’ 공개…생성 속도 50%↑",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcHlYVGIwdEhlUTZaYXFId2hlWmg2QVNZS19Kc0ptbk1HQVBLSkV6bDBvSk1LY0syMG5SR0VMdDlVN1hxcnBsUmpjTDRUYlUxSDFQbjNVb19nVWtxd1Q1R1V6Q05GUGViSm5IX1VlVEhYT2Y1a1h3Mm0tWWpGdGpRZA?oc=5"
-        },
-        {
-          "name": "IT조선",
-          "title": "오픈AI, ‘이미지 2.6’ 공개…생성 속도 50% 향상",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pU19QNjZIbFlCWHR2OWpFYWxQT3cwZzdLdmdsMFJ4aERrWjFxQmFXSlY2cmVQRmRQM09JNEgzWWVST21SZWM1ZTRCcVRPT21RWUMyRzlLdkttVkpPWUZacGJJYXAzUENMZFdLbkJKeGfSAXRBVV95cUxQc2xZdHl1UTBsLTRhNzRPazdMNFZ2amRpYUxXdXpvNHF6SloxbjcweWU3T0FmRFNiZG03M2hxdGY1UWdvYmJhNWstVU9nU2ljSVBvUEdoOXZoOVBLakNnWWxneXRfUmViZGJNa3I4TmZzMHBxag?oc=5"
-        },
-        {
-          "name": "서울경제TV",
-          "title": "오픈AI, 이미지 생성 AI ‘이미지 2.6’ 출시…속도·편집 기능 강화",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QR0N6YjcwQkV1bUItNHBxWG5uUk1UcTQxRk50cDVkaHRPREkxbFB2YjZKNlRnTTk3NlVtVmRaSWwtU1ZhWlZWR041cm1IZnFkYlFvdlFpYnVpalZXU191ek5kS2Q?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "sns_growth-유튜브소통나선알고리즘에갇히지않는다",
-      "topic_id": "sns_growth",
-      "lane": "SNS분석",
-      "label": "성장·알고리즘",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "유튜브 소통 나선 李 …\"알고리즘에 갇히지 않는다\"",
-      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
-      "check_first": "공식 크리에이터 문서와 실제 적용 화면 확인",
-      "money_signal": [],
-      "published_at": "2026-11-05T14:20:30+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "매일경제",
-          "title": "유튜브 소통 나선 李 …\"알고리즘에 갇히지 않는다\"",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qWFdDb29naGRKdy1WdWVSM1M5YnZrNmM4ZVJvYmJsRzR2WlRQMUlfWkMzcFFTN3c4TUxhSkJ0VmRfY00zMlBqY2pRT09GUThHTzFwNGd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-토스뱅크최저연444금리주택담보대출출시",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "토스뱅크, ‘최저 연 4.44% 금리’ 주택담보대출 출시",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "4.44%"
-      ],
-      "published_at": "2026-10-27T07:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "동아일보",
-          "title": "토스뱅크, ‘최저 연 4.44% 금리’ 주택담보대출 출시",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ueUtIUWpKMXhJVjZMS1g4LXhOMGFldGphN0o4cEM3ME5xTm9TMjRNV2JmVkhEX0gyWi01TGpHLVhVYThzakVpX3Nuc3h2STU4WlhTeVVpaFJ1azktRmJ0WnlNMUNTQ3RvYU9MdnVQWlk5NnMxUHfSAWZBVV95cUxPTDhrSTNEd045bzBXZHZPSTZxSktURXZIa1pIZmdoV3RwVEE5azdKZ2pabnRibE1OM3BFelZsemNlZHFPT0M2d0hjZ3BCdGVSUnhJNjJxdWRPOFZmNDNmOU1WTGxLUUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "platform-인스파이어아레나네이버아레나로새단장12월명칭변경",
-      "topic_id": "platform",
-      "lane": "플랫폼",
-      "label": "플랫폼 변화",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "인스파이어 아레나, '네이버 아레나'로 새 단장…12월 명칭 변경",
-      "why_now": "플랫폼 정책·기능 변화가 운영 방식에 영향을 줌.",
-      "angle": "플랫폼 변화가 기존 운영 방식·수익에 미치는 영향",
-      "check_first": "플랫폼 공식 공지에서 적용일·대상 확인",
       "money_signal": [],
       "published_at": "2026-10-26T07:00:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
-          "name": "뉴스1",
-          "title": "인스파이어 아레나, '네이버 아레나'로 새 단장…12월 명칭 변경",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MV0Q3d0l3TFpyZnpJSXVVbDBNTGtxWjRyVERzN1duYXNfN2pHV0JuZF9qWC01NTcxWTZoeXo0TF9rcks4YUctR0M4eVdhLU51dlFqZ3R3eTVNTUdyM3dIeQ?oc=5"
+          "name": "연합뉴스TV",
+          "title": "LG전자, AI 기능 갖춘 얼음정수 냉장고 ’스템’ 출시",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53V0VDNGJ1U3hfeWR1aTNnZ1ZsX2ZITXZzeWlMVHJmcTg4QS0temtZSEpjR1J2dEl5WUtYd29nR3o2cXVpdG1MOTl1TFdadjlTaU04Z0FFdmZxMGRCcmlFcnhGWG9CZWc?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "LG전자, 서랍형 냉동고·AI 기능 갖춘 '스템' 냉장고 출시",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jZmlsOHlFWXdlRGNpbGhHUzhZaUdjZTJJbDBoTTdCeWNJcTY3RDlpQkltVHNRUFNfVHhzRDhqbGs1Z2xtOEEzc2FmdE5oZnFDS1dvSG1LdnFOVU3SAWBBVV95cUxObUV3UE56OTA2Uk9DZ2t4cmJOY18ya0VKWXB5bUlRaUtzcVItcXJmaWhzQW9MX2V6YkJKNHl5bFhXNkF2MUl6OWY0MjM3VkdJWDFRY0NiUFN6c1NKekJZclM?oc=5"
         }
       ]
     },
     {
-      "id": "sns_growth-속보이대통령알고리즘에갇혔다주장있는데갇히지않는다첫유튜브방송에서김어준주장반박",
-      "topic_id": "sns_growth",
-      "lane": "SNS분석",
-      "label": "성장·알고리즘",
+      "id": "ai_image_tools-오픈ai빠르게생성하고편집강화한이미지26출시",
+      "topic_id": "ai_image_tools",
+      "lane": "AI",
+      "label": "AI 이미지",
       "status": "WATCH",
-      "score": 71,
-      "headline": "[속보] 이 대통령 “‘알고리즘에 갇혔다’ 주장 있는데, 갇히지 않는다”…첫 유튜브 방송에서 김어준 주장 반박",
-      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
-      "check_first": "공식 크리에이터 문서와 실제 적용 화면 확인",
+      "score": 68,
+      "headline": "오픈AI, 빠르게 생성하고 편집 강화한 '이미지 2.6' 출시",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
+      "check_first": "공식 요금·상업이용·저작권 정책 확인",
       "money_signal": [],
-      "published_at": "2026-11-05T12:20:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "경향신문",
-          "title": "[속보] 이 대통령 “‘알고리즘에 갇혔다’ 주장 있는데, 갇히지 않는다”…첫 유튜브 방송에서 김어준 주장 반박",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CN1hwTk5KRkc5SFhmNTFxSW9HTzQzdkFRcTJndV9Ma1NNWGJ3cFljNmdxWV91NUhXdVVYQ2sxWjJqaTNuMnZFZ0NidlI0a1FnbldqcW91Y1pqd9IBX0FVX3lxTE9PMzFXMGdVR1k4ZlUzZjBVdXM4YW1JRzJvSTNYUjNhVVF4LXE5XzBpOGpncnlITlpGR0tyTklsa2Yya0VsRUxfWWo1ZFpNRnR5eVZUc1FFSVV5VWZOQjZ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "apptech-롯데멤버스미스트플레이와제휴엘포인트게임적립혜택확대",
-      "topic_id": "apptech",
-      "lane": "부업",
-      "label": "앱테크",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "롯데멤버스, 미스트플레이와 제휴…엘포인트 게임 적립 혜택 확대",
-      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
-      "angle": "포인트가 실제 어디에 쓰이고 얼마 가치인지",
-      "check_first": "참여 대상·포인트 전환처·이벤트 종료일 확인",
-      "money_signal": [],
-      "published_at": "2026-11-05T00:07:25+00:00",
+      "published_at": "2026-11-05T05:18:59+00:00",
       "source_count": 1,
       "sources": [
         {
           "name": "전자신문",
-          "title": "롯데멤버스, 미스트플레이와 제휴…엘포인트 게임 적립 혜택 확대",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xaWFwNmFqakJVVEQ2cWpaZzJZMm0xWkNKZVdMRXFXdFFoc256YmFKSzNPeXc0amwxTE84RjRZa3VhNjVrZ0RlRWdOdUQxZw?oc=5"
+          "title": "오픈AI, 빠르게 생성하고 편집 강화한 '이미지 2.6' 출시",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOdDdQTXp0dFBseGh6SDBCeEFIU1NxM0dpMm9Ocl96YW9YTnZlaVBHMHRya29WSTh6SWhpbE00WXQ2MTBYSlg2M1JRWDN6Zw?oc=5"
         }
       ]
     },
     {
-      "id": "loan-여보우리집사도될까주담대고정금리1년째오르더니결국5머니투데이",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
+      "id": "ai_product_news-회의록ai그래놀라무료음성받아쓰기기능출시",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
       "status": "WATCH",
-      "score": 70,
-      "headline": "\"여보, 우리 집 사도 될까?\"…주담대 고정금리 1년째 오르더니 결국 5% - 머니투데이",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "5%"
-      ],
-      "published_at": "2026-10-29T03:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "머니투데이",
-          "title": "\"여보, 우리 집 사도 될까?\"…주담대 고정금리 1년째 오르더니 결국 5% - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MamZiY2ZkNTFvc1NORU5EYWxQbG1RT2plR1FJOVd5STJQWFpBSFFOM2xfYThyVDBzSnQwcmFrM0x6Z1kzazk3R01naXpiN0xSSGpxb3c3ZldfYW9aZUMtSGl6UzdyYUJHYy1N0gFwQVVfeXFMT2hwdy12M29POXZVNDdzd1RvaVZSV1d5d3VRSUg4N3VKNjlKdUFLclVwU2JHS3d3eUpxN0c2dUVYS0Ywb09Xd2pVVmxCVTZZTXozdVVsZklaZkJGU20zd2JDMVRKZnZvVVRwWnlmZWpGQg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "deposit-한달만에11조몰린이예금금리도올랐다",
-      "topic_id": "deposit",
-      "lane": "재테크",
-      "label": "예적금",
-      "status": "WATCH",
-      "score": 67,
-      "headline": "한달만에 1.1조 몰린 이 예금, 금리도 올랐다",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
-      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "score": 68,
+      "headline": "회의록 AI 그래놀라, 무료 음성 받아쓰기 기능 출시",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
       "money_signal": [],
-      "published_at": "2026-11-06T00:56:34+00:00",
+      "published_at": "2026-11-04T11:38:04+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "한국경제",
-          "title": "한달만에 1.1조 몰린 이 예금, 금리도 올랐다",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JSUcxNnRHNGxtWWY5akRCSlFXRVdmWGxvZV9STU9PV1JnbXQ5TzNjQzZ4akIwQ3JVdVFGYWVPZTNVTDRYTkpMbUhFYnNjNVNTbWVzWjB3aWtFQQ?oc=5"
+          "name": "지디넷코리아",
+          "title": "회의록 AI 그래놀라, 무료 음성 받아쓰기 기능 출시",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Gc3NxUlNUVmhQM1JVS0VDNU9SOUR6MFlfMjRDMnNTeFdFMEpHelFXQ0JwSW9KR3ZDYVdjaGNwMGRuR2JqOHVjYk9HcWVUZ2VtXzFHZ2pB?oc=5"
         }
       ]
     },
     {
-      "id": "tiktok_metrics-칼로데이터틱톡샵데이터분석ai마케팅연계솔루션으로국내브랜드해외진출지원",
-      "topic_id": "tiktok_metrics",
+      "id": "sns_growth-창원시유튜브추천창원특례시최초실버버튼획득",
+      "topic_id": "sns_growth",
       "lane": "SNS분석",
-      "label": "TikTok",
+      "label": "성장·알고리즘",
       "status": "WATCH",
-      "score": 67,
-      "headline": "칼로데이터, 틱톡샵 데이터 분석·AI 마케팅 연계 솔루션으로 국내 브랜드 해외 진출 지원",
+      "score": 68,
+      "headline": "창원시 유튜브 ‘추천창원’ 특례시 최초 실버버튼 획득",
       "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "틱톡 추천·완주율 변화를 콘텐츠 구조에 반영",
-      "check_first": "TikTok 공식 크리에이터 자료 확인",
+      "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
+      "check_first": "공식 크리에이터 문서와 실제 적용 화면 확인",
       "money_signal": [],
-      "published_at": "2026-11-06T00:00:11+00:00",
+      "published_at": "2026-10-29T01:42:00+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "한국경제",
-          "title": "칼로데이터, 틱톡샵 데이터 분석·AI 마케팅 연계 솔루션으로 국내 브랜드 해외 진출 지원",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ka0hIaU5GRDg1U29hbzF0QTlVQ250U2RDblZjRHZ6WWhkZzJjcEJpY3JIYkotQ1U2TE9OUGgweTZ0ak1wd1FjaUxORGNjc0NaMjRlTFVXbjZwZw?oc=5"
+          "name": "브릿지경제",
+          "title": "창원시 유튜브 ‘추천창원’ 특례시 최초 실버버튼 획득",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zVnhzYTdjR3VIMlNJLTU1NEljMU51aTdUamZHSHhlc2xha0ZUWnBNejQ4bWFWcUNZNXZ0aGtSVFNEbTZjb3ppUktpekIxVUt1cHNTWFBNQnFHUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "smallbiz_money-동일한ip로정책자금중복신청9117건적발",
+      "topic_id": "smallbiz_money",
+      "lane": "혜택",
+      "label": "소상공인 지원",
+      "status": "WATCH",
+      "score": 67,
+      "headline": "\"동일한 IP로 정책자금 중복 신청\"…9117건 적발",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "현금지원과 대출성 정책자금을 구분",
+      "check_first": "중기부·소진공 공식 공고 확인",
+      "money_signal": [],
+      "published_at": "2026-11-05T05:30:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "\"동일한 IP로 정책자금 중복 신청\"…9117건 적발",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zOHFtemNMcHU0T1FOc1paQmMyLXZIVjd5OU9MdmhpMjdybF9zdDlCYlhMWjlIVzN5SVAxZ0V4dnlPTTF6dDN6NGFYazBzYW04Ql95aGg4WUNQYzhwQm9wckcycndmcTZCVkplWFpCeHlsY0RUX3BJcdIBeEFVX3lxTE5zOHFtemNMcHU0T1FOc1paQmMyLXZIVjd5OU9MdmhpMjdybF9zdDlCYlhMWjlIVzN5SVAxZ0V4dnlPTTF6dDN6NGFYazBzYW04Ql95aGg4WUNQYzhwQm9wckcycndmcTZCVkplWFpCeHlsY0RUX3BJcQ?oc=5"
         }
       ]
     }
@@ -541,87 +389,87 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 36,
-    "shown": 22,
+    "raw_articles": 27,
+    "shown": 15,
     "topic_raw_counts": {
-      "tax": 0,
-      "youtube_ypp": 0,
       "apptech": 1,
+      "youtube_ypp": 0,
+      "tax": 0,
       "affiliate": 1,
       "blog_ads": 0,
-      "benefit": 2,
-      "sns_growth": 5,
-      "deposit": 22,
-      "loan": 22,
-      "openai_official": 10,
+      "benefit": 3,
       "policy": 0,
+      "deposit": 23,
+      "loan": 20,
+      "sns_growth": 5,
+      "openai_official": 9,
+      "reviewer": 4,
       "creator_campaign": 2,
-      "reviewer": 3,
-      "useful_info": 2,
-      "youtube_metrics": 0,
       "instagram_metrics": 0,
+      "youtube_metrics": 0,
       "digital_tip": 0,
-      "platform": 4,
-      "gemini_update": 0,
-      "ai_creator": 1,
+      "platform": 3,
       "chatgpt_update": 0,
+      "ai_creator": 0,
+      "useful_info": 1,
+      "gemini_update": 0,
       "chrome_tip": 0,
-      "claude_update": 0,
       "naver_creator_money": 0,
+      "claude_update": 0,
       "smartstore_seller": 0,
       "freelance_market": 0,
       "youtube_shopping": 0,
       "creator_sponsorship": 0,
-      "youtube_analytics_official": 1,
       "digital_product": 0,
       "instagram_reels_metrics": 0,
-      "youtube_channel_metrics": 0,
-      "threads_growth": 0,
       "youtube_shorts_metrics": 0,
+      "youtube_channel_metrics": 0,
       "naver_blog_metrics": 0,
+      "tiktok_metrics": 0,
       "x_account_metrics": 0,
-      "tiktok_metrics": 1,
+      "youtube_analytics_official": 1,
+      "threads_growth": 0,
       "beauty_reviewer": 0,
       "food_reviewer": 0,
       "tech_reviewer": 0,
-      "creator_ambassador": 3,
+      "creator_ambassador": 2,
       "app_beta_reviewer": 0,
       "travel_reviewer": 0,
-      "ai_video_tools": 5,
-      "ai_coding": 0,
-      "ai_image_tools": 9,
       "ai_search": 0,
-      "korean_ai": 5,
-      "ai_agents": 1,
+      "ai_video_tools": 5,
+      "korean_ai": 1,
+      "ai_image_tools": 9,
       "mobile_tip": 0,
+      "ai_agents": 0,
+      "ai_coding": 0,
+      "pc_tip": 0,
       "productivity_tip": 0,
       "privacy_tip": 0,
-      "public_data_tip": 0,
-      "pc_tip": 0,
       "travel_tip": 0,
-      "telecom_discount": 0,
       "energy_support": 0,
+      "public_data_tip": 0,
+      "telecom_discount": 0,
+      "education_support": 0,
       "employment_support": 0,
       "local_currency": 2,
-      "education_support": 0,
       "isa_change": 0,
-      "family_benefit": 0,
-      "bank_product": 0,
-      "smallbiz_money": 0,
       "card_benefit": 0,
-      "pension_tax": 0,
       "mortgage_policy": 0,
+      "family_benefit": 0,
+      "smallbiz_money": 2,
+      "pension_tax": 0,
+      "bank_product": 0,
       "tax_refund": 0,
-      "youtube_policy": 0,
-      "naver_platform": 0,
-      "instagram_platform": 0,
-      "threads_platform": 0,
-      "x_platform": 0,
       "pension_public": 0,
+      "youtube_policy": 0,
+      "threads_platform": 0,
+      "instagram_platform": 0,
+      "naver_platform": 0,
       "coupang_platform": 0,
+      "x_platform": 0,
       "youtube_shop_affiliate": 0,
       "youtube_money_change": 0,
-      "ai_product_news": 11,
+      "ai_product_news": 13,
       "creator_commerce": 1
     },
     "errors": []
