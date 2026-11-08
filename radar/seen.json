@@ -1,194 +1,5 @@
 [
   {
-    "topic_id": "youtube_analytics_official",
-    "title": "The YouTube Reporting API now supports the following system-managed reports for content owners: Category Report name Report type ID Financial Summaries Monthly channel adjustments",
-    "tokens": [
-      "adjustments",
-      "api",
-      "category",
-      "channel",
-      "content",
-      "financial",
-      "following",
-      "for",
-      "id",
-      "managed",
-      "monthly",
-      "name",
-      "now",
-      "owners",
-      "report",
-      "reporting",
-      "reports",
-      "summaries",
-      "supports",
-      "system",
-      "the",
-      "type",
-      "youtube"
-    ],
-    "date": "2026-10-31"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-    "tokens": [
-      "achieves",
-      "chatgpt",
-      "credit",
-      "enterprise",
-      "in",
-      "pilot",
-      "roi",
-      "saison"
-    ],
-    "date": "2026-10-31"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "tokens": [
-      "ads",
-      "advertisers",
-      "as",
-      "chatgpt",
-      "countries",
-      "expands",
-      "have",
-      "new",
-      "over",
-      "platform",
-      "the",
-      "to",
-      "used"
-    ],
-    "date": "2026-10-31"
-  },
-  {
-    "topic_id": "ai_agents",
-    "title": "깃허브, AI 모델 선택·작업 관리 자동화…\"내년 애저 100% 전환\"",
-    "tokens": [
-      "ai",
-      "관리",
-      "깃허브",
-      "내년",
-      "모델",
-      "선택",
-      "애저",
-      "자동화",
-      "작업",
-      "전환"
-    ],
-    "date": "2026-10-31"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "요즘 시대 연 26% 적금 실화냐?...저축은행의 몸부림",
-    "tokens": [
-      "몸부림",
-      "시대",
-      "실화냐",
-      "요즘",
-      "저축은행의",
-      "적금"
-    ],
-    "date": "2026-10-31"
-  },
-  {
-    "topic_id": "platform",
-    "title": "“가방 뭐야?” 챗GPT 묻지 마라…한달 1.4억명 쓴 유튜브 기능",
-    "tokens": [
-      "4억명",
-      "가방",
-      "마라",
-      "묻지",
-      "뭐야",
-      "유튜브",
-      "챗gpt",
-      "한달"
-    ],
-    "date": "2026-10-31"
-  },
-  {
-    "topic_id": "ai_product_news",
-    "title": "Apple, 강력한 신규 AI 기능과 한층 다양해진 창작 도구가 추가된 Apple Creator Studio 공개",
-    "tokens": [
-      "ai",
-      "apple",
-      "creator",
-      "studio",
-      "강력한",
-      "기능과",
-      "다양해진",
-      "도구가",
-      "신규",
-      "창작",
-      "추가된",
-      "한층"
-    ],
-    "date": "2026-10-31"
-  },
-  {
-    "topic_id": "bank_product",
-    "title": "年 4% 정기예금, 5% 발행어음… 고금리 상품 다시 뜬다",
-    "tokens": [
-      "고금리",
-      "다시",
-      "뜬다",
-      "발행어음",
-      "상품",
-      "정기예금"
-    ],
-    "date": "2026-10-31"
-  },
-  {
-    "topic_id": "ai_product_news",
-    "title": "현대차, '플레오스 커넥트' 무선 업데이트 실시…\"음성 AI 기능 강화\"",
-    "tokens": [
-      "ai",
-      "강화",
-      "무선",
-      "실시",
-      "음성",
-      "커넥트",
-      "플레오스",
-      "현대차"
-    ],
-    "date": "2026-10-31"
-  },
-  {
-    "topic_id": "ai_image_tools",
-    "title": "레페리, AI 콘텐츠 제작·배포 플랫폼 'LCMD STUDIO' 정식 출시",
-    "tokens": [
-      "ai",
-      "lcmd",
-      "studio",
-      "레페리",
-      "배포",
-      "정식",
-      "제작",
-      "출시",
-      "콘텐츠"
-    ],
-    "date": "2026-10-31"
-  },
-  {
-    "topic_id": "ai_product_news",
-    "title": "\"업데이트했는데 왜 안 돼?\"… 한국어 트인 시리 AI, 대기표 받아야 하는 이유",
-    "tokens": [
-      "ai",
-      "대기표",
-      "받아야",
-      "시리",
-      "업데이트했는데",
-      "이유",
-      "트인",
-      "하는",
-      "한국어"
-    ],
-    "date": "2026-10-31"
-  },
-  {
     "topic_id": "openai_official",
     "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
     "tokens": [
@@ -1642,5 +1453,196 @@
       "중복"
     ],
     "date": "2026-11-07"
+  },
+  {
+    "topic_id": "sns_growth",
+    "title": "\"이용자 '래빗홀' 빠뜨려\"…EU, 틱톡 알고리즘에 칼 뺐다",
+    "tokens": [
+      "eu",
+      "래빗홀",
+      "빠뜨려",
+      "뺐다",
+      "알고리즘에",
+      "이용자",
+      "틱톡"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "유럽중앙은행 금리 동결…예금금리 연 2.50%",
+    "tokens": [
+      "금리",
+      "동결",
+      "예금금리",
+      "유럽중앙은행"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "local_currency",
+    "title": "여주시, '코리아 그랜드 페스티벌' 기간 지역화폐 5% 캐시백",
+    "tokens": [
+      "그랜드",
+      "기간",
+      "여주시",
+      "지역화폐",
+      "캐시백",
+      "코리아",
+      "페스티벌"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "ai_product_news",
+    "title": "삼성전자, 42만원대 ‘갤럭시 A18 LTE’ 출시…대화면·AI 기능 탑재",
+    "tokens": [
+      "42만원대",
+      "a18",
+      "ai",
+      "lte",
+      "갤럭시",
+      "대화면",
+      "삼성전자",
+      "출시",
+      "탑재"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "education_support",
+    "title": "오산시, 평생교육이용권 우수이용자 35만원 추가 지급",
+    "tokens": [
+      "35만원",
+      "오산시",
+      "우수이용자",
+      "지급",
+      "추가",
+      "평생교육이용권"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "카카오뱅크, 예적금 금리 0.10%p 인상…연 최고 4.05%",
+    "tokens": [
+      "금리",
+      "예적금",
+      "인상",
+      "최고",
+      "카카오뱅크"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "smallbiz_money",
+    "title": "정부, 불법 브로커 정책자금 신청 차단…3226억원 규모",
+    "tokens": [
+      "3226억원",
+      "규모",
+      "불법",
+      "브로커",
+      "정부",
+      "정책자금",
+      "차단"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "ai_product_news",
+    "title": "라이너, 글쓰기 AI '취업 준비' 기능 강화…“이용자 53%가 청년층”",
+    "tokens": [
+      "ai",
+      "강화",
+      "글쓰기",
+      "라이너",
+      "이용자",
+      "준비",
+      "청년층",
+      "취업"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "ai_image_tools",
+    "title": "스케치가 움직이는 캐릭터로…오픈AI '이미지 2.6' 출시",
+    "tokens": [
+      "스케치가",
+      "오픈ai",
+      "움직이는",
+      "이미지",
+      "출시",
+      "캐릭터로"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "ECB, 예상대로 예금금리 2.5%로 동결 - 머니투데이",
+    "tokens": [
+      "ecb",
+      "동결",
+      "머니투데이",
+      "예금금리",
+      "예상대로"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "loan",
+    "title": "치솟는 주담대…5억 대출 月 이자 292만원",
+    "tokens": [
+      "292만원",
+      "5억",
+      "대출",
+      "이자",
+      "주담대",
+      "치솟는"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "loan",
+    "title": "법 바꿔 가산금리 깎았더니 우대금리 더 빠졌다…\"대출 조이느라\"",
+    "tokens": [
+      "가산금리",
+      "깎았더니",
+      "대출",
+      "바꿔",
+      "빠졌다",
+      "우대금리",
+      "조이느라"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "loan",
+    "title": "8% 향하던 은행 고정형 대출, 채권금리 급락에 어느새 6% 중반으로[머니뭐니]",
+    "tokens": [
+      "고정형",
+      "급락에",
+      "대출",
+      "머니뭐니",
+      "어느새",
+      "은행",
+      "중반으로",
+      "채권금리",
+      "향하던"
+    ],
+    "date": "2026-11-08"
+  },
+  {
+    "topic_id": "ai_product_news",
+    "title": "오픈AI, 빠르게 생성하고 편집 강화한 '이미지 2.6' 출시",
+    "tokens": [
+      "강화한",
+      "빠르게",
+      "생성하고",
+      "오픈ai",
+      "이미지",
+      "출시",
+      "편집"
+    ],
+    "date": "2026-11-08"
   }
 ]

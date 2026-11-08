@@ -1,27 +1,214 @@
 {
-  "generated_at": "2026-11-07 15:33 KST",
+  "generated_at": "2026-11-08 15:39 KST",
   "counts": {
-    "부업": 1,
-    "재테크": 4,
+    "부업": 0,
+    "재테크": 6,
     "혜택": 3,
-    "SNS분석": 2,
+    "SNS분석": 1,
     "리뷰어": 0,
-    "AI": 5,
+    "AI": 4,
     "꿀팁": 0,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "ai_image_tools-라이너글쓰기ai취업준비기능강화이용자53가청년층",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
+      "id": "sns_growth-이용자래빗홀빠뜨려eu틱톡알고리즘에칼뺐다",
+      "topic_id": "sns_growth",
+      "lane": "SNS분석",
+      "label": "성장·알고리즘",
       "status": "PICK",
-      "score": 79,
+      "score": 81,
+      "headline": "\"이용자 '래빗홀' 빠뜨려\"…EU, 틱톡 알고리즘에 칼 뺐다",
+      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
+      "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
+      "check_first": "공식 크리에이터 문서와 실제 적용 화면 확인",
+      "money_signal": [],
+      "published_at": "2026-11-08T01:18:23+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "이데일리",
+          "title": "\"이용자 '래빗홀' 빠뜨려\"…EU, 틱톡 알고리즘에 칼 뺐다",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdXh4VTN0SFdhVjFTRHlWZFE2RFg3Wmxaei1HZTctNU96Y1VXYXN1MFF6RGswTlNsWWNxNTZTYU1yc29uNkhIUHZlNF94amlMcFk2N2tydUpmcmZtazM3b1hzYlRNQ2daZkJva0VHWkJRRDdONmN5c1BRc0x5OU1nSA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-유럽중앙은행금리동결예금금리연250",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "유럽중앙은행 금리 동결…예금금리 연 2.50%",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "2.50%"
+      ],
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "source_count": 5,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "유럽중앙은행 금리 동결…예금금리 연 2.50%",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5Yk0wLXlnWS1sRkVPY2NTTkl2bFJvOWZpRnozNXk0UEtTVlh4cGdfeGhRWnlPZWJlSGxicVhTUFF6Q0ZuVFFtSmZRQnVYQXVhd25QZUU4V1BTTGvSAWBBVV95cUxNV1JtSUpUOGxkMGF6aGJZQ1V0QU9pNnJsbDgwb0czQUt6WmFWbTBwLVhHbnhsUUIwNjVYYlRUWlplblBpdHlidnhpTTkzRmk1ZmVGdllBdHVfenhCN3c4OWg?oc=5"
+        },
+        {
+          "name": "연합뉴스TV",
+          "title": "유럽중앙은행 금리 동결…예금금리 연 2.50%",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OdWg1ZzhoUzJiNDlCVk1jV3k4Q3BQZENZZlJIVE84X01GMXlpZTJmQ0hJeG5Mc2dTZkpuODdwaktjNHVsVXp2SmFrVmpxYTZnWmRoeTRCeGxmclotVEtGcWp4SndER2s?oc=5"
+        },
+        {
+          "name": "한국경제",
+          "title": "[1보] ECB 금리 동결…예금금리 연 2.50％",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCU05JUmplQ21xZkhId0FVakR5NkUtdW5qUEJuVFRKVVFwU3lycEJwVEZlREw0d29UU2NER1FaQUs0c01JMWV5dXRyTnU1SEQ3VHRHczBDeHBZZw?oc=5"
+        },
+        {
+          "name": "SBS 뉴스",
+          "title": "유럽중앙은행 금리 동결…예금 금리 연 2.50％",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oSnAxdktUNjAyMWlONFV2LWxZN1pZdi1RSkZCc1NybXFybUFpdDdGUzk3Y1BLanZkNWhHZ2lJdVlEdDFCSjBIbzVRVEdBSTRKcUUzaWlsY1EyYXVkZ2paYVFBRG1MME51M0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "local_currency-여주시코리아그랜드페스티벌기간지역화폐5캐시백",
+      "topic_id": "local_currency",
+      "lane": "혜택",
+      "label": "지역화폐",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "여주시, '코리아 그랜드 페스티벌' 기간 지역화폐 5% 캐시백",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "지역별 한도·기간·예산소진 조건",
+      "check_first": "지자체·운영기관 공식 공고 확인",
+      "money_signal": [
+        "5%"
+      ],
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "여주시, '코리아 그랜드 페스티벌' 기간 지역화폐 5% 캐시백",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vdl9xX2F3T1ZZbU12enV0T0R0akM2SjNaalZMdkE3YXFFMHZhVnJTVTNEdDgxZ21PeERraF9QbDZJbmxGNW9zVVdTUjcyTlhEbFVuWUpFQWgwRkHSAWBBVV95cUxONXhleVllTXFVRGZTZl83T3RSdW1UQVl0SkNZNzhqWkNLYzc2M1lYZXp2YWNqSm5qd2dqSUNaSTFxVlY5UDQxcG1ucWc4Z1EwZlU3ZlYzdlZnU05MQ0FwWlM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_product_news-삼성전자42만원대갤럭시a18lte출시대화면ai기능탑재",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
+      "status": "WATCH",
+      "score": 73,
+      "headline": "삼성전자, 42만원대 ‘갤럭시 A18 LTE’ 출시…대화면·AI 기능 탑재",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "money_signal": [
+        "42만원"
+      ],
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "title": "삼성전자, 42만원대 ‘갤럭시 A18 LTE’ 출시…대화면·AI 기능 탑재",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjU4UU1ueHBsWmZXc0s1NC1GZ1VOa3c4Uk9EQUxLZUpraDdWcnJPb1pwRzd0Q21sWlhDT0dsNGVGbjFWRXJ6STk0Wi1BRzdYLThFbVMwVWVYbkhNMGR0RHJGSXpzbE5xSktrNnVNb2ZlOTg4VVpaWUxQOGgwc1gydzRR0gGWAUFVX3lxTFBOQzh6dHh3N1MzZ1diSmVvVEFWVC10eWR5dmhYczZVWkw5MDA3U2xPOFhSMzRsaUkyS2JWYjFjT3VZbmc4aEV3WksyVmFGb0NPUmRtV0M5dGo1Z0RuLTdpVzU5RjhhTVhzWmxYdXVqWkVxQ2d1TUpJUUVwR2tzQ1RvWUNhU0R4dVptai02dlhWVWpzam5NZw?oc=5"
+        },
+        {
+          "name": "머니투데이",
+          "title": "삼성전자, 42만원대 '갤럭시 A18 LTE' 출시…AI 기능 탑재 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01bmNKSlo2Q3Jqc01ELVRxYXIwclBfQllrRTMxbVdNR3hSQzlIcG50dVduTDNjNWlaX2ZDRFlCSXZQUG40RnMwbjVKeWJZUWNJOGw1V3FCSFpNalNlVDJEWUNIR1pnWUnSAWxBVV95cUxPYzJZc0V2R0NYaVFfa2xrbDFJZDZGM1AtOTdqRWxrVDhQYTZieFU5NThyQktOSWVxTVVoMXJqNXFCMjdBN1lOVVhjZGNvX04yMGJXV3JRWHZrMjkwY0NLSWM2ekVVWFoyZnFYZ2E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "education_support-오산시평생교육이용권우수이용자35만원추가지급",
+      "topic_id": "education_support",
+      "lane": "혜택",
+      "label": "교육지원",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "오산시, 평생교육이용권 우수이용자 35만원 추가 지급",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "연령·소득·지역에 따른 실제 대상 조건",
+      "check_first": "정부24·지자체 공식 공고 확인",
+      "money_signal": [
+        "35만원"
+      ],
+      "published_at": "2026-11-03T02:49:25+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "오산시, 평생교육이용권 우수이용자 35만원 추가 지급",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95VDdUYmxENldMSUN2TWw4MlJ0M3NvZ3RUdm9zdkFVV1dmOHlLbUhBLTRiV0xWb196XzBWc21iTzlyVDdyZnZtZjFIUXB6UElsckZiY2owaFM1cllrS2JBMtIBeEFVX3lxTE5FVThrT3VnLVVYVl83RU1hdVAtdTg4V0syVHRHcjFSNExYY243WmRSNy1Jam9lUjdETDNWd0JreVpsS3BJaDM1MUZhVTdna25FZm11Y2hyRGZIN1F5cTlfU0RGVi1zYWpabHZNZDJHMlQyQ3Z3bDA4ag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deposit-카카오뱅크예적금금리010p인상연최고405",
+      "topic_id": "deposit",
+      "lane": "재테크",
+      "label": "예적금",
+      "status": "WATCH",
+      "score": 72,
+      "headline": "카카오뱅크, 예적금 금리 0.10%p 인상…연 최고 4.05%",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
+      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
+      "money_signal": [
+        "0.10%",
+        "4.05%"
+      ],
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴스1",
+          "title": "카카오뱅크, 예적금 금리 0.10%p 인상…연 최고 4.05%",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLUF8xRURUeC01MDhFSV9uVmJ5UHVPT3dhY0pXVXZRNjRWVlBmVzZkY1JnSFRpMkJ6TjNwNDI1TXVRV3o4ZzVwWTlJR0tLbjI4Zl9V?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "smallbiz_money-정부불법브로커정책자금신청차단3226억원규모",
+      "topic_id": "smallbiz_money",
+      "lane": "혜택",
+      "label": "소상공인 지원",
+      "status": "WATCH",
+      "score": 71,
+      "headline": "정부, 불법 브로커 정책자금 신청 차단…3226억원 규모",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "현금지원과 대출성 정책자금을 구분",
+      "check_first": "중기부·소진공 공식 공고 확인",
+      "money_signal": [
+        "3226억원"
+      ],
+      "published_at": "2026-11-05T05:30:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "헤럴드경제",
+          "title": "정부, 불법 브로커 정책자금 신청 차단…3226억원 규모",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93d2YzZnQyZ0NFQU1oczFCbHFHLTlEU1JmZXFfNTFPa1lpMHd3MnA5UVZBcnN5eGpwcW1GQVppeXItaVI1WDE5OF90Y0wzX2trWjJOUzdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_product_news-라이너글쓰기ai취업준비기능강화이용자53가청년층",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
+      "status": "WATCH",
+      "score": 70,
       "headline": "라이너, 글쓰기 AI '취업 준비' 기능 강화…“이용자 53%가 청년층”",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
       "money_signal": [
         "53%"
       ],
@@ -36,183 +223,16 @@
       ]
     },
     {
-      "id": "creator_commerce-cj온스타일첫크리에이터커머스축제성황관람객656가수익화도전",
-      "topic_id": "creator_commerce",
-      "lane": "부업",
-      "label": "크리에이터 커머스",
-      "status": "WATCH",
-      "score": 77,
-      "headline": "CJ온스타일 첫 크리에이터 커머스 축제 성황…“관람객 65.6%가 수익화 도전”",
-      "why_now": "실제 수익 구조나 정산 조건에 연결되는 변화.",
-      "angle": "콘텐츠에서 구매·예약으로 이어지는 실제 수익구조",
-      "check_first": "플랫폼 공식 제휴조건·수수료·정산주기 확인",
-      "money_signal": [
-        "65.6%"
-      ],
-      "published_at": "2026-10-29T02:34:20+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "동아일보",
-          "title": "CJ온스타일 첫 크리에이터 커머스 축제 성황…“관람객 65.6%가 수익화 도전”",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2WkxfX0FMb3VlSy1jd0tlWlVUa0Ffa2RQdldURE8xbzh5Q09NSXdXejB6UFROcHowQ242c3BsYWMwUjl1M2lvc1JWaGQ5NjI0eGhDdmNnbFNEQ0xyRHlZdjJnbUZ1R3UwVDNhRTVNNVBqZ2pPWlHSAWZBVV95cUxQc2ZQSDVoNEE0V3hfRUJtNnpPMjFwYjJnWVNLeXVkVjBPTHV2NHpFY2lqQmxvRExYNUQ3ZnlHdVhrbHJHdHhTMW85NmZmVnI1ZjFMODNTX0Q4emU1azlVeVpDUjk3Y1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "sns_growth-창원시유튜브추천창원구독자10만달성감사이벤트",
-      "topic_id": "sns_growth",
-      "lane": "SNS분석",
-      "label": "성장·알고리즘",
-      "status": "WATCH",
-      "score": 76,
-      "headline": "창원시 유튜브 '추천창원' 구독자 10만 달성 감사 이벤트",
-      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
-      "check_first": "공식 크리에이터 문서와 실제 적용 화면 확인",
-      "money_signal": [],
-      "published_at": "2026-10-29T07:00:00+00:00",
-      "source_count": 2,
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "title": "창원시 유튜브 '추천창원' 구독자 10만 달성 감사 이벤트",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxSHBXZjB2M1g5SE9CTXpkYVpMc21VUndOVjBRTkdqZURpTU4zNDhuMXJ6bGdFNzhreFZfMTdZcy1OOHFmeVlHSUVJeTdXMmE3NGpHbjdSZ3owb2fSAWBBVV95cUxQeEFXOGMtTGd0X1o0SE5fX0xmU3c1cHkzaExpNUpJRV9mNGNjMFlRUnRIdkppYUltdlVyYVB3djlfN2RxZnJ6b0tMbmp1OUctdS1tYWR4TV9FWElnWTFSM0c?oc=5"
-        },
-        {
-          "name": "뉴시스",
-          "title": "창원시 유튜브 '추천창원' 10만 달성 이벤트",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6cEVNakhIM21QZ0ZzOTVsS3JPQ0lXSDY3UDlSZ0ZESWtvNUJRZXNqOFpUZ1M5Qi1vZERERm0wMmE1Uy12VlNkQXJGZkx3ZGkyYlJGckxoZks1V3BEUG5BatIBeEFVX3lxTE1HczJ3QjR5VFQxclZmLXplSVB4RnBNcDdjMzZ5aGNQOU03Q2dIWVZtamZKSE5GX1JMNFRHbS1MbmdvRWFiVG1UNkdnd2R1elh5XzI1NVVFVVZPa2Y2Ri1QaVVfSkNMSjEwRjN6ckk5QWZoUlQyOGtoaA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "benefit-강릉시9일부터1인당10만원민생지원금신청첫주요일제",
-      "topic_id": "benefit",
-      "lane": "혜택",
-      "label": "환급·캐시백",
-      "status": "WATCH",
-      "score": 75,
-      "headline": "강릉시, 9일부터 1인당 10만원 민생지원금 신청…첫 주 요일제",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "누가 얼마를 언제까지 신청하면 받는지",
-      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
-      "money_signal": [
-        "10만원"
-      ],
-      "published_at": "2026-11-06T05:20:02+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴스1",
-          "title": "강릉시, 9일부터 1인당 10만원 민생지원금 신청…첫 주 요일제",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05Y1JlUEFXWXg0R2lzM28ydGNCM2NHOGRoc3IyZkVncXo5eURuU182ZWxTVjg4dGNIVnBmYnZNeDdFUnhTSzB6ZXlHc1FhNW1jd0wtUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "deposit-카카오뱅크정기예금자유적금금리01p인상",
-      "topic_id": "deposit",
-      "lane": "재테크",
-      "label": "예적금",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "카카오뱅크, 정기예금·자유적금 금리 0.1%p인상",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
-      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
-      "money_signal": [
-        "0.1%"
-      ],
-      "published_at": "2026-10-28T07:00:00+00:00",
-      "source_count": 3,
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "title": "카카오뱅크, 정기예금·자유적금 금리 0.1%p인상",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiNUlfUlB5OXlIaVdONnlRZzlrbVBjeVE5bHdFTnFseVhrTF9PcXBiYVh6NUI2QklQcE5LcVFuTklvRTA3MHlwT1F3ZmE2UG1MWXJVWVhxTFhGSE3SAWBBVV95cUxPRXVwTlp4NEpzbGFDdFNzWDk4b1BLc2pyY05UbXRTMUpJSHdkamw0RTZfZ0lQREhFbEdUUlYyVUJsTThpWHVjbmZBeVNhdmR5dE1rV19JUlQ1cUcyWHVuN2U?oc=5"
-        },
-        {
-          "name": "뉴시스",
-          "title": "카카오뱅크, 정기예금·자유적금 금리 0.1%p 인상",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13U0FTRjBjQWVraEZhLXQxckh4RHJvT0tOT25MWldqbUIzM0RFbXFwN0xGTXRzMWZOY0IyNktxcjVnX1R3MXdpVFVUcWpUcmZhTUo4M0FVOS1QQXBQQnI0b9IBeEFVX3lxTE41RFd3OUp3bEhBMjFvVXR2V20zWl8tU2M0blZYWmhpV2JfZU1Va2R0Vm5Pc0pkVTFoSDJjS1FHZnpVLVFaQlNzNUpiUi1Fak1pTjZ1NlVxMGdQU2t1eVJBdGxCNWlyZE8tQjNwajZDck5vcl9XRS1BeA?oc=5"
-        },
-        {
-          "name": "이데일리",
-          "title": "카카오뱅크, 예·적금 금리 0.1%p 인상…최고 4.05%",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaHR5VEpORlI4NHBZT0Y4Y253VjIwQ2k2M19oYno1YmpmaV83X21hSEp6eG83bmhtWGNDS3hqdXFIVEM4eGVSdDFjcTJpRldSd1p2U2JWV3RWWmMyQkJfZnY4WDRtaWFydTkxcDNTSUVsQWNsblB6UzZVQXM3RjJlNQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "deposit-토스뱅크자유적금금리인상1년만기최고연375",
-      "topic_id": "deposit",
-      "lane": "재테크",
-      "label": "예적금",
-      "status": "WATCH",
-      "score": 74,
-      "headline": "토스뱅크, 자유적금 금리 인상…1년 만기 최고 연 3.75%",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
-      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
-      "money_signal": [
-        "3.75%"
-      ],
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "source_count": 3,
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "title": "토스뱅크, 자유적금 금리 인상…1년 만기 최고 연 3.75%",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tYWlMUnBDR3IwZUpHTEJ4cktuQmZBS3ZESGZmQlU4R25XbWpBWnFCN3VQSUUyb28tbTUwd254N083ajAxNUVGTUptZTV4cmFWTFpQemhlektieE3SAWBBVV95cUxNWlMyelpWdjZWNi1fdllyN0ZDZkZULU16Mm4xRldkbVM1N3RkTFhzSWR3RUs4SDZiQ0VwRkw1XzNza0JFcXlES3FiNnF2WUtFNGJwZkV4U0lsNWswMWpKaUc?oc=5"
-        },
-        {
-          "name": "뉴스1",
-          "title": "카카오뱅크, 예적금 금리 0.10%p 인상…연 최고 4.05%",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLUF8xRURUeC01MDhFSV9uVmJ5UHVPT3dhY0pXVXZRNjRWVlBmVzZkY1JnSFRpMkJ6TjNwNDI1TXVRV3o4ZzVwWTlJR0tLbjI4Zl9V?oc=5"
-        },
-        {
-          "name": "뉴스핌",
-          "title": "토스뱅크, '자유 적금' 금리 인상…1년 만기 최고 연 3.75%",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOa0M5ZlZKMXVfeDh3VlRoejVUNC1NMzlGd2xDanFTMTNzZ3ZELVVpLTdCaXNOVE9TTXQtMGV2ZzlXRndOR3dfTURMUjJ2OGtnN1UtWFI0V1hmaEFW?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-주택담보대출금리4885개월째오름세",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "주택담보대출 금리 4.88%…5개월째 오름세",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "4.88%"
-      ],
-      "published_at": "2026-10-29T07:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴스1",
-          "title": "주택담보대출 금리 4.88%…5개월째 오름세",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5R01yWmlEWVZYNTQ0LVduN0lDb0VUNHAwcVVoUThWbGJZZm1uV0toUUFUTVdaLThoTXdYaTNRX19NQXBsWTFLLVIxOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_video_tools-스케치가움직이는캐릭터로오픈ai이미지26출시",
-      "topic_id": "ai_video_tools",
+      "id": "ai_image_tools-스케치가움직이는캐릭터로오픈ai이미지26출시",
+      "topic_id": "ai_image_tools",
       "lane": "AI",
-      "label": "AI 영상",
+      "label": "AI 이미지",
       "status": "WATCH",
       "score": 70,
       "headline": "스케치가 움직이는 캐릭터로…오픈AI '이미지 2.6' 출시",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "영상 제작시간·비용을 얼마나 줄이는지 실제 사용 관점",
-      "check_first": "공식 제품 페이지의 요금·워터마크·상업이용 확인",
+      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
+      "check_first": "공식 요금·상업이용·저작권 정책 확인",
       "money_signal": [],
       "published_at": "2026-11-05T08:32:26+00:00",
       "source_count": 1,
@@ -225,89 +245,116 @@
       ]
     },
     {
-      "id": "deposit-정기예금금리4대인데지금들까더오르길기다릴까머니뷰",
+      "id": "deposit-ecb예상대로예금금리25로동결머니투데이",
       "topic_id": "deposit",
       "lane": "재테크",
       "label": "예적금",
       "status": "WATCH",
-      "score": 69,
-      "headline": "정기예금 금리 4%대인데…지금 들까, 더 오르길 기다릴까 [머니뷰]",
+      "score": 70,
+      "headline": "ECB, 예상대로 예금금리 2.5%로 동결 - 머니투데이",
       "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
       "angle": "광고금리 말고 실제 세후 이자와 우대조건",
       "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
       "money_signal": [
-        "4%"
+        "2.5%"
       ],
-      "published_at": "2026-11-06T01:01:00+00:00",
+      "published_at": "2026-10-29T07:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "동아일보",
-          "title": "정기예금 금리 4%대인데…지금 들까, 더 오르길 기다릴까 [머니뷰]",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLY3VQVk5FUnF4MkFFVnZMeFRXYWxoZl9TMEMza0tDU0JvVWFyX0NfcndReUZ4bmhfRTR4Zi1jWXpSQjdDdFBteXJ6akxmcjJKWFpXS2xDWWpocW1oSTY4eFdyeWVEQUx5OW0yNjZqYWZ3LVZhT3fSAWZBVV95cUxOU0hYUk4xaU01ZEdVMHAxVUdfT3Y5RXVuYldoNWp5UmxsT2xKaHdIU1ItamFycFY2UjBCZmVGWU5leGd2SzBrWUFycEFFWUx5a1JkUk9oRFRRdk1TZ3ZrZGhFUnNKUnc?oc=5"
+          "name": "머니투데이",
+          "title": "ECB, 예상대로 예금금리 2.5%로 동결 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pS2dYTC1hemotLUhMN18yVjNITDFWMS1EZndFZ1lqZER0Nnhrd1pPRDE2a29QVUpiN3A2a3ZSaFM5QkNsMElpQ2t2UXpTT1FmYUpHUEhwV0JYSFlFQ3RrZUxNOEhiMWJf0gFuQVVfeXFMTnRJSE90ZzRBYVJBaFczbDhlZVI1Yk1QbXhUQ3dCRVF3NVcxeVV1UlMwT1Y1S3Q1MmI2aGZfWVh4VWM2VHZqRk1NOWtBYTZGZ21ibmFfM0xQYl9RYWR6MkVvZE92VVl2ZjNuU2tHVUE?oc=5"
         }
       ]
     },
     {
-      "id": "smallbiz_money-중기부정책자금동일ip중복신청9천여건적발760건차단",
-      "topic_id": "smallbiz_money",
-      "lane": "혜택",
-      "label": "소상공인 지원",
+      "id": "loan-치솟는주담대5억대출이자292만원",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 70,
+      "headline": "치솟는 주담대…5억 대출 月 이자 292만원",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [
+        "292만원"
+      ],
+      "published_at": "2026-10-25T07:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "서울경제",
+          "title": "치솟는 주담대…5억 대출 月 이자 292만원",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85SDdsN0dGYXpUMk56YmNkbElVU0lmZWJLcUNubmJya0hsYUlTdENwS3Q0THVVVlprdnpNY2Q0WnNPYkNpbWxlNmszajNFZE1iaUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-법바꿔가산금리깎았더니우대금리더빠졌다대출조이느라",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
       "status": "WATCH",
       "score": 69,
-      "headline": "중기부, 정책자금 동일 IP 중복신청 9천여건 적발…760건 차단",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "현금지원과 대출성 정책자금을 구분",
-      "check_first": "중기부·소진공 공식 공고 확인",
+      "headline": "법 바꿔 가산금리 깎았더니 우대금리 더 빠졌다…\"대출 조이느라\"",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
       "money_signal": [],
-      "published_at": "2026-11-05T05:30:00+00:00",
+      "published_at": "2026-11-07T21:20:00+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "연합뉴스",
-          "title": "중기부, 정책자금 동일 IP 중복신청 9천여건 적발…760건 차단",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XWnBmZjVWN3padmRQNExPMTZnd3R0NFpKR3hMZmVXU1E4aDZjNVZhaUhRZjNsS2RUcjh4WkthMmZXWTlDdFFVeXZYZWFkSjdVVzJxVE56cVpnWWM1TEJLcNIBYEFVX3lxTE9XWnBmZjVWN3padmRQNExPMTZnd3R0NFpKR3hMZmVXU1E4aDZjNVZhaUhRZjNsS2RUcjh4WkthMmZXWTlDdFFVeXZYZWFkSjdVVzJxVE56cVpnWWM1TEJLcA?oc=5"
+          "name": "뉴스1",
+          "title": "법 바꿔 가산금리 깎았더니 우대금리 더 빠졌다…\"대출 조이느라\"",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02bUNSQWN6dE9GdDR3V1JrT2ozTHZYSUptU0xvdFRncmZGLVpGOHBpR0FBcWRtSThFVVBhb2ZXWndWaXh6VHlvYW9CUXlaMUdxT1lmR0dnN0p0REc3XzlFNUZR?oc=5"
         }
       ]
     },
     {
-      "id": "ai_product_news-lg전자ai기능갖춘얼음정수냉장고스템출시",
+      "id": "loan-8향하던은행고정형대출채권금리급락에어느새6중반으로머니뭐니",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 68,
+      "headline": "8% 향하던 은행 고정형 대출, 채권금리 급락에 어느새 6% 중반으로[머니뭐니]",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [
+        "8%",
+        "6%"
+      ],
+      "published_at": "2026-11-07T11:00:00+00:00",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "헤럴드경제",
+          "title": "8% 향하던 은행 고정형 대출, 채권금리 급락에 어느새 6% 중반으로[머니뭐니]",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ST2daYmFUNG81dnlJQURIMkppRDZWcnVqSFc0VVhwYl9wZEh1ZlgtX201LU9VSDJXNmx6WlZ2UEFkSC14ZmVtSjIzVkh1dmk2b2RLTVhR?oc=5"
+        },
+        {
+          "name": "헤럴드경제 미주판",
+          "title": "8% 향하던 은행 고정형 대출, 채권금리 급락에 어느새 6% 중반으로[머니뭐니]",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jQ2VIVlVhc3VhelFYTFJfaUQzVGJPZWVkZXFmRWE3QjZFWEFlZWFhVWxLbVRZZG9mQXVnVHVSN3JkQzdfOVRzcFdOVEdoS0stcmltUHZaTWRfb3FYWnVURw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_product_news-오픈ai빠르게생성하고편집강화한이미지26출시",
       "topic_id": "ai_product_news",
       "lane": "AI",
       "label": "AI 신제품",
       "status": "WATCH",
-      "score": 69,
-      "headline": "LG전자, AI 기능 갖춘 얼음정수 냉장고 ’스템’ 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
-      "money_signal": [],
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "source_count": 2,
-      "sources": [
-        {
-          "name": "연합뉴스TV",
-          "title": "LG전자, AI 기능 갖춘 얼음정수 냉장고 ’스템’ 출시",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53V0VDNGJ1U3hfeWR1aTNnZ1ZsX2ZITXZzeWlMVHJmcTg4QS0temtZSEpjR1J2dEl5WUtYd29nR3o2cXVpdG1MOTl1TFdadjlTaU04Z0FFdmZxMGRCcmlFcnhGWG9CZWc?oc=5"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "LG전자, 서랍형 냉동고·AI 기능 갖춘 '스템' 냉장고 출시",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jZmlsOHlFWXdlRGNpbGhHUzhZaUdjZTJJbDBoTTdCeWNJcTY3RDlpQkltVHNRUFNfVHhzRDhqbGs1Z2xtOEEzc2FmdE5oZnFDS1dvSG1LdnFOVU3SAWBBVV95cUxObUV3UE56OTA2Uk9DZ2t4cmJOY18ya0VKWXB5bUlRaUtzcVItcXJmaWhzQW9MX2V6YkJKNHl5bFhXNkF2MUl6OWY0MjM3VkdJWDFRY0NiUFN6c1NKekJZclM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_image_tools-오픈ai빠르게생성하고편집강화한이미지26출시",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
-      "status": "WATCH",
       "score": 68,
       "headline": "오픈AI, 빠르게 생성하고 편집 강화한 '이미지 2.6' 출시",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
       "money_signal": [],
       "published_at": "2026-11-05T05:18:59+00:00",
       "source_count": 1,
@@ -318,159 +365,93 @@
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOdDdQTXp0dFBseGh6SDBCeEFIU1NxM0dpMm9Ocl96YW9YTnZlaVBHMHRya29WSTh6SWhpbE00WXQ2MTBYSlg2M1JRWDN6Zw?oc=5"
         }
       ]
-    },
-    {
-      "id": "ai_product_news-회의록ai그래놀라무료음성받아쓰기기능출시",
-      "topic_id": "ai_product_news",
-      "lane": "AI",
-      "label": "AI 신제품",
-      "status": "WATCH",
-      "score": 68,
-      "headline": "회의록 AI 그래놀라, 무료 음성 받아쓰기 기능 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
-      "money_signal": [],
-      "published_at": "2026-11-04T11:38:04+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "title": "회의록 AI 그래놀라, 무료 음성 받아쓰기 기능 출시",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Gc3NxUlNUVmhQM1JVS0VDNU9SOUR6MFlfMjRDMnNTeFdFMEpHelFXQ0JwSW9KR3ZDYVdjaGNwMGRuR2JqOHVjYk9HcWVUZ2VtXzFHZ2pB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "sns_growth-창원시유튜브추천창원특례시최초실버버튼획득",
-      "topic_id": "sns_growth",
-      "lane": "SNS분석",
-      "label": "성장·알고리즘",
-      "status": "WATCH",
-      "score": 68,
-      "headline": "창원시 유튜브 ‘추천창원’ 특례시 최초 실버버튼 획득",
-      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
-      "check_first": "공식 크리에이터 문서와 실제 적용 화면 확인",
-      "money_signal": [],
-      "published_at": "2026-10-29T01:42:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "브릿지경제",
-          "title": "창원시 유튜브 ‘추천창원’ 특례시 최초 실버버튼 획득",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zVnhzYTdjR3VIMlNJLTU1NEljMU51aTdUamZHSHhlc2xha0ZUWnBNejQ4bWFWcUNZNXZ0aGtSVFNEbTZjb3ppUktpekIxVUt1cHNTWFBNQnFHUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "smallbiz_money-동일한ip로정책자금중복신청9117건적발",
-      "topic_id": "smallbiz_money",
-      "lane": "혜택",
-      "label": "소상공인 지원",
-      "status": "WATCH",
-      "score": 67,
-      "headline": "\"동일한 IP로 정책자금 중복 신청\"…9117건 적발",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "현금지원과 대출성 정책자금을 구분",
-      "check_first": "중기부·소진공 공식 공고 확인",
-      "money_signal": [],
-      "published_at": "2026-11-05T05:30:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "\"동일한 IP로 정책자금 중복 신청\"…9117건 적발",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zOHFtemNMcHU0T1FOc1paQmMyLXZIVjd5OU9MdmhpMjdybF9zdDlCYlhMWjlIVzN5SVAxZ0V4dnlPTTF6dDN6NGFYazBzYW04Ql95aGg4WUNQYzhwQm9wckcycndmcTZCVkplWFpCeHlsY0RUX3BJcdIBeEFVX3lxTE5zOHFtemNMcHU0T1FOc1paQmMyLXZIVjd5OU9MdmhpMjdybF9zdDlCYlhMWjlIVzN5SVAxZ0V4dnlPTTF6dDN6NGFYazBzYW04Ql95aGg4WUNQYzhwQm9wckcycndmcTZCVkplWFpCeHlsY0RUX3BJcQ?oc=5"
-        }
-      ]
     }
   ],
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 27,
-    "shown": 15,
+    "raw_articles": 25,
+    "shown": 14,
     "topic_raw_counts": {
+      "tax": 0,
       "apptech": 1,
       "youtube_ypp": 0,
-      "tax": 0,
       "affiliate": 1,
-      "blog_ads": 0,
       "benefit": 3,
+      "sns_growth": 6,
+      "blog_ads": 0,
+      "deposit": 24,
+      "loan": 23,
       "policy": 0,
-      "deposit": 23,
-      "loan": 20,
-      "sns_growth": 5,
       "openai_official": 9,
-      "reviewer": 4,
+      "reviewer": 3,
       "creator_campaign": 2,
-      "instagram_metrics": 0,
       "youtube_metrics": 0,
       "digital_tip": 0,
-      "platform": 3,
-      "chatgpt_update": 0,
+      "instagram_metrics": 0,
+      "platform": 2,
+      "useful_info": 2,
       "ai_creator": 0,
-      "useful_info": 1,
+      "chatgpt_update": 0,
       "gemini_update": 0,
+      "claude_update": 0,
       "chrome_tip": 0,
       "naver_creator_money": 0,
-      "claude_update": 0,
       "smartstore_seller": 0,
       "freelance_market": 0,
+      "digital_product": 0,
       "youtube_shopping": 0,
       "creator_sponsorship": 0,
-      "digital_product": 0,
-      "instagram_reels_metrics": 0,
       "youtube_shorts_metrics": 0,
       "youtube_channel_metrics": 0,
       "naver_blog_metrics": 0,
-      "tiktok_metrics": 0,
-      "x_account_metrics": 0,
-      "youtube_analytics_official": 1,
+      "instagram_reels_metrics": 0,
       "threads_growth": 0,
-      "beauty_reviewer": 0,
+      "x_account_metrics": 0,
+      "tiktok_metrics": 1,
       "food_reviewer": 0,
       "tech_reviewer": 0,
-      "creator_ambassador": 2,
+      "beauty_reviewer": 0,
+      "youtube_analytics_official": 1,
       "app_beta_reviewer": 0,
       "travel_reviewer": 0,
-      "ai_search": 0,
+      "creator_ambassador": 2,
       "ai_video_tools": 5,
-      "korean_ai": 1,
-      "ai_image_tools": 9,
-      "mobile_tip": 0,
-      "ai_agents": 0,
       "ai_coding": 0,
-      "pc_tip": 0,
-      "productivity_tip": 0,
-      "privacy_tip": 0,
-      "travel_tip": 0,
-      "energy_support": 0,
+      "ai_image_tools": 10,
+      "ai_search": 0,
+      "ai_agents": 0,
+      "korean_ai": 1,
       "public_data_tip": 0,
+      "productivity_tip": 0,
+      "travel_tip": 0,
+      "privacy_tip": 0,
+      "mobile_tip": 0,
+      "energy_support": 0,
       "telecom_discount": 0,
-      "education_support": 0,
       "employment_support": 0,
+      "pc_tip": 0,
       "local_currency": 2,
+      "education_support": 1,
       "isa_change": 0,
       "card_benefit": 0,
-      "mortgage_policy": 0,
-      "family_benefit": 0,
-      "smallbiz_money": 2,
       "pension_tax": 0,
+      "family_benefit": 0,
       "bank_product": 0,
+      "mortgage_policy": 0,
       "tax_refund": 0,
-      "pension_public": 0,
       "youtube_policy": 0,
-      "threads_platform": 0,
+      "pension_public": 0,
       "instagram_platform": 0,
-      "naver_platform": 0,
-      "coupang_platform": 0,
+      "threads_platform": 0,
+      "smallbiz_money": 1,
       "x_platform": 0,
+      "coupang_platform": 0,
+      "naver_platform": 0,
       "youtube_shop_affiliate": 0,
-      "youtube_money_change": 0,
       "ai_product_news": 13,
-      "creator_commerce": 1
+      "creator_commerce": 1,
+      "youtube_money_change": 0
     },
     "errors": []
   }
