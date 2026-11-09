@@ -1,147 +1,5 @@
 [
   {
-    "topic_id": "openai_official",
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "tokens": [
-      "apps",
-      "bring",
-      "chatgpt",
-      "expands",
-      "its",
-      "openai",
-      "oracle",
-      "partnership",
-      "to",
-      "with"
-    ],
-    "date": "2026-11-01"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "Build more responsive apps with the Decisions API",
-    "tokens": [
-      "api",
-      "apps",
-      "build",
-      "decisions",
-      "more",
-      "responsive",
-      "the",
-      "with"
-    ],
-    "date": "2026-11-01"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "tokens": [
-      "all",
-      "brings",
-      "chatgpt",
-      "employees",
-      "openai",
-      "to",
-      "uber",
-      "with",
-      "work"
-    ],
-    "date": "2026-11-01"
-  },
-  {
-    "topic_id": "loan",
-    "title": "NH농협은행, 주담대 금리 인하…비수도권 0.2%p·수도권 0.1%p↓",
-    "tokens": [
-      "nh농협은행",
-      "금리",
-      "비수도권",
-      "수도권",
-      "인하",
-      "주담대"
-    ],
-    "date": "2026-11-01"
-  },
-  {
-    "topic_id": "policy",
-    "title": "진주시, ‘2026년 청년 중개보수비 지원사업’ 신청자 모집",
-    "tokens": [
-      "2026년",
-      "모집",
-      "신청자",
-      "중개보수비",
-      "지원사업",
-      "진주시",
-      "청년"
-    ],
-    "date": "2026-11-01"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "“증시 불안에 다시 은행으로?” 예금 금리 4%대 다시 등장…대출자는 70%가 4.5% 이상 [머니뭐니]",
-    "tokens": [
-      "금리",
-      "다시",
-      "대출자는",
-      "등장",
-      "머니뭐니",
-      "불안에",
-      "예금",
-      "은행으로",
-      "이상",
-      "증시"
-    ],
-    "date": "2026-11-01"
-  },
-  {
-    "topic_id": "gemini_update",
-    "title": "Google Cloud, 비즈니스의 가장 어려운 문제를 해결하도록 설계된 Gemini 4 Argon 출시",
-    "tokens": [
-      "argon",
-      "cloud",
-      "gemini",
-      "google",
-      "가장",
-      "문제를",
-      "비즈니스의",
-      "설계된",
-      "어려운",
-      "출시",
-      "해결하도록"
-    ],
-    "date": "2026-11-01"
-  },
-  {
-    "topic_id": "ai_creator",
-    "title": "깃허브 CTO \"AI 에이전트에 맞는 '깃' 만들 것…오류 검토 기능 강화\"",
-    "tokens": [
-      "ai",
-      "cto",
-      "강화",
-      "검토",
-      "깃허브",
-      "만들",
-      "맞는",
-      "에이전트에",
-      "오류"
-    ],
-    "date": "2026-11-01"
-  },
-  {
-    "topic_id": "loan",
-    "title": "금리 치솟는데, 주담대·신용대출 다시 들썩…10월 가계대출 2.2조↑",
-    "tokens": [
-      "10월",
-      "2조",
-      "가계대출",
-      "금리",
-      "다시",
-      "들썩",
-      "신용대출",
-      "주담대",
-      "치솟는데"
-    ],
-    "date": "2026-11-01"
-  },
-  {
     "topic_id": "reviewer",
     "title": "오산시, 2027 경기도체육대회 시민서포터즈 100명 모집",
     "tokens": [
@@ -1644,5 +1502,229 @@
       "편집"
     ],
     "date": "2026-11-08"
+  },
+  {
+    "topic_id": "youtube_analytics_official",
+    "title": "As of January 15, 2027, version 1.0 of the weekly references report for content owners ( content_owner_active_references_a1 ) is deprecated and has been replaced by Version 1.1 (",
+    "tokens": [
+      "a1",
+      "active",
+      "and",
+      "as",
+      "been",
+      "by",
+      "content",
+      "deprecated",
+      "for",
+      "has",
+      "is",
+      "january",
+      "of",
+      "owner",
+      "owners",
+      "references",
+      "replaced",
+      "report",
+      "the",
+      "version",
+      "weekly"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "useful_info",
+    "title": "LG AI연구원, 'K-엑사원 2.5' API 무료 개방…\"2.0 대비 70% 성능 향상\"",
+    "tokens": [
+      "ai연구원",
+      "api",
+      "lg",
+      "개방",
+      "대비",
+      "무료",
+      "성능",
+      "엑사원",
+      "향상"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "tokens": [
+      "achieves",
+      "chatgpt",
+      "credit",
+      "enterprise",
+      "in",
+      "pilot",
+      "roi",
+      "saison"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "ai_product_news",
+    "title": "ETRI, 'AI전문가 없어도 AI개발 가능' 기술 오픈소스로 공개",
+    "tokens": [
+      "ai개발",
+      "ai전문가",
+      "etri",
+      "가능",
+      "기술",
+      "없어도",
+      "오픈소스로"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "sns_growth",
+    "title": "EU발 '틱톡 알고리즘' 규제…韓 산업·정치도 변화 압력 커지나",
+    "tokens": [
+      "eu발",
+      "규제",
+      "변화",
+      "산업",
+      "알고리즘",
+      "압력",
+      "정치도",
+      "커지나",
+      "틱톡"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "ai_video_tools",
+    "title": "딥브레인AI, 대화로 영상 제작… AI스튜디오 5.0 출시",
+    "tokens": [
+      "ai스튜디오",
+      "대화로",
+      "딥브레인ai",
+      "영상",
+      "제작",
+      "출시"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "tiktok_metrics",
+    "title": "\"이용자 '래빗홀' 빠뜨려\"…EU, 틱톡 알고리즘에 칼 뺐다",
+    "tokens": [
+      "eu",
+      "래빗홀",
+      "빠뜨려",
+      "뺐다",
+      "알고리즘에",
+      "이용자",
+      "틱톡"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "ai_agents",
+    "title": "메디팔, ASLS KOREA 2026서 병원 운영 자동화 AI 전략 공개",
+    "tokens": [
+      "2026서",
+      "ai",
+      "asls",
+      "korea",
+      "메디팔",
+      "병원",
+      "운영",
+      "자동화",
+      "전략"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "ai_agents",
+    "title": "'NSWS 2026', AI 에이전트와 사람의 협업, 업무 생산성·보안 혁신 해법 찾는다",
+    "tokens": [
+      "ai",
+      "nsws",
+      "보안",
+      "사람의",
+      "생산성",
+      "업무",
+      "에이전트와",
+      "찾는다",
+      "해법",
+      "혁신",
+      "협업"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "digital_tip",
+    "title": "애플 연말 아이폰 업데이트 시동…iOS 27.3, 12월 중순 나온다",
+    "tokens": [
+      "12월",
+      "ios",
+      "나온다",
+      "시동",
+      "아이폰",
+      "애플",
+      "연말",
+      "중순"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "loan",
+    "title": "고정형이 변동형보다 싸졌다…주담대 금리 '역전'",
+    "tokens": [
+      "고정형이",
+      "금리",
+      "변동형보다",
+      "싸졌다",
+      "역전",
+      "주담대"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "ai_video_tools",
+    "title": "이미지 검색부터 AI 생성·편집까지 한 번에…통로이미지 '젠트리' 출시 - 머니투데이",
+    "tokens": [
+      "ai",
+      "검색부터",
+      "머니투데이",
+      "번에",
+      "생성",
+      "이미지",
+      "젠트리",
+      "출시",
+      "통로이미지",
+      "편집까지"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "ai_agents",
+    "title": "AWS, AI 비서 여러 명 부리고 결과까지 챙기는 ‘키로 봇’ 출시",
+    "tokens": [
+      "ai",
+      "aws",
+      "결과까지",
+      "부리고",
+      "비서",
+      "여러",
+      "챙기는",
+      "출시",
+      "키로"
+    ],
+    "date": "2026-11-09"
+  },
+  {
+    "topic_id": "loan",
+    "title": "변동형보다 낮아진 주담대 고정금리…한달새 0.45%P 하락",
+    "tokens": [
+      "고정금리",
+      "낮아진",
+      "변동형보다",
+      "주담대",
+      "하락",
+      "한달새"
+    ],
+    "date": "2026-11-09"
   }
 ]
