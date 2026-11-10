@@ -1,124 +1,200 @@
 {
-  "generated_at": "2026-11-09 16:08 KST",
+  "generated_at": "2026-11-10 16:42 KST",
   "counts": {
     "부업": 0,
     "재테크": 2,
-    "혜택": 0,
-    "SNS분석": 3,
+    "혜택": 1,
+    "SNS분석": 1,
     "리뷰어": 0,
-    "AI": 7,
-    "꿀팁": 2,
+    "AI": 6,
+    "꿀팁": 3,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "youtube_analytics_official-asofjanuary152027version10oftheweeklyrefer",
-      "topic_id": "youtube_analytics_official",
-      "lane": "SNS분석",
-      "label": "YouTube Analytics 공식",
-      "status": "NOW",
-      "score": 92,
-      "headline": "As of January 15, 2027, version 1.0 of the weekly references report for content owners ( content_owner_active_references_a1 ) is deprecated and has been replaced by Version 1.1 (",
-      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "조회수·engaged views·Analytics 지표 변경이 채널 성과 해석에 미치는 영향",
-      "check_first": "YouTube Analytics 공식 변경이력과 Help 문서에서 YPP·수익 영향 확인",
-      "money_signal": [],
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "YouTube Analytics 공식",
-          "title": "As of January 15, 2027, version 1.0 of the weekly references report for content owners ( content_owner_active_references_a1 ) is deprecated and has been replaced by Version 1.1 (",
-          "url": "https://developers.google.com/youtube/analytics/revision_history"
-        }
-      ]
-    },
-    {
-      "id": "useful_info-lgai연구원k엑사원25api무료개방20대비70성능향상",
-      "topic_id": "useful_info",
-      "lane": "꿀팁",
-      "label": "유용정보",
-      "status": "NOW",
-      "score": 88,
-      "headline": "LG AI연구원, 'K-엑사원 2.5' API 무료 개방…\"2.0 대비 70% 성능 향상\"",
-      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
-      "angle": "돈 안 들이고 바로 써먹을 수 있는 공식 서비스와 사용법",
-      "check_first": "공식 운영기관·무료 범위·회원가입 필요 여부 확인",
-      "money_signal": [
-        "70%"
-      ],
-      "published_at": "2026-11-09T01:18:58+00:00",
-      "source_count": 2,
-      "sources": [
-        {
-          "name": "디지털투데이",
-          "title": "LG AI연구원, 'K-엑사원 2.5' API 무료 개방…\"2.0 대비 70% 성능 향상\"",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90d05WaXVUY0t0RWlKdnY0TlNyYTRQREJzbjBVY1Fza21OVXVKcGJTekQzOWNLcWE2ZUNoUjNtXzVwY3NzOFFLTWFfdk5UdUFaT1A0SXN5T1JOMk8wMDFRdnFqRzVDTWxqeW85YUV6Sld0dnc?oc=5"
-        },
-        {
-          "name": "머니투데이",
-          "title": "LG AI연구원, 성능 70%↑ 'K-엑사원 2.5' 무료 개방 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vYWdES0NsTnhZZ3IzeWh4NDFob2hEN3dOZHV0TjBpWXF1djl2Q1RvSW8zOU5pdS1jZjZZblFxVWRub2dXRGdHUjhkbjVyNzhkVUtKUjVPMlp2Z1cxTkhvdzZDSmc0TnZSM21NUHlCZmQ5d9IBckFVX3lxTE1vYWdES0NsTnhZZ3IzeWh4NDFob2hEN3dOZHV0TjBpWXF1djl2Q1RvSW8zOU5pdS1jZjZZblFxVWRub2dXRGdHUjhkbjVyNzhkVUtKUjVPMlp2Z1cxTkhvdzZDSmc0TnZSM21NUHlCZmQ5dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "openai_official-creditsaisonachieves954roiinachatgptenterp",
+      "id": "openai_official-chatgptenterprisenowavailableinawsmarketpl",
       "topic_id": "openai_official",
       "lane": "AI",
       "label": "OpenAI 공식",
-      "status": "PICK",
-      "score": 82,
-      "headline": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "status": "NOW",
+      "score": 94,
+      "headline": "ChatGPT Enterprise now available in AWS Marketplace",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
       "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
-      "money_signal": [
-        "954%"
-      ],
-      "published_at": "2026-10-29T00:00:00+00:00",
+      "money_signal": [],
+      "published_at": "2026-11-09T19:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
           "name": "OpenAI 공식",
-          "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-          "url": "https://openai.com/index/credit-saison"
+          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
         }
       ]
     },
     {
-      "id": "ai_product_news-etriai전문가없어도ai개발가능기술오픈소스로공개",
+      "id": "useful_info-엔비디아kaist한국어ai데이터셋만든다국내기업들에무료개방팩플",
+      "topic_id": "useful_info",
+      "lane": "꿀팁",
+      "label": "유용정보",
+      "status": "PICK",
+      "score": 81,
+      "headline": "엔비디아-KAIST, 한국어 AI 데이터셋 만든다…“국내 기업들에 무료 개방” [팩플]",
+      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
+      "angle": "돈 안 들이고 바로 써먹을 수 있는 공식 서비스와 사용법",
+      "check_first": "공식 운영기관·무료 범위·회원가입 필요 여부 확인",
+      "money_signal": [],
+      "published_at": "2026-11-10T05:45:42+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "중앙일보",
+          "title": "엔비디아-KAIST, 한국어 AI 데이터셋 만든다…“국내 기업들에 무료 개방” [팩플]",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zQjhNZmJxcVMxMHY5Zi1VU0N3cUJqTi0yU01JSUxsMnRXVE9wWXVvMVlSZmhOUHBDdGZvYnh2akhJR3VJQUs1R0w2WnFXVE9pRjMtYzFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "smallbiz_money-강화군소상공인30만원지원추가접수군비17억투입",
+      "topic_id": "smallbiz_money",
+      "lane": "혜택",
+      "label": "소상공인 지원",
+      "status": "PICK",
+      "score": 81,
+      "headline": "강화군, 소상공인 30만원 지원 추가 접수…\"군비 17억 투입\"",
+      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
+      "angle": "현금지원과 대출성 정책자금을 구분",
+      "check_first": "중기부·소진공 공식 공고 확인",
+      "money_signal": [
+        "30만원"
+      ],
+      "published_at": "2026-11-10T05:39:45+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "강화군, 소상공인 30만원 지원 추가 접수…\"군비 17억 투입\"",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WN21aQnlrdHNnSXMwTGRxVU90b0pNVFFhNXN6NEdzYmVYdm05Y2ZXLVdveVhQa1FLaFZWUHZseml0MWNkQVI0ZGo5NkFreEV4alpGeWpTSEpNWmUxMGxTOdIBeEFVX3lxTE9lSDRVd2JDWXYtVzBwdm52NkRMN0JhXzBYX0lsMGdEOHRQWDhJUE1HdmNZOW1CandxckRpbGhDUTZlMnV1MWVKVVV6dU1KTndXQzNlY2tiX3JlTEc3NTFCY3ZVeVhwWWt2bFlfVW1scE81a2FQdW1Ccw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "loan-연7목전주담대변동금리고정형추월복잡해진대출셈법",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
+      "status": "WATCH",
+      "score": 77,
+      "headline": "'연 7%' 목전 주담대 변동금리, 고정형 추월…복잡해진 대출 셈법",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [
+        "7%"
+      ],
+      "published_at": "2026-11-09T21:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "'연 7%' 목전 주담대 변동금리, 고정형 추월…복잡해진 대출 셈법",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56azN4cEVJRkc1UjZsekkyUk1DeWRIU0syVkpOT1J2S0x1dEtvYjdOR3FIM1hBdVFJd3FJeWE2ZHJEU2pwQlF2MFRWYm9ac2JzMkZpUWNXck16OFZhblhWNE40NFJpWFI3dXFzbEVpNlhTemhUQjMyWtIBeEFVX3lxTE56azN4cEVJRkc1UjZsekkyUk1DeWRIU0syVkpOT1J2S0x1dEtvYjdOR3FIM1hBdVFJd3FJeWE2ZHJEU2pwQlF2MFRWYm9ac2JzMkZpUWNXck16OFZhblhWNE40NFJpWFI3dXFzbEVpNlhTemhUQjMyWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_creator-센드버드쇼핑예약고객지원통합한ai에이전트출시",
+      "topic_id": "ai_creator",
+      "lane": "AI",
+      "label": "AI 제작도구",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "센드버드, 쇼핑·예약·고객지원 통합한 AI 에이전트 출시",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "기존 작업시간을 얼마나 줄이고 결과물 품질이 어느 수준인지",
+      "check_first": "요금·상업적 이용조건·워터마크·저작권 정책 확인",
+      "money_signal": [],
+      "published_at": "2026-11-10T06:56:34+00:00",
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "전자신문",
+          "title": "센드버드, 쇼핑·예약·고객지원 통합한 AI 에이전트 출시",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aQ1Z0YmdsMFZjc3V2aGY5MVdQb1pBRWlsdFZWZ2JwUFFHcmNGNm9zWTlTbTc1OVM5dkt0UzBBb2MtRFJ3VjZoRUV5YzhIZw?oc=5"
+        },
+        {
+          "name": "플래텀(Platum)",
+          "title": "센드버드 delight.ai, 통합 AI 에이전트 ‘딜라이트 커스터머 에이전트’ 출시",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLY1psRUZOLW1CX25aVDRXT0gySGZuQWJIQVpQU1lEZXF0ZE1FZlN0Y2VERm9PMzQ4Vk1zdENGOUx4dTY3Rm5XRw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_product_news-st마이크로dsp에지ai실시간제어기능탑재mcu출시",
       "topic_id": "ai_product_news",
       "lane": "AI",
       "label": "AI 신제품",
-      "status": "PICK",
-      "score": 78,
-      "headline": "ETRI, 'AI전문가 없어도 AI개발 가능' 기술 오픈소스로 공개",
+      "status": "WATCH",
+      "score": 74,
+      "headline": "ST마이크로, 'DSP·에지AI·실시간 제어 기능 탑재' MCU 출시",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
       "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
       "money_signal": [],
-      "published_at": "2026-11-09T01:47:51+00:00",
+      "published_at": "2026-11-10T04:17:36+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "연합뉴스",
-          "title": "ETRI, 'AI전문가 없어도 AI개발 가능' 기술 오픈소스로 공개",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpSmF1WU1TdFltWmUyYVMtUEJaZzdhVkpFalE3aVBiUXgyN0FvRFFDU1pKZFdMOE04NXpGZ1pYMmNyR2JNZ19aaHNWNF84LVpSNjRuM0g4WlNuQm8?oc=5"
+          "name": "지디넷코리아",
+          "title": "ST마이크로, 'DSP·에지AI·실시간 제어 기능 탑재' MCU 출시",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53bnl6V2xqRGVrS1NERVdjcWxVbGRZcFhmWW54UFhDSlNzbWFXa1c1aC1HYXZKVUo3RWtNWnljVlFOa0VJQlNqWUI2amVreWNnTEtlWHJB?oc=5"
         }
       ]
     },
     {
-      "id": "sns_growth-eu발틱톡알고리즘규제산업정치도변화압력커지나",
-      "topic_id": "sns_growth",
-      "lane": "SNS분석",
-      "label": "성장·알고리즘",
+      "id": "loan-변동형주택담보대출금리고정형금리역전",
+      "topic_id": "loan",
+      "lane": "재테크",
+      "label": "대출·금리",
       "status": "WATCH",
-      "score": 77,
+      "score": 73,
+      "headline": "변동형 주택담보대출 금리, 고정형 금리 역전",
+      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
+      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
+      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
+      "money_signal": [],
+      "published_at": "2026-11-10T05:21:05+00:00",
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "변동형 주택담보대출 금리, 고정형 금리 역전",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5OXU1OWZNT0l4REJfLU15UXYtajNDYjVWaGE3M3dHWlNRUHRXbUdTZV9yME9KOXRtWGdhdWlBb3hTZlZWakhneHg4UjFGQ1VYeWhseS05eUw4TjNLbnlZck5GVDJQTjdCeWNNcTdYNUtfWVhrWFN1bdIBeEFVX3lxTFA5OXU1OWZNT0l4REJfLU15UXYtajNDYjVWaGE3M3dHWlNRUHRXbUdTZV9yME9KOXRtWGdhdWlBb3hTZlZWakhneHg4UjFGQ1VYeWhseS05eUw4TjNLbnlZck5GVDJQTjdCeWNNcTdYNUtfWVhrWFN1bQ?oc=5"
+        },
+        {
+          "name": "뉴스1",
+          "title": "복잡해지는 대출 '셈법'…은행권, 변동형·고정형 금리 역전",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VME51c0F5V1RORF9ZZjFIQmhGeHAwQjlaaG0tSC1EZkM0blRjNzVCUmVFTTkwb05Ybk9lVzJBX28tYjhJS2RxQW5nZGtjNFlZNVVxMXl0MDRZY0hMZ2dTUDRn?oc=5"
+        },
+        {
+          "name": "Chosunbiz",
+          "title": "고정형 내리고 변동형 오르고…주담대 금리 역전",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWpPT0xPR09US190M003d05MczFZamI0a2ZiLWl0dWdiQnpyNzViUFpXazAxbW84TG5CcE0tRVRUc1ZNbGlmNVd4Z0dsN3N3REJnY2pJV0g2M2d1UGZTdHcwZzNJUWZoZXBQZXRvalg2VzQ3aktZUi1GaGhuWGs2cUxKaW9TTHBn0gGcAUFVX3lxTFBlUUdZWWkyaEVVbDJJbTA0Q0cwV1dJS2R5eUx1VWRCV3Nwc0lacXQ0RVdEU0QwLVYxcjBJVzhNaElHbkhtbWwwMWlSU2IyOGExRzR4R1pRZXRwcVhSSkRVOERhTlFfV0FYWEt5Z25hejJDNERWQWZrR3FlLWdvYm1nXzE2ZnBvTEh5ZC16dFk5WHpnMkpjRUg5YmREWA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "tiktok_metrics-eu발틱톡알고리즘규제산업정치도변화압력커지나",
+      "topic_id": "tiktok_metrics",
+      "lane": "SNS분석",
+      "label": "TikTok",
+      "status": "WATCH",
+      "score": 72,
       "headline": "EU발 '틱톡 알고리즘' 규제…韓 산업·정치도 변화 압력 커지나",
       "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "조회·도달 변화가 실제 계정 운영 방식에 미치는 영향",
-      "check_first": "공식 크리에이터 문서와 실제 적용 화면 확인",
+      "angle": "틱톡 추천·완주율 변화를 콘텐츠 구조에 반영",
+      "check_first": "TikTok 공식 크리에이터 자료 확인",
       "money_signal": [],
       "published_at": "2026-11-08T21:08:02+00:00",
       "source_count": 1,
@@ -131,104 +207,38 @@
       ]
     },
     {
-      "id": "ai_video_tools-딥브레인ai대화로영상제작ai스튜디오50출시",
-      "topic_id": "ai_video_tools",
-      "lane": "AI",
-      "label": "AI 영상",
-      "status": "WATCH",
-      "score": 73,
-      "headline": "딥브레인AI, 대화로 영상 제작… AI스튜디오 5.0 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "영상 제작시간·비용을 얼마나 줄이는지 실제 사용 관점",
-      "check_first": "공식 제품 페이지의 요금·워터마크·상업이용 확인",
-      "money_signal": [],
-      "published_at": "2026-11-09T01:31:34+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "디지털데일리",
-          "title": "딥브레인AI, 대화로 영상 제작… AI스튜디오 5.0 출시",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtY0RZcWotM0lXOXJhZUxJWUJZTzFxb0x1TlpQTlJIMlU4cTVoUHhBQWJqMmFvZFZfc1ZZZ1hscnpSVXM1MVJ1R1NlUU9TRU0wM3E1ZGI5UUdLcGs0MGlaVi1B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "tiktok_metrics-이용자래빗홀빠뜨려eu틱톡알고리즘에칼뺐다",
-      "topic_id": "tiktok_metrics",
-      "lane": "SNS분석",
-      "label": "TikTok",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "\"이용자 '래빗홀' 빠뜨려\"…EU, 틱톡 알고리즘에 칼 뺐다",
-      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "틱톡 추천·완주율 변화를 콘텐츠 구조에 반영",
-      "check_first": "TikTok 공식 크리에이터 자료 확인",
-      "money_signal": [],
-      "published_at": "2026-11-08T01:18:23+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "이데일리",
-          "title": "\"이용자 '래빗홀' 빠뜨려\"…EU, 틱톡 알고리즘에 칼 뺐다",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdXh4VTN0SFdhVjFTRHlWZFE2RFg3Wmxaei1HZTctNU96Y1VXYXN1MFF6RGswTlNsWWNxNTZTYU1yc29uNkhIUHZlNF94amlMcFk2N2tydUpmcmZtazM3b1hzYlRNQ2daZkJva0VHWkJRRDdONmN5c1BRc0x5OU1nSA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_agents-메디팔aslskorea2026서병원운영자동화ai전략공개",
+      "id": "ai_agents-세일즈포스에이전트포스코워커출시3개월만에사용자18만명팀즈등으로확장",
       "topic_id": "ai_agents",
       "lane": "AI",
       "label": "AI 에이전트",
       "status": "WATCH",
       "score": 71,
-      "headline": "메디팔, ASLS KOREA 2026서 병원 운영 자동화 AI 전략 공개",
+      "headline": "세일즈포스 에이전트포스 코워커, 출시 3개월 만에 사용자 18만명… 팀즈 등으로 확장",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
       "check_first": "공식 문서의 권한·요금·지원 도구 확인",
       "money_signal": [],
-      "published_at": "2026-11-09T02:05:06+00:00",
+      "published_at": "2026-11-10T01:57:48+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "지디넷코리아",
-          "title": "메디팔, ASLS KOREA 2026서 병원 운영 자동화 AI 전략 공개",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xQVJjamRuQVhRY1B1QmVYNGhSb3c4QkItQlBBc2ZIeFpRd3VjOTl6dmNoeUFUaFJEblhGLTlqbDViRE5EN3dCWkxhNlRvU3RCbGE1Qlhn?oc=5"
+          "name": "브랜드브리프",
+          "title": "세일즈포스 에이전트포스 코워커, 출시 3개월 만에 사용자 18만명… 팀즈 등으로 확장",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JaHI0TkZsR1VwRWo5cUJKT21VblUwOUU4YWFxNGVrYXBjcWlpc0JOa2dhaEh1c01zTjFER1FCSVBQOTV2NzY3Q21ZUU5ReTdkWXFZbTZOVXRoU2hvQ2hMYXRPNjdXN0xOVXpkNXdKVjhlZ2xVLTlvNDl4b1lLdw?oc=5"
         }
       ]
     },
     {
-      "id": "ai_agents-nsws2026ai에이전트와사람의협업업무생산성보안혁신해법찾는다",
-      "topic_id": "ai_agents",
-      "lane": "AI",
-      "label": "AI 에이전트",
-      "status": "WATCH",
-      "score": 71,
-      "headline": "'NSWS 2026', AI 에이전트와 사람의 협업, 업무 생산성·보안 혁신 해법 찾는다",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
-      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
-      "money_signal": [],
-      "published_at": "2026-11-09T01:18:33+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "전자신문",
-          "title": "'NSWS 2026', AI 에이전트와 사람의 협업, 업무 생산성·보안 혁신 해법 찾는다",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44RGpZRDZsZkI2d0VlUndmR094dDBiTnJ0a3VUeHdjZGRXbzF0akY3cU1IdEZzQk12bW9oR0hXN0Y4OGkzVUdMRnFZQkdOQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "digital_tip-애플연말아이폰업데이트시동ios27312월중순나온다",
-      "topic_id": "digital_tip",
+      "id": "mobile_tip-애플연말아이폰업데이트시동ios27312월중순나온다",
+      "topic_id": "mobile_tip",
       "lane": "꿀팁",
-      "label": "디지털 꿀팁",
+      "label": "스마트폰 꿀팁",
       "status": "WATCH",
       "score": 71,
       "headline": "애플 연말 아이폰 업데이트 시동…iOS 27.3, 12월 중순 나온다",
       "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
-      "angle": "지금 바로 켜거나 바꾸면 시간·돈을 아끼는 설정인지",
-      "check_first": "공식 도움말에서 지원 기기·버전·적용 조건 확인",
+      "angle": "바로 켜거나 바꿔서 시간·돈을 아끼는 설정",
+      "check_first": "Apple·Samsung 공식 지원문서 확인",
       "money_signal": [],
       "published_at": "2026-10-30T07:00:00+00:00",
       "source_count": 1,
@@ -241,92 +251,73 @@
       ]
     },
     {
-      "id": "loan-고정형이변동형보다싸졌다주담대금리역전",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "고정형이 변동형보다 싸졌다…주담대 금리 '역전'",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [],
-      "published_at": "2026-11-09T02:22:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "SBS Biz",
-          "title": "고정형이 변동형보다 싸졌다…주담대 금리 '역전'",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLWFN4RFB1c2tOOXlCMlhEc1NWdnppNU5aSTd4bGlzTEtlaHVVM2Vqa1EyZ3VqM3cxOS10TWJycEJpM3dCQkJLYTkwUkZRQXFQV21V0gFYQVVfeXFMTWQ5eHdzcnoyTkRIV3phN0hrdEgtMnYxYjBLeDlVcl9Md3BkMFJpTFdHelRtaUlybWtXTDJETGJTNlpPcXpBVk04QXhFSFAtMEtEWUtnMVgybQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_video_tools-이미지검색부터ai생성편집까지한번에통로이미지젠트리출시머니투데이",
-      "topic_id": "ai_video_tools",
-      "lane": "AI",
-      "label": "AI 영상",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "이미지 검색부터 AI 생성·편집까지 한 번에…통로이미지 '젠트리' 출시 - 머니투데이",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "영상 제작시간·비용을 얼마나 줄이는지 실제 사용 관점",
-      "check_first": "공식 제품 페이지의 요금·워터마크·상업이용 확인",
-      "money_signal": [],
-      "published_at": "2026-11-09T00:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "머니투데이",
-          "title": "이미지 검색부터 AI 생성·편집까지 한 번에…통로이미지 '젠트리' 출시 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UUThXQU9JODhQY1ZfaFJfWDlpYnVKanpTbGxFN2ppOFZidzAwaG5weEdfNVJUazNrY1N4RDlsVnRIV3RLY0NnZmpGRThiQ05ueEl4Z3F1dGQ5TG9NaUdtODVXUmI4LVhsYUk5blVjbHfSAXBBVV95cUxNVFE4V0FPSTg4UGNWX2hSX1g5aWJ1Smp6U2xsRTdqaThWYncwMGhucHhHXzVSVGsza2NTeEQ5bFZ0SFd0S2NDZ2ZqRkU4YkNObnhJeGdxdXRkOUxvTWlHbTg1V1JiOC1YbGFJOW5VY2x3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_agents-awsai비서여러명부리고결과까지챙기는키로봇출시",
+      "id": "ai_agents-센드버드고객여정통합ai딜라이트커스터머에이전트관리도구마이다스출시",
       "topic_id": "ai_agents",
       "lane": "AI",
       "label": "AI 에이전트",
       "status": "WATCH",
-      "score": 70,
-      "headline": "AWS, AI 비서 여러 명 부리고 결과까지 챙기는 ‘키로 봇’ 출시",
+      "score": 68,
+      "headline": "센드버드, 고객 여정 통합 AI ‘딜라이트 커스터머 에이전트’·관리 도구 ‘마이다스’ 출시",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
       "check_first": "공식 문서의 권한·요금·지원 도구 확인",
       "money_signal": [],
-      "published_at": "2026-11-08T22:03:03+00:00",
-      "source_count": 1,
+      "published_at": "2026-11-10T01:37:00+00:00",
+      "source_count": 2,
       "sources": [
         {
-          "name": "이데일리",
-          "title": "AWS, AI 비서 여러 명 부리고 결과까지 챙기는 ‘키로 봇’ 출시",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObnZ5UGpEcXNYVUItUVFhcV84S3pxeEh5enJQcjVQdWVOSlJvRkJ5OU9UclgzeVh4YVRjb3Nib2tTOE9heTdwMUcySnpiOHB0cks4VGVpME1aek1UZFhWNzcxT21vUklsZ24xMDlVc25tcnVmWkh2ZUxva0FIV3hScw?oc=5"
+          "name": "이코노미스트",
+          "title": "센드버드, 고객 여정 통합 AI ‘딜라이트 커스터머 에이전트’·관리 도구 ‘마이다스’ 출시",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhUnFsZnJuN3k0Mkdjd2xUSl9BYkt0LU05OUVUWGFMYzBSaDI5aV9VM2VTRUFZWkFMRmp6Ri1MVS1ZeC1SNnRhT1RjNWJFVG9LcDR0V2tuSVBtRWRsLVFCYUxB?oc=5"
+        },
+        {
+          "name": "플래텀(Platum)",
+          "title": "센드버드 delight.ai, 통합 AI 에이전트 ‘딜라이트 커스터머 에이전트’ 출시",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLY1psRUZOLW1CX25aVDRXT0gySGZuQWJIQVpQU1lEZXF0ZE1FZlN0Y2VERm9PMzQ4Vk1zdENGOUx4dTY3Rm5XRw?oc=5"
         }
       ]
     },
     {
-      "id": "loan-변동형보다낮아진주담대고정금리한달새045p하락",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
+      "id": "mobile_tip-아이폰이렇게달라졌다ios27에서꼭써봐야할기능5가지",
+      "topic_id": "mobile_tip",
+      "lane": "꿀팁",
+      "label": "스마트폰 꿀팁",
       "status": "WATCH",
-      "score": 70,
-      "headline": "변동형보다 낮아진 주담대 고정금리…한달새 0.45%P 하락",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "0.45%"
-      ],
-      "published_at": "2026-11-08T08:53:37+00:00",
+      "score": 68,
+      "headline": "아이폰 이렇게 달라졌다…iOS 27에서 꼭 써봐야 할 기능 5가지",
+      "why_now": "무료 기능·설정·공식 서비스처럼 바로 적용 가능한 정보.",
+      "angle": "바로 켜거나 바꿔서 시간·돈을 아끼는 설정",
+      "check_first": "Apple·Samsung 공식 지원문서 확인",
+      "money_signal": [],
+      "published_at": "2026-11-04T02:14:55+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "서울경제",
-          "title": "변동형보다 낮아진 주담대 고정금리…한달새 0.45%P 하락",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82ZXdVTUNvUnpVU254SVBMRHNKdlBLWW1aaWhNWGY0QnE0Y0xnOEZkZHRkTU1UZkhwWlpLTkpxZl9KXzltMTdYT1o3ei04amlOY1HSAVNBVV95cUxQWlpQU3FFYUU1WWlCUzNSWGlYT21BSmwtWmN2QzFQUDF5Z1dNeC1xOUlHTGpMUWxZRGN4bkxMZ0lJc0VYek44eXN6RmtMcDhWOWV0NA?oc=5"
+          "name": "디지털투데이",
+          "title": "아이폰 이렇게 달라졌다…iOS 27에서 꼭 써봐야 할 기능 5가지",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5VTRsSHhXT0g5RGQ5TmxiVjg3OTU3Ri1pQWJrV09faHh5blU5MzBiSDlScnVSM0o3Z1JRSXNMbHo3Yms1YzVHRy1UQmoyRWNGbkZ4d0VjLTY3eC03dVMtMVFZOVUwcWFVckFMd0laSElXY3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ai_product_news-현대차플레오스커넥트무선업데이트실시음성ai기능강화",
+      "topic_id": "ai_product_news",
+      "lane": "AI",
+      "label": "AI 신제품",
+      "status": "WATCH",
+      "score": 67,
+      "headline": "현대차, '플레오스 커넥트' 무선 업데이트 실시…\"음성 AI 기능 강화\"",
+      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
+      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
+      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
+      "money_signal": [],
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "현대차, '플레오스 커넥트' 무선 업데이트 실시…\"음성 AI 기능 강화\"",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GR00wOENjWmlNNHY3clg5NzZKaHR4b0h0Sll1M2poNHFCVjFXS0FSeGhXcnNyZXZYZW9aa2YtRW41TFFYWGhILVczdVg0TUU3X2xrTE9yQkJrU2xRZ2pIbNIBeEFVX3lxTE1jZ2E2LVBCT2Voa2h3OEVHQm5seUVHZFNTTmxOVjBhYkhFVWtFM0VlUW85SkwzODlDbWxWVXREWXpkWHd3S1pXWU0ydGFocXVQRGdDU3Y2ODlmaUVtTDA4a0Utcll3b1pYR1pRVFVRa1pYWEtGVHZqNA?oc=5"
         }
       ]
     }
@@ -334,88 +325,88 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 24,
-    "shown": 14,
+    "raw_articles": 18,
+    "shown": 13,
     "topic_raw_counts": {
       "tax": 0,
       "youtube_ypp": 0,
-      "affiliate": 1,
       "apptech": 1,
-      "benefit": 3,
+      "affiliate": 0,
+      "benefit": 2,
       "blog_ads": 0,
-      "sns_growth": 7,
-      "policy": 0,
       "deposit": 21,
-      "loan": 25,
+      "policy": 0,
+      "sns_growth": 6,
+      "loan": 24,
+      "openai_official": 5,
       "reviewer": 2,
-      "openai_official": 9,
       "creator_campaign": 1,
-      "youtube_metrics": 0,
       "digital_tip": 1,
-      "chatgpt_update": 0,
-      "instagram_metrics": 0,
       "useful_info": 4,
       "platform": 1,
-      "ai_creator": 0,
+      "youtube_metrics": 0,
+      "instagram_metrics": 0,
+      "chatgpt_update": 0,
+      "ai_creator": 2,
       "chrome_tip": 0,
-      "gemini_update": 0,
       "claude_update": 0,
+      "gemini_update": 0,
+      "youtube_shopping": 0,
       "naver_creator_money": 0,
       "freelance_market": 0,
-      "youtube_shopping": 0,
       "smartstore_seller": 0,
       "digital_product": 0,
       "creator_sponsorship": 0,
       "instagram_reels_metrics": 0,
-      "naver_blog_metrics": 0,
       "youtube_shorts_metrics": 0,
+      "naver_blog_metrics": 0,
+      "beauty_reviewer": 0,
+      "food_reviewer": 0,
       "youtube_channel_metrics": 0,
       "x_account_metrics": 0,
-      "beauty_reviewer": 0,
       "youtube_analytics_official": 1,
-      "threads_growth": 0,
       "tiktok_metrics": 2,
-      "food_reviewer": 0,
+      "threads_growth": 0,
       "tech_reviewer": 0,
-      "creator_ambassador": 1,
       "app_beta_reviewer": 0,
-      "travel_reviewer": 0,
+      "creator_ambassador": 2,
+      "ai_video_tools": 2,
       "ai_coding": 0,
-      "ai_video_tools": 6,
-      "ai_image_tools": 9,
       "ai_search": 0,
       "korean_ai": 1,
-      "ai_agents": 3,
-      "mobile_tip": 1,
-      "productivity_tip": 0,
-      "public_data_tip": 0,
+      "ai_image_tools": 5,
+      "travel_reviewer": 0,
+      "ai_agents": 4,
+      "mobile_tip": 2,
       "pc_tip": 0,
-      "privacy_tip": 0,
       "travel_tip": 0,
-      "telecom_discount": 0,
+      "productivity_tip": 0,
       "energy_support": 0,
+      "public_data_tip": 0,
+      "privacy_tip": 0,
+      "telecom_discount": 0,
       "local_currency": 2,
       "employment_support": 0,
       "education_support": 1,
-      "card_benefit": 0,
-      "family_benefit": 0,
-      "isa_change": 0,
-      "bank_product": 0,
       "mortgage_policy": 0,
-      "smallbiz_money": 0,
+      "card_benefit": 0,
       "pension_tax": 0,
-      "tax_refund": 0,
-      "pension_public": 0,
+      "smallbiz_money": 1,
+      "isa_change": 0,
+      "family_benefit": 0,
       "youtube_policy": 0,
-      "instagram_platform": 0,
-      "x_platform": 0,
+      "tax_refund": 0,
+      "bank_product": 0,
+      "pension_public": 0,
       "threads_platform": 0,
       "naver_platform": 0,
+      "instagram_platform": 0,
+      "x_platform": 0,
       "coupang_platform": 0,
       "youtube_shop_affiliate": 0,
+      "ai_product_news": 7,
       "youtube_money_change": 0,
-      "ai_product_news": 9,
-      "creator_commerce": 1
+      "creator_commerce": 2
     },
     "errors": []
   }
