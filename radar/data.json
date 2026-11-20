@@ -1,368 +1,79 @@
 {
-  "generated_at": "2026-11-19 16:53 KST",
+  "generated_at": "2026-11-20 16:44 KST",
   "counts": {
     "부업": 0,
-    "재테크": 4,
-    "혜택": 2,
-    "SNS분석": 1,
-    "리뷰어": 1,
-    "AI": 7,
+    "재테크": 0,
+    "혜택": 0,
+    "SNS분석": 0,
+    "리뷰어": 0,
+    "AI": 3,
     "꿀팁": 0,
     "플랫폼": 0
   },
   "items": [
     {
-      "id": "openai_official-insidethecodexsandbox",
-      "topic_id": "openai_official",
-      "lane": "AI",
-      "label": "OpenAI 공식",
-      "status": "NOW",
-      "score": 94,
-      "headline": "Inside the Codex sandbox",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
-      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
-      "money_signal": [],
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "OpenAI 공식",
-          "title": "Inside the Codex sandbox",
-          "url": "https://openai.com/index/inside-the-codex-sandbox"
-        }
-      ]
-    },
-    {
-      "id": "openai_official-legroupefigaroandopenaipartnertobringlefig",
+      "id": "openai_official-explorethecodexsecurityplugin",
       "topic_id": "openai_official",
       "lane": "AI",
       "label": "OpenAI 공식",
       "status": "NOW",
       "score": 88,
-      "headline": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "headline": "Explore the Codex Security Plugin",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
       "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
       "money_signal": [],
-      "published_at": "2026-11-18T00:00:00+00:00",
+      "published_at": "2026-11-19T00:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
           "name": "OpenAI 공식",
-          "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+          "title": "Explore the Codex Security Plugin",
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo"
         }
       ]
     },
     {
-      "id": "openai_official-chatgptenterprisenowavailableinawsmarketpl",
+      "id": "openai_official-chatgptplusforveteransandservicemembers",
       "topic_id": "openai_official",
       "lane": "AI",
       "label": "OpenAI 공식",
       "status": "PICK",
       "score": 82,
-      "headline": "ChatGPT Enterprise now available in AWS Marketplace",
+      "headline": "ChatGPT Plus for veterans and servicemembers",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
       "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
       "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
       "money_signal": [],
-      "published_at": "2026-11-09T19:00:00+00:00",
+      "published_at": "2026-11-11T08:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
           "name": "OpenAI 공식",
-          "title": "ChatGPT Enterprise now available in AWS Marketplace",
-          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+          "title": "ChatGPT Plus for veterans and servicemembers",
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans"
         }
       ]
     },
     {
-      "id": "benefit-강릉시민생안정지원금14만5000명신청신청률70돌파",
-      "topic_id": "benefit",
-      "lane": "혜택",
-      "label": "환급·캐시백",
+      "id": "openai_official-introducingbusinessesinchatgpt",
+      "topic_id": "openai_official",
+      "lane": "AI",
+      "label": "OpenAI 공식",
       "status": "PICK",
-      "score": 80,
-      "headline": "강릉시 민생안정지원금 14만5000명 신청…신청률 70% 돌파",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "누가 얼마를 언제까지 신청하면 받는지",
-      "check_first": "운영기관 공식 공고에서 대상·기간·예산소진 여부 확인",
-      "money_signal": [
-        "70%"
-      ],
-      "published_at": "2026-11-19T01:25:45+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴스1",
-          "title": "강릉시 민생안정지원금 14만5000명 신청…신청률 70% 돌파",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XdVRiX00wazdPTWpMQUVRZ0dfRHMzYWdra1ZzZHhJaU9nUk9KdkNidTVmN2hwRWVRcDFlLXNDVnZDbW1DanVzYlMyV2VYdl81NnJOdQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "deposit-저축은행6개월예금금리연3111년11개월만최고",
-      "topic_id": "deposit",
-      "lane": "재테크",
-      "label": "예적금",
-      "status": "PICK",
-      "score": 79,
-      "headline": "저축은행 6개월 예금금리 연 3.11%…1년11개월 만 최고",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
-      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
-      "money_signal": [
-        "3.11%"
-      ],
-      "published_at": "2026-11-19T05:00:20+00:00",
-      "source_count": 2,
-      "sources": [
-        {
-          "name": "한국경제",
-          "title": "저축은행 6개월 예금금리 연 3.11%…1년11개월 만 최고",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WUlQyQlpXOG5RQVpvWGE0MmVTdjFSOEVBaWhSWWpJM1ZkY1VfOHVHM2dBWGI3NmxudXktNUxFY3h0dFk0OGtneXByVlk2LW45ajVHZjU1d2c5Zw?oc=5"
-        },
-        {
-          "name": "매일경제",
-          "title": "예금금리 오르자 주담대 금리도 ‘껑충’…변동형은 6% 뚫렸다",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tWGlnRGxBZEdOM2dKRlpJNkd0QlROYUpJb21PMWM0Mnp0YWY4a2NOR2c4eFhEUkZjSE5ZUk1IWUp3MWFieEMwbnZ0bTAzRjR5ZGJNaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-예금금리오르자주담대금리도껑충변동형은6뚫렸다",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "PICK",
-      "score": 79,
-      "headline": "예금금리 오르자 주담대 금리도 ‘껑충’…변동형은 6% 뚫렸다",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "6%"
-      ],
-      "published_at": "2026-11-19T02:36:23+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "매일경제",
-          "title": "예금금리 오르자 주담대 금리도 ‘껑충’…변동형은 6% 뚫렸다",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tWGlnRGxBZEdOM2dKRlpJNkd0QlROYUpJb21PMWM0Mnp0YWY4a2NOR2c4eFhEUkZjSE5ZUk1IWUp3MWFieEMwbnZ0bTAzRjR5ZGJNaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "creator_ambassador-철강협회대학생철강홍보서포터즈철크크모집",
-      "topic_id": "creator_ambassador",
-      "lane": "리뷰어",
-      "label": "브랜드 앰배서더",
-      "status": "WATCH",
-      "score": 76,
-      "headline": "철강협회, 대학생 철강 홍보 서포터즈 '철크크' 모집",
-      "why_now": "신청·선정·제공 조건이 있는 실제 참여 기회.",
-      "angle": "활동기간·제공혜택·필수 콘텐츠 수를 정리",
-      "check_first": "브랜드 공식 캠페인 페이지 확인",
-      "money_signal": [],
-      "published_at": "2026-11-18T05:08:54+00:00",
-      "source_count": 2,
-      "sources": [
-        {
-          "name": "아시아경제",
-          "title": "철강협회, 대학생 철강 홍보 서포터즈 '철크크' 모집",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ubm4xY1hyeVZ2Z1FyQ0lTWXhMZG40bEJGQnFKZjcyY3drSm40RlRZeHAwUDVhTTlGZFlaLUR5a05hRXR6N3pTa0lKcUcxV2pGTEFxWnpWQlFUREtJMS1mQw?oc=5"
-        },
-        {
-          "name": "뉴스핌",
-          "title": "한국철강협회, 대학생 홍보 서포터즈 '철크크' 10명 모집",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGYWVRenRncVo5Y1pfdlF0SmJJejU5T0lXMEkwTkdaUHRxdmVVbDJRTXpwXzU4RFdLZlZpRXZENUxCQU1fTk1Eb2picWN5dXJyN2c1RWdHTDh4VlB1?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "loan-연7목전주담대변동금리고정형추월복잡해진대출셈법",
-      "topic_id": "loan",
-      "lane": "재테크",
-      "label": "대출·금리",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "'연 7%' 목전 주담대 변동금리, 고정형 추월…복잡해진 대출 셈법",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "금리 차이가 월 이자와 총이자에 얼마 차이 나는지",
-      "check_first": "중도상환수수료·우대조건·실제 적용금리 확인",
-      "money_signal": [
-        "7%"
-      ],
-      "published_at": "2026-11-10T08:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "'연 7%' 목전 주담대 변동금리, 고정형 추월…복잡해진 대출 셈법",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41cG5MT1VNdEdUR0dfSy0tVWNUZk5oRk55ZmtWZHZZWVl0RGVIeTRXS2JBekRLM0dBUW01aVNuRDlYeDlKQ2NIYWRnMVVjVktoZjQyX01qVkszUXlONDRuSNIBeEFVX3lxTE56azN4cEVJRkc1UjZsekkyUk1DeWRIU0syVkpOT1J2S0x1dEtvYjdOR3FIM1hBdVFJd3FJeWE2ZHJEU2pwQlF2MFRWYm9ac2JzMkZpUWNXck16OFZhblhWNE40NFJpWFI3dXFzbEVpNlhTemhUQjMyWg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "smallbiz_money-강화군소상공인30만원지원추가접수군비17억투입",
-      "topic_id": "smallbiz_money",
-      "lane": "혜택",
-      "label": "소상공인 지원",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "강화군, 소상공인 30만원 지원 추가 접수…\"군비 17억 투입\"",
-      "why_now": "대상·금액·기한을 놓치면 못 받는 정보.",
-      "angle": "현금지원과 대출성 정책자금을 구분",
-      "check_first": "중기부·소진공 공식 공고 확인",
-      "money_signal": [
-        "30만원"
-      ],
-      "published_at": "2026-11-10T08:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "강화군, 소상공인 30만원 지원 추가 접수…\"군비 17억 투입\"",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WN21aQnlrdHNnSXMwTGRxVU90b0pNVFFhNXN6NEdzYmVYdm05Y2ZXLVdveVhQa1FLaFZWUHZseml0MWNkQVI0ZGo5NkFreEV4alpGeWpTSEpNWmUxMGxTOdIBeEFVX3lxTE9lSDRVd2JDWXYtVzBwdm52NkRMN0JhXzBYX0lsMGdEOHRQWDhJUE1HdmNZOW1CandxckRpbGhDUTZlMnV1MWVKVVV6dU1KTndXQzNlY2tiX3JlTEc3NTFCY3ZVeVhwWWt2bFlfVW1scE81a2FQdW1Ccw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "tiktok_metrics-eu발틱톡알고리즘규제산업정치도변화압력커지나",
-      "topic_id": "tiktok_metrics",
-      "lane": "SNS분석",
-      "label": "TikTok",
-      "status": "WATCH",
-      "score": 72,
-      "headline": "EU발 '틱톡 알고리즘' 규제…韓 산업·정치도 변화 압력 커지나",
-      "why_now": "계정 지표·알고리즘 변화라 운영 방식에 바로 반영 가능.",
-      "angle": "틱톡 추천·완주율 변화를 콘텐츠 구조에 반영",
-      "check_first": "TikTok 공식 크리에이터 자료 확인",
-      "money_signal": [],
-      "published_at": "2026-11-08T21:08:02+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "이데일리",
-          "title": "EU발 '틱톡 알고리즘' 규제…韓 산업·정치도 변화 압력 커지나",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdDdjLVBhM00wQXVaUEZSX0NScW01WGFSbmxLbDlvNHpwUXBvMmN2ZVl5M0dwVXhlUFotRllNcXBwZkl0WnVhc0ZjbUE4bUFqMUZHb2NnMS1HUmUxNXp4WEwtVGFIcjdBRTQwSHJlVjFqVkxJMW5zdlJ6UWI4Z2tGaQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_video_tools-국내첫생성형ai의료기기허가기업숨빗ai시리즈a120억원유치",
-      "topic_id": "ai_video_tools",
-      "lane": "AI",
-      "label": "AI 영상",
-      "status": "WATCH",
-      "score": 70,
-      "headline": "국내 첫 생성형 AI 의료기기 허가 기업 '숨빗AI', 시리즈A 120억원 유치",
+      "score": 82,
+      "headline": "Introducing Businesses in ChatGPT",
       "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "영상 제작시간·비용을 얼마나 줄이는지 실제 사용 관점",
-      "check_first": "공식 제품 페이지의 요금·워터마크·상업이용 확인",
-      "money_signal": [
-        "120억원"
-      ],
-      "published_at": "2026-11-17T05:35:03+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "전자신문",
-          "title": "국내 첫 생성형 AI 의료기기 허가 기업 '숨빗AI', 시리즈A 120억원 유치",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fZHBQVTg1LVhXYVpEQTE2NmhwQVZ0c3l3WjdnbWNVOEx4MnRLZXE2NWNfQ19BeklHODJlcUk2NmxvZGpSNkRKTjlxbElZZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_agents-더존비즈온공공솔루션마켓서ai에이전트기반행정업무혁신전략공개",
-      "topic_id": "ai_agents",
-      "lane": "AI",
-      "label": "AI 에이전트",
-      "status": "WATCH",
-      "score": 69,
-      "headline": "더존비즈온, 공공솔루션마켓서 AI 에이전트 기반 행정업무 혁신 전략 공개",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "반복 업무를 실제로 어디까지 자동화할 수 있는지",
-      "check_first": "공식 문서의 권한·요금·지원 도구 확인",
+      "angle": "공식 업데이트 중 실제 써볼 기능과 기존 작업 흐름 변화",
+      "check_first": "공식 원문에서 출시일·대상 요금제·지역 제한 확인",
       "money_signal": [],
-      "published_at": "2026-11-19T06:16:00+00:00",
+      "published_at": "2026-11-10T10:00:00+00:00",
       "source_count": 1,
       "sources": [
         {
-          "name": "뉴스핌",
-          "title": "더존비즈온, 공공솔루션마켓서 AI 에이전트 기반 행정업무 혁신 전략 공개",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bem9OcHZkMGFzVW5sV1k4RUJrY051N21nVm9vQlU5Tk1Wb2I1anRqSGRyaUJVV2hna0xSQlNJdTdkR1hCajdraEJELVdCblZFci05SnJpYWQwb2Y5?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_product_news-블룸에이아이해피톡ai어시스턴트상담답변기능업데이트",
-      "topic_id": "ai_product_news",
-      "lane": "AI",
-      "label": "AI 신제품",
-      "status": "WATCH",
-      "score": 68,
-      "headline": "블룸에이아이 '해피톡 AI 어시스턴트', 상담 답변 기능 업데이트",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "새 AI 제품·기능이 실제 업무나 콘텐츠 제작에 쓸 만한지",
-      "check_first": "회사 공식 발표에서 출시일·요금·사용 가능 지역 확인",
-      "money_signal": [],
-      "published_at": "2026-11-19T00:35:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "뉴스핌",
-          "title": "블룸에이아이 '해피톡 AI 어시스턴트', 상담 답변 기능 업데이트",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BOUVCaHl2cTZjeGRoYk1HdlpwalltRUlIcFItU3JMSVFCdnVJalFXS2NUYVFNU0NTUjVQZVF6ZXZ0SzFLblpFS1VRV0J6Z2dUYnFkV3NBdWRiUUlt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ai_image_tools-오픈ai빠르게생성하고편집강화한이미지26출시",
-      "topic_id": "ai_image_tools",
-      "lane": "AI",
-      "label": "AI 이미지",
-      "status": "WATCH",
-      "score": 68,
-      "headline": "오픈AI, 빠르게 생성하고 편집 강화한 '이미지 2.6' 출시",
-      "why_now": "새 기능·도구를 업무·콘텐츠 제작에 바로 시험할 가치가 있음.",
-      "angle": "썸네일·광고 이미지 제작에 바로 쓸 기능",
-      "check_first": "공식 요금·상업이용·저작권 정책 확인",
-      "money_signal": [],
-      "published_at": "2026-11-05T08:00:00+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "전자신문",
-          "title": "오픈AI, 빠르게 생성하고 편집 강화한 '이미지 2.6' 출시",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOdDdQTXp0dFBseGh6SDBCeEFIU1NxM0dpMm9Ocl96YW9YTnZlaVBHMHRya29WSTh6SWhpbE00WXQ2MTBYSlg2M1JRWDN6Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "deposit-이슈픽5예금금리4대귀환강남증여25증가",
-      "topic_id": "deposit",
-      "lane": "재테크",
-      "label": "예적금",
-      "status": "WATCH",
-      "score": 67,
-      "headline": "[이슈픽5] 예금금리 4%대 귀환···강남 증여 25% 증가",
-      "why_now": "금리·세제·상품 조건이 실제 돈 차이로 이어지는 변화.",
-      "angle": "광고금리 말고 실제 세후 이자와 우대조건",
-      "check_first": "금융회사 공식 상품설명서·금융상품한눈에 확인",
-      "money_signal": [
-        "4%",
-        "25%"
-      ],
-      "published_at": "2026-11-18T08:30:43+00:00",
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "시사저널e",
-          "title": "[이슈픽5] 예금금리 4%대 귀환···강남 증여 25% 증가",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtOU0tRmtRZnpQTUstS0h6dVB2UVhqbnZ4aGpEU0ExQ2VlZmV0ZjhKenp2SUJoVUZMODB0cm9VcXZVU3REampfN1MzTEJGWFJ1UkkxamRQV21UbEUzVllWN1hOZHZ2ekdHdTJ1bWpiMFBmdw?oc=5"
+          "name": "OpenAI 공식",
+          "title": "Introducing Businesses in ChatGPT",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt"
         }
       ]
     }
@@ -370,89 +81,167 @@
   "meta": {
     "window_days": 14,
     "refresh_policy": "daily_replace_no_repeat_7d",
-    "raw_articles": 19,
-    "shown": 15,
+    "raw_articles": 3,
+    "shown": 3,
     "topic_raw_counts": {
-      "tax": 0,
       "apptech": 0,
-      "youtube_ypp": 0,
       "affiliate": 0,
-      "benefit": 3,
       "policy": 0,
-      "deposit": 23,
-      "blog_ads": 0,
-      "loan": 7,
-      "sns_growth": 5,
+      "deposit": 0,
+      "tax": 0,
+      "sns_growth": 0,
+      "youtube_ypp": 0,
       "openai_official": 13,
-      "reviewer": 2,
-      "creator_campaign": 1,
-      "youtube_metrics": 0,
-      "instagram_metrics": 0,
-      "chatgpt_update": 0,
-      "digital_tip": 1,
-      "platform": 1,
+      "blog_ads": 0,
+      "loan": 0,
+      "benefit": 0,
+      "creator_campaign": 0,
+      "useful_info": 0,
       "ai_creator": 0,
-      "useful_info": 2,
-      "chrome_tip": 0,
-      "claude_update": 0,
-      "gemini_update": 0,
-      "youtube_shopping": 0,
-      "naver_creator_money": 0,
-      "freelance_market": 0,
-      "creator_sponsorship": 0,
-      "smartstore_seller": 0,
-      "digital_product": 0,
+      "chatgpt_update": 0,
+      "reviewer": 0,
       "youtube_analytics_official": 1,
-      "instagram_reels_metrics": 0,
-      "beauty_reviewer": 0,
-      "naver_blog_metrics": 0,
+      "youtube_metrics": 0,
+      "digital_tip": 0,
+      "platform": 0,
+      "instagram_metrics": 0,
       "youtube_shorts_metrics": 0,
+      "gemini_update": 0,
+      "claude_update": 0,
       "youtube_channel_metrics": 0,
-      "x_account_metrics": 0,
-      "threads_growth": 0,
+      "digital_product": 0,
+      "chrome_tip": 0,
+      "creator_sponsorship": 0,
+      "youtube_shopping": 0,
+      "freelance_market": 0,
       "food_reviewer": 0,
-      "tiktok_metrics": 2,
+      "smartstore_seller": 0,
+      "naver_creator_money": 0,
+      "instagram_reels_metrics": 0,
+      "threads_growth": 0,
       "tech_reviewer": 0,
-      "creator_ambassador": 4,
+      "tiktok_metrics": 0,
+      "naver_blog_metrics": 0,
+      "creator_ambassador": 0,
       "app_beta_reviewer": 0,
+      "x_account_metrics": 0,
+      "beauty_reviewer": 0,
+      "ai_image_tools": 0,
       "travel_reviewer": 0,
-      "ai_video_tools": 2,
-      "ai_coding": 0,
-      "ai_image_tools": 6,
-      "ai_search": 2,
-      "korean_ai": 1,
-      "ai_agents": 2,
-      "mobile_tip": 0,
+      "ai_video_tools": 0,
+      "ai_agents": 0,
+      "ai_search": 0,
+      "privacy_tip": 0,
       "productivity_tip": 0,
-      "travel_tip": 0,
+      "mobile_tip": 0,
       "public_data_tip": 0,
-      "pc_tip": 0,
-      "telecom_discount": 0,
-      "energy_support": 0,
-      "privacy_tip": 1,
-      "local_currency": 0,
+      "ai_coding": 0,
       "employment_support": 0,
-      "education_support": 0,
-      "card_benefit": 0,
-      "bank_product": 0,
-      "isa_change": 0,
+      "korean_ai": 0,
+      "energy_support": 0,
+      "travel_tip": 0,
+      "pc_tip": 0,
+      "local_currency": 0,
+      "smallbiz_money": 0,
       "family_benefit": 0,
-      "smallbiz_money": 1,
+      "telecom_discount": 0,
+      "education_support": 0,
+      "bank_product": 0,
+      "card_benefit": 0,
       "mortgage_policy": 0,
+      "isa_change": 0,
       "pension_tax": 0,
-      "tax_refund": 0,
-      "pension_public": 0,
       "instagram_platform": 0,
-      "youtube_policy": 0,
-      "x_platform": 0,
-      "threads_platform": 0,
+      "tax_refund": 0,
       "naver_platform": 0,
-      "coupang_platform": 0,
-      "youtube_shop_affiliate": 1,
-      "ai_product_news": 3,
+      "youtube_policy": 0,
+      "pension_public": 0,
+      "ai_product_news": 0,
+      "threads_platform": 0,
+      "x_platform": 0,
       "youtube_money_change": 0,
+      "coupang_platform": 0,
+      "youtube_shop_affiliate": 0,
       "creator_commerce": 0
     },
-    "errors": []
+    "errors": [
+      "apptech: HTTPError: HTTP Error 503: Service Unavailable",
+      "affiliate: HTTPError: HTTP Error 503: Service Unavailable",
+      "policy: HTTPError: HTTP Error 503: Service Unavailable",
+      "deposit: HTTPError: HTTP Error 503: Service Unavailable",
+      "tax: HTTPError: HTTP Error 503: Service Unavailable",
+      "sns_growth: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_ypp: HTTPError: HTTP Error 503: Service Unavailable",
+      "blog_ads: HTTPError: HTTP Error 503: Service Unavailable",
+      "loan: HTTPError: HTTP Error 503: Service Unavailable",
+      "benefit: HTTPError: HTTP Error 503: Service Unavailable",
+      "creator_campaign: HTTPError: HTTP Error 503: Service Unavailable",
+      "useful_info: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_creator: HTTPError: HTTP Error 503: Service Unavailable",
+      "chatgpt_update: HTTPError: HTTP Error 503: Service Unavailable",
+      "reviewer: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "digital_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "platform: HTTPError: HTTP Error 503: Service Unavailable",
+      "instagram_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_shorts_metrics: HTTPError: HTTP Error 429: Too Many Requests",
+      "gemini_update: HTTPError: HTTP Error 503: Service Unavailable",
+      "claude_update: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_channel_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "digital_product: HTTPError: HTTP Error 503: Service Unavailable",
+      "chrome_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "creator_sponsorship: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_shopping: HTTPError: HTTP Error 503: Service Unavailable",
+      "freelance_market: HTTPError: HTTP Error 503: Service Unavailable",
+      "food_reviewer: HTTPError: HTTP Error 429: Too Many Requests",
+      "smartstore_seller: HTTPError: HTTP Error 503: Service Unavailable",
+      "naver_creator_money: HTTPError: HTTP Error 503: Service Unavailable",
+      "instagram_reels_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "threads_growth: HTTPError: HTTP Error 503: Service Unavailable",
+      "tech_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
+      "tiktok_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "naver_blog_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "creator_ambassador: HTTPError: HTTP Error 503: Service Unavailable",
+      "app_beta_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
+      "x_account_metrics: HTTPError: HTTP Error 503: Service Unavailable",
+      "beauty_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_image_tools: HTTPError: HTTP Error 503: Service Unavailable",
+      "travel_reviewer: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_video_tools: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_agents: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_search: HTTPError: HTTP Error 503: Service Unavailable",
+      "privacy_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "productivity_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "mobile_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "public_data_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_coding: HTTPError: HTTP Error 503: Service Unavailable",
+      "employment_support: HTTPError: HTTP Error 429: Too Many Requests",
+      "korean_ai: HTTPError: HTTP Error 503: Service Unavailable",
+      "energy_support: HTTPError: HTTP Error 503: Service Unavailable",
+      "travel_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "pc_tip: HTTPError: HTTP Error 503: Service Unavailable",
+      "local_currency: HTTPError: HTTP Error 503: Service Unavailable",
+      "smallbiz_money: HTTPError: HTTP Error 503: Service Unavailable",
+      "family_benefit: HTTPError: HTTP Error 503: Service Unavailable",
+      "telecom_discount: HTTPError: HTTP Error 503: Service Unavailable",
+      "education_support: HTTPError: HTTP Error 503: Service Unavailable",
+      "bank_product: HTTPError: HTTP Error 503: Service Unavailable",
+      "card_benefit: HTTPError: HTTP Error 503: Service Unavailable",
+      "mortgage_policy: HTTPError: HTTP Error 503: Service Unavailable",
+      "isa_change: HTTPError: HTTP Error 503: Service Unavailable",
+      "pension_tax: HTTPError: HTTP Error 503: Service Unavailable",
+      "instagram_platform: HTTPError: HTTP Error 503: Service Unavailable",
+      "tax_refund: HTTPError: HTTP Error 503: Service Unavailable",
+      "naver_platform: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_policy: HTTPError: HTTP Error 503: Service Unavailable",
+      "pension_public: HTTPError: HTTP Error 503: Service Unavailable",
+      "ai_product_news: HTTPError: HTTP Error 503: Service Unavailable",
+      "threads_platform: HTTPError: HTTP Error 503: Service Unavailable",
+      "x_platform: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_money_change: HTTPError: HTTP Error 503: Service Unavailable",
+      "coupang_platform: HTTPError: HTTP Error 503: Service Unavailable",
+      "youtube_shop_affiliate: HTTPError: HTTP Error 503: Service Unavailable",
+      "creator_commerce: HTTPError: HTTP Error 503: Service Unavailable"
+    ]
   }
 }
