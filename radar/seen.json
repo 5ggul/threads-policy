@@ -1,198 +1,6 @@
 [
   {
     "topic_id": "openai_official",
-    "title": "Gondola doubles revenue as its team builds more with Codex",
-    "tokens": [
-      "as",
-      "builds",
-      "codex",
-      "doubles",
-      "gondola",
-      "its",
-      "more",
-      "revenue",
-      "team",
-      "with"
-    ],
-    "date": "2026-11-13"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "Holiday Extras is rethinking what it can build with Codex",
-    "tokens": [
-      "build",
-      "can",
-      "codex",
-      "extras",
-      "holiday",
-      "is",
-      "it",
-      "rethinking",
-      "what",
-      "with"
-    ],
-    "date": "2026-11-13"
-  },
-  {
-    "topic_id": "platform",
-    "title": "\"네이버 메이트, 새 도전의 계기\"…크리에이터가 본 AI 플랫폼 [현장]",
-    "tokens": [
-      "ai",
-      "계기",
-      "네이버",
-      "도전의",
-      "메이트",
-      "크리에이터가",
-      "현장"
-    ],
-    "date": "2026-11-13"
-  },
-  {
-    "topic_id": "ai_agents",
-    "title": "구글, `제미나이4 하이드로젠` 출시… \"AI 에이전트 작업 19% 빨라\"",
-    "tokens": [
-      "ai",
-      "구글",
-      "빨라",
-      "에이전트",
-      "작업",
-      "제미나이4",
-      "출시",
-      "하이드로젠"
-    ],
-    "date": "2026-11-13"
-  },
-  {
-    "topic_id": "loan",
-    "title": "주담대 금리 7% 돌파...미국, 주택거래 16년래 최저 - 머니투데이",
-    "tokens": [
-      "16년래",
-      "금리",
-      "돌파",
-      "머니투데이",
-      "미국",
-      "주담대",
-      "주택거래",
-      "최저"
-    ],
-    "date": "2026-11-13"
-  },
-  {
-    "topic_id": "ai_creator",
-    "title": "크레딧코인, AI 에이전트 전략 대결 게임 ‘그리드’ 글로벌 베타 출시",
-    "tokens": [
-      "ai",
-      "게임",
-      "그리드",
-      "글로벌",
-      "대결",
-      "베타",
-      "에이전트",
-      "전략",
-      "출시",
-      "크레딧코인"
-    ],
-    "date": "2026-11-13"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "기장군, 군금고 협상 성과… 예금금리 3.62%·협력사업비 12억원 확보",
-    "tokens": [
-      "12억원",
-      "군금고",
-      "기장군",
-      "성과",
-      "예금금리",
-      "협력사업비",
-      "협상",
-      "확보"
-    ],
-    "date": "2026-11-13"
-  },
-  {
-    "topic_id": "ai_agents",
-    "title": "기업 자동화의 '대전환'… AI 에이전트가 업무를 다시 설계한다",
-    "tokens": [
-      "ai",
-      "기업",
-      "다시",
-      "대전환",
-      "설계한다",
-      "업무를",
-      "에이전트가",
-      "자동화의"
-    ],
-    "date": "2026-11-13"
-  },
-  {
-    "topic_id": "ai_agents",
-    "title": "옴니사, 업무용 PC서 AI 에이전트 통제…단말관리·가상데스크톱·'엘라라' 3각 전략",
-    "tokens": [
-      "3각",
-      "ai",
-      "pc서",
-      "가상데스크톱",
-      "단말관리",
-      "업무용",
-      "에이전트",
-      "엘라라",
-      "옴니사",
-      "전략",
-      "통제"
-    ],
-    "date": "2026-11-13"
-  },
-  {
-    "topic_id": "gemini_update",
-    "title": "Apple CarPlay 구글이 또 한 번 멋진 업데이트를 받았습니다. 이제 차 안에서 구글과 채팅할 수 있습니다. Gemini",
-    "tokens": [
-      "apple",
-      "carplay",
-      "gemini",
-      "구글과",
-      "구글이",
-      "멋진",
-      "받았습니다",
-      "안에서",
-      "업데이트를",
-      "이제",
-      "있습니다",
-      "채팅할"
-    ],
-    "date": "2026-11-13"
-  },
-  {
-    "topic_id": "mobile_tip",
-    "title": "아이폰X 이후 최대 변화 오나…‘아이폰20 프로’ 신기능 총정리",
-    "tokens": [
-      "변화",
-      "신기능",
-      "아이폰20",
-      "아이폰x",
-      "오나",
-      "이후",
-      "총정리",
-      "최대",
-      "프로"
-    ],
-    "date": "2026-11-13"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "저축은행 4%대 예금 상품 두달 새 6배 넘게 늘어",
-    "tokens": [
-      "6배",
-      "넘게",
-      "늘어",
-      "두달",
-      "상품",
-      "예금",
-      "저축은행"
-    ],
-    "date": "2026-11-13"
-  },
-  {
-    "topic_id": "openai_official",
     "title": "Introducing ChatGPT Wallet",
     "tokens": [
       "chatgpt",
@@ -1552,5 +1360,154 @@
       "introducing"
     ],
     "date": "2026-11-20"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "tokens": [
+      "astra",
+      "financial",
+      "gpt",
+      "hebbia",
+      "improvements",
+      "in",
+      "research",
+      "sees",
+      "with"
+    ],
+    "date": "2026-11-21"
+  },
+  {
+    "topic_id": "creator_campaign",
+    "title": "\"中企 제품 '숏폼 홍보' 돕는다\"…홈앤쇼핑, 크리에이터 10팀 모집",
+    "tokens": [
+      "10팀",
+      "돕는다",
+      "모집",
+      "숏폼",
+      "제품",
+      "크리에이터",
+      "홈앤쇼핑",
+      "홍보"
+    ],
+    "date": "2026-11-21"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "예금금리 오르자 주담대 금리도 ‘껑충’…변동형은 6% 뚫렸다",
+    "tokens": [
+      "금리도",
+      "껑충",
+      "뚫렸다",
+      "변동형은",
+      "예금금리",
+      "오르자",
+      "주담대"
+    ],
+    "date": "2026-11-21"
+  },
+  {
+    "topic_id": "ai_image_tools",
+    "title": "라이너, 글쓰기 AI '취업 준비' 기능 강화…“이용자 53%가 청년층”",
+    "tokens": [
+      "ai",
+      "강화",
+      "글쓰기",
+      "라이너",
+      "이용자",
+      "준비",
+      "청년층",
+      "취업"
+    ],
+    "date": "2026-11-21"
+  },
+  {
+    "topic_id": "ai_image_tools",
+    "title": "엔비디아, AI 전용 소형 데스크톱 'RTX 스파크' 출시",
+    "tokens": [
+      "ai",
+      "rtx",
+      "데스크톱",
+      "소형",
+      "스파크",
+      "엔비디아",
+      "전용",
+      "출시"
+    ],
+    "date": "2026-11-21"
+  },
+  {
+    "topic_id": "ai_product_news",
+    "title": "챗GPT가 결제까지 대신한다…오픈AI, 'AI 지갑' 출시",
+    "tokens": [
+      "ai",
+      "결제까지",
+      "대신한다",
+      "오픈ai",
+      "지갑",
+      "챗gpt가",
+      "출시"
+    ],
+    "date": "2026-11-21"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "DB저축은행, 파킹통장 신규 가입당 1000원 기부…최고 연 5% 금리",
+    "tokens": [
+      "1000원",
+      "db저축은행",
+      "가입당",
+      "금리",
+      "기부",
+      "신규",
+      "최고",
+      "파킹통장"
+    ],
+    "date": "2026-11-21"
+  },
+  {
+    "topic_id": "digital_tip",
+    "title": "iOS 27.3 베타서 포착된 변화…아이폰에 추가될 신기능 3종",
+    "tokens": [
+      "3종",
+      "ios",
+      "베타서",
+      "변화",
+      "신기능",
+      "아이폰에",
+      "추가될",
+      "포착된"
+    ],
+    "date": "2026-11-21"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "연 4%대 예금의 귀환···은행권 수신 경쟁 치열, 최고금리 상품은?",
+    "tokens": [
+      "경쟁",
+      "귀환",
+      "상품은",
+      "수신",
+      "예금의",
+      "은행권",
+      "최고금리",
+      "치열"
+    ],
+    "date": "2026-11-21"
+  },
+  {
+    "topic_id": "ai_product_news",
+    "title": "오픈AI, ‘비즈니스 인 챗GPT’ 베타 출시…쇼핑 검색 기능 확대",
+    "tokens": [
+      "검색",
+      "베타",
+      "비즈니스",
+      "쇼핑",
+      "오픈ai",
+      "챗gpt",
+      "출시",
+      "확대"
+    ],
+    "date": "2026-11-21"
   }
 ]
