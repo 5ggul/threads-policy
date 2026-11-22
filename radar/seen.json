@@ -1,159 +1,6 @@
 [
   {
     "topic_id": "openai_official",
-    "title": "Introducing ChatGPT Wallet",
-    "tokens": [
-      "chatgpt",
-      "introducing",
-      "wallet"
-    ],
-    "date": "2026-11-14"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-    "tokens": [
-      "autonomous",
-      "delivers",
-      "devrev",
-      "gpt",
-      "self",
-      "service",
-      "sol",
-      "with"
-    ],
-    "date": "2026-11-14"
-  },
-  {
-    "topic_id": "loan",
-    "title": "\"주담대 6~8% 땐 집값 조정\"…2027년 부동산 가를 5대 변수",
-    "tokens": [
-      "2027년",
-      "5대",
-      "가를",
-      "변수",
-      "부동산",
-      "조정",
-      "주담대",
-      "집값"
-    ],
-    "date": "2026-11-14"
-  },
-  {
-    "topic_id": "platform",
-    "title": "이재명 대통령, 유튜브 '대통령의 Y'로 국민과 소통한다",
-    "tokens": [
-      "국민과",
-      "대통령",
-      "대통령의",
-      "소통한다",
-      "유튜브",
-      "이재명"
-    ],
-    "date": "2026-11-14"
-  },
-  {
-    "topic_id": "coupang_platform",
-    "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나",
-    "tokens": [
-      "개편",
-      "배민",
-      "수수료",
-      "쿠팡이츠로",
-      "확산되나"
-    ],
-    "date": "2026-11-14"
-  },
-  {
-    "topic_id": "ai_image_tools",
-    "title": "챗GPT로 GIF도 만든다…오픈AI, 이미지 생성 속도 50% 높인 ‘이미지 2.6’ 공개",
-    "tokens": [
-      "gif도",
-      "높인",
-      "만든다",
-      "생성",
-      "속도",
-      "오픈ai",
-      "이미지",
-      "챗gpt로"
-    ],
-    "date": "2026-11-14"
-  },
-  {
-    "topic_id": "benefit",
-    "title": "파주시, 대남 소음방송 피해지원금 최대 83만원 지급",
-    "tokens": [
-      "83만원",
-      "대남",
-      "소음방송",
-      "지급",
-      "최대",
-      "파주시",
-      "피해지원금"
-    ],
-    "date": "2026-11-14"
-  },
-  {
-    "topic_id": "ai_video_tools",
-    "title": "오픈AI, 이미지 생성 50% 빨라진 이미지 2.6 공개…GIF 제작·편집 강화",
-    "tokens": [
-      "gif",
-      "강화",
-      "빨라진",
-      "생성",
-      "오픈ai",
-      "이미지",
-      "제작",
-      "편집"
-    ],
-    "date": "2026-11-14"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "기장군 금고 농협은행 선정…정기예금 금리 3.62%·협력금 12억",
-    "tokens": [
-      "12억",
-      "금고",
-      "금리",
-      "기장군",
-      "농협은행",
-      "선정",
-      "정기예금",
-      "협력금"
-    ],
-    "date": "2026-11-14"
-  },
-  {
-    "topic_id": "loan",
-    "title": "금리 7% 눈앞인데…한 달 새 대출 2조8000억원 늘었다",
-    "tokens": [
-      "2조8000억원",
-      "금리",
-      "눈앞인데",
-      "늘었다",
-      "대출"
-    ],
-    "date": "2026-11-14"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "“증시 불안에 다시 은행으로?” 예금 금리 4%대 다시 등장…대출자는 70%가 4.5% 이상 [머니뭐니]",
-    "tokens": [
-      "금리",
-      "다시",
-      "대출자는",
-      "등장",
-      "머니뭐니",
-      "불안에",
-      "예금",
-      "은행으로",
-      "이상",
-      "증시"
-    ],
-    "date": "2026-11-14"
-  },
-  {
-    "topic_id": "openai_official",
     "title": "Cult.fit builds operational muscle with Codex",
     "tokens": [
       "builds",
@@ -1509,5 +1356,200 @@
       "확대"
     ],
     "date": "2026-11-21"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "tokens": [
+      "as",
+      "builds",
+      "codex",
+      "doubles",
+      "gondola",
+      "its",
+      "more",
+      "revenue",
+      "team",
+      "with"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "tokens": [
+      "build",
+      "can",
+      "codex",
+      "extras",
+      "holiday",
+      "is",
+      "it",
+      "rethinking",
+      "what",
+      "with"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "topic_id": "ai_agents",
+    "title": "구글, AI 에이전트 특화 `제미나이4 네온` 출시… 작업 비용 32% 절감",
+    "tokens": [
+      "ai",
+      "구글",
+      "네온",
+      "비용",
+      "에이전트",
+      "작업",
+      "절감",
+      "제미나이4",
+      "출시",
+      "특화"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "topic_id": "useful_info",
+    "title": "엔비디아-KAIST, 한국어 AI 데이터셋 만든다…“국내 기업들에 무료 개방” [팩플]",
+    "tokens": [
+      "ai",
+      "kaist",
+      "개방",
+      "국내",
+      "기업들에",
+      "데이터셋",
+      "만든다",
+      "무료",
+      "엔비디아",
+      "팩플",
+      "한국어"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "topic_id": "gemini_update",
+    "title": "Apple CarPlay 구글이 또 한 번 멋진 업데이트를 받았습니다. 이제 차 안에서 구글과 채팅할 수 있습니다. Gemini",
+    "tokens": [
+      "apple",
+      "carplay",
+      "gemini",
+      "구글과",
+      "구글이",
+      "멋진",
+      "받았습니다",
+      "안에서",
+      "업데이트를",
+      "이제",
+      "있습니다",
+      "채팅할"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "topic_id": "loan",
+    "title": "금리 내릴 땐 나란히, 올릴 땐 ‘껑충’…신용대출 이자 상승폭, 예금의 2배",
+    "tokens": [
+      "2배",
+      "금리",
+      "껑충",
+      "나란히",
+      "내릴",
+      "상승폭",
+      "신용대출",
+      "예금의",
+      "올릴",
+      "이자"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "topic_id": "digital_tip",
+    "title": "아이폰X 이후 최대 변화 오나…‘아이폰20 프로’ 신기능 총정리",
+    "tokens": [
+      "변화",
+      "신기능",
+      "아이폰20",
+      "아이폰x",
+      "오나",
+      "이후",
+      "총정리",
+      "최대",
+      "프로"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "topic_id": "ai_video_tools",
+    "title": "엔비디아, AI 전용 소형 데스크톱 'RTX 스파크' 출시",
+    "tokens": [
+      "ai",
+      "rtx",
+      "데스크톱",
+      "소형",
+      "스파크",
+      "엔비디아",
+      "전용",
+      "출시"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "topic_id": "platform",
+    "title": "\"릴스에서 아마존 상품 판다\"…인스타그램, 쇼핑 수익화 확대",
+    "tokens": [
+      "릴스에서",
+      "상품",
+      "쇼핑",
+      "수익화",
+      "아마존",
+      "인스타그램",
+      "판다",
+      "확대"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "topic_id": "platform",
+    "title": "\"네이버 메이트, 새 도전의 계기\"…크리에이터가 본 AI 플랫폼 [현장]",
+    "tokens": [
+      "ai",
+      "계기",
+      "네이버",
+      "도전의",
+      "메이트",
+      "크리에이터가",
+      "현장"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "topic_id": "loan",
+    "title": "대출금리 낮추랬더니 우대금리 축소?⋯금융당국 점검 착수",
+    "tokens": [
+      "금융당국",
+      "낮추랬더니",
+      "대출금리",
+      "우대금리",
+      "점검",
+      "착수",
+      "축소"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "topic_id": "loan",
+    "title": "“주담대 금리 치솟아도 돈 빌릴 곳 없으니”…집단대출 늘며 잔액 증가폭 ‘쑥’",
+    "tokens": [
+      "금리",
+      "늘며",
+      "빌릴",
+      "없으니",
+      "잔액",
+      "주담대",
+      "증가폭",
+      "집단대출",
+      "치솟아도"
+    ],
+    "date": "2026-11-22"
   }
 ]
