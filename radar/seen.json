@@ -1,260 +1,5 @@
 [
   {
-    "topic_id": "youtube_analytics_official",
-    "title": "Starting November 16, 2026, YouTube will include co-views (multiple people watching together on a television screen) in public view counts and watch time across all video formats:",
-    "tokens": [
-      "across",
-      "all",
-      "and",
-      "co",
-      "counts",
-      "formats",
-      "in",
-      "include",
-      "multiple",
-      "november",
-      "on",
-      "people",
-      "public",
-      "screen",
-      "starting",
-      "television",
-      "time",
-      "together",
-      "video",
-      "view",
-      "views",
-      "watch",
-      "watching",
-      "will",
-      "youtube"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "More ways to move care forward with ChatGPT for Healthcare",
-    "tokens": [
-      "care",
-      "chatgpt",
-      "for",
-      "forward",
-      "healthcare",
-      "more",
-      "move",
-      "to",
-      "ways",
-      "with"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "creator_ambassador",
-    "title": "메가스터디 유니스터디, 대학생 앰배서더 '유니버스' 2기 모집",
-    "tokens": [
-      "2기",
-      "대학생",
-      "메가스터디",
-      "모집",
-      "앰배서더",
-      "유니버스",
-      "유니스터디"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "youtube_shop_affiliate",
-    "title": "\"릴스에서 아마존 상품 판다\"…인스타그램, 쇼핑 수익화 확대",
-    "tokens": [
-      "릴스에서",
-      "상품",
-      "쇼핑",
-      "수익화",
-      "아마존",
-      "인스타그램",
-      "판다",
-      "확대"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "ai_agents",
-    "title": "챗GPT가 결제까지 대신한다…오픈AI, 'AI 지갑' 출시",
-    "tokens": [
-      "ai",
-      "결제까지",
-      "대신한다",
-      "오픈ai",
-      "지갑",
-      "챗gpt가",
-      "출시"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "privacy_tip",
-    "title": "업무폰 보안 상태 따라 접속 제한…라온시큐어, 구글 보안 기능 적용",
-    "tokens": [
-      "구글",
-      "따라",
-      "라온시큐어",
-      "보안",
-      "상태",
-      "업무폰",
-      "적용",
-      "접속",
-      "제한"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "useful_info",
-    "title": "우리은행, 연말까지 '환전주머니' 이용 시 해외 데이터 1GB 무료 제공",
-    "tokens": [
-      "1gb",
-      "데이터",
-      "무료",
-      "연말까지",
-      "우리은행",
-      "이용",
-      "제공",
-      "해외",
-      "환전주머니"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "smallbiz_money",
-    "title": "\"소상공인 이차보전금 지원사업 접수\"…내달 1일까지 등[예산소식]",
-    "tokens": [
-      "1일까지",
-      "내달",
-      "소상공인",
-      "예산소식",
-      "이차보전금",
-      "접수",
-      "지원사업"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "sns_growth",
-    "title": "\"이용자 '래빗홀' 빠뜨려\"…EU, 틱톡 알고리즘에 칼 뺐다",
-    "tokens": [
-      "eu",
-      "래빗홀",
-      "빠뜨려",
-      "뺐다",
-      "알고리즘에",
-      "이용자",
-      "틱톡"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "loan",
-    "title": "주담대 금리 인상에 열린 전세 시대…울산 최초 CR리츠 ‘신천매곡 유보라’",
-    "tokens": [
-      "cr리츠",
-      "금리",
-      "시대",
-      "신천매곡",
-      "열린",
-      "울산",
-      "유보라",
-      "인상에",
-      "전세",
-      "주담대",
-      "최초"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "policy",
-    "title": "양양군 2027년 청년어촌정착지원사업 대상자 모집 > 뉴스데스크",
-    "tokens": [
-      "2027년",
-      "뉴스데스크",
-      "대상자",
-      "모집",
-      "양양군",
-      "청년어촌정착지원사업"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "loan",
-    "title": "내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51%",
-    "tokens": [
-      "5대은행",
-      "내일부터",
-      "변동금리",
-      "올라",
-      "주담대",
-      "최고"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "loan",
-    "title": "주식은 떨어지고 대출 이자만 오르네…5억 빌렸음 은행에 월 13만원 더 내야 [머니뭐니]",
-    "tokens": [
-      "13만원",
-      "5억",
-      "내야",
-      "대출",
-      "떨어지고",
-      "머니뭐니",
-      "빌렸음",
-      "오르네",
-      "은행에",
-      "이자만",
-      "주식은"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "“고객이탈 막자”… 저축은행 연 4%대 금리 속출",
-    "tokens": [
-      "고객이탈",
-      "금리",
-      "막자",
-      "속출",
-      "저축은행"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "ai_video_tools",
-    "title": "오픈AI, 빠르게 생성하고 편집 강화한 '이미지 2.6' 출시",
-    "tokens": [
-      "강화한",
-      "빠르게",
-      "생성하고",
-      "오픈ai",
-      "이미지",
-      "출시",
-      "편집"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "topic_id": "ai_product_news",
-    "title": "오픈AI, 이미지 생성 AI ‘이미지 2.6’ 출시…속도·편집 기능 강화",
-    "tokens": [
-      "ai",
-      "강화",
-      "생성",
-      "속도",
-      "오픈ai",
-      "이미지",
-      "출시",
-      "편집"
-    ],
-    "date": "2026-11-17"
-  },
-  {
     "topic_id": "openai_official",
     "title": "Introducing GPT-6.2 Astra and Sol",
     "tokens": [
@@ -1451,5 +1196,207 @@
       "확대"
     ],
     "date": "2026-11-24"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "tokens": [
+      "capabilities",
+      "demonstrate",
+      "design",
+      "gpt",
+      "intrinsic",
+      "models",
+      "protein"
+    ],
+    "date": "2026-11-25"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "tokens": [
+      "and",
+      "chatgpt",
+      "clay",
+      "codex",
+      "helps",
+      "sales",
+      "teams",
+      "win",
+      "with"
+    ],
+    "date": "2026-11-25"
+  },
+  {
+    "topic_id": "ai_video_tools",
+    "title": "숨랩스, AI 영상생성 플랫폼 '숨AI' 출시…1달만에 누적 결제액 10억원 - 머니투데이",
+    "tokens": [
+      "10억원",
+      "1달만에",
+      "ai",
+      "결제액",
+      "누적",
+      "머니투데이",
+      "숨ai",
+      "숨랩스",
+      "영상생성",
+      "출시"
+    ],
+    "date": "2026-11-25"
+  },
+  {
+    "topic_id": "reviewer",
+    "title": "MK Pick | 키르시홈, 더블 프릴 모달 차렵이불 SS/Q 화이트 무상 제공 ‘서포터즈 모집’",
+    "tokens": [
+      "mk",
+      "pick",
+      "ss",
+      "더블",
+      "모달",
+      "모집",
+      "무상",
+      "서포터즈",
+      "제공",
+      "차렵이불",
+      "키르시홈",
+      "프릴",
+      "화이트"
+    ],
+    "date": "2026-11-25"
+  },
+  {
+    "topic_id": "loan",
+    "title": "10월 가계대출 금리 연 5% 돌파…주담대는 14년7개월 만에 최고",
+    "tokens": [
+      "10월",
+      "14년7개월",
+      "가계대출",
+      "금리",
+      "돌파",
+      "만에",
+      "주담대는",
+      "최고"
+    ],
+    "date": "2026-11-25"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "예금금리 4% 시대…‘조건 없이 받을 수 있는 금리’ 따로 있다는데",
+    "tokens": [
+      "금리",
+      "따로",
+      "받을",
+      "시대",
+      "없이",
+      "예금금리",
+      "있는",
+      "있다는데",
+      "조건"
+    ],
+    "date": "2026-11-25"
+  },
+  {
+    "topic_id": "ai_video_tools",
+    "title": "모픽, 글로벌 배급 겨냥 AI 더빙 툴 ‘모픽 더빙’ 출시",
+    "tokens": [
+      "ai",
+      "겨냥",
+      "글로벌",
+      "더빙",
+      "모픽",
+      "배급",
+      "출시"
+    ],
+    "date": "2026-11-25"
+  },
+  {
+    "topic_id": "apptech",
+    "title": "페이코로 결제하면 비트코인 쌓인다…빗썸과 리워드 서비스 출시",
+    "tokens": [
+      "결제하면",
+      "리워드",
+      "비트코인",
+      "빗썸과",
+      "쌓인다",
+      "출시",
+      "페이코로"
+    ],
+    "date": "2026-11-25"
+  },
+  {
+    "topic_id": "ai_agents",
+    "title": "RSA, AI 에이전트 신원 보안 플랫폼 ‘RSA Agent ID’ 국내 출시",
+    "tokens": [
+      "agent",
+      "ai",
+      "id",
+      "rsa",
+      "국내",
+      "보안",
+      "신원",
+      "에이전트",
+      "출시"
+    ],
+    "date": "2026-11-25"
+  },
+  {
+    "topic_id": "ai_image_tools",
+    "title": "AI 얼마나 똑똑해졌길래…오픈AI·앤트로픽 직원들 \"출시 안 돼\" [IT썰] - 머니투데이",
+    "tokens": [
+      "ai",
+      "it썰",
+      "똑똑해졌길래",
+      "머니투데이",
+      "앤트로픽",
+      "얼마나",
+      "오픈ai",
+      "직원들",
+      "출시"
+    ],
+    "date": "2026-11-25"
+  },
+  {
+    "topic_id": "ai_product_news",
+    "title": "모픽, AI 더빙 기능 '모픽 더빙' 출시..., 인물 간 겹치는 대사도 동시 처리",
+    "tokens": [
+      "ai",
+      "겹치는",
+      "대사도",
+      "더빙",
+      "동시",
+      "모픽",
+      "인물",
+      "처리",
+      "출시"
+    ],
+    "date": "2026-11-25"
+  },
+  {
+    "topic_id": "loan",
+    "title": "코픽스 두 달 새 0.44%p 뛰어…\"변동형 주담대 금리 오른다\" - 머니투데이",
+    "tokens": [
+      "금리",
+      "뛰어",
+      "머니투데이",
+      "변동형",
+      "오른다",
+      "주담대",
+      "코픽스"
+    ],
+    "date": "2026-11-25"
+  },
+  {
+    "topic_id": "platform",
+    "title": "\"크리에이터 영상으로 시장 장악\"…유튜브가 뒤집은 미디어판",
+    "tokens": [
+      "뒤집은",
+      "미디어판",
+      "시장",
+      "영상으로",
+      "유튜브가",
+      "장악",
+      "크리에이터"
+    ],
+    "date": "2026-11-25"
   }
 ]
