@@ -1,246 +1,6 @@
 [
   {
     "topic_id": "openai_official",
-    "title": "Introducing GPT-6.2 Astra and Sol",
-    "tokens": [
-      "and",
-      "astra",
-      "gpt",
-      "introducing",
-      "sol"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "Introducing ChatGPT for Sales",
-    "tokens": [
-      "chatgpt",
-      "for",
-      "introducing",
-      "sales"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "reviewer",
-    "title": "철강협회, 대학생 철강 홍보 서포터즈 '철크크' 모집",
-    "tokens": [
-      "대학생",
-      "모집",
-      "서포터즈",
-      "철강",
-      "철강협회",
-      "철크크",
-      "홍보"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "ChatGPT Ads increases its market presence in 44 countries",
-    "tokens": [
-      "ads",
-      "chatgpt",
-      "countries",
-      "in",
-      "increases",
-      "its",
-      "market",
-      "presence"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "ai_image_tools",
-    "title": "오픈AI, GPT-6.2 아스트라·솔 출시…API 가격 최대 20% 인하",
-    "tokens": [
-      "api",
-      "gpt",
-      "가격",
-      "아스트라",
-      "오픈ai",
-      "인하",
-      "최대",
-      "출시"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "sns_growth",
-    "title": "유튜브 조회수 집계 바뀐다…TV 함께 본 시청자까지 반영",
-    "tokens": [
-      "tv",
-      "바뀐다",
-      "반영",
-      "시청자까지",
-      "유튜브",
-      "조회수",
-      "집계",
-      "함께"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "증시 폭락에 '금리 노마드족' 분주…이자 0.1%p 차이에 자금 이동",
-    "tokens": [
-      "금리",
-      "노마드족",
-      "분주",
-      "이동",
-      "이자",
-      "자금",
-      "증시",
-      "차이에",
-      "폭락에"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "benefit",
-    "title": "[르포] \"고물가에 계란 한 판도 부담\"…강릉 민생지원금 10만원 신청 첫날",
-    "tokens": [
-      "10만원",
-      "강릉",
-      "계란",
-      "고물가에",
-      "르포",
-      "민생지원금",
-      "부담",
-      "첫날",
-      "판도"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "ai_creator",
-    "title": "\"AI 에이전트가 쉐도AI 찾고 모의해킹도\"...AI스페라, 'AITEM' 출시",
-    "tokens": [
-      "ai",
-      "aitem",
-      "ai스페라",
-      "모의해킹도",
-      "쉐도ai",
-      "에이전트가",
-      "찾고",
-      "출시"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "apptech",
-    "title": "케이뱅크, 앱테크 '만보기' 서비스 출시",
-    "tokens": [
-      "만보기",
-      "앱테크",
-      "출시",
-      "케이뱅크"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "ai_creator",
-    "title": "AWS, 수천 개 AI 에이전트가 개발한 ‘AWS 에뮬레이터’ 출시",
-    "tokens": [
-      "ai",
-      "aws",
-      "개발한",
-      "수천",
-      "에뮬레이터",
-      "에이전트가",
-      "출시"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "ai_video_tools",
-    "title": "모픽AI, 콘텐츠 제작·협업 강화한 ‘아티팩트’ 출시",
-    "tokens": [
-      "강화한",
-      "모픽ai",
-      "아티팩트",
-      "제작",
-      "출시",
-      "콘텐츠",
-      "협업"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "sns_growth",
-    "title": "EU발 '틱톡 알고리즘' 규제…韓 산업·정치도 변화 압력 커지나",
-    "tokens": [
-      "eu발",
-      "규제",
-      "변화",
-      "산업",
-      "알고리즘",
-      "압력",
-      "정치도",
-      "커지나",
-      "틱톡"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "tiktok_metrics",
-    "title": "\"이용자 '래빗홀' 빠뜨려\"…EU, 틱톡 알고리즘에 칼 뺐다",
-    "tokens": [
-      "eu",
-      "래빗홀",
-      "빠뜨려",
-      "뺐다",
-      "알고리즘에",
-      "이용자",
-      "틱톡"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "platform",
-    "title": "네이버, 크리에이터·팬 잇는 ‘크리에이터 카페’ 선봬…치지직·팬카페 연동",
-    "tokens": [
-      "네이버",
-      "선봬",
-      "연동",
-      "잇는",
-      "치지직",
-      "카페",
-      "크리에이터",
-      "팬카페"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "deposit",
-    "title": "\"예금금리 오르니 대출금리 뛴다\"…'영끌족' 이자 부담 가중",
-    "tokens": [
-      "가중",
-      "대출금리",
-      "뛴다",
-      "부담",
-      "영끌족",
-      "예금금리",
-      "오르니",
-      "이자"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "apptech",
-    "title": "케이뱅크, 걷기로 포인트 적립하는 서비스 출시",
-    "tokens": [
-      "걷기로",
-      "적립하는",
-      "출시",
-      "케이뱅크",
-      "포인트"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "topic_id": "openai_official",
     "title": "Inside the Codex sandbox",
     "tokens": [
       "codex",
@@ -1398,5 +1158,353 @@
       "크리에이터"
     ],
     "date": "2026-11-25"
+  },
+  {
+    "topic_id": "youtube_analytics_official",
+    "title": "Starting November 16, 2026, YouTube will include co-views (multiple people watching together on a television screen) in public view counts and watch time across all video formats:",
+    "tokens": [
+      "across",
+      "all",
+      "and",
+      "co",
+      "counts",
+      "formats",
+      "in",
+      "include",
+      "multiple",
+      "november",
+      "on",
+      "people",
+      "public",
+      "screen",
+      "starting",
+      "television",
+      "time",
+      "together",
+      "video",
+      "view",
+      "views",
+      "watch",
+      "watching",
+      "will",
+      "youtube"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "loan",
+    "title": "기준금리 인상 : 3.25%로 올랐어요, 내 대출 이자는 얼마나 오를까요",
+    "tokens": [
+      "기준금리",
+      "대출",
+      "얼마나",
+      "오를까요",
+      "올랐어요",
+      "이자는",
+      "인상"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "tokens": [
+      "care",
+      "chatgpt",
+      "for",
+      "forward",
+      "healthcare",
+      "more",
+      "move",
+      "to",
+      "ways",
+      "with"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "은행 돈 활용한 '금리 10%' 저축은행 대출 출시… 금융권 건전성 규제도 완화",
+    "tokens": [
+      "건전성",
+      "규제도",
+      "금리",
+      "금융권",
+      "대출",
+      "완화",
+      "은행",
+      "저축은행",
+      "출시",
+      "활용한"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "creator_commerce",
+    "title": "LF몰, 크리에이터 제휴 마케팅 성과…신규 가입자 13배로 늘어",
+    "tokens": [
+      "13배로",
+      "lf몰",
+      "가입자",
+      "늘어",
+      "마케팅",
+      "성과",
+      "신규",
+      "제휴",
+      "크리에이터"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "“저축은행 대출금리 3~5%p 낮춘다”…금융위, 은행·저축은행 공동대출 추진",
+    "tokens": [
+      "공동대출",
+      "금융위",
+      "낮춘다",
+      "대출금리",
+      "은행",
+      "저축은행",
+      "추진"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "creator_commerce",
+    "title": "[스타트UP] 크리에이터·브랜드 협업도 AI로…크픽, 매칭부터 정산까지 자동화",
+    "tokens": [
+      "ai로",
+      "매칭부터",
+      "브랜드",
+      "스타트up",
+      "자동화",
+      "정산까지",
+      "크리에이터",
+      "크픽",
+      "협업도"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "creator_ambassador",
+    "title": "MK Pick | 키르시홈, 더블 프릴 모달 차렵이불 SS/Q 화이트 무상 제공 ‘서포터즈 모집’",
+    "tokens": [
+      "mk",
+      "pick",
+      "ss",
+      "더블",
+      "모달",
+      "모집",
+      "무상",
+      "서포터즈",
+      "제공",
+      "차렵이불",
+      "키르시홈",
+      "프릴",
+      "화이트"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "ai_video_tools",
+    "title": "AI 영상 플랫폼 숨AI, 출시 한 달 만에 누적결제 10억 돌파",
+    "tokens": [
+      "10억",
+      "ai",
+      "누적결제",
+      "돌파",
+      "만에",
+      "숨ai",
+      "영상",
+      "출시"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "ai_image_tools",
+    "title": "출시 한달만에 10억원… 美 이용자가 먼저 찾은 韓 AI 영상툴 [이번주 스타트UP]",
+    "tokens": [
+      "10억원",
+      "ai",
+      "먼저",
+      "스타트up",
+      "영상툴",
+      "이번주",
+      "이용자가",
+      "찾은",
+      "출시",
+      "한달만에"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "ai_image_tools",
+    "title": "숨랩스, AI 영상생성 플랫폼 '숨AI' 출시…1달만에 누적 결제액 10억원 - 머니투데이",
+    "tokens": [
+      "10억원",
+      "1달만에",
+      "ai",
+      "결제액",
+      "누적",
+      "머니투데이",
+      "숨ai",
+      "숨랩스",
+      "영상생성",
+      "출시"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "useful_info",
+    "title": "[AIx소프트웨이브 2026] 미리내에이아이, 기업용 AX 솔루션 무료 공개… “AI로 업무시스템 구축부터 자동화까지”",
+    "tokens": [
+      "aix소프트웨이브",
+      "ai로",
+      "ax",
+      "구축부터",
+      "기업용",
+      "무료",
+      "미리내에이아이",
+      "솔루션",
+      "업무시스템",
+      "자동화까지"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "ai_video_tools",
+    "title": "日 사카나AI, 300억 매개변수 추론 모델 '나마즈 스몰' 공개",
+    "tokens": [
+      "300억",
+      "나마즈",
+      "매개변수",
+      "모델",
+      "사카나ai",
+      "스몰",
+      "추론"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "ai_image_tools",
+    "title": "“AI 모델 공개했지만 한국은 쓰지 마라”…中 바이두가 던진 AI 주권 경고",
+    "tokens": [
+      "ai",
+      "경고",
+      "공개했지만",
+      "던진",
+      "마라",
+      "모델",
+      "바이두가",
+      "쓰지",
+      "주권",
+      "한국은"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "ai_product_news",
+    "title": "공정위, 애플 '시리' AI기능 지연…부당광고 혐의 심의 착수",
+    "tokens": [
+      "ai기능",
+      "공정위",
+      "부당광고",
+      "시리",
+      "심의",
+      "애플",
+      "지연",
+      "착수",
+      "혐의"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "저축은행 대출금리 낮추고 외국인 카드 문턱도 낮춘다",
+    "tokens": [
+      "낮추고",
+      "낮춘다",
+      "대출금리",
+      "문턱도",
+      "외국인",
+      "저축은행",
+      "카드"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "useful_info",
+    "title": "우리은행, 연말까지 '환전주머니' 이용 시 해외 데이터 1GB 무료 제공",
+    "tokens": [
+      "1gb",
+      "데이터",
+      "무료",
+      "연말까지",
+      "우리은행",
+      "이용",
+      "제공",
+      "해외",
+      "환전주머니"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "loan",
+    "title": "대출금리 더 오른다…주식 손실, 이자 부담에 영끌·빚투족 비명",
+    "tokens": [
+      "대출금리",
+      "부담에",
+      "비명",
+      "빚투족",
+      "손실",
+      "영끌",
+      "오른다",
+      "이자",
+      "주식"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "loan",
+    "title": "금리 또 뛰었다…10년 고정형 주담대 주문에 은행권 ‘고심’",
+    "tokens": [
+      "10년",
+      "고심",
+      "고정형",
+      "금리",
+      "뛰었다",
+      "은행권",
+      "주담대",
+      "주문에"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "policy",
+    "title": "남해군, 2027년 청년어촌정착지원 사업 신청자 모집",
+    "tokens": [
+      "2027년",
+      "남해군",
+      "모집",
+      "사업",
+      "신청자",
+      "청년어촌정착지원"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "topic_id": "youtube_shop_affiliate",
+    "title": "\"릴스에서 아마존 상품 판다\"…인스타그램, 쇼핑 수익화 확대",
+    "tokens": [
+      "릴스에서",
+      "상품",
+      "쇼핑",
+      "수익화",
+      "아마존",
+      "인스타그램",
+      "판다",
+      "확대"
+    ],
+    "date": "2026-11-26"
   }
 ]
