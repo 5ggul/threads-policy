@@ -1,42 +1,6 @@
 [
   {
     "topic_id": "openai_official",
-    "title": "Explore the Codex Security Plugin",
-    "tokens": [
-      "codex",
-      "explore",
-      "plugin",
-      "security",
-      "the"
-    ],
-    "date": "2026-11-20"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "ChatGPT Plus for veterans and servicemembers",
-    "tokens": [
-      "and",
-      "chatgpt",
-      "for",
-      "plus",
-      "servicemembers",
-      "veterans"
-    ],
-    "date": "2026-11-20"
-  },
-  {
-    "topic_id": "openai_official",
-    "title": "Introducing Businesses in ChatGPT",
-    "tokens": [
-      "businesses",
-      "chatgpt",
-      "in",
-      "introducing"
-    ],
-    "date": "2026-11-20"
-  },
-  {
-    "topic_id": "openai_official",
     "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
     "tokens": [
       "astra",
@@ -1501,5 +1465,203 @@
       "피지컬"
     ],
     "date": "2026-11-27"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "Inside the Codex sandbox",
+    "tokens": [
+      "codex",
+      "inside",
+      "sandbox",
+      "the"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "openai_official",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "tokens": [
+      "and",
+      "bring",
+      "chatgpt",
+      "figaro",
+      "groupe",
+      "journalism",
+      "le",
+      "openai",
+      "partner",
+      "to"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "benefit",
+    "title": "강릉시 민생안정지원금 약 14만 명 수령, 신청률 70％ 돌파",
+    "tokens": [
+      "14만",
+      "강릉시",
+      "돌파",
+      "민생안정지원금",
+      "수령",
+      "신청률"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "tax_refund",
+    "title": "[마이더스] 연말정산, 환급 아닌 점검의 시간",
+    "tokens": [
+      "마이더스",
+      "시간",
+      "아닌",
+      "연말정산",
+      "점검의",
+      "환급"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "loan",
+    "title": "[돈MORE]연말 특판예금 기대…대출은 금리·한도 따져봐야",
+    "tokens": [
+      "금리",
+      "기대",
+      "대출은",
+      "돈more",
+      "따져봐야",
+      "연말",
+      "특판예금",
+      "한도"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "platform",
+    "title": "\"내부망에서 정책 포스터·카드뉴스 뚝딱\"…네이버클라우드, 행정망 AI 이미지 생성 도입",
+    "tokens": [
+      "ai",
+      "내부망에서",
+      "네이버클라우드",
+      "도입",
+      "뚝딱",
+      "생성",
+      "이미지",
+      "정책",
+      "카드뉴스",
+      "포스터",
+      "행정망"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "loan",
+    "title": "5% 대출금리 시대 열렸다… 주담대 15년만에 최고",
+    "tokens": [
+      "15년만에",
+      "대출금리",
+      "시대",
+      "열렸다",
+      "주담대",
+      "최고"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "저축은행 6개월 예금금리 연 3.11%…1년11개월 만 최고",
+    "tokens": [
+      "1년11개월",
+      "6개월",
+      "예금금리",
+      "저축은행",
+      "최고"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "sns_growth",
+    "title": "유튜브 조회수 집계 바뀐다…TV 함께 본 시청자까지 반영",
+    "tokens": [
+      "tv",
+      "바뀐다",
+      "반영",
+      "시청자까지",
+      "유튜브",
+      "조회수",
+      "집계",
+      "함께"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "platform",
+    "title": "행정망서 AI로 포스터 제작…네이버클라우드, 공공 AI 기능 확대",
+    "tokens": [
+      "ai",
+      "ai로",
+      "공공",
+      "네이버클라우드",
+      "제작",
+      "포스터",
+      "행정망서",
+      "확대"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "platform",
+    "title": "네이버·어반플레이, ‘AI BIZ 크리에이터 스쿨’ 성과공유회 개최",
+    "tokens": [
+      "ai",
+      "biz",
+      "개최",
+      "네이버",
+      "성과공유회",
+      "스쿨",
+      "어반플레이",
+      "크리에이터"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "ai_agents",
+    "title": "챗GPT가 결제까지 대신한다…오픈AI, 'AI 지갑' 출시",
+    "tokens": [
+      "ai",
+      "결제까지",
+      "대신한다",
+      "오픈ai",
+      "지갑",
+      "챗gpt가",
+      "출시"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "apptech",
+    "title": "케이뱅크, 앱테크 '만보기' 출시…걸으면 현금전환 포인트",
+    "tokens": [
+      "걸으면",
+      "만보기",
+      "앱테크",
+      "출시",
+      "케이뱅크",
+      "포인트",
+      "현금전환"
+    ],
+    "date": "2026-11-28"
+  },
+  {
+    "topic_id": "deposit",
+    "title": "[이슈픽5] 예금금리 4%대 귀환···강남 증여 25% 증가",
+    "tokens": [
+      "강남",
+      "귀환",
+      "예금금리",
+      "이슈픽5",
+      "증가",
+      "증여"
+    ],
+    "date": "2026-11-28"
   }
 ]
